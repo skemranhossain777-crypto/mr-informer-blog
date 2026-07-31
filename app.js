@@ -644,18 +644,18 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  if (navAdminBtn) {
-    navAdminBtn.addEventListener("click", (e) => {
+  // SECRET SHORTCUT ACCESS FOR OWNER (Zero visible buttons on public site)
+  // 1. Keyboard Shortcut: Press Ctrl + Shift + A anywhere on the site
+  document.addEventListener("keydown", (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.shiftKey && (e.key === "A" || e.key === "a")) {
       e.preventDefault();
       triggerAdminAuthCheck();
-    });
-  }
+    }
+  });
 
-  if (openAdminBtn) {
-    openAdminBtn.addEventListener("click", (e) => {
-      e.preventDefault();
-      triggerAdminAuthCheck();
-    });
+  // 2. Secret URL Hash: Load page with #admin (e.g., yoursite.com/#admin)
+  if (window.location.hash === "#admin" || window.location.search.includes("admin=true")) {
+    setTimeout(triggerAdminAuthCheck, 300);
   }
 
   if (closeAdminLoginBtn) {

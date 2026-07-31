@@ -3,8 +3,8 @@
 // ==========================================================================
 
 const SUPABASE_CONFIG = {
-  url: window.ENV_SUPABASE_URL || "",
-  anonKey: window.ENV_SUPABASE_ANON_KEY || ""
+  url: window.ENV_SUPABASE_URL || "https://vtzquvzpyqzyhpjitjnl.supabase.co",
+  anonKey: window.ENV_SUPABASE_ANON_KEY || "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ0enF1dnpweXF6eWhwaml0am5sIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODU1MDYzNDgsImV4cCI6MjEwMTA4MjM0OH0.WCaWp7Mccjm1ooXnz10fYTCLvFXJoD5Rp5sEF7Wj0Tg"
 };
 
 async function fetchArticlesFromSupabase() {

@@ -3,14 +3,6 @@
 // ==========================================================================
 
 document.addEventListener("DOMContentLoaded", () => {
-  // DOMContentLoaded Initialization
-  if (typeof window.initCloudSupabaseSync === "function") {
-    window.initCloudSupabaseSync((cloudData) => {
-      articles = cloudData;
-      renderHero();
-      renderArticles();
-    });
-  }
   // State Variables
   let articles = typeof ARTICLES_DATA !== 'undefined' ? ARTICLES_DATA : [];
   let activeCategory = "All";
@@ -78,6 +70,19 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(fetchArticles, 15000);
 
   function fetchArticles() {
+    // 1. Try Supabase Cloud Sync if configured
+    if (typeof window.initCloudSupabaseSync === "function") {
+      window.initCloudSupabaseSync((cloudData) => {
+        if (Array.isArray(cloudData) && cloudData.length > 0) {
+          articles = cloudData;
+          updateSavedCount();
+          if (typeof renderHero === "function") renderHero();
+          if (typeof renderArticles === "function") renderArticles();
+        }
+      });
+    }
+
+    // 2. Fetch local articles.json with fallback to ARTICLES_DATA
     fetch("articles.json?t=" + new Date().getTime())
       .then(res => res.json())
       .then(data => {
@@ -116,14 +121,17 @@ document.addEventListener("DOMContentLoaded", () => {
             seenIds.add(a.id);
             return true;
           });
-
-          updateSavedCount();
-          renderHero();
-          renderArticles();
+        } else {
+          articles = typeof ARTICLES_DATA !== 'undefined' ? ARTICLES_DATA : [];
         }
+
+        updateSavedCount();
+        renderHero();
+        renderArticles();
       })
       .catch(err => {
         console.log("Using static articles dataset fallback.", err);
+        articles = typeof ARTICLES_DATA !== 'undefined' ? ARTICLES_DATA : [];
         updateSavedCount();
         renderHero();
         renderArticles();

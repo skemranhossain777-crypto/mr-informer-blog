@@ -623,10 +623,12 @@ document.addEventListener("DOMContentLoaded", () => {
   const cmsCancelEditBtn = document.getElementById("cmsCancelEditBtn");
   const cmsSubmitBtn = document.getElementById("cmsSubmitBtn");
 
-  // Admin Access Key (Default: informer2026)
-  const MASTER_ADMIN_KEY = "informer2026";
+  // Master Admin Credentials
+  const MASTER_ADMIN_USER = "admin";
+  const MASTER_ADMIN_PASS = "informer2026";
 
-  const navAdminBtn = document.getElementById("navAdminBtn");
+  const adminUsernameInput = document.getElementById("adminUsernameInput");
+  const adminPasswordInput = document.getElementById("adminPasswordInput");
   const adminLoginAlert = document.getElementById("adminLoginAlert");
   const cmsLogoutBtn = document.getElementById("cmsLogoutBtn");
 
@@ -635,25 +637,20 @@ document.addEventListener("DOMContentLoaded", () => {
       openCmsDashboard();
     } else {
       if (adminLoginAlert) adminLoginAlert.style.display = "none";
+      if (adminUsernameInput) {
+        adminUsernameInput.value = "";
+        adminUsernameInput.style.borderColor = "";
+      }
       if (adminPasswordInput) {
         adminPasswordInput.value = "";
         adminPasswordInput.style.borderColor = "";
       }
       adminLoginModal.classList.add("active");
-      if (adminPasswordInput) setTimeout(() => adminPasswordInput.focus(), 150);
+      if (adminUsernameInput) setTimeout(() => adminUsernameInput.focus(), 150);
     }
   }
 
-  // SECRET SHORTCUT ACCESS FOR OWNER (Zero visible buttons on public site)
-  // 1. Keyboard Shortcut: Press Ctrl + Shift + A anywhere on the site
-  document.addEventListener("keydown", (e) => {
-    if ((e.ctrlKey || e.metaKey) && e.shiftKey && (e.key === "A" || e.key === "a")) {
-      e.preventDefault();
-      triggerAdminAuthCheck();
-    }
-  });
-
-  // 2. Secret URL Hash: Load page with #admin (e.g., yoursite.com/#admin)
+  // Secret URL Hash Access: Load page with #admin (e.g., yoursite.com/#admin)
   if (window.location.hash === "#admin" || window.location.search.includes("admin=true")) {
     setTimeout(triggerAdminAuthCheck, 300);
   }
@@ -665,18 +662,23 @@ document.addEventListener("DOMContentLoaded", () => {
   if (adminLoginForm) {
     adminLoginForm.addEventListener("submit", (e) => {
       e.preventDefault();
-      const val = adminPasswordInput.value.trim();
-      if (val === MASTER_ADMIN_KEY || val === "admin") {
+      const enteredUser = adminUsernameInput ? adminUsernameInput.value.trim() : "";
+      const enteredPass = adminPasswordInput ? adminPasswordInput.value.trim() : "";
+
+      if (
+        (enteredUser === MASTER_ADMIN_USER || enteredUser.toLowerCase() === "admin") &&
+        (enteredPass === MASTER_ADMIN_PASS || enteredPass === "informer2026")
+      ) {
         sessionStorage.setItem("mr_informer_admin", "true");
-        adminPasswordInput.value = "";
-        if (adminPasswordInput) adminPasswordInput.style.borderColor = "";
+        if (adminUsernameInput) adminUsernameInput.value = "";
+        if (adminPasswordInput) adminPasswordInput.value = "";
         if (adminLoginAlert) adminLoginAlert.style.display = "none";
         adminLoginModal.classList.remove("active");
         showToastNotification("🟢 Admin Authenticated Successfully! Welcome Mr. Informer.");
         openCmsDashboard();
       } else {
         if (adminLoginAlert) {
-          adminLoginAlert.textContent = "❌ Access Denied: Invalid Master Admin Access Key!";
+          adminLoginAlert.textContent = "❌ Access Denied: Invalid Admin Username or Password!";
           adminLoginAlert.style.display = "block";
         }
         if (adminPasswordInput) {

@@ -324,8 +324,13 @@
         Authorized Mr. Informer editorial access only. Enter your master access key.
       </p>
       <form id="adminLoginForm">
-        <div class="form-group">
-          <input type="password" id="adminPasswordInput" class="form-input" placeholder="Enter Master Admin Access Key..." required>
+        <div class="form-group" style="margin-bottom: 12px;">
+          <label style="font-size: 0.8rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 4px; display: block;">Admin Username</label>
+          <input type="text" id="adminUsernameInput" class="form-input" placeholder="Enter Admin Username..." required>
+        </div>
+        <div class="form-group" style="margin-bottom: 16px;">
+          <label style="font-size: 0.8rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 4px; display: block;">Admin Password</label>
+          <input type="password" id="adminPasswordInput" class="form-input" placeholder="Enter Admin Password..." required>
         </div>
         <div id="adminLoginAlert" style="display: none; padding: 10px; margin-bottom: 14px; background: rgba(244, 63, 94, 0.12); border: 1px solid rgba(244, 63, 94, 0.4); border-radius: 8px; color: #f43f5e; font-size: 0.84rem; font-weight: 600; text-align: center;"></div>
         <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center;">

@@ -364,6 +364,7 @@
         <button class="cms-tab-btn" data-tab="cmsTabSections">🧩 Custom Sections</button>
         <button class="cms-tab-btn" data-tab="cmsTabAutomation">⚡ RSS Automation</button>
         <button class="cms-tab-btn" data-tab="cmsTabTips">📩 Inbox (<span id="cmsTipCount">0</span>)</button>
+        <button class="cms-tab-btn" data-tab="cmsTabSubscribers">📬 Subscribers (<span id="cmsSubscriberCount">0</span>)</button>
       </div>
 
       <!-- Tab 1: Articles List -->
@@ -636,6 +637,36 @@ https://hnrss.org/newest?points=100</textarea>
       <div class="cms-tab-content" id="cmsTabTips">
         <div id="cmsTipsList">
           <!-- Rendered dynamically -->
+        </div>
+      </div>
+
+      <!-- Tab 8: Subscribers CRM -->
+      <div class="cms-tab-content" id="cmsTabSubscribers">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px;">
+          <div>
+            <h4 style="color: var(--accent-blue); margin-bottom: 4px;">📬 Newsletter Subscribers CRM</h4>
+            <p style="font-size: 0.82rem; color: var(--text-muted);">Manage email subscribers, track signup channels, and export email marketing lists.</p>
+          </div>
+          <div style="display: flex; gap: 10px;">
+            <button id="cmsExportSubscribersCsvBtn" class="btn btn-secondary" style="padding: 6px 14px; font-size: 0.82rem;">📊 Export CSV</button>
+            <button id="cmsExportSubscribersJsonBtn" class="btn btn-primary" style="padding: 6px 14px; font-size: 0.82rem;">💾 Export JSON</button>
+          </div>
+        </div>
+
+        <div class="cms-table-wrapper">
+          <table class="cms-table">
+            <thead>
+              <tr>
+                <th>Email Address</th>
+                <th>Source Channel</th>
+                <th>Status</th>
+                <th>Subscribed Date</th>
+              </tr>
+            </thead>
+            <tbody id="cmsSubscribersTableBody">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
         </div>
       </div>
     </div>

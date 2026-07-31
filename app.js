@@ -561,14 +561,49 @@ document.addEventListener("DOMContentLoaded", () => {
   // ==========================================
   // 7. Modals: Newsletter & Encrypted Tip
   // ==========================================
-  openNewsletterBtn.addEventListener("click", () => newsletterModal.classList.add("active"));
-  closeNewsletterBtn.addEventListener("click", () => newsletterModal.classList.remove("active"));
+  if (openNewsletterBtn) openNewsletterBtn.addEventListener("click", () => newsletterModal.classList.add("active"));
+  if (closeNewsletterBtn) closeNewsletterBtn.addEventListener("click", () => newsletterModal.classList.remove("active"));
   if (footerIntelLink) footerIntelLink.addEventListener("click", (e) => { e.preventDefault(); newsletterModal.classList.add("active"); });
 
-  newsletterForm.addEventListener("submit", (e) => {
+  // Auto Popup Newsletter modal after 6s if not already subscribed
+  if (!localStorage.getItem("mr_informer_subscribed")) {
+    setTimeout(() => {
+      if (newsletterModal && !newsletterModal.classList.contains("active") && 
+          !adminLoginModal.classList.contains("active") && 
+          !cmsDashboardModal.classList.contains("active")) {
+        newsletterModal.classList.add("active");
+      }
+    }, 6000);
+  }
+
+  newsletterForm.addEventListener("submit", async (e) => {
     e.preventDefault();
-    alert("Success! You are now subscribed to the Mr. Informer Intel Dispatch.");
+    const emailInput = newsletterForm.querySelector("input[type='email']");
+    const email = emailInput ? emailInput.value.trim() : "";
+    if (!email) return;
+
+    // 1. Save to Supabase Cloud Subscribers CRM table
+    if (typeof window.addSubscriberToSupabase === "function") {
+      await window.addSubscriberToSupabase(email, "Website Popup Modal");
+    }
+
+    // 2. Save locally as CRM fallback
+    const localSubs = JSON.parse(localStorage.getItem("mr_informer_subscribers")) || [];
+    if (!localSubs.some(s => s.email === email)) {
+      localSubs.unshift({
+        email: email,
+        source: "Website Popup Modal",
+        status: "active",
+        created_at: new Date().toISOString()
+      });
+      localStorage.setItem("mr_informer_subscribers", JSON.stringify(localSubs));
+    }
+    localStorage.setItem("mr_informer_subscribed", "true");
+
+    showToastNotification("🟢 Successfully Subscribed to Mr. Informer Intel Dispatch!");
     newsletterModal.classList.remove("active");
+    if (emailInput) emailInput.value = "";
+    if (typeof renderCmsSubscribers === "function") renderCmsSubscribers();
   });
 
   function openTip() { tipModal.classList.add("active"); }
@@ -710,6 +745,83 @@ document.addEventListener("DOMContentLoaded", () => {
     updateCmsTipCount();
     renderCmsArticlesTable();
     renderCmsTipsInbox();
+    renderCmsSubscribers();
+  }
+
+  const cmsSubscribersTableBody = document.getElementById("cmsSubscribersTableBody");
+  const cmsSubscriberCountEl = document.getElementById("cmsSubscriberCount");
+  const cmsExportSubscribersCsvBtn = document.getElementById("cmsExportSubscribersCsvBtn");
+  const cmsExportSubscribersJsonBtn = document.getElementById("cmsExportSubscribersJsonBtn");
+
+  async function renderCmsSubscribers() {
+    let subscribers = [];
+
+    // Try fetching from Supabase first
+    if (typeof window.fetchSubscribersFromSupabase === "function") {
+      subscribers = await window.fetchSubscribersFromSupabase();
+    }
+
+    // Merge with local fallback subscribers
+    const localSubs = JSON.parse(localStorage.getItem("mr_informer_subscribers")) || [];
+    const existingEmails = new Set((subscribers || []).map(s => s.email));
+    localSubs.forEach(ls => {
+      if (!existingEmails.has(ls.email)) {
+        subscribers.push(ls);
+        existingEmails.add(ls.email);
+      }
+    });
+
+    if (cmsSubscriberCountEl) cmsSubscriberCountEl.textContent = subscribers.length;
+
+    if (!cmsSubscribersTableBody) return;
+
+    if (subscribers.length === 0) {
+      cmsSubscribersTableBody.innerHTML = `
+        <tr>
+          <td colspan="4" style="text-align: center; color: var(--text-muted); padding: 24px;">
+            No subscribers collected yet. High-converting newsletter popup is live on the site!
+          </td>
+        </tr>
+      `;
+      return;
+    }
+
+    cmsSubscribersTableBody.innerHTML = subscribers.map(sub => `
+      <tr>
+        <td style="font-weight: 600; color: var(--accent-blue);">${sub.email}</td>
+        <td><span class="badge" style="background: rgba(56, 189, 248, 0.15); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.3); font-size: 0.74rem;">${sub.source || 'Website Popup'}</span></td>
+        <td><span class="badge" style="background: rgba(16, 185, 129, 0.15); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.3); font-size: 0.74rem;">Active</span></td>
+        <td style="color: var(--text-muted); font-size: 0.82rem;">${new Date(sub.created_at || Date.now()).toLocaleDateString()}</td>
+      </tr>
+    `).join("");
+
+    // Wire Export CSV Button
+    if (cmsExportSubscribersCsvBtn) {
+      cmsExportSubscribersCsvBtn.onclick = () => {
+        const csvHeader = "Email,Source,Status,SubscribedDate\n";
+        const csvRows = subscribers.map(s => `"${s.email}","${s.source || 'Website Popup'}","active","${s.created_at || ''}"`).join("\n");
+        const blob = new Blob([csvHeader + csvRows], { type: "text/csv" });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = `mr_informer_subscribers_${Date.now()}.csv`;
+        a.click();
+        showToastNotification("📊 Newsletter Subscribers CSV Exported Successfully!");
+      };
+    }
+
+    // Wire Export JSON Button
+    if (cmsExportSubscribersJsonBtn) {
+      cmsExportSubscribersJsonBtn.onclick = () => {
+        const blob = new Blob([JSON.stringify(subscribers, null, 2)], { type: "application/json" });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = `mr_informer_subscribers_${Date.now()}.json`;
+        a.click();
+        showToastNotification("💾 Newsletter Subscribers JSON Exported Successfully!");
+      };
+    }
   }
 
   if (closeCmsBtn) {

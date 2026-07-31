@@ -58,3 +58,48 @@ window.initCloudSupabaseSync = async function(onArticlesLoaded) {
     }
   }
 };
+
+// Newsletter Subscriber CRM Cloud Sync
+window.addSubscriberToSupabase = async function(email, source = "Website Popup") {
+  if (!SUPABASE_CONFIG.url || !SUPABASE_CONFIG.anonKey) {
+    return true;
+  }
+  try {
+    const response = await fetch(`${SUPABASE_CONFIG.url}/rest/v1/subscribers`, {
+      method: "POST",
+      headers: {
+        "apikey": SUPABASE_CONFIG.anonKey,
+        "Authorization": `Bearer ${SUPABASE_CONFIG.anonKey}`,
+        "Content-Type": "application/json",
+        "Prefer": "return=minimal"
+      },
+      body: JSON.stringify({
+        email: email.trim().toLowerCase(),
+        source: source
+      })
+    });
+    return response.ok || response.status === 409;
+  } catch (err) {
+    console.warn("⚠️ Failed to save subscriber to Supabase:", err);
+    return false;
+  }
+};
+
+window.fetchSubscribersFromSupabase = async function() {
+  if (!SUPABASE_CONFIG.url || !SUPABASE_CONFIG.anonKey) {
+    return [];
+  }
+  try {
+    const response = await fetch(`${SUPABASE_CONFIG.url}/rest/v1/subscribers?select=*&order=created_at.desc`, {
+      headers: {
+        "apikey": SUPABASE_CONFIG.anonKey,
+        "Authorization": `Bearer ${SUPABASE_CONFIG.anonKey}`
+      }
+    });
+    if (!response.ok) return [];
+    return await response.json();
+  } catch (err) {
+    console.warn("⚠️ Failed to fetch subscribers from Supabase:", err);
+    return [];
+  }
+};

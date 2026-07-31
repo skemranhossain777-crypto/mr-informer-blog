@@ -566,6 +566,44 @@ def generate_mr_informer_article(news_item, existing_articles=None):
     }
     return article
 
+def load_existing_articles():
+    """Load existing articles from articles.json."""
+    if os.path.exists(ARTICLES_JSON_PATH):
+        try:
+            with open(ARTICLES_JSON_PATH, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"[Workflow Error] Failed reading articles.json: {e}")
+    return []
+
+def save_articles(articles):
+    """Save articles list to articles.json and articles.js."""
+    with open(ARTICLES_JSON_PATH, 'w', encoding='utf-8') as f:
+        json.dump(articles, f, indent=2)
+
+    js_content = f"const ARTICLES_DATA = {json.dumps(articles, indent=2)};\n"
+    with open(ARTICLES_JS_PATH, 'w', encoding='utf-8') as f:
+        f.write(js_content)
+
+def fetch_all_rss_feeds():
+    """Fetch breaking tech news items in parallel from configured RSS feeds."""
+    return fetch_rss_items()
+
+def is_duplicate_article(raw_title, existing_articles):
+    """Check if a raw title or synthesized title already exists in existing articles list."""
+    clean_t = re.sub(r' - [^-]+$', '', raw_title).strip()
+    clean_t = re.sub(r' \| [^|]+$', '', clean_t).strip()
+    candidate_title = f"Exclusive Intel: {clean_t}".lower()
+
+    existing_titles_norm = set()
+    for a in existing_articles:
+        t = a.get('title', '').lower().strip()
+        existing_titles_norm.add(t)
+        raw_t = re.sub(r'^exclusive intel:\s*', '', t)
+        existing_titles_norm.add(raw_t)
+
+    return candidate_title in existing_titles_norm or clean_t.lower() in existing_titles_norm
+
 def run_sync():
     """Fetch RSS items, create article, and update articles.json & articles.js."""
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Running automated news search workflow...")
@@ -580,32 +618,11 @@ def run_sync():
             'snippet': 'Next-generation micro-neural models operating on edge relays demonstrate unprecedented real-time data processing speeds.'
         }]
 
-    # Load Existing Articles
-    existing_articles = []
-    if os.path.exists(ARTICLES_JSON_PATH):
-        try:
-            with open(ARTICLES_JSON_PATH, 'r', encoding='utf-8') as f:
-                existing_articles = json.load(f)
-        except Exception as e:
-            print(f"[Workflow Error] Failed reading articles.json: {e}")
-
-    # Strict Zero-Duplicate Protection Check
-    existing_titles_norm = set()
-    for a in existing_articles:
-        t = a.get('title', '').lower().strip()
-        existing_titles_norm.add(t)
-        raw_t = re.sub(r'^exclusive intel:\s*', '', t)
-        existing_titles_norm.add(raw_t)
+    existing_articles = load_existing_articles()
 
     selected_item = None
-
     for item in items:
-        clean_t = re.sub(r' - [^-]+$', '', item['raw_title']).strip()
-        clean_t = re.sub(r' \| [^|]+$', '', clean_t).strip()
-        candidate_title = f"Exclusive Intel: {clean_t}".lower()
-
-        # Verify neither candidate title nor cleaned raw title exists in published history
-        if candidate_title not in existing_titles_norm and clean_t.lower() not in existing_titles_norm:
+        if not is_duplicate_article(item['raw_title'], existing_articles):
             selected_item = item
             break
 
@@ -615,17 +632,8 @@ def run_sync():
 
     new_article = generate_mr_informer_article(selected_item, existing_articles=existing_articles)
 
-    # Prepend new article to dataset
     existing_articles.insert(0, new_article)
-
-    # Save to articles.json
-    with open(ARTICLES_JSON_PATH, 'w', encoding='utf-8') as f:
-        json.dump(existing_articles, f, indent=2)
-
-    # Save to articles.js for static fallback
-    js_content = f"const ARTICLES_DATA = {json.dumps(existing_articles, indent=2)};\n"
-    with open(ARTICLES_JS_PATH, 'w', encoding='utf-8') as f:
-        f.write(js_content)
+    save_articles(existing_articles)
 
     print(f"✅ Published New Article: '{new_article['title']}' ({new_article['category']})")
     return new_article

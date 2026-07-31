@@ -1,0 +1,39 @@
+name: Automated RSS Cloud Ingestion Workflow
+
+on:
+  schedule:
+    # Trigger automatically every 15 minutes
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    # Allows manual one-click trigger from GitHub Actions tab
+
+jobs:
+  ingest-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Run Automated News Ingestion Workflow
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+        run: |
+          python news_workflow_supabase.py
+
+      - name: Commit Updated Local Fallback Files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: automated RSS news ingestion update [skip ci]"
+          file_pattern: "articles.json articles.js"

@@ -3,6 +3,14 @@
 // ==========================================================================
 
 document.addEventListener("DOMContentLoaded", () => {
+  // DOMContentLoaded Initialization
+  if (typeof window.initCloudSupabaseSync === "function") {
+    window.initCloudSupabaseSync((cloudData) => {
+      articles = cloudData;
+      renderHero();
+      renderArticles();
+    });
+  }
   // State Variables
   let articles = typeof ARTICLES_DATA !== 'undefined' ? ARTICLES_DATA : [];
   let activeCategory = "All";

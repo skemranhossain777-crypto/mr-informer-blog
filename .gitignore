@@ -1,0 +1,15 @@
+# Secret Environment & Credentials
+.env
+*.env
+.env.local
+.env.production
+
+# Python artifacts & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Agent Scratch & Temporary Files
+scratch/
+.tempmediaStorage/

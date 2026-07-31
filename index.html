@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mr. Informer | Uncensored Tech Intelligence & Deep Investigations</title>
+  <meta name="description" content="Mr. Informer is a premier investigative tech blog delivering exclusive scoops, AI deep dives, zero-day security reports, and cyber intelligence.">
+  <meta name="keywords" content="Tech Blog, Mr Informer, AI, Cybersecurity, Quantum Computing, Gadgets, Tech Scoops">
+  <meta name="author" content="Mr. Informer">
+
+  <!-- Open Graph / Social Media Meta Tags -->
+  <meta property="og:title" content="Mr. Informer | Uncensored Tech Intelligence">
+  <meta property="og:description" content="Exclusive scoops, AI deep dives, and zero-day security reports.">
+  <meta property="og:image" content="assets/hero_tech_cyber.jpg">
+  <meta property="og:type" content="website">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Ambient Background Glow -->
+  <div class="bg-ambient-glow"></div>
+
+  <!-- Header & Navigation -->
+  <header class="site-header">
+    <div class="container nav-wrapper">
+      <a href="#" class="brand-logo">
+        <div class="logo-badge">MI</div>
+        <div class="brand-title">Mr. Informer <span>Blog</span></div>
+      </a>
+
+      <!-- Search Bar -->
+      <div class="search-container">
+        <svg class="search-icon" width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+        </svg>
+        <input type="text" id="searchInput" class="search-input" placeholder="Search intel briefs, AI, cyber leaks...">
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="nav-actions">
+        <button id="themeToggleBtn" class="btn-icon" title="Toggle Theme">
+          <svg id="themeIcon" width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/>
+          </svg>
+        </button>
+
+        <button id="bookmarkDrawerBtn" class="btn btn-secondary">
+          <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/>
+          </svg>
+          Saved (<span id="savedCount">0</span>)
+        </button>
+
+        <button id="openNewsletterBtn" class="btn btn-primary">
+          <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"/>
+          </svg>
+          Intel Dispatch
+        </button>
+
+        <button id="navAdminBtn" class="btn btn-secondary" style="border-color: rgba(56, 189, 248, 0.4); color: var(--accent-blue);" title="Admin Portal (CMS)">
+          🔑 Admin CMS
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Live Breaking Ticker Bar -->
+  <div class="ticker-wrapper">
+    <div class="container" style="display: flex; align-items: center;">
+      <span class="ticker-label">LIVE SCOOP</span>
+      <div class="ticker-text" id="tickerContent">
+        ⚡ Autonomous AI swarms refactor code in under 90 seconds • ⚡ Quantum 100k qubit chip breaches silicon barrier • ⚡ Edge zero-day mesh exploit patched by DevSecOps teams • ⚡ Spatial neural glasses set to replace smartphones by Q4
+      </div>
+    </div>
+  </div>
+
+  <main class="container">
+    <!-- Custom Announcement Banner Container -->
+    <div id="customBannerContainer"></div>
+
+    <!-- Featured Hero Section -->
+    <section class="hero-section" id="heroSection">
+      <!-- Dynamic Hero Content Rendered via JS -->
+    </section>
+
+    <!-- Category Filters -->
+    <nav class="category-bar" id="categoryBar">
+      <button class="cat-pill active" data-category="All">All Intel</button>
+      <button class="cat-pill" data-category="AI & Future">AI & Future</button>
+      <button class="cat-pill" data-category="Cyber Security">Cyber Security</button>
+      <button class="cat-pill" data-category="Deep Dives">Deep Dives</button>
+      <button class="cat-pill" data-category="Tech Pulse">Tech Pulse</button>
+      <button id="manualSyncBtn" class="btn btn-secondary" style="margin-left: auto; padding: 6px 14px; font-size: 0.82rem; border-color: var(--accent-cyan); color: var(--accent-cyan);" title="Sync News Feeds">🔄 Trigger Instant News Sync</button>
+    </nav>
+
+    <!-- Main Content Layout -->
+    <div class="main-content-layout">
+      <!-- Articles Column -->
+      <section>
+        <div class="articles-grid" id="articlesGrid">
+          <!-- Dynamic Article Cards Rendered via JS -->
+        </div>
+      </section>
+
+      <!-- Sidebar -->
+      <aside class="sidebar">
+        <!-- Author Profile Widget -->
+        <div class="widget author-widget-card">
+          <img src="assets/author_avatar.jpg" alt="Mr. Informer" class="author-widget-avatar">
+          <h3 class="author-widget-name">Mr. Informer</h3>
+          <p class="author-widget-bio">Investigative Tech Analyst & Data Journalist uncovering hidden algorithms, zero-day vulnerabilities, and future hardware.</p>
+          <button id="openTipBtn" class="btn btn-secondary" style="width: 100%; justify-content: center;">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/>
+            </svg>
+            Send Secure Tip (Encrypted)
+          </button>
+        </div>
+
+        <!-- Whistleblower Box -->
+        <div class="widget tip-widget">
+          <h3 class="widget-title tip-widget-title">
+            <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+            Anonymous Whistleblower
+          </h3>
+          <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 14px;">
+            Have inside documentation, unreleased source code, or confidential tech telemetry? Report it completely anonymously.
+          </p>
+          <button id="quickTipSubmitBtn" class="btn btn-primary" style="width: 100%; justify-content: center;">
+            Submit Intel Leak
+          </button>
+        </div>
+
+        <!-- Popular Tags Cloud -->
+        <div class="widget">
+          <h3 class="widget-title">Trending Tags</h3>
+          <div class="tags-cloud" id="tagsCloud">
+            <button class="tag-btn" data-tag="Artificial Intelligence">#ArtificialIntelligence</button>
+            <button class="tag-btn" data-tag="Cyber Security">#CyberSecurity</button>
+            <button class="tag-btn" data-tag="Quantum Computing">#Quantum</button>
+            <button class="tag-btn" data-tag="Deep Learning">#DeepLearning</button>
+            <button class="tag-btn" data-tag="Wearables">#Wearables</button>
+            <button class="tag-btn" data-tag="Automation">#Automation</button>
+            <button class="tag-btn" data-tag="Live Scoop">#LiveScoop</button>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <!-- Full Article Reader Modal -->
+  <div class="reader-modal" id="readerModal">
+    <!-- Top Reading Progress Indicator -->
+    <div class="reading-progress-container">
+      <div class="reading-progress-bar" id="readingProgressBar"></div>
+    </div>
+
+    <button class="close-reader-btn" id="closeReaderBtn" title="Close Article">✕</button>
+
+    <div class="reader-container">
+      <article>
+        <header class="reader-header">
+          <span class="reader-cat" id="readerCategory">AI & Future</span>
+          <h1 class="reader-title" id="readerTitle">Article Title</h1>
+          
+          <div class="hero-meta" style="margin-bottom: 20px;">
+            <span id="readerDate">July 26, 2026</span> • <span id="readerReadTime">6 min read</span> • <span id="readerViews">18.4K Views</span>
+          </div>
+
+          <div class="author-row">
+            <img src="assets/author_avatar.jpg" alt="Mr. Informer" class="author-avatar">
+            <div class="author-info">
+              <h4 id="readerAuthorName">Mr. Informer</h4>
+              <p id="readerAuthorTitle">Chief Investigative Tech Analyst</p>
+            </div>
+          </div>
+        </header>
+
+        <img id="readerHeroImg" src="assets/hero_tech_cyber.jpg" alt="Article Cover" class="reader-hero-img">
+
+        <!-- Audio Player Simulation -->
+        <div class="audio-player-widget">
+          <button class="audio-play-btn" id="audioPlayBtn" title="Listen to Article">▶</button>
+          <div class="audio-info">
+            <div class="audio-title">Audio Brief: Listen to this investigation (Narrated by AI Voice)</div>
+            <div class="audio-wave">
+              <div class="audio-progress" id="audioProgress"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Article Body Content -->
+        <div class="article-body-content" id="readerBody">
+          <!-- Rendered Article Content -->
+        </div>
+
+        <!-- Claps & Shares Bar -->
+        <div class="article-engagement-bar">
+          <button class="clap-button" id="clapBtn">
+            👏 <span id="clapCount">1,420</span> Claps
+          </button>
+          <div style="display: flex; gap: 12px;">
+            <button class="btn btn-secondary" id="readerSaveBtn">🔖 Bookmark</button>
+            <button class="btn btn-secondary" id="shareBtn">🔗 Share Brief</button>
+          </div>
+        </div>
+
+        <!-- Comments Section -->
+        <section class="comments-section">
+          <h3 class="comments-title">Discussion & Insights</h3>
+          <form class="comment-form" id="commentForm">
+            <textarea class="comment-input" id="commentInput" placeholder="Share your technical perspective..." required></textarea>
+            <button type="submit" class="btn btn-primary" style="align-self: flex-end;">Post Comment</button>
+          </form>
+          <div class="comments-list" id="commentsList">
+            <!-- Dynamic Comments -->
+          </div>
+        </section>
+      </article>
+    </div>
+  </div>
+
+  <!-- Newsletter Modal -->
+  <div class="modal-overlay" id="newsletterModal">
+    <div class="modal-box">
+      <button class="close-reader-btn" style="top: 16px; right: 16px;" id="closeNewsletterBtn">✕</button>
+      <h3 class="modal-title">Subscribe to Intel Dispatch</h3>
+      <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 20px;">
+        Get weekly confidential briefings on AI breakthroughs, zero-day vulnerabilities, and tech hardware leaks straight to your inbox.
+      </p>
+      <form id="newsletterForm">
+        <div class="form-group">
+          <input type="email" class="form-input" placeholder="enter your secure email..." required>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center;">
+          Join 45,000+ Tech Insiders
+        </button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Anonymous Tip Modal -->
+  <div class="modal-overlay" id="tipModal">
+    <div class="modal-box">
+      <button class="close-reader-btn" style="top: 16px; right: 16px;" id="closeTipBtn">✕</button>
+      <h3 class="modal-title" style="color: var(--accent-rose);">Encrypted Whistleblower Dropbox</h3>
+      <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 16px;">
+        All submissions are automatically stripped of IP headers and metadata before processing.
+      </p>
+      <form id="tipForm">
+        <div class="form-group">
+          <input type="text" class="form-input" placeholder="Subject / Topic (e.g. AI Leak)..." required>
+        </div>
+        <div class="form-group">
+          <textarea class="form-input" style="min-height: 120px; resize: vertical;" placeholder="Paste confidential notes, leak details, or telemetry..." required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center; background: var(--accent-rose);">
+          Transmit Encrypted Intel
+        </button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div class="footer-col">
+        <a href="#" class="brand-logo" style="margin-bottom: 16px;">
+          <div class="logo-badge">MI</div>
+          <div class="brand-title">Mr. Informer <span>Blog</span></div>
+        </a>
+        <p style="font-size: 0.88rem; color: var(--text-secondary); line-height: 1.6;">
+          Independent tech journalism focused on artificial intelligence, cybersecurity exploits, quantum computing, and future hardware.
+        </p>
+      </div>
+
+      <div class="footer-col">
+        <h4>Navigation</h4>
+        <ul class="footer-links">
+          <li><a href="#" class="cat-pill" data-category="AI & Future">AI & Future</a></li>
+          <li><a href="#" class="cat-pill" data-category="Cyber Security">Cyber Security</a></li>
+          <li><a href="#" class="cat-pill" data-category="Deep Dives">Deep Dives</a></li>
+          <li><a href="#" class="cat-pill" data-category="Tech Pulse">Tech Pulse</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Resources</h4>
+        <ul class="footer-links">
+          <li><a href="#" id="footerTipLink">Whistleblower Dropbox</a></li>
+          <li><a href="#" id="footerIntelLink">Intel Dispatch</a></li>
+          <li><a href="#" id="openAdminBtn">🔑 Admin Portal (CMS)</a></li>
+          <li><a href="#">Security Disclosure</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Connect & Follow</h4>
+        <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 14px;">
+          Stay updated on real-time scoops via encrypted channels and social feeds.
+        </p>
+        <button class="btn btn-secondary" style="width: 100%; justify-content: center;" onclick="alert('Connected to Mr. Informer Verified Channel!')">
+          Follow @MrInformerTech
+        </button>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      &copy; 2026 Mr. Informer Blog. All rights reserved. Built for high-performance tech journalism.
+    </div>
+  </footer>
+
+  <!-- Admin Login Modal -->
+  <div class="modal-overlay" id="adminLoginModal">
+    <div class="modal-box">
+      <button class="close-reader-btn" style="top: 16px; right: 16px;" id="closeAdminLoginBtn">✕</button>
+      <h3 class="modal-title">🔑 Admin & CMS Portal Login</h3>
+      <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 16px;">
+        Authorized Mr. Informer editorial access only. Enter your master access key.
+      </p>
+      <form id="adminLoginForm">
+        <div class="form-group">
+          <input type="password" id="adminPasswordInput" class="form-input" placeholder="Enter Master Admin Access Key..." required>
+        </div>
+        <div id="adminLoginAlert" style="display: none; padding: 10px; margin-bottom: 14px; background: rgba(244, 63, 94, 0.12); border: 1px solid rgba(244, 63, 94, 0.4); border-radius: 8px; color: #f43f5e; font-size: 0.84rem; font-weight: 600; text-align: center;"></div>
+        <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center;">
+          Authenticate Access
+        </button>
+      </form>
+    </div>
+  </div>
+
+  <!-- CMS Dashboard Modal -->
+  <div class="modal-overlay" id="cmsDashboardModal">
+    <div class="cms-modal-box">
+      <div class="cms-header">
+        <div>
+          <h2>⚡ Mr. Informer Editorial CMS Portal</h2>
+          <p style="font-size: 0.85rem; color: var(--text-muted);">Manage articles, publish investigative briefs, view whistleblower tips, and export datasets.</p>
+        </div>
+        <div style="display: flex; gap: 10px; align-items: center;">
+          <button id="cmsExportJsonBtn" class="btn btn-primary" style="padding: 6px 14px; font-size: 0.82rem;">💾 Export articles.json</button>
+          <button id="cmsLogoutBtn" class="btn btn-secondary" style="padding: 6px 14px; font-size: 0.82rem; border-color: rgba(244,63,94,0.4); color: #f43f5e;" title="Lock Admin Portal">🔒 Lock Portal</button>
+          <button class="close-reader-btn" style="position: static;" id="closeCmsBtn">✕</button>
+        </div>
+      </div>
+
+      <!-- CMS Tabs -->
+      <div class="cms-tabs" id="cmsTabs">
+        <button class="cms-tab-btn active" data-tab="cmsTabArticles">📰 Articles</button>
+        <button class="cms-tab-btn" data-tab="cmsTabEditor">✍️ Compose Brief</button>
+        <button class="cms-tab-btn" data-tab="cmsTabBranding">🎨 Site Branding</button>
+        <button class="cms-tab-btn" data-tab="cmsTabGallery">🖼️ Media Gallery</button>
+        <button class="cms-tab-btn" data-tab="cmsTabSections">🧩 Custom Sections</button>
+        <button class="cms-tab-btn" data-tab="cmsTabAutomation">⚡ RSS Automation</button>
+        <button class="cms-tab-btn" data-tab="cmsTabTips">📩 Inbox (<span id="cmsTipCount">0</span>)</button>
+      </div>
+
+      <!-- Tab 1: Articles List -->
+      <div class="cms-tab-content active" id="cmsTabArticles">
+        <div class="cms-table-wrapper">
+          <table class="cms-table">
+            <thead>
+              <tr>
+                <th>Title</th>
+                <th>Category</th>
+                <th>Date</th>
+                <th>Views</th>
+                <th>Claps</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="cmsArticlesTableBody">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Tab 2: Create / Edit Article Editor -->
+      <div class="cms-tab-content" id="cmsTabEditor">
+        <form id="cmsArticleForm">
+          <input type="hidden" id="cmsEditArticleId" value="">
+          <div class="cms-form-grid">
+            <div class="cms-form-group full-width">
+              <label>Article Title *</label>
+              <input type="text" id="cmsTitleInput" class="cms-input" placeholder="e.g. Exclusive Intel: Post-Quantum Security Breakthrough" required>
+            </div>
+
+            <div class="cms-form-group">
+              <label>Category *</label>
+              <select id="cmsCategorySelect" class="cms-select" required>
+                <option value="AI & Future">AI & Future</option>
+                <option value="Cyber Security">Cyber Security</option>
+                <option value="Deep Dives">Deep Dives</option>
+                <option value="Tech Pulse">Tech Pulse</option>
+              </select>
+            </div>
+
+            <div class="cms-form-group">
+              <label>Read Time *</label>
+              <input type="text" id="cmsReadTimeInput" class="cms-input" placeholder="e.g. 5 min read" value="5 min read" required>
+            </div>
+
+            <div class="cms-form-group">
+              <label>Cover Image URL *</label>
+              <select id="cmsImageSelect" class="cms-select">
+                <option value="assets/hero_tech_cyber.jpg">assets/hero_tech_cyber.jpg</option>
+                <option value="assets/article_ai.jpg">assets/article_ai.jpg</option>
+                <option value="assets/article_cyber.jpg">assets/article_cyber.jpg</option>
+                <option value="assets/article_quantum.jpg">assets/article_quantum.jpg</option>
+              </select>
+            </div>
+
+            <div class="cms-form-group">
+              <label>Tags (Comma Separated) *</label>
+              <input type="text" id="cmsTagsInput" class="cms-input" placeholder="e.g. AI & Future, Artificial Intelligence, Automation" required>
+            </div>
+
+            <div class="cms-form-group full-width">
+              <label>Article Summary (Snippet) *</label>
+              <textarea id="cmsSummaryInput" class="cms-textarea" style="min-height: 70px;" placeholder="Brief 1-2 sentence executive summary..." required></textarea>
+            </div>
+
+            <div class="cms-form-group full-width">
+              <label>Full Content (HTML Supported) *</label>
+              <textarea id="cmsContentInput" class="cms-textarea" style="min-height: 180px;" placeholder="<h2>Heading</h2><p>Write your detailed investigation here...</p>" required></textarea>
+            </div>
+          </div>
+
+          <div style="display: flex; gap: 12px; justify-content: flex-end; margin-top: 16px;">
+            <button type="button" id="cmsCancelEditBtn" class="btn btn-secondary">Cancel</button>
+            <button type="submit" class="btn btn-primary" id="cmsSubmitBtn">🚀 Publish Brief</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- Tab 3: Site Branding & Header/Footer Settings -->
+      <div class="cms-tab-content" id="cmsTabBranding">
+        <form id="cmsBrandingForm">
+          <div class="cms-form-grid">
+            <div class="cms-form-group">
+              <label>Site Title Name</label>
+              <input type="text" id="brandingTitleInput" class="cms-input" value="Mr. Informer Blog">
+            </div>
+
+            <div class="cms-form-group">
+              <label>Logo Badge Text</label>
+              <input type="text" id="brandingBadgeInput" class="cms-input" value="MI">
+            </div>
+
+            <div class="cms-form-group full-width">
+              <label>Meta Description / Tagline</label>
+              <input type="text" id="brandingTaglineInput" class="cms-input" value="Uncensored Tech Intelligence & Deep Investigations">
+            </div>
+
+            <div class="cms-form-group full-width">
+              <label>Live Breaking Ticker Items (Bullet Separated)</label>
+              <textarea id="brandingTickerInput" class="cms-textarea" style="min-height: 80px;">⚡ Autonomous AI swarms refactor code in under 90 seconds • ⚡ Quantum 100k qubit chip breaches silicon barrier • ⚡ Edge zero-day mesh exploit patched by DevSecOps teams • ⚡ Spatial neural glasses set to replace smartphones by Q4</textarea>
+            </div>
+
+            <div class="cms-form-group">
+              <label>Author Profile Name</label>
+              <input type="text" id="brandingAuthorNameInput" class="cms-input" value="Mr. Informer">
+            </div>
+
+            <div class="cms-form-group">
+              <label>Author Title</label>
+              <input type="text" id="brandingAuthorTitleInput" class="cms-input" value="Chief Investigative Tech Analyst">
+            </div>
+
+            <div class="cms-form-group full-width">
+              <label>Author Bio</label>
+              <textarea id="brandingAuthorBioInput" class="cms-textarea" style="min-height: 70px;">Investigative Tech Analyst & Data Journalist uncovering hidden algorithms, zero-day vulnerabilities, and future hardware.</textarea>
+            </div>
+
+            <div class="cms-form-group">
+              <label>Author Avatar Image URL</label>
+              <input type="text" id="brandingAuthorAvatarInput" class="cms-input" value="assets/author_avatar.jpg">
+            </div>
+
+            <div class="cms-form-group">
+              <label>Social Channel Handle</label>
+              <input type="text" id="brandingSocialInput" class="cms-input" value="@MrInformerTech">
+            </div>
+          </div>
+
+          <div style="display: flex; justify-content: flex-end; margin-top: 16px;">
+            <button type="submit" class="btn btn-primary">🎨 Save Branding Settings</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- Tab 4: Media Upload & Asset Gallery -->
+      <div class="cms-tab-content" id="cmsTabGallery">
+        <div style="background: var(--bg-card); padding: 16px; border-radius: var(--radius-md); border: 1px dashed var(--border-highlight); margin-bottom: 20px;">
+          <h4 style="margin-bottom: 8px; color: var(--accent-cyan);">📤 Upload Custom Image / Media Asset</h4>
+          <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
+            <input type="file" id="galleryFileInput" accept="image/*" class="cms-input" style="max-width: 340px;">
+            <span style="color: var(--text-muted);">or paste Image URL:</span>
+            <input type="text" id="galleryUrlInput" class="cms-input" style="max-width: 280px;" placeholder="https://example.com/image.jpg">
+            <button type="button" id="uploadImageBtn" class="btn btn-primary" style="padding: 8px 16px;">Add Image to Gallery</button>
+          </div>
+        </div>
+
+        <h4 style="margin-bottom: 12px;">🖼️ Asset Gallery Library</h4>
+        <div id="mediaGalleryGrid" class="gallery-grid">
+          <!-- Dynamically populated -->
+        </div>
+      </div>
+
+      <!-- Tab 5: Custom Sections & Layout Builder -->
+      <div class="cms-tab-content" id="cmsTabSections">
+        <h4 style="margin-bottom: 12px; color: var(--accent-cyan);">👁️ Visible Modules & Section Toggles</h4>
+        
+        <div class="cms-toggle-row">
+          <div>
+            <strong>Live Breaking Ticker Bar</strong>
+            <p style="font-size: 0.78rem; color: var(--text-muted);">Display top scrolling breaking news ticker.</p>
+          </div>
+          <label class="cms-toggle-switch">
+            <input type="checkbox" id="toggleTicker" checked>
+            <span class="cms-toggle-slider"></span>
+          </label>
+        </div>
+
+        <div class="cms-toggle-row">
+          <div>
+            <strong>Featured Hero Section</strong>
+            <p style="font-size: 0.78rem; color: var(--text-muted);">Display featured top investigative story spotlight.</p>
+          </div>
+          <label class="cms-toggle-switch">
+            <input type="checkbox" id="toggleHero" checked>
+            <span class="cms-toggle-slider"></span>
+          </label>
+        </div>
+
+        <div class="cms-toggle-row">
+          <div>
+            <strong>Anonymous Whistleblower Dropbox Box</strong>
+            <p style="font-size: 0.78rem; color: var(--text-muted);">Display leak submission widget in sidebar.</p>
+          </div>
+          <label class="cms-toggle-switch">
+            <input type="checkbox" id="toggleWhistleblower" checked>
+            <span class="cms-toggle-slider"></span>
+          </label>
+        </div>
+
+        <div class="cms-toggle-row">
+          <div>
+            <strong>Trending Tags Cloud Widget</strong>
+            <p style="font-size: 0.78rem; color: var(--text-muted);">Display popular tags cloud in sidebar.</p>
+          </div>
+          <label class="cms-toggle-switch">
+            <input type="checkbox" id="toggleTags" checked>
+            <span class="cms-toggle-slider"></span>
+          </label>
+        </div>
+
+        <h4 style="margin: 20px 0 12px 0; color: var(--accent-indigo);">📢 Custom Announcement Banner Builder</h4>
+        <form id="cmsAnnouncementForm">
+          <div class="cms-form-grid">
+            <div class="cms-toggle-row full-width">
+              <div>
+                <strong>Enable Custom Top Announcement Banner</strong>
+                <p style="font-size: 0.78rem; color: var(--text-muted);">Display custom promotional or breaking alert banner above main page content.</p>
+              </div>
+              <label class="cms-toggle-switch">
+                <input type="checkbox" id="toggleAnnouncement">
+                <span class="cms-toggle-slider"></span>
+              </label>
+            </div>
+
+            <div class="cms-form-group">
+              <label>Banner Heading Title</label>
+              <input type="text" id="announcementTitleInput" class="cms-input" value="⚡ EXCLUSIVE INVESTIGATIVE DISPATCH">
+            </div>
+
+            <div class="cms-form-group">
+              <label>Button Label</label>
+              <input type="text" id="announcementBtnInput" class="cms-input" value="Read Special Report →">
+            </div>
+
+            <div class="cms-form-group full-width">
+              <label>Banner Message Text</label>
+              <input type="text" id="announcementTextInput" class="cms-input" value="Mr. Informer Q3 Special Telemetry Report on Quantum Supremacy is now live. Access unredacted logs.">
+            </div>
+          </div>
+
+          <div style="display: flex; justify-content: flex-end; margin-top: 16px;">
+            <button type="submit" class="btn btn-primary">🧩 Save Section & Banner Settings</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- Tab 6: RSS Automation Scope -->
+      <div class="cms-tab-content" id="cmsTabAutomation">
+        <h4 style="margin-bottom: 12px; color: var(--accent-emerald);">📡 Active RSS Feeds & Ingestion Scope</h4>
+        
+        <form id="cmsAutomationForm">
+          <div class="cms-form-group full-width">
+            <label>Active RSS Feed URLs (Line Separated)</label>
+            <textarea id="automationFeedsInput" class="cms-textarea" style="min-height: 100px;">https://news.google.com/rss/search?q=technology+artificial+intelligence+cybersecurity&hl=en-US&gl=US&ceid=US:en
+https://hnrss.org/newest?points=100</textarea>
+          </div>
+
+          <div class="cms-form-grid">
+            <div class="cms-form-group">
+              <label>Auto-Publish Interval (Seconds)</label>
+              <input type="number" id="automationIntervalInput" class="cms-input" value="3600">
+            </div>
+
+            <div class="cms-form-group">
+              <label>Client Polling Frequency (Seconds)</label>
+              <input type="number" id="automationPollInput" class="cms-input" value="15">
+            </div>
+          </div>
+
+          <div style="display: flex; justify-content: flex-end; margin-top: 16px;">
+            <button type="submit" class="btn btn-primary">⚡ Save Automation Settings</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- Tab 7: Whistleblower Inbox -->
+      <div class="cms-tab-content" id="cmsTabTips">
+        <div id="cmsTipsList">
+          <!-- Rendered dynamically -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="articles.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

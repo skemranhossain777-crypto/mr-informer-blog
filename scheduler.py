@@ -26,8 +26,12 @@ def run_schedule(interval_seconds=DEFAULT_INTERVAL_SECONDS):
         
         try:
             import importlib
+            import news_workflow_supabase
             importlib.reload(news_workflow)
-            article = news_workflow.run_sync()
+            importlib.reload(news_workflow_supabase)
+            article = news_workflow_supabase.run_cloud_ingestion()
+            if not article:
+                article = news_workflow.run_sync()
             if article:
                 print(f"✅ [{timestamp}] Auto-Posted Dispatch: '{article['title']}' [{article['category']}]")
         except Exception as e:

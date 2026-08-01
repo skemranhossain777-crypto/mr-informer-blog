@@ -2,8 +2,8 @@ name: Automated RSS Cloud Ingestion Workflow
 
 on:
   schedule:
-    # Trigger automatically every 15 minutes
-    - cron: '*/15 * * * *'
+    # Trigger automatically every 5 minutes
+    - cron: '*/5 * * * *'
   push:
     branches:
       - main

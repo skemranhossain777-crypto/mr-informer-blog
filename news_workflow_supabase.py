@@ -114,7 +114,7 @@ def run_cloud_ingestion():
         print(f"✅ Auto-Published Scoop: '{article['title']}' [{article['category']}]")
         return article
 
-    # Fallback: Guarantee continuous fresh posts even during quiet news periods
+    # Fallback: Guarantee continuous 5-minute fresh posts even during quiet news periods
     import random
     fallback_topics = [
         "Autonomous AI Swarms Achieve Zero-Latency Edge Processing Milestones",
@@ -124,24 +124,20 @@ def run_cloud_ingestion():
         "Zero-Trust Micro-Kernel Architecture Patched Against Perimeter Exploits"
     ]
     base_topic = random.choice(fallback_topics)
-    raw_title = f"{base_topic} ({datetime.now().strftime('%b %d')})"
+    raw_title = f"{base_topic} [Dispatch #{datetime.now().strftime('%H:%M')}]"
     
-    if not news_workflow.is_duplicate_article(raw_title, all_articles):
-        fallback_item = {
-            "raw_title": raw_title,
-            "link": "https://mrinformer.tech/scoop",
-            "pubDate": "",
-            "snippet": "Latest investigative telemetry confirms significant performance breakthroughs and zero-latency stability across enterprise infrastructure."
-        }
-        article = news_workflow.generate_mr_informer_article(fallback_item, all_articles)
-        insert_supabase_article(article)
-        local_articles.insert(0, article)
-        news_workflow.save_articles(local_articles)
-        print(f"✅ Auto-Published Fallback Scoop: '{article['title']}' [{article['category']}]")
-        return article
-
-    print("ℹ️ Sweep complete. All current RSS items already ingested.")
-    return None
+    fallback_item = {
+        "raw_title": raw_title,
+        "link": "https://mrinformer.tech/scoop",
+        "pubDate": "",
+        "snippet": "Latest investigative telemetry confirms significant performance breakthroughs and zero-latency stability across enterprise infrastructure."
+    }
+    article = news_workflow.generate_mr_informer_article(fallback_item, all_articles)
+    insert_supabase_article(article)
+    local_articles.insert(0, article)
+    news_workflow.save_articles(local_articles)
+    print(f"✅ Auto-Published 5-Min Scoop: '{article['title']}' [{article['category']}]")
+    return article
 
 if __name__ == "__main__":
     run_cloud_ingestion()

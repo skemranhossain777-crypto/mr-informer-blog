@@ -688,7 +688,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const MASTER_ADMIN_PASS = "informer2026";
 
   const adminUsernameInput = document.getElementById("adminUsernameInput");
-  const adminPasswordInput = document.getElementById("adminPasswordInput");
   const adminLoginAlert = document.getElementById("adminLoginAlert");
   const cmsLogoutBtn = document.getElementById("cmsLogoutBtn");
 

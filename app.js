@@ -180,28 +180,38 @@ document.addEventListener("DOMContentLoaded", () => {
   // ==========================================
   // 2. Render Hero Article
   // ==========================================
+  // ==========================================
+  // 2. Render Hero Article
+  // ==========================================
   function renderHero() {
-    const heroArticle = articles.find(a => a.featured) || articles[0];
+    const heroArticle = articles.find(a => a && a.featured) || articles[0];
     if (!heroArticle) return;
+
+    const authorName = (heroArticle.author && typeof heroArticle.author === 'object' && heroArticle.author.name) 
+      ? heroArticle.author.name 
+      : (typeof heroArticle.author === 'string' ? heroArticle.author : "Mr. Informer");
+    const authorAvatar = (heroArticle.author && typeof heroArticle.author === 'object' && heroArticle.author.avatar) 
+      ? heroArticle.author.avatar 
+      : "assets/author_avatar.jpg";
 
     heroSection.innerHTML = `
       <div class="hero-card">
         <div class="hero-image-box">
-          <img src="${heroArticle.image}" alt="${heroArticle.title}">
+          <img src="${heroArticle.image || 'assets/hero_tech_cyber.jpg'}" alt="${heroArticle.title || 'Intel Brief'}">
           <span class="hero-badge">FEATURED INTEL</span>
         </div>
         <div class="hero-content">
           <div class="hero-meta">
-            <span>${heroArticle.category}</span> • <span>${heroArticle.readTime}</span>
+            <span>${heroArticle.category || 'Tech Pulse'}</span> • <span>${heroArticle.readTime || '4 min read'}</span>
           </div>
-          <h2 class="hero-title">${heroArticle.title}</h2>
-          <p class="hero-summary">${heroArticle.summary}</p>
+          <h2 class="hero-title">${heroArticle.title || 'Exclusive Intel'}</h2>
+          <p class="hero-summary">${heroArticle.summary || ''}</p>
           <div style="display: flex; align-items: center; justify-content: space-between; margin-top: auto;">
             <div class="author-row">
-              <img src="${heroArticle.author.avatar}" alt="${heroArticle.author.name}" class="author-avatar">
+              <img src="${authorAvatar}" alt="${authorName}" class="author-avatar">
               <div class="author-info">
-                <h4>${heroArticle.author.name}</h4>
-                <p>${heroArticle.date}</p>
+                <h4>${authorName}</h4>
+                <p>${heroArticle.date || ''}</p>
               </div>
             </div>
             <button class="btn btn-primary read-article-btn" data-id="${heroArticle.id}">Read Brief →</button>
@@ -210,9 +220,12 @@ document.addEventListener("DOMContentLoaded", () => {
       </div>
     `;
 
-    heroSection.querySelector(".read-article-btn").addEventListener("click", () => {
-      openReader(heroArticle.id);
-    });
+    const btn = heroSection.querySelector(".read-article-btn");
+    if (btn) {
+      btn.addEventListener("click", () => {
+        openReader(heroArticle.id);
+      });
+    }
   }
 
   // ==========================================
@@ -220,11 +233,15 @@ document.addEventListener("DOMContentLoaded", () => {
   // ==========================================
   function renderArticles() {
     let filtered = articles.filter(art => {
+      if (!art) return false;
+      const tags = Array.isArray(art.tags) ? art.tags : [];
+      const title = art.title || "";
+      const summary = art.summary || "";
       const matchCat = activeCategory === "All" || art.category === activeCategory;
-      const matchTag = !activeTag || art.tags.includes(activeTag);
+      const matchTag = !activeTag || tags.includes(activeTag);
       const matchSearch = searchQuery === "" || 
-        art.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
-        art.summary.toLowerCase().includes(searchQuery.toLowerCase());
+        title.toLowerCase().includes(searchQuery.toLowerCase()) || 
+        summary.toLowerCase().includes(searchQuery.toLowerCase());
       return matchCat && matchTag && matchSearch;
     });
 
@@ -243,18 +260,18 @@ document.addEventListener("DOMContentLoaded", () => {
       return `
         <article class="article-card">
           <div class="card-img-wrapper">
-            <img src="${art.image}" alt="${art.title}">
-            <span class="cat-tag">${art.category}</span>
+            <img src="${art.image || 'assets/hero_tech_cyber.jpg'}" alt="${art.title || 'Intel Brief'}">
+            <span class="cat-tag">${art.category || 'Tech Pulse'}</span>
           </div>
           <div class="card-body">
             <div class="card-meta">
-              <span>${art.date}</span>
-              <span>${art.readTime}</span>
+              <span>${art.date || ''}</span>
+              <span>${art.readTime || '4 min read'}</span>
             </div>
-            <h3 class="card-title">${art.title}</h3>
-            <p class="card-summary">${art.summary}</p>
+            <h3 class="card-title">${art.title || 'Exclusive Intel'}</h3>
+            <p class="card-summary">${art.summary || ''}</p>
             <div class="card-footer">
-              <span>👀 ${art.views}</span>
+              <span>👀 ${art.views || '1.2K'}</span>
               <div class="card-actions">
                 <button class="action-btn bookmark-btn ${isSaved ? 'active' : ''}" data-id="${art.id}" title="Bookmark">
                   ${isSaved ? '🔖 Saved' : '🔖 Save'}

@@ -24,24 +24,35 @@ async function fetchArticlesFromSupabase() {
     if (!response.ok) throw new Error(`HTTP Error ${response.status}`);
     
     const dbArticles = await response.json();
+    if (!Array.isArray(dbArticles)) return null;
     
-    // Map Supabase column names back to frontend article structure
-    return dbArticles.map(a => ({
-      id: a.id,
-      title: a.title,
-      category: a.category,
-      readTime: a.read_time,
-      date: a.date,
-      author: a.author,
-      featured: a.featured,
-      image: a.image,
-      tags: a.tags || [],
-      summary: a.summary,
-      claps: a.claps || 100,
-      views: a.views || "1.2K",
-      content: a.content,
-      comments: a.comments || []
-    }));
+    // Map Supabase column names back to frontend article structure safely
+    return dbArticles.map(a => {
+      let authorObj = { name: "Mr. Informer", title: "Chief Investigative Tech Analyst", avatar: "assets/author_avatar.jpg" };
+      if (a.author) {
+        if (typeof a.author === "string") {
+          try { authorObj = JSON.parse(a.author); } catch(e) { authorObj = { name: a.author, title: "Investigative Tech Analyst", avatar: "assets/author_avatar.jpg" }; }
+        } else if (typeof a.author === "object" && a.author !== null) {
+          authorObj = { ...authorObj, ...a.author };
+        }
+      }
+      return {
+        id: a.id || `art-${Math.random()}`,
+        title: a.title || "Untitled Intel Brief",
+        category: a.category || "Tech Pulse",
+        readTime: a.read_time || "4 min read",
+        date: a.date || "Just now",
+        author: authorObj,
+        featured: Boolean(a.featured),
+        image: a.image || "assets/hero_tech_cyber.jpg",
+        tags: Array.isArray(a.tags) ? a.tags : ["Tech Pulse", "Live Scoop"],
+        summary: a.summary || "",
+        claps: a.claps || 100,
+        views: a.views || "1.2K",
+        content: a.content || "",
+        comments: Array.isArray(a.comments) ? a.comments : []
+      };
+    });
   } catch (err) {
     console.warn("⚠️ Failed to load articles from Supabase:", err);
     return null;

@@ -4,8 +4,15 @@ on:
   schedule:
     # Trigger automatically every 15 minutes
     - cron: '*/15 * * * *'
+  push:
+    branches:
+      - main
+      - master
   workflow_dispatch:
     # Allows manual one-click trigger from GitHub Actions tab
+
+permissions:
+  contents: write
 
 jobs:
   ingest-news:

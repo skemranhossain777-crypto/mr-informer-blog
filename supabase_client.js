@@ -114,3 +114,44 @@ window.fetchSubscribersFromSupabase = async function() {
     return [];
   }
 };
+
+// Global Article Cloud Publisher
+window.addArticleToSupabase = async function(article) {
+  if (!SUPABASE_CONFIG.url || !SUPABASE_CONFIG.anonKey) {
+    return false;
+  }
+  try {
+    const payload = {
+      id: article.id,
+      title: article.title,
+      category: article.category || "Tech Pulse",
+      read_time: article.readTime || "4 min read",
+      date: article.date,
+      author: article.author || { name: "Mr. Informer", title: "Chief Investigative Tech Analyst", avatar: "assets/author_avatar.jpg" },
+      featured: Boolean(article.featured),
+      image: article.image || "assets/hero_tech_cyber.jpg",
+      tags: article.tags || ["Live Scoop"],
+      summary: article.summary,
+      claps: article.claps || 100,
+      views: article.views || "1.2K",
+      content: article.content,
+      comments: article.comments || []
+    };
+
+    const response = await fetch(`${SUPABASE_CONFIG.url}/rest/v1/articles`, {
+      method: "POST",
+      headers: {
+        "apikey": SUPABASE_CONFIG.anonKey,
+        "Authorization": `Bearer ${SUPABASE_CONFIG.anonKey}`,
+        "Content-Type": "application/json",
+        "Prefer": "resolution=merge-duplicates"
+      },
+      body: JSON.stringify(payload)
+    });
+
+    return response.ok || response.status === 201;
+  } catch (err) {
+    console.warn("⚠️ Failed to publish article to Supabase Cloud:", err);
+    return false;
+  }
+};

@@ -999,6 +999,11 @@ document.addEventListener("DOMContentLoaded", () => {
         articles.unshift(articleObj);
       }
 
+      // Sync to Supabase Cloud if available
+      if (typeof window.addArticleToSupabase === "function") {
+        window.addArticleToSupabase(articleObj);
+      }
+
       cmsArticleForm.reset();
       cmsEditArticleId.value = "";
       cmsSubmitBtn.textContent = "🚀 Publish Brief";

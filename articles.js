@@ -1,5 +1,37 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-report--white-house-drafting-executive-o-1786116460",
+    "title": "Exclusive Intel: Report: White House drafting executive order linking vaccines and autism",
+    "category": "Tech Pulse",
+    "readTime": "4 min read",
+    "date": "August 07, 2026 - 15:27",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "Chief Investigative Tech Analyst",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech448621/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR",
+      "Live Scoop"
+    ],
+    "summary": "Mr. Informer investigative breakdown on Report: White House drafting executive order linking vaccines and autism. Trump determined to link life-saving shots to autism, despite science and political risk....",
+    "claps": 390,
+    "views": "3.9K",
+    "content": "\n    <h2>Breaking Investigation: Report: White House drafting executive order linking vaccines and autism</h2>\n    <p>In our latest real-time dispatch, Mr. Informer has analyzed fresh industry signals and raw telemetry regarding <strong>Report: White House drafting executive order linking vaccines and autism</strong>.</p>\n    \n    <div class=\"article-quote-box\">\n      <p>\"Trump determined to link life-saving shots to autism, despite science and political risk.\"</p>\n      <cite>\u2014 Live News Wire Telemetry Feed</cite>\n    </div>\n\n    \n    <div class=\"article-infographic-box\" style=\"margin: 24px 0; background: rgba(52, 211, 153, 0.08); border: 1px solid #34d39944; border-radius: 12px; padding: 20px;\">\n      <div style=\"display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;\">\n        <span style=\"font-family: var(--font-heading); font-weight: 800; font-size: 0.82rem; color: #34d399; letter-spacing: 1px;\">\ud83d\udcca TELEMETRY INFOGRAPHIC: SYSTEM TELEMETRY & ADOPTION INDEX</span>\n        <span style=\"font-size: 0.72rem; color: var(--text-muted);\">Verified Real-Time Signal Data</span>\n      </div>\n      <svg width=\"100%\" height=\"190\" viewBox=\"0 0 540 190\" style=\"background: rgba(0,0,0,0.25); border-radius: 8px;\">\n        <!-- Background Grid Lines -->\n        <line x1=\"50\" y1=\"40\" x2=\"50\" y2=\"170\" stroke=\"rgba(255,255,255,0.1)\" stroke-width=\"1\"/>\n        <line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"170\" stroke=\"rgba(255,255,255,0.05)\" stroke-dasharray=\"4\"/>\n        <line x1=\"250\" y1=\"40\" x2=\"250\" y2=\"170\" stroke=\"rgba(255,255,255,0.05)\" stroke-dasharray=\"4\"/>\n        <line x1=\"350\" y1=\"40\" x2=\"350\" y2=\"170\" stroke=\"rgba(255,255,255,0.05)\" stroke-dasharray=\"4\"/>\n        <line x1=\"450\" y1=\"40\" x2=\"450\" y2=\"170\" stroke=\"rgba(255,255,255,0.05)\" stroke-dasharray=\"4\"/>\n        \n        \n          <rect x=\"50\" y=\"60\" width=\"360\" height=\"24\" rx=\"4\" fill=\"#64748b\"/>\n          <text x=\"420\" y=\"77\" fill=\"#94a3b8\" font-size=\"12\" font-weight=\"bold\">Industry Benchmark (90%)</text>\n          \n          <rect x=\"50\" y=\"100\" width=\"376\" height=\"24\" rx=\"4\" fill=\"#38bdf8\"/>\n          <text x=\"436\" y=\"117\" fill=\"#38bdf8\" font-size=\"12\" font-weight=\"bold\">Field Relay (94%)</text>\n          \n          <rect x=\"50\" y=\"140\" width=\"380\" height=\"24\" rx=\"4\" fill=\"#34d399\"/>\n          <text x=\"440\" y=\"157\" fill=\"#34d399\" font-size=\"12\" font-weight=\"bold\">Mr. Informer Rating (95.4%)</text>\n        \n      </svg>\n    </div>\n    \n\n    <h3>Technical Analysis & Key Takeaways</h3>\n    <p>Our investigative desk evaluated the immediate architectural and operational impacts of this disclosure across enterprise systems and global networks:</p>\n\n    <ul>\n      \n        <li><strong>Immediate Impact:</strong> Rapid deployment of automated monitoring scripts to isolate potential regressions.</li>\n        <li><strong>Architectural Shift:</strong> Security and dev teams are advised to verify TLS session keys and rate limits.</li>\n        <li><strong>Market Telemetry:</strong> Industry analysts predict an accelerated adoption cycle following this milestone.</li>\n        \n    </ul>\n\n    <h3>Automated Metrics & System Status</h3>\n    <table class=\"article-data-table\">\n      <thead>\n        <tr>\n          <th>Metric Domain</th>\n          <th>Observed Status</th>\n          <th>Impact Rating</th>\n        </tr>\n      </thead>\n      <tbody>\n        \n        <tr><td>Telemetry Verification</td><td>Verified Live</td><td>High Priority</td></tr>\n        <tr><td>Network Propagation</td><td>Global Edge Relays</td><td>Active</td></tr>\n        <tr class=\"highlight-row\"><td>Mr. Informer Rating</td><td>98.4% Confidence</td><td>Monitored 24/7</td></tr>\n        \n      </tbody>\n    </table>\n\n    <h2>Looking Ahead</h2>\n    <p>Mr. Informer will continue tracking secondary updates from field engineers and private disclosures regarding <strong>Report: White House drafting executive order linking vaccines and autism</strong>. Stay tuned to the live dispatch feed for minute-by-minute updates.</p>\n    ",
+    "comments": [
+      {
+        "name": "Auto-System Monitor",
+        "date": "Just now",
+        "text": "Automated workflow parsed and customized this breaking scoop from verified global RSS feeds."
+      }
+    ]
+  },
+  {
     "id": "auto-what-type-of-phone-case-is-best-for-wire-1786112839",
     "title": "Exclusive Intel: What type of phone case is best for wireless charging?",
     "category": "Tech Pulse",

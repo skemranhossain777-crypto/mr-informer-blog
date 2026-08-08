@@ -1,5 +1,37 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-sharpest-image-ever-taken-of-the-sun-1786207711",
+    "title": "Exclusive Intel: The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
+    "category": "Tech Pulse",
+    "readTime": "4 min read",
+    "date": "August 08, 2026 - 16:48",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "Chief Investigative Tech Analyst",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech752515/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR",
+      "Live Scoop"
+    ],
+    "summary": "Mr. Informer investigative breakdown on The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon. The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had...",
+    "claps": 427,
+    "views": "6.3K",
+    "content": "\n    <h2>Breaking Investigation: The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon</h2>\n    <p>In our latest real-time dispatch, Mr. Informer has analyzed fresh industry signals and raw telemetry regarding <strong>The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon</strong>.</p>\n    \n    <div class=\"article-quote-box\">\n      <p>\"The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.\"</p>\n      <cite>\u2014 Live News Wire Telemetry Feed</cite>\n    </div>\n\n    \n    <div class=\"article-infographic-box\" style=\"margin: 24px 0; background: rgba(52, 211, 153, 0.08); border: 1px solid #34d39944; border-radius: 12px; padding: 20px;\">\n      <div style=\"display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;\">\n        <span style=\"font-family: var(--font-heading); font-weight: 800; font-size: 0.82rem; color: #34d399; letter-spacing: 1px;\">\ud83d\udcca TELEMETRY INFOGRAPHIC: VEHICLE RANGE & CHARGING EFFICIENCY</span>\n        <span style=\"font-size: 0.72rem; color: var(--text-muted);\">Verified Real-Time Signal Data</span>\n      </div>\n      <svg width=\"100%\" height=\"190\" viewBox=\"0 0 540 190\" style=\"background: rgba(0,0,0,0.25); border-radius: 8px;\">\n        <!-- Background Grid Lines -->\n        <line x1=\"50\" y1=\"40\" x2=\"50\" y2=\"170\" stroke=\"rgba(255,255,255,0.1)\" stroke-width=\"1\"/>\n        <line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"170\" stroke=\"rgba(255,255,255,0.05)\" stroke-dasharray=\"4\"/>\n        <line x1=\"250\" y1=\"40\" x2=\"250\" y2=\"170\" stroke=\"rgba(255,255,255,0.05)\" stroke-dasharray=\"4\"/>\n        <line x1=\"350\" y1=\"40\" x2=\"350\" y2=\"170\" stroke=\"rgba(255,255,255,0.05)\" stroke-dasharray=\"4\"/>\n        <line x1=\"450\" y1=\"40\" x2=\"450\" y2=\"170\" stroke=\"rgba(255,255,255,0.05)\" stroke-dasharray=\"4\"/>\n        \n        \n          <rect x=\"50\" y=\"60\" width=\"280\" height=\"24\" rx=\"4\" fill=\"#64748b\"/>\n          <text x=\"340\" y=\"77\" fill=\"#94a3b8\" font-size=\"12\" font-weight=\"bold\">Standard AC Charger (70 kW)</text>\n          \n          <rect x=\"50\" y=\"100\" width=\"356\" height=\"24\" rx=\"4\" fill=\"#fbbf24\"/>\n          <text x=\"416\" y=\"117\" fill=\"#fbbf24\" font-size=\"12\" font-weight=\"bold\">Fast DC Array (150 kW)</text>\n          \n          <rect x=\"50\" y=\"140\" width=\"380\" height=\"24\" rx=\"4\" fill=\"#34d399\"/>\n          <text x=\"440\" y=\"157\" fill=\"#34d399\" font-size=\"12\" font-weight=\"bold\">Solid-State Cell (95% Eff)</text>\n        \n      </svg>\n    </div>\n    \n\n    <h3>Technical Analysis & Key Takeaways</h3>\n    <p>Our investigative desk evaluated the immediate architectural and operational impacts of this disclosure across enterprise systems and global networks:</p>\n\n    <ul>\n      \n        <li><strong>Powertrain Efficiency:</strong> Thermal management architecture maintains peak torque without range degradation.</li>\n        <li><strong>Grid Dynamics:</strong> Smart charging protocols balance peak energy draw during high-demand hours.</li>\n        <li><strong>Design Philosophy:</strong> Minimalist cabin interfaces prioritize essential driver metrics and HUD response.</li>\n        \n    </ul>\n\n    <h3>Automated Metrics & System Status</h3>\n    <table class=\"article-data-table\">\n      <thead>\n        <tr>\n          <th>Metric Domain</th>\n          <th>Observed Status</th>\n          <th>Impact Rating</th>\n        </tr>\n      </thead>\n      <tbody>\n        \n        <tr><td>Battery Density</td><td>280 Wh/kg Cell</td><td>High Density</td></tr>\n        <tr><td>Fast Charge Rate</td><td>18 Mins to 80%</td><td>Optimal</td></tr>\n        <tr class=\"highlight-row\"><td>Mr. Informer Tech Rating</td><td>96.2% Rating</td><td>Monitored 24/7</td></tr>\n        \n      </tbody>\n    </table>\n\n    <h2>Looking Ahead</h2>\n    <p>Mr. Informer will continue tracking secondary updates from field engineers and private disclosures regarding <strong>The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon</strong>. Stay tuned to the live dispatch feed for minute-by-minute updates.</p>\n    ",
+    "comments": [
+      {
+        "name": "Auto-System Monitor",
+        "date": "Just now",
+        "text": "Automated workflow parsed and customized this breaking scoop from verified global RSS feeds."
+      }
+    ]
+  },
+  {
     "id": "auto-the-kindle-scribe-colorsoft-is-a-lot-of-1786204957",
     "title": "Exclusive Intel: The Kindle Scribe Colorsoft is a lot of fun, but it\u2019s not a must-have",
     "category": "Tech Pulse",

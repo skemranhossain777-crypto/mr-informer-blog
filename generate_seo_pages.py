@@ -201,6 +201,7 @@ def render_article_page(article, all_articles):
     image_url = absolute_url(article.get("image", "assets/hero_tech_cyber.jpg"))
     published_iso = parse_article_date(article.get("date", "")).isoformat()
     author_name = (article.get("author") or {}).get("name", "Mr. Informer") if isinstance(article.get("author"), dict) else "Mr. Informer"
+    is_archival = not bool(article.get("sourceUrl"))
 
     json_ld = {
         "@context": "https://schema.org",
@@ -218,7 +219,8 @@ def render_article_page(article, all_articles):
         },
         "mainEntityOfPage": {"@type": "WebPage", "@id": canonical_url}
     }
-    extra_meta = f'<script type="application/ld+json">{json.dumps(json_ld, ensure_ascii=False)}</script>\n  <meta property="article:published_time" content="{published_iso}">'
+    robots_meta = '\n  <meta name="robots" content="noindex, follow">' if is_archival else ""
+    extra_meta = f'<script type="application/ld+json">{json.dumps(json_ld, ensure_ascii=False)}</script>\n  <meta property="article:published_time" content="{published_iso}">{robots_meta}'
 
     head = render_head(f"{title} | {SITE_NAME}", description, canonical_url, image_url, extra_meta)
 
@@ -240,8 +242,7 @@ def render_article_page(article, all_articles):
     <div style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 8px;">
       {html.escape(article.get('category', 'Tech Pulse'))} • {html.escape(article.get('readTime', '3 min read'))} • {html.escape(article.get('date', ''))}
     </div>
-    <h1 style="font-family: var(--font-heading); font-size: 2rem; margin-bottom: 8px;">{html.escape(title)}</h1>
-    <p class="ai-disclosure-badge">🤖 AI-assisted summary of third-party reporting — see our <a href="/terms/">AI use policy</a></p>
+    <h1 style="font-family: var(--font-heading); font-size: 2rem; margin-bottom: 20px;">{html.escape(title)}</h1>
     <article class="article-body-content">
       {article.get('content', '')}
     </article>
@@ -267,6 +268,8 @@ def render_sitemap(all_articles):
     for path in STATIC_PAGES:
         urls.append(f"  <url><loc>{SITE_DOMAIN}{path}</loc></url>")
     for art in all_articles:
+        if not art.get("sourceUrl"):
+            continue  # archival/noindex articles are deliberately left out of the sitemap
         slug = article_slug(art)
         lastmod = parse_article_date(art.get("date", "")).strftime("%Y-%m-%d")
         urls.append(f'  <url><loc>{SITE_DOMAIN}/articles/{slug}/</loc><lastmod>{lastmod}</lastmod></url>')

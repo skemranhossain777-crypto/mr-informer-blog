@@ -358,6 +358,27 @@ def build_article_content(cleaned_title, snippet, source_name, source_url):
     """
     return content_html
 
+def build_archival_notice_content(cleaned_title, snippet):
+    """Honest body for pre-source-tracking legacy articles: preserves whatever
+    real snippet text survives, but makes clear no verified source link exists
+    for this one, instead of the old copy that promised a link with none there."""
+    safe_snippet = snippet.strip() if snippet else "No further detail survives from this earlier post."
+
+    content_html = f"""
+    <p class="ai-disclosure-badge">🗄️ Archival brief — original source not verified</p>
+
+    <p>{html.escape(safe_snippet)}</p>
+
+    <div class="article-quote-box">
+      <p>"{html.escape(safe_snippet)}"</p>
+      <cite>— unverified source (predates source tracking)</cite>
+    </div>
+
+    <h3>About this brief</h3>
+    <p>This briefing on <strong>{html.escape(cleaned_title)}</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href="/terms/">AI use policy</a> and recent posts for examples.</p>
+    """
+    return content_html
+
 def generate_mr_informer_article(news_item, existing_articles=None):
     """Build a Mr. Informer briefing from a real RSS item: honest summary,
     real attribution + outbound link to the source, no fabricated data."""

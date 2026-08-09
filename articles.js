@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-techcrunch-mobility--zoox-prepares-for-l-1786301213",
+    "slug": "auto-techcrunch-mobility--zoox-prepares-for-l-1786301213",
+    "title": "Mr. Informer Briefing: TechCrunch Mobility: Zoox prepares for launch and Uber\u2019s AV empire",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 09, 2026 - 18:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech479454/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on TechCrunch Mobility: Zoox prepares for launch and Uber\u2019s AV empire, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>TechCrunch Mobility: Zoox prepares for launch and Uber\u2019s AV empire</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-here-s-how-to-format-a-usb-drive-on-wind-1786299782",
     "slug": "auto-here-s-how-to-format-a-usb-drive-on-wind-1786299782",
     "title": "Mr. Informer Briefing: Here's how to format a USB drive on Windows",

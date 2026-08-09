@@ -2,8 +2,9 @@ name: Automated RSS Cloud Ingestion Workflow
 
 on:
   schedule:
-    # Trigger automatically every 5 minutes
-    - cron: '*/5 * * * *'
+    # Every 3 hours. (Used to be every 5 minutes, which is what forced the
+    # old pipeline to fabricate filler articles on quiet news cycles.)
+    - cron: '0 */3 * * *'
   push:
     branches:
       - main
@@ -35,12 +36,19 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
         run: |
           python news_workflow_supabase.py
 
-      - name: Commit Updated Local Fallback Files
+      - name: Regenerate SEO Pages & Sitemap
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SITE_DOMAIN: ${{ vars.SITE_DOMAIN }}
+        run: |
+          python generate_seo_pages.py
+
+      - name: Commit Updated Content & Generated Pages
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: automated RSS news ingestion update [skip ci]"
-          file_pattern: "articles.json articles.js"
+          file_pattern: "articles.json articles.js articles/ sitemap.xml"

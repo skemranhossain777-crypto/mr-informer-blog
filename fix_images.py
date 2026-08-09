@@ -112,9 +112,9 @@ def fix_all_article_images():
     with open('articles.json', 'w', encoding='utf-8') as f:
         json.dump(articles, f, indent=2, ensure_ascii=False)
 
-    # Sync articles.js
+    # Sync articles.js (must match the ARTICLES_DATA global app.js reads)
     with open('articles.js', 'w', encoding='utf-8') as f:
-        f.write("const articlesData = " + json.dumps(articles, indent=2, ensure_ascii=False) + ";\n")
+        f.write("const ARTICLES_DATA = " + json.dumps(articles, indent=2, ensure_ascii=False) + ";\n")
     print("✅ Successfully updated articles.json and synced articles.js!")
 
 if __name__ == "__main__":

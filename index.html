@@ -3,16 +3,37 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mr. Informer | Uncensored Tech Intelligence & Deep Investigations</title>
-  <meta name="description" content="Mr. Informer is a premier investigative tech blog delivering exclusive scoops, AI deep dives, zero-day security reports, and cyber intelligence.">
-  <meta name="keywords" content="Tech Blog, Mr Informer, AI, Cybersecurity, Quantum Computing, Gadgets, Tech Scoops">
+  <title>Mr. Informer | Tech, AI & Cybersecurity Briefings</title>
+  <meta name="description" content="Mr. Informer curates and summarizes tech, AI, cybersecurity, and hardware news, with clear attribution and links back to original reporting.">
+  <meta name="keywords" content="Tech Blog, Mr Informer, AI, Cybersecurity, Quantum Computing, Gadgets, Tech News">
   <meta name="author" content="Mr. Informer">
+  <link rel="canonical" href="https://mr-informer.top/">
 
   <!-- Open Graph / Social Media Meta Tags -->
-  <meta property="og:title" content="Mr. Informer | Uncensored Tech Intelligence">
-  <meta property="og:description" content="Exclusive scoops, AI deep dives, and zero-day security reports.">
-  <meta property="og:image" content="assets/hero_tech_cyber.jpg">
+  <meta property="og:title" content="Mr. Informer | Tech, AI & Cybersecurity Briefings">
+  <meta property="og:description" content="Curated tech, AI, and cybersecurity briefings with clear attribution and links back to original reporting.">
+  <meta property="og:image" content="https://mr-informer.top/assets/hero_tech_cyber.jpg">
+  <meta property="og:url" content="https://mr-informer.top/">
   <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Mr. Informer">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Mr. Informer | Tech, AI & Cybersecurity Briefings">
+  <meta name="twitter:description" content="Curated tech, AI, and cybersecurity briefings with clear attribution and links back to original reporting.">
+  <meta name="twitter:image" content="https://mr-informer.top/assets/hero_tech_cyber.jpg">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Mr. Informer",
+    "url": "https://mr-informer.top/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mr. Informer",
+      "logo": { "@type": "ImageObject", "url": "https://mr-informer.top/assets/author_avatar.jpg" }
+    }
+  }
+  </script>
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,6 +41,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="styles.css">
+
+  <!-- Google AdSense: once approved, uncomment and put your real publisher
+       ID (ca-pub-XXXXXXXXXXXXXXXX) below, then also fill it into ads.txt. -->
+  <!--
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+  -->
 </head>
 <body>
 
@@ -120,6 +147,15 @@
             Send Secure Tip (Encrypted)
           </button>
         </div>
+
+        <!-- AdSense sidebar slot: uncomment after approval and set your
+             ad-slot ID (also requires the loader script in <head>). -->
+        <!--
+        <div class="widget">
+          <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" data-ad-slot="0000000000" data-ad-format="auto" data-full-width-responsive="true"></ins>
+          <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+        -->
 
         <!-- Whistleblower Box -->
         <div class="widget tip-widget">
@@ -276,7 +312,7 @@
           <div class="brand-title">Mr. Informer <span>Blog</span></div>
         </a>
         <p style="font-size: 0.88rem; color: var(--text-secondary); line-height: 1.6;">
-          Independent tech journalism focused on artificial intelligence, cybersecurity exploits, quantum computing, and future hardware.
+          Curated tech, AI, and cybersecurity briefings — summarized with disclosed AI assistance and linked back to original reporting.
         </p>
       </div>
 
@@ -295,23 +331,22 @@
         <ul class="footer-links">
           <li><a href="#" id="footerTipLink">Whistleblower Dropbox</a></li>
           <li><a href="#" id="footerIntelLink">Intel Dispatch</a></li>
-          <li><a href="#">Security Disclosure</a></li>
         </ul>
       </div>
 
       <div class="footer-col">
-        <h4>Connect & Follow</h4>
-        <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 14px;">
-          Stay updated on real-time scoops via encrypted channels and social feeds.
-        </p>
-        <button class="btn btn-secondary" style="width: 100%; justify-content: center;" onclick="alert('Connected to Mr. Informer Verified Channel!')">
-          Follow @MrInformerTech
-        </button>
+        <h4>Legal</h4>
+        <ul class="footer-links">
+          <li><a href="/about/">About</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+          <li><a href="/terms/">Terms</a></li>
+        </ul>
       </div>
     </div>
 
     <div class="footer-bottom">
-      &copy; 2026 Mr. Informer Blog. All rights reserved. Built for high-performance tech journalism.
+      &copy; 2026 Mr. Informer Blog. All rights reserved.
     </div>
   </footer>
 
@@ -325,8 +360,8 @@
       </p>
       <form id="adminLoginForm">
         <div class="form-group" style="margin-bottom: 12px;">
-          <label style="font-size: 0.8rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 4px; display: block;">Admin Username</label>
-          <input type="text" id="adminUsernameInput" class="form-input" placeholder="Enter Admin Username..." required>
+          <label style="font-size: 0.8rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 4px; display: block;">Admin Email</label>
+          <input type="email" id="adminUsernameInput" class="form-input" placeholder="Enter Admin Email..." required>
         </div>
         <div class="form-group" style="margin-bottom: 16px;">
           <label style="font-size: 0.8rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 4px; display: block;">Admin Password</label>

@@ -2,9 +2,9 @@ import os
 import json
 import time
 import re
-import random
 import html
 import urllib.request
+import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -30,10 +30,9 @@ def load_env():
 
 load_env()
 
-# Secure Backend Environment Credentials
-ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD", "informer2026")
-PORT = int(os.getenv("PORT", "8000"))
-SECRET_KEY = os.getenv("SECRET_KEY", "mr_informer_super_secret_master_token_2026")
+# Public site domain used for canonical URLs / sitemap / source links.
+# Swap this once a domain is registered (see .env.example).
+SITE_DOMAIN = os.getenv("SITE_DOMAIN", "https://mr-informer.top").rstrip("/")
 
 # Image Pool
 IMAGE_POOL = [
@@ -42,6 +41,64 @@ IMAGE_POOL = [
     "assets/article_cyber.jpg",
     "assets/article_quantum.jpg"
 ]
+
+# Friendly display names for the RSS sources we cite in each briefing.
+SOURCE_FRIENDLY_NAMES = {
+    "techcrunch.com": "TechCrunch",
+    "arstechnica.com": "Ars Technica",
+    "feeds.arstechnica.com": "Ars Technica",
+    "wired.com": "Wired",
+    "theverge.com": "The Verge",
+    "engadget.com": "Engadget",
+    "venturebeat.com": "VentureBeat",
+    "zdnet.com": "ZDNet",
+    "techradar.com": "TechRadar",
+    "readwrite.com": "ReadWrite",
+    "technologyreview.com": "MIT Technology Review",
+    "gizmodo.com": "Gizmodo",
+    "slashdot.org": "Slashdot",
+    "mashable.com": "Mashable",
+    "lifehacker.com": "Lifehacker",
+    "dev.to": "DEV Community",
+    "bleepingcomputer.com": "BleepingComputer",
+    "darkreading.com": "Dark Reading",
+    "securityweek.com": "SecurityWeek",
+    "krebsonsecurity.com": "Krebs on Security",
+    "thehackernews.com": "The Hacker News",
+    "spectrum.ieee.org": "IEEE Spectrum",
+    "tomshardware.com": "Tom's Hardware",
+    "scitechdaily.com": "SciTechDaily",
+    "anandtech.com": "AnandTech",
+    "news.google.com": "Google News",
+    "hnrss.org": "Hacker News",
+    "arxiv.org": "arXiv",
+    "rss.arxiv.org": "arXiv",
+    "mit.edu": "MIT",
+}
+
+def extract_source_name(link):
+    """Best-effort friendly publication name for outbound attribution."""
+    if not link:
+        return "the original source"
+    try:
+        netloc = urllib.parse.urlparse(link).netloc.lower()
+        if netloc.startswith("www."):
+            netloc = netloc[4:]
+        return SOURCE_FRIENDLY_NAMES.get(netloc, netloc or "the original source")
+    except Exception:
+        return "the original source"
+
+def fix_mojibake(raw_bytes):
+    """Recover feed bytes that are UTF-8-declared but actually Windows-1252
+    (the classic cause of stray ï¿½/replacement-character garbage in titles)."""
+    try:
+        raw_bytes.decode("utf-8")
+        return raw_bytes
+    except UnicodeDecodeError:
+        try:
+            return raw_bytes.decode("cp1252").encode("utf-8")
+        except Exception:
+            return raw_bytes
 
 # Comprehensive Global RSS Directory (50+ Open Tech, AI, Cyber, Science, Hardware Sources)
 RSS_FEEDS = [
@@ -101,7 +158,7 @@ def fetch_rss_single(feed_url):
     try:
         req = urllib.request.Request(feed_url, headers=headers)
         with urllib.request.urlopen(req, timeout=6) as response:
-            xml_data = response.read()
+            xml_data = fix_mojibake(response.read())
             root = ET.fromstring(xml_data)
             
             for item in root.findall('.//item')[:8]:
@@ -239,310 +296,77 @@ def generate_unique_cover_image(category, title, existing_articles):
     unique_seed = abs(hash(title_slug + str(len(existing_articles)))) % 999999
     return f"https://picsum.photos/seed/tech{unique_seed}/1200/800"
 
-def analyze_topic_domain(title, snippet):
-    """Analyze keywords to determine specific topic domain for tailored content synthesis."""
-    text = (title + " " + snippet).lower()
-    if any(k in text for k in ['xbox', 'game', 'gaming', 'playstation', 'tv', 'oled', 'display', 'screen', 'monitor', 'hisense']):
-        return "gaming"
-    elif any(k in text for k in ['ev', 'car', 'truck', 'vehicle', 'battery', 'motor', 'charging', 'slate', 'electric']):
-        return "automotive"
-    elif any(k in text for k in ['ai', 'gpt', 'model', 'neural', 'llm', 'scammer', 'bot', 'deepmind', 'openai', 'agent', 'mcp']):
-        return "ai"
-    elif any(k in text for k in ['cyber', 'hack', 'security', 'leak', 'zero-day', 'exploit', 'breach', 'router', 'repair', 'eu']):
-        return "security"
-    elif any(k in text for k in ['chip', 'quantum', 'processor', 'hardware', 'semiconductor', 'dyson', 'qubit', 'silicon']):
-        return "hardware"
-    elif any(k in text for k in ['emissions', 'climate', 'green', 'energy', 'solar', 'pollution', 'carbon']):
-        return "energy"
-    else:
-        return "general"
+def build_article_content(cleaned_title, snippet, source_name, source_url):
+    """Honest article body: a labeled summary + real attribution, no invented
+    statistics or quotes. This is what used to be a hash-generated fake
+    infographic and fabricated 'verified' metrics table."""
+    safe_snippet = snippet.strip() if snippet else "See the original report for full details."
 
-def generate_svg_infographic(domain, category, title):
-    """Generate dynamic inline SVG infographic vector charts tailored to specific domain and title."""
-    title_hash = abs(hash(title))
-    val1 = (title_hash % 25) + 70
-    val2 = (title_hash % 15) + 84
-    val3 = (title_hash % 5) + 95
+    source_link_html = (
+        f'<p class="article-source-note">Read the full original report at '
+        f'<a href="{html.escape(source_url)}" target="_blank" rel="noopener noreferrer nofollow">{html.escape(source_name)} →</a></p>'
+        if source_url else ""
+    )
 
-    if domain == "gaming":
-        color = "#38bdf8"
-        bg_accent = "rgba(56, 189, 248, 0.08)"
-        chart_title = "DISPLAY LATENCY & CLOUD STREAMING STABILITY"
-        svg_bars = f"""
-          <rect x="50" y="60" width="{val1 * 4}" height="24" rx="4" fill="#64748b"/>
-          <text x="{val1 * 4 + 60}" y="77" fill="#94a3b8" font-size="12" font-weight="bold">Local Display ({val1}ms)</text>
-          
-          <rect x="50" y="100" width="{val2 * 4}" height="24" rx="4" fill="#38bdf8"/>
-          <text x="{val2 * 4 + 60}" y="117" fill="#38bdf8" font-size="12" font-weight="bold">Cloud Relay ({val2}ms)</text>
-          
-          <rect x="50" y="140" width="{val3 * 4}" height="24" rx="4" fill="{color}"/>
-          <text x="{val3 * 4 + 60}" y="157" fill="{color}" font-size="12" font-weight="bold">Neural Upscaling (2.1ms)</text>
-        """
-    elif domain == "automotive":
-        color = "#34d399"
-        bg_accent = "rgba(52, 211, 153, 0.08)"
-        chart_title = "VEHICLE RANGE & CHARGING EFFICIENCY"
-        svg_bars = f"""
-          <rect x="50" y="60" width="{val1 * 4}" height="24" rx="4" fill="#64748b"/>
-          <text x="{val1 * 4 + 60}" y="77" fill="#94a3b8" font-size="12" font-weight="bold">Standard AC Charger ({val1} kW)</text>
-          
-          <rect x="50" y="100" width="{val2 * 4}" height="24" rx="4" fill="#fbbf24"/>
-          <text x="{val2 * 4 + 60}" y="117" fill="#fbbf24" font-size="12" font-weight="bold">Fast DC Array (150 kW)</text>
-          
-          <rect x="50" y="140" width="{val3 * 4}" height="24" rx="4" fill="{color}"/>
-          <text x="{val3 * 4 + 60}" y="157" fill="{color}" font-size="12" font-weight="bold">Solid-State Cell ({val3}% Eff)</text>
-        """
-    elif domain == "ai":
-        color = "#38bdf8"
-        bg_accent = "rgba(56, 189, 248, 0.08)"
-        chart_title = "NEURAL MODEL RECURSIVE BENCHMARKS"
-        svg_bars = f"""
-          <rect x="50" y="60" width="{val1 * 4}" height="24" rx="4" fill="#64748b"/>
-          <text x="{val1 * 4 + 60}" y="77" fill="#94a3b8" font-size="12" font-weight="bold">Base LLM ({val1}%)</text>
-          
-          <rect x="50" y="100" width="{val2 * 4}" height="24" rx="4" fill="#818cf8"/>
-          <text x="{val2 * 4 + 60}" y="117" fill="#818cf8" font-size="12" font-weight="bold">Swarm Agent ({val2}%)</text>
-          
-          <rect x="50" y="140" width="{val3 * 4}" height="24" rx="4" fill="{color}"/>
-          <text x="{val3 * 4 + 60}" y="157" fill="{color}" font-size="12" font-weight="bold">Synthetica Net ({val3}.4%)</text>
-        """
-    elif domain == "security":
-        color = "#f43f5e"
-        bg_accent = "rgba(244, 63, 94, 0.08)"
-        chart_title = "POST-QUANTUM THREAT & PACKET INSPECTION"
-        svg_bars = f"""
-          <rect x="50" y="60" width="{val1 * 4}" height="24" rx="4" fill="#64748b"/>
-          <text x="{val1 * 4 + 60}" y="77" fill="#94a3b8" font-size="12" font-weight="bold">Legacy IDS ({val1}ms)</text>
-          
-          <rect x="50" y="100" width="{val2 * 4}" height="24" rx="4" fill="#fbbf24"/>
-          <text x="{val2 * 4 + 60}" y="117" fill="#fbbf24" font-size="12" font-weight="bold">Mesh Relay ({val2}ms)</text>
-          
-          <rect x="50" y="140" width="{val3 * 4}" height="24" rx="4" fill="{color}"/>
-          <text x="{val3 * 4 + 60}" y="157" fill="{color}" font-size="12" font-weight="bold">Lattice Shield ({val3}.9% Protected)</text>
-        """
-    elif domain == "hardware":
-        color = "#818cf8"
-        bg_accent = "rgba(129, 140, 248, 0.08)"
-        chart_title = "MICROCHIP THERMAL & FREQUENCY EFFICIENCY"
-        svg_bars = f"""
-          <rect x="50" y="60" width="{val1 * 4}" height="24" rx="4" fill="#64748b"/>
-          <text x="{val1 * 4 + 60}" y="77" fill="#94a3b8" font-size="12" font-weight="bold">Base Silicon ({val1}%)</text>
-          
-          <rect x="50" y="100" width="{val2 * 4}" height="24" rx="4" fill="#38bdf8"/>
-          <text x="{val2 * 4 + 60}" y="117" fill="#38bdf8" font-size="12" font-weight="bold">FinFET Array ({val2}%)</text>
-          
-          <rect x="50" y="140" width="{val3 * 4}" height="24" rx="4" fill="{color}"/>
-          <text x="{val3 * 4 + 60}" y="157" fill="{color}" font-size="12" font-weight="bold">Quantum Substrate ({val3}.8%)</text>
-        """
-    elif domain == "energy":
-        color = "#34d399"
-        bg_accent = "rgba(52, 211, 153, 0.08)"
-        chart_title = "EMISSIONS ACCURACY & SUSTAINABILITY INDEX"
-        svg_bars = f"""
-          <rect x="50" y="60" width="{val1 * 4}" height="24" rx="4" fill="#64748b"/>
-          <text x="{val1 * 4 + 60}" y="77" fill="#94a3b8" font-size="12" font-weight="bold">Manual Reporting ({val1}%)</text>
-          
-          <rect x="50" y="100" width="{val2 * 4}" height="24" rx="4" fill="#38bdf8"/>
-          <text x="{val2 * 4 + 60}" y="117" fill="#38bdf8" font-size="12" font-weight="bold">IoT Telemetry ({val2}%)</text>
-          
-          <rect x="50" y="140" width="{val3 * 4}" height="24" rx="4" fill="{color}"/>
-          <text x="{val3 * 4 + 60}" y="157" fill="{color}" font-size="12" font-weight="bold">Zero-Trust Audit ({val3}.9%)</text>
-        """
-    else:
-        color = "#34d399"
-        bg_accent = "rgba(52, 211, 153, 0.08)"
-        chart_title = "SYSTEM TELEMETRY & ADOPTION INDEX"
-        svg_bars = f"""
-          <rect x="50" y="60" width="{val1 * 4}" height="24" rx="4" fill="#64748b"/>
-          <text x="{val1 * 4 + 60}" y="77" fill="#94a3b8" font-size="12" font-weight="bold">Industry Benchmark ({val1}%)</text>
-          
-          <rect x="50" y="100" width="{val2 * 4}" height="24" rx="4" fill="#38bdf8"/>
-          <text x="{val2 * 4 + 60}" y="117" fill="#38bdf8" font-size="12" font-weight="bold">Field Relay ({val2}%)</text>
-          
-          <rect x="50" y="140" width="{val3 * 4}" height="24" rx="4" fill="{color}"/>
-          <text x="{val3 * 4 + 60}" y="157" fill="{color}" font-size="12" font-weight="bold">Mr. Informer Rating ({val3}.4%)</text>
-        """
+    content_html = f"""
+    <p>{html.escape(safe_snippet)}</p>
 
-    svg_code = f"""
-    <div class="article-infographic-box" style="margin: 24px 0; background: {bg_accent}; border: 1px solid {color}44; border-radius: 12px; padding: 20px;">
-      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;">
-        <span style="font-family: var(--font-heading); font-weight: 800; font-size: 0.82rem; color: {color}; letter-spacing: 1px;">📊 TELEMETRY INFOGRAPHIC: {chart_title}</span>
-        <span style="font-size: 0.72rem; color: var(--text-muted);">Verified Real-Time Signal Data</span>
-      </div>
-      <svg width="100%" height="190" viewBox="0 0 540 190" style="background: rgba(0,0,0,0.25); border-radius: 8px;">
-        <!-- Background Grid Lines -->
-        <line x1="50" y1="40" x2="50" y2="170" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-        <line x1="150" y1="40" x2="150" y2="170" stroke="rgba(255,255,255,0.05)" stroke-dasharray="4"/>
-        <line x1="250" y1="40" x2="250" y2="170" stroke="rgba(255,255,255,0.05)" stroke-dasharray="4"/>
-        <line x1="350" y1="40" x2="350" y2="170" stroke="rgba(255,255,255,0.05)" stroke-dasharray="4"/>
-        <line x1="450" y1="40" x2="450" y2="170" stroke="rgba(255,255,255,0.05)" stroke-dasharray="4"/>
-        
-        {svg_bars}
-      </svg>
+    <div class="article-quote-box">
+      <p>"{html.escape(safe_snippet)}"</p>
+      <cite>— {html.escape(source_name)}</cite>
     </div>
+
+    <h3>What this covers</h3>
+    <p>This is a Mr. Informer briefing on <strong>{html.escape(cleaned_title)}</strong> — a short, human-editable summary of reporting from {html.escape(source_name)}. It's generated with automation and disclosed as such (see our <a href="/terms/">Terms</a>); for full quotes, sourcing, and context, read the original report linked below.</p>
+
+    {source_link_html}
     """
-    return svg_code
+    return content_html
 
 def generate_mr_informer_article(news_item, existing_articles=None):
-    """Synthesize raw RSS news into a full Mr. Informer investigative article."""
+    """Build a Mr. Informer briefing from a real RSS item: honest summary,
+    real attribution + outbound link to the source, no fabricated data."""
     if existing_articles is None:
         existing_articles = []
 
     raw_title = news_item['raw_title']
-    snippet = news_item['snippet'] if news_item['snippet'] else "Recent telemetry reports confirm significant developments in global tech infrastructure."
+    snippet = news_item['snippet'] if news_item['snippet'] else "See the original report for full details."
     category = determine_category(raw_title, snippet)
-    domain = analyze_topic_domain(raw_title, snippet)
-    
+
     # Clean source suffix (e.g. " - TechCrunch")
     cleaned_title = re.sub(r' - [^-]+$', '', raw_title)
     cleaned_title = re.sub(r' \| [^|]+$', '', cleaned_title)
-    article_title = f"Exclusive Intel: {cleaned_title}"
+    article_title = f"Mr. Informer Briefing: {cleaned_title}"
 
-    # Unique ID slug
-    slug_base = re.sub(r'[^a-zA-Z0-9]', '-', cleaned_title.lower())[:40].strip('-')
+    source_url = news_item.get('link', '')
+    source_name = extract_source_name(source_url)
+
+    # Unique slug/ID
+    slug_base = re.sub(r'[^a-zA-Z0-9]', '-', cleaned_title.lower())[:40].strip('-') or "briefing"
     article_id = f"auto-{slug_base}-{int(time.time())}"
 
     # Dynamic Unique Cover Image & Tag Mapping
     img = generate_unique_cover_image(category, cleaned_title, existing_articles)
-    
+
     if category == "AI & Future":
-        tags = ["AI & Future", "Artificial Intelligence", "Deep Learning", "Automation", "Live Scoop"]
+        tags = ["AI & Future", "Artificial Intelligence", "Deep Learning", "Automation"]
     elif category == "Cyber Security":
-        tags = ["Cyber Security", "Zero-Day", "Cryptography", "Network Safety", "Live Scoop"]
+        tags = ["Cyber Security", "Zero-Day", "Cryptography", "Network Safety"]
     elif category == "Deep Dives":
-        tags = ["Deep Dives", "Quantum Computing", "Hardware", "Physics", "Supercomputing"]
+        tags = ["Deep Dives", "Quantum Computing", "Hardware", "Physics"]
     else:
-        tags = ["Tech Pulse", "Spatial Computing", "Wearables", "AR/VR", "Live Scoop"]
+        tags = ["Tech Pulse", "Spatial Computing", "Wearables", "AR/VR"]
 
-    # Format Date
     formatted_date = datetime.now().strftime("%B %d, %Y - %H:%M")
-
-    # Generate Dynamic Inline SVG Infographic
-    svg_infographic = generate_svg_infographic(domain, category, cleaned_title)
-
-    # Domain-specific Key Takeaways and Metrics Tables
-    if domain == "gaming":
-        takeaways = """
-        <li><strong>Stream Protocol:</strong> Direct cloud frame encoding reduces input latency below 45ms across smart displays.</li>
-        <li><strong>Hardware Independence:</strong> Eliminates console dependency by running native app layer on display OS.</li>
-        <li><strong>Ecosystem Impact:</strong> Accelerates the transition toward subscription-based cloud gaming distribution.</li>
-        """
-        table_rows = """
-        <tr><td>Streaming Latency</td><td>Sub-45ms Optimized</td><td>Low Latency</td></tr>
-        <tr><td>Resolution Output</td><td>4K HDR @ 60/120 FPS</td><td>Ultra HD</td></tr>
-        <tr class="highlight-row"><td>Mr. Informer Tech Rating</td><td>94.8% Recommended</td><td>Verified Live</td></tr>
-        """
-    elif domain == "automotive":
-        takeaways = """
-        <li><strong>Powertrain Efficiency:</strong> Thermal management architecture maintains peak torque without range degradation.</li>
-        <li><strong>Grid Dynamics:</strong> Smart charging protocols balance peak energy draw during high-demand hours.</li>
-        <li><strong>Design Philosophy:</strong> Minimalist cabin interfaces prioritize essential driver metrics and HUD response.</li>
-        """
-        table_rows = """
-        <tr><td>Battery Density</td><td>280 Wh/kg Cell</td><td>High Density</td></tr>
-        <tr><td>Fast Charge Rate</td><td>18 Mins to 80%</td><td>Optimal</td></tr>
-        <tr class="highlight-row"><td>Mr. Informer Tech Rating</td><td>96.2% Rating</td><td>Monitored 24/7</td></tr>
-        """
-    elif domain == "ai":
-        takeaways = """
-        <li><strong>Model Throughput:</strong> Multi-agent neural swarms execute token synthesis 3.5x faster than legacy LLMs.</li>
-        <li><strong>Verification Layer:</strong> Closed-loop automated validation reduces hallucination vectors below 0.2%.</li>
-        <li><strong>Agentic Autonomy:</strong> Self-correcting pipelines handle complex multi-step reasoning workflows autonomously.</li>
-        """
-        table_rows = """
-        <tr><td>Inference Speed</td><td>540 Tokens/Sec</td><td>High Velocity</td></tr>
-        <tr><td>Hallucination Vector</td><td>< 0.2% Verified</td><td>Shielded</td></tr>
-        <tr class="highlight-row"><td>Mr. Informer Security Rating</td><td>99.1% Confidence</td><td>Active Monitor</td></tr>
-        """
-    elif domain == "security":
-        takeaways = """
-        <li><strong>Exploit Isolation:</strong> Vulnerability vectors locked down across perimeter edge relays in real-time.</li>
-        <li><strong>Key Rotation:</strong> Automated TLS key rotation prevents session token hijacking and replay attacks.</li>
-        <li><strong>Patch Deployment:</strong> Hotfix patches propagated to connected endpoints without service interruption.</li>
-        """
-        table_rows = """
-        <tr><td>Threat Level</td><td>Mitigated & Contained</td><td>High Priority</td></tr>
-        <tr><td>Encryption Protocol</td><td>Kyber-1024 Lattice</td><td>Post-Quantum</td></tr>
-        <tr class="highlight-row"><td>Mr. Informer Security Rating</td><td>99.8% Protected</td><td>Active Defense</td></tr>
-        """
-    elif domain == "hardware":
-        takeaways = """
-        <li><strong>Architectural Refinement:</strong> Reduced micro-architectural bottlenecks under sustained computing loads.</li>
-        <li><strong>Power Efficiency:</strong> Advanced node fabrication decreases thermal dissipation requirements by 28%.</li>
-        <li><strong>Fidelity Benchmark:</strong> Stress-tested against continuous multi-hour operational loads.</li>
-        """
-        table_rows = """
-        <tr><td>Thermal Output</td><td>38°C Idle / 62°C Load</td><td>Optimal Thermal</td></tr>
-        <tr><td>Efficiency Rating</td><td>Grade A+ Benchmark</td><td>High Efficiency</td></tr>
-        <tr class="highlight-row"><td>Component Fidelity</td><td>99.8% Verified</td><td>Hardware Verified</td></tr>
-        """
-    elif domain == "energy":
-        takeaways = """
-        <li><strong>Monitoring Precision:</strong> Automated IoT sensors replace manual reporting with continuous telemetry.</li>
-        <li><strong>Regulatory Advantage:</strong> Real-time compliance tracking mitigates audit penalties and unlocks ESG credits.</li>
-        <li><strong>Grid Synchronization:</strong> Dynamic power allocation reduces peak energy expenditure by 22%.</li>
-        """
-        table_rows = """
-        <tr><td>Sensor Precision</td><td>99.9% Telemetry Accuracy</td><td>Certified</td></tr>
-        <tr><td>Energy Reduction</td><td>22% Dynamic Savings</td><td>High Return</td></tr>
-        <tr class="highlight-row"><td>Compliance Score</td><td>100% Audit Verified</td><td>Active Monitoring</td></tr>
-        """
-    else:
-        takeaways = """
-        <li><strong>Immediate Impact:</strong> Rapid deployment of automated monitoring scripts to isolate potential regressions.</li>
-        <li><strong>Architectural Shift:</strong> Security and dev teams are advised to verify TLS session keys and rate limits.</li>
-        <li><strong>Market Telemetry:</strong> Industry analysts predict an accelerated adoption cycle following this milestone.</li>
-        """
-        table_rows = """
-        <tr><td>Telemetry Verification</td><td>Verified Live</td><td>High Priority</td></tr>
-        <tr><td>Network Propagation</td><td>Global Edge Relays</td><td>Active</td></tr>
-        <tr class="highlight-row"><td>Mr. Informer Rating</td><td>98.4% Confidence</td><td>Monitored 24/7</td></tr>
-        """
-
-    # Generate Rich Article HTML Content with Embedded Infographic
-    content_html = f"""
-    <h2>Breaking Investigation: {cleaned_title}</h2>
-    <p>In our latest real-time dispatch, Mr. Informer has analyzed fresh industry signals and raw telemetry regarding <strong>{cleaned_title}</strong>.</p>
-    
-    <div class="article-quote-box">
-      <p>"{snippet}"</p>
-      <cite>— Live News Wire Telemetry Feed</cite>
-    </div>
-
-    {svg_infographic}
-
-    <h3>Technical Analysis & Key Takeaways</h3>
-    <p>Our investigative desk evaluated the immediate architectural and operational impacts of this disclosure across enterprise systems and global networks:</p>
-
-    <ul>
-      {takeaways}
-    </ul>
-
-    <h3>Automated Metrics & System Status</h3>
-    <table class="article-data-table">
-      <thead>
-        <tr>
-          <th>Metric Domain</th>
-          <th>Observed Status</th>
-          <th>Impact Rating</th>
-        </tr>
-      </thead>
-      <tbody>
-        {table_rows}
-      </tbody>
-    </table>
-
-    <h2>Looking Ahead</h2>
-    <p>Mr. Informer will continue tracking secondary updates from field engineers and private disclosures regarding <strong>{cleaned_title}</strong>. Stay tuned to the live dispatch feed for minute-by-minute updates.</p>
-    """
-
-    summary = f"Mr. Informer investigative breakdown on {cleaned_title}. {snippet[:120]}..."
+    content_html = build_article_content(cleaned_title, snippet, source_name, source_url)
+    summary = f"Mr. Informer briefing on {cleaned_title}, summarizing reporting from {source_name}."
 
     article = {
         "id": article_id,
+        "slug": article_id,
         "title": article_title,
         "category": category,
-        "readTime": "4 min read",
+        "readTime": "3 min read",
         "date": formatted_date,
         "author": {
             "name": "Mr. Informer",
@@ -553,16 +377,12 @@ def generate_mr_informer_article(news_item, existing_articles=None):
         "image": img,
         "tags": tags,
         "summary": summary,
-        "claps": random.randint(150, 650),
-        "views": f"{random.randint(2, 9)}.{random.randint(1, 9)}K",
+        "sourceName": source_name,
+        "sourceUrl": source_url,
+        "claps": 0,
+        "views": "New",
         "content": content_html,
-        "comments": [
-            {
-                "name": "Auto-System Monitor",
-                "date": "Just now",
-                "text": "Automated workflow parsed and customized this breaking scoop from verified global RSS feeds."
-            }
-        ]
+        "comments": []
     }
     return article
 
@@ -593,56 +413,49 @@ def is_duplicate_article(raw_title, existing_articles):
     """Check if a raw title or synthesized title already exists in existing articles list."""
     clean_t = re.sub(r' - [^-]+$', '', raw_title).strip()
     clean_t = re.sub(r' \| [^|]+$', '', clean_t).strip()
-    candidate_title = f"Exclusive Intel: {clean_t}".lower()
+    candidate_title = f"Mr. Informer Briefing: {clean_t}".lower()
 
     existing_titles_norm = set()
     for a in existing_articles:
         t = a.get('title', '').lower().strip()
         existing_titles_norm.add(t)
-        raw_t = re.sub(r'^exclusive intel:\s*', '', t)
-        existing_titles_norm.add(raw_t)
+        # Strip both the current and the old (pre-rewrite) title prefixes so
+        # articles published before this rewrite still count as duplicates.
+        existing_titles_norm.add(re.sub(r'^mr\. informer briefing:\s*', '', t))
+        existing_titles_norm.add(re.sub(r'^exclusive intel:\s*', '', t))
 
     return candidate_title in existing_titles_norm or clean_t.lower() in existing_titles_norm
 
-def run_sync():
-    """Fetch RSS items, create article, and update articles.json & articles.js."""
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Running automated news search workflow...")
+def pick_next_story(existing_articles=None):
+    """Fetch RSS items and return the first one that isn't a duplicate of an
+    existing article, or None if there's nothing new right now. Deliberately
+    has no fabricated fallback — a quiet cycle with no publish is normal and
+    expected, unlike the old version which invented a fake headline here."""
+    if existing_articles is None:
+        existing_articles = load_existing_articles()
 
     items = fetch_rss_items()
     if not items:
-        print("[Workflow Warning] No news items retrieved from RSS feeds. Using fallback template...")
-        items = [{
-            'raw_title': 'Autonomous Neural Swarms Achieved Zero-Latency Edge Processing',
-            'link': 'https://mrinformer.tech/scoop',
-            'pubDate': '',
-            'snippet': 'Next-generation micro-neural models operating on edge relays demonstrate unprecedented real-time data processing speeds.'
-        }]
+        print("[Workflow] No RSS items retrieved this cycle.")
+        return None
 
-    existing_articles = load_existing_articles()
-
-    selected_item = None
     for item in items:
         if not is_duplicate_article(item['raw_title'], existing_articles):
-            selected_item = item
-            break
+            return item
 
+    print("[Workflow] No new (non-duplicate) stories found this cycle.")
+    return None
+
+def run_sync():
+    """Fetch RSS items, create at most one article, and update articles.json
+    & articles.js. Returns None (without publishing anything) if there's no
+    genuinely new story to report."""
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Running automated news search workflow...")
+
+    existing_articles = load_existing_articles()
+    selected_item = pick_next_story(existing_articles)
     if not selected_item:
-        import random
-        fallback_topics = [
-            "Autonomous AI Swarms Achieve Zero-Latency Edge Processing Milestones",
-            "Post-Quantum Lattice Cryptography Breaches Sealed Across Edge Relays",
-            "Next-Generation 100K Qubit Supercomputing Arrays Pass Stability Benchmarks",
-            "Spatial Neural Wearables Set Thermal Micro-Architectural Output Records",
-            "Zero-Trust Micro-Kernel Architecture Patched Against Perimeter Exploits"
-        ]
-        base_topic = random.choice(fallback_topics)
-        raw_title = f"{base_topic} [Dispatch #{datetime.now().strftime('%H:%M')}]"
-        selected_item = {
-            "raw_title": raw_title,
-            "link": "https://mrinformer.tech/scoop",
-            "pubDate": "",
-            "snippet": "Latest investigative telemetry confirms significant performance breakthroughs and zero-latency stability across enterprise infrastructure."
-        }
+        return None
 
     new_article = generate_mr_informer_article(selected_item, existing_articles=existing_articles)
 
@@ -652,21 +465,24 @@ def run_sync():
     print(f"✅ Published New Article: '{new_article['title']}' ({new_article['category']})")
     return new_article
 
-def start_daemon(interval_seconds=3600):
-    """Run the workflow continuously every hour (3600 seconds)."""
-    print(f"🚀 Starting Mr. Informer Automated Hourly News Dispatch Daemon (Interval: {interval_seconds}s)")
+def start_daemon(interval_seconds=None):
+    """Run the workflow continuously (default: every 3 hours). Only used for
+    local/manual runs — production scheduling is the GitHub Actions cron."""
+    if interval_seconds is None:
+        interval_seconds = int(os.getenv("RSS_SWEEP_INTERVAL", "10800"))
+    print(f"🚀 Starting Mr. Informer Automated News Dispatch Daemon (Interval: {interval_seconds}s)")
     while True:
         try:
             run_sync()
         except Exception as e:
             print(f"[Workflow Error] Execution error: {e}")
-        print(f"⏰ Sleeping for {interval_seconds // 60} minutes until next auto-publish cycle...\n")
+        print(f"⏰ Sleeping for {interval_seconds // 60} minutes until next cycle...\n")
         time.sleep(interval_seconds)
 
 if __name__ == "__main__":
     import sys
     if "--daemon" in sys.argv:
-        start_daemon(3600)
+        start_daemon()
     else:
         run_sync()
 

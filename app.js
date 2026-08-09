@@ -204,7 +204,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="hero-meta">
             <span>${heroArticle.category || 'Tech Pulse'}</span> • <span>${heroArticle.readTime || '4 min read'}</span>
           </div>
-          <h2 class="hero-title">${heroArticle.title || 'Exclusive Intel'}</h2>
+          <h2 class="hero-title">${heroArticle.title || 'Untitled Brief'}</h2>
           <p class="hero-summary">${heroArticle.summary || ''}</p>
           <div style="display: flex; align-items: center; justify-content: space-between; margin-top: auto;">
             <div class="author-row">
@@ -214,18 +214,28 @@ document.addEventListener("DOMContentLoaded", () => {
                 <p>${heroArticle.date || ''}</p>
               </div>
             </div>
-            <button class="btn btn-primary read-article-btn" data-id="${heroArticle.id}">Read Brief →</button>
+            <a href="/articles/${getArticleSlug(heroArticle)}/" class="btn btn-primary article-link" data-id="${heroArticle.id}">Read Brief →</a>
           </div>
         </div>
       </div>
     `;
 
-    const btn = heroSection.querySelector(".read-article-btn");
+    const btn = heroSection.querySelector(".article-link");
     if (btn) {
-      btn.addEventListener("click", () => {
-        openReader(heroArticle.id);
-      });
+      btn.addEventListener("click", (e) => openArticleLink(e, heroArticle.id));
     }
+  }
+
+  // Real, crawlable URLs power sharing/SEO; a click without modifier keys
+  // still opens the fast in-page reader instead of a full navigation.
+  function getArticleSlug(art) {
+    return (art && (art.slug || art.id)) || "";
+  }
+
+  function openArticleLink(e, id) {
+    if (e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1) return;
+    e.preventDefault();
+    openReader(id);
   }
 
   // ==========================================
@@ -257,6 +267,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     articlesGrid.innerHTML = filtered.map(art => {
       const isSaved = savedArticles.includes(art.id);
+      const slug = getArticleSlug(art);
       return `
         <article class="article-card">
           <div class="card-img-wrapper">
@@ -268,7 +279,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <span>${art.date || ''}</span>
               <span>${art.readTime || '4 min read'}</span>
             </div>
-            <h3 class="card-title">${art.title || 'Exclusive Intel'}</h3>
+            <h3 class="card-title"><a href="/articles/${slug}/" class="article-link" data-id="${art.id}">${art.title || 'Untitled Brief'}</a></h3>
             <p class="card-summary">${art.summary || ''}</p>
             <div class="card-footer">
               <span>👀 ${art.views || '1.2K'}</span>
@@ -276,7 +287,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <button class="action-btn bookmark-btn ${isSaved ? 'active' : ''}" data-id="${art.id}" title="Bookmark">
                   ${isSaved ? '🔖 Saved' : '🔖 Save'}
                 </button>
-                <button class="btn btn-secondary read-btn" data-id="${art.id}" style="padding: 6px 14px; font-size: 0.8rem;">Read</button>
+                <a href="/articles/${slug}/" class="btn btn-secondary article-link" data-id="${art.id}" style="padding: 6px 14px; font-size: 0.8rem;">Read</a>
               </div>
             </div>
           </div>
@@ -285,8 +296,8 @@ document.addEventListener("DOMContentLoaded", () => {
     }).join("");
 
     // Attach Event Listeners to Article Cards
-    articlesGrid.querySelectorAll(".read-btn").forEach(btn => {
-      btn.addEventListener("click", () => openReader(btn.getAttribute("data-id")));
+    articlesGrid.querySelectorAll(".article-link").forEach(btn => {
+      btn.addEventListener("click", (e) => openArticleLink(e, btn.getAttribute("data-id")));
     });
 
     articlesGrid.querySelectorAll(".bookmark-btn").forEach(btn => {
@@ -475,7 +486,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Share Button
   shareBtn.addEventListener("click", () => {
-    navigator.clipboard.writeText(window.location.href);
+    const shareUrl = currentActiveArticle
+      ? `${window.location.origin}/articles/${getArticleSlug(currentActiveArticle)}/`
+      : window.location.href;
+    navigator.clipboard.writeText(shareUrl);
     alert("Article link copied to clipboard! Share securely.");
   });
 
@@ -683,16 +697,16 @@ document.addEventListener("DOMContentLoaded", () => {
   const cmsCancelEditBtn = document.getElementById("cmsCancelEditBtn");
   const cmsSubmitBtn = document.getElementById("cmsSubmitBtn");
 
-  // Master Admin Credentials
-  const MASTER_ADMIN_USER = "admin";
-  const MASTER_ADMIN_PASS = "informer2026";
-
+  // Admin auth is delegated to Supabase Auth (see supabase_client.js:
+  // supabaseAdminSignIn/getAdminSession). There is no password stored here —
+  // access is enforced server-side by the `admins` table + RLS policies in
+  // supabase_schema.sql, not by anything the browser can see or fake.
   const adminUsernameInput = document.getElementById("adminUsernameInput");
   const adminLoginAlert = document.getElementById("adminLoginAlert");
   const cmsLogoutBtn = document.getElementById("cmsLogoutBtn");
 
   function triggerAdminAuthCheck() {
-    if (sessionStorage.getItem("mr_informer_admin") === "true") {
+    if (window.getAdminSession && window.getAdminSession()) {
       openCmsDashboard();
     } else {
       if (adminLoginAlert) adminLoginAlert.style.display = "none";
@@ -719,38 +733,40 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   if (adminLoginForm) {
-    adminLoginForm.addEventListener("submit", (e) => {
+    adminLoginForm.addEventListener("submit", async (e) => {
       e.preventDefault();
-      const enteredUser = adminUsernameInput ? adminUsernameInput.value.trim() : "";
+      const enteredEmail = adminUsernameInput ? adminUsernameInput.value.trim() : "";
       const enteredPass = adminPasswordInput ? adminPasswordInput.value.trim() : "";
+      const submitBtn = adminLoginForm.querySelector("button[type=submit]");
 
-      if (
-        (enteredUser === MASTER_ADMIN_USER || enteredUser.toLowerCase() === "admin") &&
-        (enteredPass === MASTER_ADMIN_PASS || enteredPass === "informer2026")
-      ) {
-        sessionStorage.setItem("mr_informer_admin", "true");
+      if (adminLoginAlert) adminLoginAlert.style.display = "none";
+      if (submitBtn) submitBtn.disabled = true;
+
+      try {
+        await window.supabaseAdminSignIn(enteredEmail, enteredPass);
         if (adminUsernameInput) adminUsernameInput.value = "";
         if (adminPasswordInput) adminPasswordInput.value = "";
-        if (adminLoginAlert) adminLoginAlert.style.display = "none";
         adminLoginModal.classList.remove("active");
         showToastNotification("🟢 Admin Authenticated Successfully! Welcome Mr. Informer.");
         openCmsDashboard();
-      } else {
+      } catch (err) {
         if (adminLoginAlert) {
-          adminLoginAlert.textContent = "❌ Access Denied: Invalid Admin Username or Password!";
+          adminLoginAlert.textContent = "❌ Access Denied: " + (err.message || "Invalid email or password.");
           adminLoginAlert.style.display = "block";
         }
         if (adminPasswordInput) {
           adminPasswordInput.style.borderColor = "#f43f5e";
           adminPasswordInput.focus();
         }
+      } finally {
+        if (submitBtn) submitBtn.disabled = false;
       }
     });
   }
 
   if (cmsLogoutBtn) {
     cmsLogoutBtn.addEventListener("click", () => {
-      sessionStorage.removeItem("mr_informer_admin");
+      window.supabaseAdminSignOut();
       cmsDashboardModal.classList.remove("active");
       showToastNotification("🔒 Admin CMS Session Locked & Logged Out.");
     });
@@ -952,6 +968,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const id = cmsEditArticleId.value || ("cms-" + Date.now());
       const title = cmsTitleInput.value.trim();
+      const slug = cmsEditArticleId.value
+        ? (articles.find(a => a.id === id) || {}).slug || id
+        : (title.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 60) || "brief") + "-" + Date.now();
       const category = cmsCategorySelect.value;
       const readTime = cmsReadTimeInput.value.trim();
       const image = cmsImageSelect.value;
@@ -964,6 +983,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const articleObj = {
         id: id,
+        slug: slug,
         title: title,
         category: category,
         readTime: readTime,

@@ -1,0 +1,10 @@
+# This file authorizes who is allowed to sell ad inventory on this site.
+# Google AdSense requires it once you're approved.
+#
+# After you're approved for AdSense, replace pub-0000000000000000 below with
+# YOUR real publisher ID (found in AdSense under Account > Settings > Account
+# information), then delete this comment block. Until then, leave this file
+# as-is — an incorrect placeholder ID here will not pass AdSense's ads.txt
+# check, but neither will a missing file, so keep this in place as a marker.
+#
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

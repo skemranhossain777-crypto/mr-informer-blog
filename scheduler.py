@@ -9,7 +9,7 @@ sys.path.insert(0, BASE_DIR)
 
 import news_workflow
 
-DEFAULT_INTERVAL_SECONDS = int(os.getenv("RSS_SWEEP_INTERVAL", "300"))  # Default 5 minutes
+DEFAULT_INTERVAL_SECONDS = int(os.getenv("RSS_SWEEP_INTERVAL", "10800"))  # Default 3 hours
 
 def run_schedule(interval_seconds=DEFAULT_INTERVAL_SECONDS):
     """Automated scheduling daemon that triggers news checks and posts breaking articles."""

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-8-best-workout-headphones---earbuds--bea-1786271601",
+    "slug": "auto-8-best-workout-headphones---earbuds--bea-1786271601",
+    "title": "Mr. Informer Briefing: 8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026)",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 09, 2026 - 10:33",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "Chief Investigative Tech Analyst",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech579854/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on 8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026), summarizing reporting from Wired.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/the-best-workout-headphones-and-earbuds/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p>Not every great pair of headphones belongs in the gym. These do, thanks to their secure fit, durable design, and impeccable sound.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Not every great pair of headphones belongs in the gym. These do, thanks to their secure fit, durable design, and impeccable sound.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>8 Best Workout Headphones &amp; Earbuds: Beats, Bose, Apple (2026)</strong> \u2014 a short, human-editable summary of reporting from Wired. It's generated with automation and disclosed as such (see our <a href=\"/terms/\">Terms</a>); for full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/the-best-workout-headphones-and-earbuds/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-12-best-anime-to-watch-if-you-think-1786271457",
     "slug": "auto-the-12-best-anime-to-watch-if-you-think-1786271457",
     "title": "Mr. Informer Briefing: The 12 Best Anime to Watch if You Think You Hate Anime",

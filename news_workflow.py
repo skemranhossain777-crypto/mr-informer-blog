@@ -68,12 +68,17 @@ SOURCE_FRIENDLY_NAMES = {
     "spectrum.ieee.org": "IEEE Spectrum",
     "tomshardware.com": "Tom's Hardware",
     "scitechdaily.com": "SciTechDaily",
-    "anandtech.com": "AnandTech",
     "news.google.com": "Google News",
     "hnrss.org": "Hacker News",
     "arxiv.org": "arXiv",
     "rss.arxiv.org": "arXiv",
     "mit.edu": "MIT",
+    "news.mit.edu": "MIT News",
+    "theregister.com": "The Register",
+    "techmeme.com": "Techmeme",
+    "cisa.gov": "CISA",
+    "siliconangle.com": "SiliconANGLE",
+    "cnet.com": "CNET",
 }
 
 def extract_source_name(link):
@@ -119,13 +124,18 @@ RSS_FEEDS = [
     "https://mashable.com/feeds/rss/all",
     "https://lifehacker.com/rss",
     
+    "https://www.theregister.com/headlines.atom",
+    "https://www.techmeme.com/feed.xml",
+    "https://www.cnet.com/rss/news/",
+
     # AI & Deep Learning Feeds
     "https://news.google.com/rss/search?q=artificial+intelligence+llm+neural+networks+openai+deepmind&hl=en-US&gl=US&ceid=US:en",
     "https://dev.to/feed/tag/ai",
     "https://dev.to/feed/tag/machinelearning",
-    "https://mit.edu/rss/topic/artificial-intelligence",
+    "https://news.mit.edu/rss/topic/artificial-intelligence2",
     "https://rss.arxiv.org/rss/cs.AI",
     "https://rss.arxiv.org/rss/cs.CL",
+    "https://siliconangle.com/feed/",
 
     # Cyber Security & Zero-Day Exploits
     "https://news.google.com/rss/search?q=cybersecurity+zero-day+vulnerability+exploit+ransomware&hl=en-US&gl=US&ceid=US:en",
@@ -136,13 +146,15 @@ RSS_FEEDS = [
     "https://thehackernews.com/feeds/posts/default",
     "https://dev.to/feed/tag/security",
     "https://dev.to/feed/tag/cybersecurity",
+    "https://www.theregister.com/security/headlines.atom",
+    "https://www.cisa.gov/cybersecurity-advisories/all.xml",
 
     # Quantum Computing & Hardware Deep Dives
     "https://news.google.com/rss/search?q=quantum+computing+semiconductors+microprocessors+supercomputers&hl=en-US&gl=US&ceid=US:en",
     "https://spectrum.ieee.org/rss/fulltext",
     "https://www.tomshardware.com/feeds/all",
     "https://scitechdaily.com/feed/",
-    "https://www.anandtech.com/rss/",
+    "https://news.mit.edu/rss/research",
     "https://dev.to/feed/tag/hardware",
 
     # Developer & Tech Pulse
@@ -151,8 +163,25 @@ RSS_FEEDS = [
     "https://news.google.com/rss/search?q=spatial+computing+neural+wearables+robotics&hl=en-US&gl=US&ceid=US:en"
 ]
 
+def _local_tag(tag):
+    """Strip an XML namespace prefix off a tag, e.g. '{http://...}item' -> 'item'."""
+    return tag.split('}')[-1] if '}' in tag else tag
+
+def _child_text(elem, names):
+    """First direct child of elem whose local tag is in `names`, preferring its
+    text content and falling back to an href attribute (for Atom <link> tags)."""
+    for child in elem:
+        if _local_tag(child.tag) in names:
+            if child.text and child.text.strip():
+                return child.text.strip()
+            href = child.attrib.get('href')
+            if href:
+                return href
+    return ""
+
 def fetch_rss_single(feed_url):
-    """Fetch and parse a single RSS feed with timeout."""
+    """Fetch and parse a single feed with timeout. Handles plain RSS 2.0,
+    namespaced RSS 1.0/RDF (e.g. Slashdot), and Atom (e.g. The Register)."""
     items = []
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) MrInformer/2026'}
     try:
@@ -160,12 +189,16 @@ def fetch_rss_single(feed_url):
         with urllib.request.urlopen(req, timeout=6) as response:
             xml_data = fix_mojibake(response.read())
             root = ET.fromstring(xml_data)
-            
-            for item in root.findall('.//item')[:8]:
-                title = item.findtext('title') or ""
-                link = item.findtext('link') or ""
-                pubDate = item.findtext('pubDate') or ""
-                description = item.findtext('description') or ""
+
+            # Wildcard-namespace match covers RSS 2.0 <item>, RSS 1.0/RDF
+            # <item> (default-namespaced), and falls back to Atom <entry>.
+            entries = root.findall('.//{*}item')[:8] or root.findall('.//{*}entry')[:8]
+
+            for item in entries:
+                title = _child_text(item, {'title'})
+                link = _child_text(item, {'link'})
+                pubDate = _child_text(item, {'pubDate', 'published', 'updated', 'date'})
+                description = _child_text(item, {'description', 'summary', 'content', 'encoded'})
 
                 clean_desc = html.unescape(re.sub('<[^<]+?>', '', description)).strip()
                 clean_title = html.unescape(title).strip()

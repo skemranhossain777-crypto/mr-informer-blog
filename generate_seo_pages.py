@@ -91,11 +91,17 @@ def fetch_supabase_articles():
             "category": r.get("category", "Tech Pulse"),
             "readTime": r.get("read_time", "3 min read"),
             "date": r.get("date", ""),
-            "author": r.get("author") or {"name": "Mr. Informer"},
+            "author": r.get("author") or {"name": "Mr. Informer", "title": "Chief Investigative Tech Analyst", "avatar": "assets/author_avatar.jpg"},
+            "featured": bool(r.get("featured", False)),
             "image": r.get("image", "assets/hero_tech_cyber.jpg"),
             "tags": r.get("tags") or [],
             "summary": r.get("summary", ""),
+            "sourceName": r.get("source_name") or "",
+            "sourceUrl": r.get("source_url") or "",
+            "claps": r.get("claps", 0),
+            "views": r.get("views", "New"),
             "content": r.get("content", ""),
+            "comments": r.get("comments") or [],
         })
     return articles
 

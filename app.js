@@ -1102,7 +1102,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const config = JSON.parse(localStorage.getItem("mr_informer_site_config")) || {
       branding: {
         title: "Mr. Informer Blog",
-        badge: "MI",
         tagline: "Uncensored Tech Intelligence & Deep Investigations",
         tickerText: "⚡ Autonomous AI swarms refactor code in under 90 seconds • ⚡ Quantum 100k qubit chip breaches silicon barrier • ⚡ Edge zero-day mesh exploit patched by DevSecOps teams • ⚡ Spatial neural glasses set to replace smartphones by Q4",
         authorName: "Mr. Informer",
@@ -1145,9 +1144,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const brandTitleEl = document.querySelector(".brand-title");
     if (brandTitleEl) brandTitleEl.innerHTML = `${config.branding.title.split(" ")[0]} <span>${config.branding.title.split(" ").slice(1).join(" ")}</span>`;
     
-    const logoBadgeEl = document.querySelector(".logo-badge");
-    if (logoBadgeEl) logoBadgeEl.textContent = config.branding.badge;
-
     const tickerContentEl = document.getElementById("tickerContent");
     if (tickerContentEl) tickerContentEl.textContent = config.branding.tickerText;
 
@@ -1200,7 +1196,6 @@ document.addEventListener("DOMContentLoaded", () => {
       
       config.branding = {
         title: document.getElementById("brandingTitleInput").value.trim(),
-        badge: document.getElementById("brandingBadgeInput").value.trim(),
         tagline: document.getElementById("brandingTaglineInput").value.trim(),
         tickerText: document.getElementById("brandingTickerInput").value.trim(),
         authorName: document.getElementById("brandingAuthorNameInput").value.trim(),

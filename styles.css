@@ -182,18 +182,13 @@ body {
   text-decoration: none;
 }
 
-.logo-badge {
+.logo-badge-img {
   width: 42px;
   height: 42px;
   border-radius: 12px;
-  background: var(--gradient-brand);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 800;
-  font-size: 1.3rem;
-  color: #000;
+  object-fit: cover;
   box-shadow: var(--shadow-glow);
+  flex-shrink: 0;
 }
 
 .brand-title {

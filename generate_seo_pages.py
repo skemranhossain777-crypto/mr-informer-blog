@@ -120,6 +120,8 @@ def render_head(title, description, canonical_url, image_url, extra_meta=""):
     return f"""<title>{html.escape(title)}</title>
   <meta name="description" content="{html.escape(description)}">
   <link rel="canonical" href="{canonical_url}">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon-180.png">
   <meta property="og:title" content="{html.escape(title)}">
   <meta property="og:description" content="{html.escape(description)}">
   <meta property="og:image" content="{image_url}">
@@ -138,7 +140,7 @@ def render_chrome_header():
     return """<header class="site-header">
     <div class="container nav-wrapper">
       <a href="/" class="brand-logo">
-        <div class="logo-badge">MI</div>
+        <img src="/assets/logo-nav.png" alt="Mr. Informer" class="logo-badge-img">
         <div class="brand-title">Mr. Informer <span>Blog</span></div>
       </a>
     </div>
@@ -150,7 +152,7 @@ def render_chrome_footer():
     <div class="container footer-grid">
       <div class="footer-col">
         <a href="/" class="brand-logo" style="margin-bottom: 16px;">
-          <div class="logo-badge">MI</div>
+          <img src="/assets/logo-nav.png" alt="Mr. Informer" class="logo-badge-img">
           <div class="brand-title">Mr. Informer <span>Blog</span></div>
         </a>
         <p style="font-size: 0.88rem; color: var(--text-secondary); line-height: 1.6;">
@@ -212,7 +214,7 @@ def render_article_page(article, all_articles):
         "publisher": {
             "@type": "Organization",
             "name": SITE_NAME,
-            "logo": {"@type": "ImageObject", "url": absolute_url("assets/author_avatar.jpg")}
+            "logo": {"@type": "ImageObject", "url": absolute_url("assets/logo.png")}
         },
         "mainEntityOfPage": {"@type": "WebPage", "@id": canonical_url}
     }

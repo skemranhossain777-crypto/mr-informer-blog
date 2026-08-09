@@ -843,6 +843,20 @@ body {
   margin-top: 10px;
 }
 
+.ai-disclosure-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(148, 163, 184, 0.12);
+  border: 1px solid rgba(148, 163, 184, 0.35);
+  color: var(--text-secondary);
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: var(--radius-full);
+  margin: 10px 0 20px 0;
+}
+
 .article-data-table {
   width: 100%;
   border-collapse: collapse;

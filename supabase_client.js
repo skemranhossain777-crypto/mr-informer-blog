@@ -110,10 +110,10 @@ async function fetchArticlesFromSupabase() {
     
     // Map Supabase column names back to frontend article structure safely
     return dbArticles.map(a => {
-      let authorObj = { name: "Mr. Informer", title: "Chief Investigative Tech Analyst", avatar: "assets/author_avatar.jpg" };
+      let authorObj = { name: "Mr. Informer", title: "AI-Assisted Briefing Desk", avatar: "assets/author_avatar.jpg" };
       if (a.author) {
         if (typeof a.author === "string") {
-          try { authorObj = JSON.parse(a.author); } catch(e) { authorObj = { name: a.author, title: "Investigative Tech Analyst", avatar: "assets/author_avatar.jpg" }; }
+          try { authorObj = JSON.parse(a.author); } catch(e) { authorObj = { name: a.author, title: "AI-Assisted Briefing Desk", avatar: "assets/author_avatar.jpg" }; }
         } else if (typeof a.author === "object" && a.author !== null) {
           authorObj = { ...authorObj, ...a.author };
         }
@@ -214,10 +214,10 @@ window.addArticleToSupabase = async function(article) {
       category: article.category || "Tech Pulse",
       read_time: article.readTime || "4 min read",
       date: article.date,
-      author: article.author || { name: "Mr. Informer", title: "Chief Investigative Tech Analyst", avatar: "assets/author_avatar.jpg" },
+      author: article.author || { name: "Mr. Informer", title: "AI-Assisted Briefing Desk", avatar: "assets/author_avatar.jpg" },
       featured: Boolean(article.featured),
       image: article.image || "assets/hero_tech_cyber.jpg",
-      tags: article.tags || ["Live Scoop"],
+      tags: article.tags || ["Tech Pulse"],
       summary: article.summary,
       source_name: article.sourceName || null,
       source_url: article.sourceUrl || null,

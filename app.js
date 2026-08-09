@@ -1035,15 +1035,15 @@ document.addEventListener("DOMContentLoaded", () => {
         date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
         author: {
           name: "Mr. Informer",
-          title: "Chief Investigative Tech Analyst",
+          title: "AI-Assisted Briefing Desk",
           avatar: "assets/author_avatar.jpg"
         },
         featured: false,
         image: image,
         tags: tags,
         summary: summary,
-        claps: existingIdx >= 0 ? cmsArticles[existingIdx].claps : 100,
-        views: existingIdx >= 0 ? cmsArticles[existingIdx].views : "1.2K",
+        claps: existingIdx >= 0 ? cmsArticles[existingIdx].claps : 0,
+        views: existingIdx >= 0 ? cmsArticles[existingIdx].views : "New",
         content: content,
         comments: existingIdx >= 0 ? cmsArticles[existingIdx].comments : []
       };
@@ -1149,8 +1149,8 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "Mr. Informer Blog",
         tagline: "Curated Tech, AI & Cybersecurity Briefings",
         authorName: "Mr. Informer",
-        authorTitle: "Chief Investigative Tech Analyst",
-        authorBio: "Investigative Tech Analyst & Data Journalist uncovering hidden algorithms, zero-day vulnerabilities, and future hardware.",
+        authorTitle: "AI-Assisted Briefing Desk",
+        authorBio: "An AI-assisted briefing desk that summarizes real reporting from 40+ trusted tech, AI, and cybersecurity outlets — always disclosed, always linked back to the source.",
         authorAvatar: "assets/author_avatar.jpg",
         social: "@MrInformerTech"
       },

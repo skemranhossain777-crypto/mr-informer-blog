@@ -91,7 +91,7 @@ def fetch_supabase_articles():
             "category": r.get("category", "Tech Pulse"),
             "readTime": r.get("read_time", "3 min read"),
             "date": r.get("date", ""),
-            "author": r.get("author") or {"name": "Mr. Informer", "title": "Chief Investigative Tech Analyst", "avatar": "assets/author_avatar.jpg"},
+            "author": r.get("author") or {"name": "Mr. Informer", "title": "AI-Assisted Briefing Desk", "avatar": "assets/author_avatar.jpg"},
             "featured": bool(r.get("featured", False)),
             "image": r.get("image", "assets/hero_tech_cyber.jpg"),
             "tags": r.get("tags") or [],
@@ -240,7 +240,8 @@ def render_article_page(article, all_articles):
     <div style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 8px;">
       {html.escape(article.get('category', 'Tech Pulse'))} • {html.escape(article.get('readTime', '3 min read'))} • {html.escape(article.get('date', ''))}
     </div>
-    <h1 style="font-family: var(--font-heading); font-size: 2rem; margin-bottom: 20px;">{html.escape(title)}</h1>
+    <h1 style="font-family: var(--font-heading); font-size: 2rem; margin-bottom: 8px;">{html.escape(title)}</h1>
+    <p class="ai-disclosure-badge">🤖 AI-assisted summary of third-party reporting — see our <a href="/terms/">AI use policy</a></p>
     <article class="article-body-content">
       {article.get('content', '')}
     </article>

@@ -342,6 +342,8 @@ def build_article_content(cleaned_title, snippet, source_name, source_url):
     )
 
     content_html = f"""
+    <p class="ai-disclosure-badge">🤖 AI-assisted summary of third-party reporting — see our <a href="/terms/">AI use policy</a></p>
+
     <p>{html.escape(safe_snippet)}</p>
 
     <div class="article-quote-box">
@@ -350,7 +352,7 @@ def build_article_content(cleaned_title, snippet, source_name, source_url):
     </div>
 
     <h3>What this covers</h3>
-    <p>This is a Mr. Informer briefing on <strong>{html.escape(cleaned_title)}</strong> — a short, human-editable summary of reporting from {html.escape(source_name)}. It's generated with automation and disclosed as such (see our <a href="/terms/">Terms</a>); for full quotes, sourcing, and context, read the original report linked below.</p>
+    <p>This is a Mr. Informer briefing on <strong>{html.escape(cleaned_title)}</strong> — a short, automation-assisted summary of reporting from {html.escape(source_name)}. For full quotes, sourcing, and context, read the original report linked below.</p>
 
     {source_link_html}
     """
@@ -403,7 +405,7 @@ def generate_mr_informer_article(news_item, existing_articles=None):
         "date": formatted_date,
         "author": {
             "name": "Mr. Informer",
-            "title": "Chief Investigative Tech Analyst",
+            "title": "AI-Assisted Briefing Desk",
             "avatar": "assets/author_avatar.jpg"
         },
         "featured": False,

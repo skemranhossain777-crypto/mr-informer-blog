@@ -99,7 +99,7 @@
     <div class="container" style="display: flex; align-items: center;">
       <span class="ticker-label">LIVE SCOOP</span>
       <div class="ticker-text" id="tickerContent">
-        ⚡ Autonomous AI swarms refactor code in under 90 seconds • ⚡ Quantum 100k qubit chip breaches silicon barrier • ⚡ Edge zero-day mesh exploit patched by DevSecOps teams • ⚡ Spatial neural glasses set to replace smartphones by Q4
+        Loading latest briefings...
       </div>
     </div>
   </div>
@@ -175,15 +175,7 @@
         <!-- Popular Tags Cloud -->
         <div class="widget">
           <h3 class="widget-title">Trending Tags</h3>
-          <div class="tags-cloud" id="tagsCloud">
-            <button class="tag-btn" data-tag="Artificial Intelligence">#ArtificialIntelligence</button>
-            <button class="tag-btn" data-tag="Cyber Security">#CyberSecurity</button>
-            <button class="tag-btn" data-tag="Quantum Computing">#Quantum</button>
-            <button class="tag-btn" data-tag="Deep Learning">#DeepLearning</button>
-            <button class="tag-btn" data-tag="Wearables">#Wearables</button>
-            <button class="tag-btn" data-tag="Automation">#Automation</button>
-            <button class="tag-btn" data-tag="Live Scoop">#LiveScoop</button>
-          </div>
+          <div class="tags-cloud" id="tagsCloud"></div>
         </div>
       </aside>
     </div>
@@ -494,11 +486,6 @@
               <input type="text" id="brandingTaglineInput" class="cms-input" value="Uncensored Tech Intelligence & Deep Investigations">
             </div>
 
-            <div class="cms-form-group full-width">
-              <label>Live Breaking Ticker Items (Bullet Separated)</label>
-              <textarea id="brandingTickerInput" class="cms-textarea" style="min-height: 80px;">⚡ Autonomous AI swarms refactor code in under 90 seconds • ⚡ Quantum 100k qubit chip breaches silicon barrier • ⚡ Edge zero-day mesh exploit patched by DevSecOps teams • ⚡ Spatial neural glasses set to replace smartphones by Q4</textarea>
-            </div>
-
             <div class="cms-form-group">
               <label>Author Profile Name</label>
               <input type="text" id="brandingAuthorNameInput" class="cms-input" value="Mr. Informer">
@@ -636,7 +623,10 @@
       <!-- Tab 6: RSS Automation Scope -->
       <div class="cms-tab-content" id="cmsTabAutomation">
         <h4 style="margin-bottom: 12px; color: var(--accent-emerald);">📡 Active RSS Feeds & Ingestion Scope</h4>
-        
+        <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 16px; padding: 10px 14px; background: rgba(251, 191, 36, 0.08); border: 1px solid rgba(251, 191, 36, 0.3); border-radius: 8px;">
+          ⚠️ Reference only — saving here does not change the live ingestion workflow. The real RSS sources and schedule live in <code>news_workflow.py</code> (<code>RSS_FEEDS</code>) and <code>.github/workflows/rss_ingestion.yml</code> in the repo.
+        </p>
+
         <form id="cmsAutomationForm">
           <div class="cms-form-group full-width">
             <label>Active RSS Feed URLs (Line Separated)</label>
@@ -647,7 +637,7 @@ https://hnrss.org/newest?points=100</textarea>
           <div class="cms-form-grid">
             <div class="cms-form-group">
               <label>Auto-Publish Interval (Seconds)</label>
-              <input type="number" id="automationIntervalInput" class="cms-input" value="3600">
+              <input type="number" id="automationIntervalInput" class="cms-input" value="10800">
             </div>
 
             <div class="cms-form-group">

@@ -78,6 +78,8 @@ document.addEventListener("DOMContentLoaded", () => {
           updateSavedCount();
           if (typeof renderHero === "function") renderHero();
           if (typeof renderArticles === "function") renderArticles();
+          if (typeof renderTicker === "function") renderTicker();
+          if (typeof renderTrendingTags === "function") renderTrendingTags();
         }
       });
     }
@@ -128,6 +130,8 @@ document.addEventListener("DOMContentLoaded", () => {
         updateSavedCount();
         renderHero();
         renderArticles();
+        renderTicker();
+        renderTrendingTags();
       })
       .catch(err => {
         console.log("Using static articles dataset fallback.", err);
@@ -135,6 +139,8 @@ document.addEventListener("DOMContentLoaded", () => {
         updateSavedCount();
         renderHero();
         renderArticles();
+        renderTicker();
+        renderTrendingTags();
       });
   }
 
@@ -309,6 +315,53 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // ==========================================
+  // 3b. Live Ticker & Trending Tags
+  // Both driven entirely by the real, currently-loaded articles — no
+  // hardcoded claims. Re-run every time articles refresh (initial load,
+  // Supabase sync, and the 15s poll), so they stay current automatically.
+  // ==========================================
+  function renderTicker() {
+    if (!articles.length) return;
+    const items = articles.slice(0, 8).map(a => `⚡ ${a.title.replace(/^Mr\. Informer Briefing:\s*/i, "")}`);
+    const tickerEl = document.getElementById("tickerContent");
+    if (tickerEl) tickerEl.textContent = items.join("  •  ");
+  }
+
+  function renderTrendingTags() {
+    const tagsCloud = document.getElementById("tagsCloud");
+    if (!tagsCloud) return;
+
+    const counts = {};
+    articles.forEach(a => {
+      (Array.isArray(a.tags) ? a.tags : []).forEach(tag => {
+        counts[tag] = (counts[tag] || 0) + 1;
+      });
+    });
+
+    const topTags = Object.entries(counts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 7)
+      .map(([tag]) => tag);
+
+    if (topTags.length === 0) {
+      tagsCloud.innerHTML = "";
+      return;
+    }
+
+    tagsCloud.innerHTML = topTags.map(tag =>
+      `<button class="tag-btn ${tag === activeTag ? 'active' : ''}" data-tag="${tag}">#${tag.replace(/[^a-zA-Z0-9]/g, "")}</button>`
+    ).join("");
+
+    tagsCloud.querySelectorAll(".tag-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        activeTag = activeTag === btn.getAttribute("data-tag") ? null : btn.getAttribute("data-tag");
+        renderArticles();
+        renderTrendingTags();
+      });
+    });
+  }
+
+  // ==========================================
   // 4. Category & Search Filtering
   // ==========================================
   document.addEventListener("click", (e) => {
@@ -332,14 +385,6 @@ document.addEventListener("DOMContentLoaded", () => {
   searchInput.addEventListener("input", (e) => {
     searchQuery = e.target.value;
     renderArticles();
-  });
-
-  // Tag Cloud Clicks
-  document.querySelectorAll(".tag-btn").forEach(btn => {
-    btn.addEventListener("click", () => {
-      activeTag = btn.getAttribute("data-tag");
-      renderArticles();
-    });
   });
 
   // Manual Sync Button
@@ -1102,8 +1147,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const config = JSON.parse(localStorage.getItem("mr_informer_site_config")) || {
       branding: {
         title: "Mr. Informer Blog",
-        tagline: "Uncensored Tech Intelligence & Deep Investigations",
-        tickerText: "⚡ Autonomous AI swarms refactor code in under 90 seconds • ⚡ Quantum 100k qubit chip breaches silicon barrier • ⚡ Edge zero-day mesh exploit patched by DevSecOps teams • ⚡ Spatial neural glasses set to replace smartphones by Q4",
+        tagline: "Curated Tech, AI & Cybersecurity Briefings",
         authorName: "Mr. Informer",
         authorTitle: "Chief Investigative Tech Analyst",
         authorBio: "Investigative Tech Analyst & Data Journalist uncovering hidden algorithms, zero-day vulnerabilities, and future hardware.",
@@ -1116,8 +1160,8 @@ document.addEventListener("DOMContentLoaded", () => {
         showWhistleblower: true,
         showTags: true,
         showAnnouncement: false,
-        announcementTitle: "⚡ EXCLUSIVE INVESTIGATIVE DISPATCH",
-        announcementText: "Mr. Informer Q3 Special Telemetry Report on Quantum Supremacy is now live. Access unredacted logs.",
+        announcementTitle: "📢 Announcement",
+        announcementText: "Add your announcement text here in the admin panel before enabling this banner.",
         announcementBtn: "Read Special Report →"
       },
       automation: {
@@ -1144,9 +1188,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const brandTitleEl = document.querySelector(".brand-title");
     if (brandTitleEl) brandTitleEl.innerHTML = `${config.branding.title.split(" ")[0]} <span>${config.branding.title.split(" ").slice(1).join(" ")}</span>`;
     
-    const tickerContentEl = document.getElementById("tickerContent");
-    if (tickerContentEl) tickerContentEl.textContent = config.branding.tickerText;
-
     const authorWidgetNameEl = document.querySelector(".author-widget-name");
     if (authorWidgetNameEl) authorWidgetNameEl.textContent = config.branding.authorName;
 
@@ -1197,7 +1238,6 @@ document.addEventListener("DOMContentLoaded", () => {
       config.branding = {
         title: document.getElementById("brandingTitleInput").value.trim(),
         tagline: document.getElementById("brandingTaglineInput").value.trim(),
-        tickerText: document.getElementById("brandingTickerInput").value.trim(),
         authorName: document.getElementById("brandingAuthorNameInput").value.trim(),
         authorTitle: document.getElementById("brandingAuthorTitleInput").value.trim(),
         authorBio: document.getElementById("brandingAuthorBioInput").value.trim(),

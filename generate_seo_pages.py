@@ -226,11 +226,8 @@ def render_article_page(article, all_articles):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {head}
-  <!-- Google AdSense: uncomment after approval, with your real publisher ID
-       (also fill it into ads.txt). -->
-  <!--
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
-  -->
+  <!-- Google AdSense (Auto ads) -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5604509489162955" crossorigin="anonymous"></script>
 </head>
 <body>
   <div class="bg-ambient-glow"></div>
@@ -249,7 +246,7 @@ def render_article_page(article, all_articles):
     <!-- AdSense in-article slot: uncomment after approval and set your
          ad-slot ID (also requires the loader script in <head>). -->
     <!--
-    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" data-ad-slot="0000000000" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5604509489162955" data-ad-slot="0000000000" data-ad-format="auto" data-full-width-responsive="true"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
     -->
 

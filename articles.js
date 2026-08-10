@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-peer-review-is-overwhelmed-can-it-surviv-1786365729",
+    "slug": "auto-peer-review-is-overwhelmed-can-it-surviv-1786365729",
+    "title": "Mr. Informer Briefing: Peer review is overwhelmed\u2014can it survive in the AI era?",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 10, 2026 - 12:42",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech170837/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Peer review is overwhelmed\u2014can it survive in the AI era?, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Peer review is overwhelmed\u2014can it survive in the AI era?</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-made-by-google-2026--how-to-watch-and-wh-1786356487",
     "slug": "auto-made-by-google-2026--how-to-watch-and-wh-1786356487",
     "title": "Mr. Informer Briefing: Made by Google 2026: How to watch and what to expect from at the Pixel 11 event",

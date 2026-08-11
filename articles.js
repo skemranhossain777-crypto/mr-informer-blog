@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-ars-live--ross-scott-discusses-the-stop-1786430707",
+    "slug": "auto-ars-live--ross-scott-discusses-the-stop-1786430707",
+    "title": "Mr. Informer Briefing: Ars Live: Ross Scott discusses the Stop Killing Games movement",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 11, 2026 - 06:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech262321/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Ars Live: Ross Scott discusses the Stop Killing Games movement, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Our discussion takes place live on August 11 at 3 pm ET.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Our discussion takes place live on August 11 at 3 pm ET.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Ars Live: Ross Scott discusses the Stop Killing Games movement</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-openai-reportedly-completed-a--7-billion-1786421454",
     "slug": "auto-openai-reportedly-completed-a--7-billion-1786421454",
     "title": "Mr. Informer Briefing: OpenAI reportedly completed a $7 billion employee tender offer",

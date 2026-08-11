@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-razer-naga-v3-pro-review--buttons-galore-1786463316",
+    "slug": "auto-razer-naga-v3-pro-review--buttons-galore-1786463316",
+    "title": "Mr. Informer Briefing: Razer Naga V3 Pro Review: Buttons Galore",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 11, 2026 - 15:48",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech620049/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Razer Naga V3 Pro Review: Buttons Galore, summarizing reporting from Wired.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/review/razer-naga-v3-pro/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>The PC gaming world has tried to move on from bulky, heavier mice, but the Naga V3 Pro proves that it still has its place.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The PC gaming world has tried to move on from bulky, heavier mice, but the Naga V3 Pro proves that it still has its place.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Razer Naga V3 Pro Review: Buttons Galore</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/review/razer-naga-v3-pro/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-trump-signs-bonkers-order-that-cuts-vacc-1786451896",
     "slug": "auto-trump-signs-bonkers-order-that-cuts-vacc-1786451896",
     "title": "Mr. Informer Briefing: Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",

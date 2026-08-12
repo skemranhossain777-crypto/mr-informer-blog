@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-white-house-is-going-to-expand-its-a-1786570432",
+    "slug": "auto-the-white-house-is-going-to-expand-its-a-1786570432",
+    "title": "Mr. Informer Briefing: The White House Is Going to Expand Its AI Policy",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 12, 2026 - 21:33",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech436042/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on The White House Is Going to Expand Its AI Policy, summarizing reporting from Wired.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The White House Is Going to Expand Its AI Policy</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-chatgpt--what-s-free-in-2026-and-what-is-1786560350",
     "slug": "auto-chatgpt--what-s-free-in-2026-and-what-is-1786560350",
     "title": "Mr. Informer Briefing: ChatGPT: What's free in 2026 and what isn't?",

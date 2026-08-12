@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-def-con-crowd-suspected-in-fake-hotspot-1786528393",
+    "slug": "auto-def-con-crowd-suspected-in-fake-hotspot-1786528393",
+    "title": "Mr. Informer Briefing: DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 12, 2026 - 09:53",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech459563/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on DEF CON crowd suspected in fake-hotspot attack on Delta flight, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>FBI Atlanta confirms it&#x27;s looking into the incident, no arrests made.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"FBI Atlanta confirms it&#x27;s looking into the incident, no arrests made.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>DEF CON crowd suspected in fake-hotspot attack on Delta flight</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-oneplus-promo-codes--30--off-august-2026-1786518395",
     "slug": "auto-oneplus-promo-codes--30--off-august-2026-1786518395",
     "title": "Mr. Informer Briefing: OnePlus Promo Codes: 30% Off August 2026",

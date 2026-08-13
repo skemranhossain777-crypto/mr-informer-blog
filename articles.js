@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-private-security-firms-will-soon-be-allo-1786656820",
+    "slug": "auto-private-security-firms-will-soon-be-allo-1786656820",
+    "title": "Mr. Informer Briefing: Private security firms will soon be allowed to hack overseas cybercriminals",
+    "category": "Cyber Security",
+    "readTime": "1 min read",
+    "date": "August 13, 2026 - 21:33",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech998734/1200/800",
+    "tags": [
+      "Cyber Security",
+      "Zero-Day",
+      "Cryptography",
+      "Network Safety"
+    ],
+    "summary": "Mr. Informer briefing on Private security firms will soon be allowed to hack overseas cybercriminals, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Trump memo is first time gov&#x27;t has authorized private sector to perform cyber attacks.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Private security firms will soon be allowed to hack overseas cybercriminals</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>This marks a historic shift in national cybersecurity strategy by officially enlisting private companies to conduct offensive digital operations against foreign targets. As cyber threats continue to outpace the capacity of traditional government agencies, integrating private-sector muscle into international cyber warfare could redefine how nations respond to digital adversaries. However, this blurring of lines between state-sponsored operations and commercial enterprise also raises complex questions regarding accountability, escalation, and oversight in cyberspace.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-i-finally-found-a-robot-lawnmower-i-d-tr-1786646758",
     "slug": "auto-i-finally-found-a-robot-lawnmower-i-d-tr-1786646758",
     "title": "Mr. Informer Briefing: I finally found a robot lawnmower I\u2019d trust with my yard",

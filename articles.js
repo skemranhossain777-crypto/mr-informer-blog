@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-ai-nuclear-power-firm-fermi-finally-has-1786617931",
+    "slug": "auto-ai-nuclear-power-firm-fermi-finally-has-1786617931",
+    "title": "Mr. Informer Briefing: AI nuclear power firm Fermi finally has a new CEO",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 13, 2026 - 10:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech401456/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on AI nuclear power firm Fermi finally has a new CEO, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Lee McIntire, an independent member of Fermi&#x27;s board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>AI nuclear power firm Fermi finally has a new CEO</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-have-physicists-finally-discovered-glueb-1786617386",
     "slug": "auto-have-physicists-finally-discovered-glueb-1786617386",
     "title": "Mr. Informer Briefing: Have physicists finally discovered glueballs? New evidence points to yes.",
@@ -24,7 +52,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Have physicists finally discovered glueballs? New evidence points to yes.</strong> — a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">\u201cIt\u2019s the strongest evidence yet that particles dominated by a glueball component can exist in nature.\u201d</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Have physicists finally discovered glueballs? New evidence points to yes.</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -52,13 +80,13 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://www.wired.com/story/heat-wave-schizophrenia/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">People with schizophrenia face a perfect storm of dangers on a hotter planet.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>In a Heat Wave, Schizophrenia Is So Much Deadlier Than Any Other Medical Condition</strong> — a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>As global temperatures rise, extreme heat presents severe health risks that extend beyond typical physical ailments. Individuals with schizophrenia face disproportionately high dangers and mortality during heat waves, making extreme weather a particularly deadly threat for this population. Understanding these unique vulnerabilities is crucial for building targeted public safety measures and climate adaptation strategies to protect high-risk groups.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/heat-wave-schizophrenia/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">People with schizophrenia face a perfect storm of dangers on a hotter\u00a0planet.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>In a Heat Wave, Schizophrenia Is So Much Deadlier Than Any Other Medical Condition</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>As global temperatures rise, extreme heat presents severe health risks that extend beyond typical physical ailments. Individuals with schizophrenia face disproportionately high dangers and mortality during heat waves, making extreme weather a particularly deadly threat for this population. Understanding these unique vulnerabilities is crucial for building targeted public safety measures and climate adaptation strategies to protect high-risk groups.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/heat-wave-schizophrenia/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
     "comments": []
   },
   {
     "id": "auto-pixel-11-event-live-blog--let-s-watch-tr-1786615989",
     "slug": "auto-pixel-11-event-live-blog--let-s-watch-tr-1786615989",
-    "title": "Mr. Informer Briefing: Pixel 11 event live blog: Let’s watch Trevor Noah introduce Google’s new phones",
+    "title": "Mr. Informer Briefing: Pixel 11 event live blog: Let\u2019s watch Trevor Noah introduce Google\u2019s new phones",
     "category": "Deep Dives",
     "readTime": "1 min read",
     "date": "August 13, 2026 - 10:13",
@@ -75,18 +103,18 @@ const ARTICLES_DATA = [
       "Hardware",
       "Physics"
     ],
-    "summary": "Mr. Informer briefing on Pixel 11 event live blog: Let’s watch Trevor Noah introduce Google’s new phones, summarizing reporting from The Verge.",
+    "summary": "Mr. Informer briefing on Pixel 11 event live blog: Let\u2019s watch Trevor Noah introduce Google\u2019s new phones, summarizing reporting from The Verge.",
     "sourceName": "The Verge",
     "sourceUrl": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">It&#x27;s almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Like last year, it&#x27;ll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication, today&#x27;s broadcast might be something of a cringefest. […]\"</p>\n      <cite>— The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Pixel 11 event live blog: Let’s watch Trevor Noah introduce Google’s new phones</strong> — a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">It&#x27;s almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Like last year, it&#x27;ll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication, today&#x27;s broadcast might be something of a cringefest. [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Pixel 11 event live blog: Let\u2019s watch Trevor Noah introduce Google\u2019s new phones</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
     "comments": []
   },
   {
     "id": "auto-some-claude-users-are-mad-that-anthropic-1786615199",
     "slug": "auto-some-claude-users-are-mad-that-anthropic-1786615199",
-    "title": "Mr. Informer Briefing: Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+    "title": "Mr. Informer Briefing: Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 13, 2026 - 09:59",
@@ -103,12 +131,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes, summarizing reporting from TechCrunch.",
+    "summary": "Mr. Informer briefing on Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes, summarizing reporting from TechCrunch.",
     "sourceName": "TechCrunch",
     "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Is Anthropic&#x27;s new watermarking system a travesty?</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Some have taken to social media to complain that it is.\"</p>\n      <cite>— TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes</strong> — a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Is Anthropic&#x27;s new watermarking system a travesty?</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Some have taken to social media to complain that it is.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -136,13 +164,13 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://dev.to/zxpmail/the-third-predicate-argument-space-verification-tested-3gfh",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The Third Predicate: Argument-Space Verification, Tested\n\n\nAgent Determinism Illusions (Part 10)\n\nPart 8 ended with a three-stage pipeline — evidence gate → contract regex → per-requirement LLM — and a patched framing: t</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Third Predicate: Argument-Space Verification, Tested</strong> — a short, automation-assisted summary of reporting from DEV Community. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://dev.to/zxpmail/the-third-predicate-argument-space-verification-tested-3gfh\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">DEV Community →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The Third Predicate: Argument-Space Verification, Tested\n\n\nAgent Determinism Illusions (Part 10)\n\nPart 8 ended with a three-stage pipeline \u2014 evidence gate \u2192 contract regex \u2192 per-requirement LLM \u2014 and a patched framing: t</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Third Predicate: Argument-Space Verification, Tested</strong> \u2014 a short, automation-assisted summary of reporting from DEV Community. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://dev.to/zxpmail/the-third-predicate-argument-space-verification-tested-3gfh\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">DEV Community \u2192</a></p>\n    ",
     "comments": []
   },
   {
     "id": "auto-the-web-s-newest-weapon-against-ai-scrap-1786605006",
     "slug": "auto-the-web-s-newest-weapon-against-ai-scrap-1786605006",
-    "title": "Mr. Informer Briefing: The web’s newest weapon against AI scrapers is a font",
+    "title": "Mr. Informer Briefing: The web\u2019s newest weapon against AI scrapers is a font",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 13, 2026 - 07:10",
@@ -159,12 +187,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on The web’s newest weapon against AI scrapers is a font. “ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+    "summary": "Mr. Informer briefing on The web\u2019s newest weapon against AI scrapers is a font. \u201cShieldFont\u201d aims to poison AI training data without making pages unreadable for people.",
     "sourceName": "Ars Technica",
     "sourceUrl": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">“ShieldFont” aims to poison AI training data without making pages unreadable for people.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The web’s newest weapon against AI scrapers is a font</strong> — a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">\u201cShieldFont\u201d aims to poison AI training data without making pages unreadable for people.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The web\u2019s newest weapon against AI scrapers is a font</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -192,7 +220,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Boy&#x27;s unusual symptoms could help identify the next case sooner.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Toddler&#x27;s tragic death from brain-destroying amoeba offers lessons for doctors</strong> — a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Boy&#x27;s unusual symptoms could help identify the next case sooner.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Toddler&#x27;s tragic death from brain-destroying amoeba offers lessons for doctors</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -215,12 +243,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on The Best Photos of the Big August Solar Eclipse. It’s been a century since the Iberian Peninsula has been in the full shadow of the moon. Here’s what it looked like in t",
+    "summary": "Mr. Informer briefing on The Best Photos of the Big August Solar Eclipse. It\u2019s been a century since the Iberian Peninsula has been in the full shadow of the moon. Here\u2019s what it looked like in t",
     "sourceName": "Wired",
     "sourceUrl": "https://www.wired.com/story/best-photos-august-solar-eclipse-spain/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">It’s been a century since the Iberian Peninsula has been in the full shadow of the moon.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here’s what it looked like in the path of totality.\"</p>\n      <cite>— Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Best Photos of the Big August Solar Eclipse</strong> — a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/best-photos-august-solar-eclipse-spain/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">It\u2019s been a century since the Iberian Peninsula has been in the full shadow of the moon.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here\u2019s what it looked like in the path of totality.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Best Photos of the Big August Solar Eclipse</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/best-photos-august-solar-eclipse-spain/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -248,7 +276,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The White House Is Going to Expand Its AI Policy</strong> — a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The White House Is Going to Expand Its AI Policy</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -276,7 +304,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://www.engadget.com/2234173/chatgpt-free-features-2026/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">As of August 2026, you can send unlimited texts to ChatGPT.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>ChatGPT: What&#x27;s free in 2026 and what isn&#x27;t?</strong> — a short, automation-assisted summary of reporting from Engadget. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.engadget.com/2234173/chatgpt-free-features-2026/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Engadget →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">As of August 2026, you can send unlimited texts to ChatGPT.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>ChatGPT: What&#x27;s free in 2026 and what isn&#x27;t?</strong> \u2014 a short, automation-assisted summary of reporting from Engadget. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.engadget.com/2234173/chatgpt-free-features-2026/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Engadget \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -304,13 +332,13 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>How a $250 million acquisition collapsed into allegations of fraud and forged signatures</strong> — a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>How a $250 million acquisition collapsed into allegations of fraud and forged signatures</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
     "comments": []
   },
   {
     "id": "auto-honor-s-robot-phone-is-better-than-a-gim-1786538501",
     "slug": "auto-honor-s-robot-phone-is-better-than-a-gim-1786538501",
-    "title": "Mr. Informer Briefing: Honor’s Robot Phone is better than a gimbal in a phone has any right to be",
+    "title": "Mr. Informer Briefing: Honor\u2019s Robot Phone is better than a gimbal in a phone has any right to be",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 12, 2026 - 12:41",
@@ -327,12 +355,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Honor’s Robot Phone is better than a gimbal in a phone has any right to be. The Robot Phone, which launches today in China, doesn't sound like a good idea - and not only because it's not actually ",
+    "summary": "Mr. Informer briefing on Honor\u2019s Robot Phone is better than a gimbal in a phone has any right to be. The Robot Phone, which launches today in China, doesn't sound like a good idea - and not only because it's not actually ",
     "sourceName": "The Verge",
     "sourceUrl": "https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The Robot Phone, which launches today in China, doesn&#x27;t sound like a good idea - and not only because it&#x27;s not actually a robot.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Instead it&#x27;s a regular Android smartphone with its main camera installed on a compact gimba\"</p>\n      <cite>— The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Honor’s Robot Phone is better than a gimbal in a phone has any right to be</strong> — a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The Robot Phone, which launches today in China, doesn&#x27;t sound like a good idea - and not only because it&#x27;s not actually a robot.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Instead it&#x27;s a regular Android smartphone with its main camera installed on a compact gimba\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Honor\u2019s Robot Phone is better than a gimbal in a phone has any right to be</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -360,7 +388,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">FBI Atlanta confirms it&#x27;s looking into the incident, no arrests made.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>DEF CON crowd suspected in fake-hotspot attack on Delta flight</strong> — a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">FBI Atlanta confirms it&#x27;s looking into the incident, no arrests made.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>DEF CON crowd suspected in fake-hotspot attack on Delta flight</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -388,13 +416,13 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://www.wired.com/story/oneplus-promo-code/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Save 30% with a OnePlus coupon in August 2026, plus save up to 10% on earbuds, phones, and more.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>OnePlus Promo Codes: 30% Off August 2026</strong> — a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/oneplus-promo-code/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Save 30% with a OnePlus coupon in August 2026, plus save up to 10% on earbuds, phones, and more.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>OnePlus Promo Codes: 30% Off August 2026</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/oneplus-promo-code/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
     "comments": []
   },
   {
     "id": "auto-india-s-yulu-raises--93m-as-quick-commer-1786509625",
     "slug": "auto-india-s-yulu-raises--93m-as-quick-commer-1786509625",
-    "title": "Mr. Informer Briefing: India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+    "title": "Mr. Informer Briefing: India\u2019s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 12, 2026 - 04:40",
@@ -411,18 +439,18 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand. Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logisti",
+    "summary": "Mr. Informer briefing on India\u2019s Yulu raises $93M as quick-commerce boom fuels e-bike demand. Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logisti",
     "sourceName": "TechCrunch",
     "sourceUrl": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand</strong> — a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>India\u2019s Yulu raises $93M as quick-commerce boom fuels e-bike demand</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
     "comments": []
   },
   {
     "id": "auto-saber-denies-replacing-rideshare-stimula-1786496346",
     "slug": "auto-saber-denies-replacing-rideshare-stimula-1786496346",
-    "title": "Mr. Informer Briefing: Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+    "title": "Mr. Informer Briefing: Saber denies replacing Rideshare Stimulator\u2019s writers with ChatGPT",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 12, 2026 - 00:59",
@@ -439,12 +467,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Saber denies replacing Rideshare Stimulator’s writers with ChatGPT. After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Un",
+    "summary": "Mr. Informer briefing on Saber denies replacing Rideshare Stimulator\u2019s writers with ChatGPT. After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Un",
     "sourceName": "The Verge",
     "sourceUrl": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">After a former lead writer claimed Saber &quot;replaced me with ChatGPT,&quot; CEO Matthew Karch now claims, &quot;Neither Saber nor Unigine have replaced any writers with AI,&quot; for the Rideshare &quot;Stimulator&quot; game announced last month,</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Saber denies replacing Rideshare Stimulator’s writers with ChatGPT</strong> — a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">After a former lead writer claimed Saber &quot;replaced me with ChatGPT,&quot; CEO Matthew Karch now claims, &quot;Neither Saber nor Unigine have replaced any writers with AI,&quot; for the Rideshare &quot;Stimulator&quot; game announced last month,</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Saber denies replacing Rideshare Stimulator\u2019s writers with ChatGPT</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -467,12 +495,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Is It Safe to Eat Lettuce Yet?. “That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” on",
+    "summary": "Mr. Informer briefing on Is It Safe to Eat Lettuce Yet?. \u201cThat product is off the market, so I think there\u2019s absolutely lower risk for cyclospora in terms of eating lettuce,\u201d on",
     "sourceName": "Wired",
     "sourceUrl": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">“That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” one professor of food safety tells WIRED.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Is It Safe to Eat Lettuce Yet?</strong> — a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">\u201cThat product is off the market, so I think there\u2019s absolutely lower risk for cyclospora in terms of eating lettuce,\u201d one professor of food safety tells WIRED.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Is It Safe to Eat Lettuce Yet?</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -500,7 +528,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://www.zdnet.com/article/microsoft-word-1-1a-windows/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Longing for a plain, old-fashioned version of Microsoft Word without all the bells, whistles, and AI slop?</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"One developer managed to coax Word 1.1a to run on today&#x27;s Windows.\"</p>\n      <cite>— ZDNet</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>A developer got Word 1.1a from 1990 to run on Windows 11</strong> — a short, automation-assisted summary of reporting from ZDNet. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.zdnet.com/article/microsoft-word-1-1a-windows/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ZDNet →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Longing for a plain, old-fashioned version of Microsoft Word without all the bells, whistles, and AI slop?</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"One developer managed to coax Word 1.1a to run on today&#x27;s Windows.\"</p>\n      <cite>\u2014 ZDNet</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>A developer got Word 1.1a from 1990 to run on Windows 11</strong> \u2014 a short, automation-assisted summary of reporting from ZDNet. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.zdnet.com/article/microsoft-word-1-1a-windows/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ZDNet \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -528,7 +556,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://www.wired.com/review/razer-naga-v3-pro/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The PC gaming world has tried to move on from bulky, heavier mice, but the Naga V3 Pro proves that it still has its place.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Razer Naga V3 Pro Review: Buttons Galore</strong> — a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/review/razer-naga-v3-pro/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The PC gaming world has tried to move on from bulky, heavier mice, but the Naga V3 Pro proves that it still has its place.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Razer Naga V3 Pro Review: Buttons Galore</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/review/razer-naga-v3-pro/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -556,7 +584,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Trump falsely claimed the MMR vaccine is &quot;quite lethal&quot; and linked shots to autism.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Trump signs bonkers order that cuts vaccines, promotes ones that don&#x27;t exist</strong> — a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Trump falsely claimed the MMR vaccine is &quot;quite lethal&quot; and linked shots to autism.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Trump signs bonkers order that cuts vaccines, promotes ones that don&#x27;t exist</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -584,7 +612,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Meta has been trailing competitors.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Zuckerberg thinks he&#x27;s found a way forward.\"</p>\n      <cite>— Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>With new open models, Meta pitches another reboot of its struggling AI strategy</strong> — a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Meta has been trailing competitors.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Zuckerberg thinks he&#x27;s found a way forward.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>With new open models, Meta pitches another reboot of its struggling AI strategy</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -612,7 +640,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Our discussion takes place live on August 11 at 3 pm ET.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Ars Live: Ross Scott discusses the Stop Killing Games movement</strong> — a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Our discussion takes place live on August 11 at 3 pm ET.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Ars Live: Ross Scott discusses the Stop Killing Games movement</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -640,13 +668,13 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">San Francisco&#x27;s housing market is in trouble again.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>OpenAI reportedly completed a $7 billion employee tender offer</strong> — a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">San Francisco&#x27;s housing market is in trouble again.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>OpenAI reportedly completed a $7 billion employee tender offer</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
     "comments": []
   },
   {
     "id": "auto-mark-zuckerberg-doesn-t-understand-how-t-1786409549",
     "slug": "auto-mark-zuckerberg-doesn-t-understand-how-t-1786409549",
-    "title": "Mr. Informer Briefing: Mark Zuckerberg doesn’t understand how to live",
+    "title": "Mr. Informer Briefing: Mark Zuckerberg doesn\u2019t understand how to live",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 11, 2026 - 00:52",
@@ -663,12 +691,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Mark Zuckerberg doesn’t understand how to live. Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which",
+    "summary": "Mr. Informer briefing on Mark Zuckerberg doesn\u2019t understand how to live. Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which",
     "sourceName": "The Verge",
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Recently, a man I was rock climbing with told me about how he&#x27;d used AI to make a motivational poster for himself, which he&#x27;d hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said,</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Mark Zuckerberg doesn’t understand how to live</strong> — a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Recently, a man I was rock climbing with told me about how he&#x27;d used AI to make a motivational poster for himself, which he&#x27;d hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said,</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Mark Zuckerberg doesn\u2019t understand how to live</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -696,7 +724,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">California&#x27;s Prop 40, would impose a one-time 5% tax on the net worth of the state&#x27;s billionaires.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax</strong> — a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">California&#x27;s Prop 40, would impose a one-time 5% tax on the net worth of the state&#x27;s billionaires.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -724,7 +752,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Aptoide becomes the first rival app store to return to Google Play in the US</strong> — a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Aptoide becomes the first rival app store to return to Google Play in the US</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -752,13 +780,13 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Battery materials startup Sila will use a $1.4 billion loan from the U.S.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Department of Defense to scale production at its factory in Washington State.\"</p>\n      <cite>— TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Sila lands $1.4B Pentagon loan as militaries demand more batteries</strong> — a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Battery materials startup Sila will use a $1.4 billion loan from the U.S.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Department of Defense to scale production at its factory in Washington State.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Sila lands $1.4B Pentagon loan as militaries demand more batteries</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
     "comments": []
   },
   {
     "id": "auto-peer-review-is-overwhelmed-can-it-surviv-1786365729",
     "slug": "auto-peer-review-is-overwhelmed-can-it-surviv-1786365729",
-    "title": "Mr. Informer Briefing: Peer review is overwhelmed—can it survive in the AI era?",
+    "title": "Mr. Informer Briefing: Peer review is overwhelmed\u2014can it survive in the AI era?",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 10, 2026 - 12:42",
@@ -775,12 +803,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Peer review is overwhelmed—can it survive in the AI era?. As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
+    "summary": "Mr. Informer briefing on Peer review is overwhelmed\u2014can it survive in the AI era?. As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
     "sourceName": "Ars Technica",
     "sourceUrl": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Peer review is overwhelmed—can it survive in the AI era?</strong> — a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Peer review is overwhelmed\u2014can it survive in the AI era?</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -808,13 +836,13 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://www.zdnet.com/article/what-to-expect-rumors-made-by-google-2026/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Google is set to announce its Pixel 11 series phones - here&#x27;s what we know.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Made by Google 2026: How to watch and what to expect from at the Pixel 11 event</strong> — a short, automation-assisted summary of reporting from ZDNet. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.zdnet.com/article/what-to-expect-rumors-made-by-google-2026/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ZDNet →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Google is set to announce its Pixel 11 series phones - here&#x27;s what we know.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Made by Google 2026: How to watch and what to expect from at the Pixel 11 event</strong> \u2014 a short, automation-assisted summary of reporting from ZDNet. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.zdnet.com/article/what-to-expect-rumors-made-by-google-2026/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ZDNet \u2192</a></p>\n    ",
     "comments": []
   },
   {
     "id": "auto-anthropic-is-turning-claude-code-s-auto-1786345677",
     "slug": "auto-anthropic-is-turning-claude-code-s-auto-1786345677",
-    "title": "Mr. Informer Briefing: Anthropic is turning Claude Code’s auto mode on by default",
+    "title": "Mr. Informer Briefing: Anthropic is turning Claude Code\u2019s auto mode on by default",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 10, 2026 - 07:07",
@@ -831,12 +859,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Anthropic is turning Claude Code’s auto mode on by default. Programming with Claude Code will soon require even less human oversight.",
+    "summary": "Mr. Informer briefing on Anthropic is turning Claude Code\u2019s auto mode on by default. Programming with Claude Code will soon require even less human oversight.",
     "sourceName": "TechCrunch",
     "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Programming with Claude Code will soon require even less human oversight.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Anthropic is turning Claude Code’s auto mode on by default</strong> — a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Programming with Claude Code will soon require even less human oversight.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Anthropic is turning Claude Code\u2019s auto mode on by default</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -864,7 +892,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Sadly, there hasn&#x27;t been a new episode of No Dogs in Space since July of 2024.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Part four of the podcast&#x27;s series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don&#x27;t get me wrong, I lo\"</p>\n      <cite>— The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>No Dogs in Space is a music history podcast for true obsessives</strong> — a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Sadly, there hasn&#x27;t been a new episode of No Dogs in Space since July of 2024.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Part four of the podcast&#x27;s series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don&#x27;t get me wrong, I lo\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>No Dogs in Space is a music history podcast for true obsessives</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -892,7 +920,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The AI-focused hedge fund is still making some big bets.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry</strong> — a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The AI-focused hedge fund is still making some big bets.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -920,13 +948,13 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The massive Toba eruption seems to have had little climate impact.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Mount Toba eruption doesn&#x27;t seem like it could nearly kill our species</strong> — a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The massive Toba eruption seems to have had little climate impact.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Mount Toba eruption doesn&#x27;t seem like it could nearly kill our species</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
     "comments": []
   },
   {
     "id": "auto-zuckerberg-s-yacht-was-closer--but-someo-1786301742",
     "slug": "auto-zuckerberg-s-yacht-was-closer--but-someo-1786301742",
-    "title": "Mr. Informer Briefing: Zuckerberg’s yacht was closer, but someone else saved a stranded boat",
+    "title": "Mr. Informer Briefing: Zuckerberg\u2019s yacht was closer, but someone else saved a stranded boat",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 09, 2026 - 18:55",
@@ -943,18 +971,18 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Zuckerberg’s yacht was closer, but someone else saved a stranded boat. Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after runn",
+    "summary": "Mr. Informer briefing on Zuckerberg\u2019s yacht was closer, but someone else saved a stranded boat. Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after runn",
     "sourceName": "The Verge",
     "sourceUrl": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping\"</p>\n      <cite>— The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Zuckerberg’s yacht was closer, but someone else saved a stranded boat</strong> — a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Zuckerberg\u2019s yacht was closer, but someone else saved a stranded boat</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
     "comments": []
   },
   {
     "id": "auto-techcrunch-mobility--zoox-prepares-for-l-1786301213",
     "slug": "auto-techcrunch-mobility--zoox-prepares-for-l-1786301213",
-    "title": "Mr. Informer Briefing: TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+    "title": "Mr. Informer Briefing: TechCrunch Mobility: Zoox prepares for launch and Uber\u2019s AV empire",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 09, 2026 - 18:46",
@@ -971,12 +999,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is p",
+    "summary": "Mr. Informer briefing on TechCrunch Mobility: Zoox prepares for launch and Uber\u2019s AV empire. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is p",
     "sourceName": "TechCrunch",
     "sourceUrl": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire</strong> — a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>TechCrunch Mobility: Zoox prepares for launch and Uber\u2019s AV empire</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -1004,7 +1032,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://www.engadget.com/2230979/how-to-format-usb-drive-on-windows/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">There are several scenarios that might require you to format a USB drive.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"But don&#x27;t worry -- We&#x27;ll show you how.\"</p>\n      <cite>— Engadget</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Here&#x27;s how to format a USB drive on Windows</strong> — a short, automation-assisted summary of reporting from Engadget. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.engadget.com/2230979/how-to-format-usb-drive-on-windows/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Engadget →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">There are several scenarios that might require you to format a USB drive.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"But don&#x27;t worry -- We&#x27;ll show you how.\"</p>\n      <cite>\u2014 Engadget</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Here&#x27;s how to format a USB drive on Windows</strong> \u2014 a short, automation-assisted summary of reporting from Engadget. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.engadget.com/2230979/how-to-format-usb-drive-on-windows/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Engadget \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -1032,7 +1060,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared\"</p>\n      <cite>— The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>49ers coach says his Tesla was on Autopilot when he crashed</strong> — a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>49ers coach says his Tesla was on Autopilot when he crashed</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -1060,7 +1088,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"What should we make of a multi-billion-dollar pinky promise?\"</p>\n      <cite>— Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>These AI Barons Are Ready to Give Away Their Fortunes</strong> — a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"What should we make of a multi-billion-dollar pinky promise?\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>These AI Barons Are Ready to Give Away Their Fortunes</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -1083,12 +1111,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on 4 Best Compression Boots: Therabody, Hyperice, and More (2026). Whether you’re training hard, traveling often, or dealing with poor circulation, these are the best compression boots fo",
+    "summary": "Mr. Informer briefing on 4 Best Compression Boots: Therabody, Hyperice, and More (2026). Whether you\u2019re training hard, traveling often, or dealing with poor circulation, these are the best compression boots fo",
     "sourceName": "Wired",
     "sourceUrl": "https://www.wired.com/story/best-compression-boots/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Whether you’re training hard, traveling often, or dealing with poor circulation, these are the best compression boots for anyone looking for better muscle recovery.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>4 Best Compression Boots: Therabody, Hyperice, and More (2026)</strong> — a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/best-compression-boots/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Whether you\u2019re training hard, traveling often, or dealing with poor circulation, these are the best compression boots for anyone looking for better muscle recovery.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>4 Best Compression Boots: Therabody, Hyperice, and More (2026)</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/best-compression-boots/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -1111,12 +1139,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on BizNode Workflow Marketplace: chain multiple bot handles into multi-step pipelines. Client onboarding, contract-to-payment,.... The 1BZ Ecosystem\n\n\nCopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (",
+    "summary": "Mr. Informer briefing on BizNode Workflow Marketplace: chain multiple bot handles into multi-step pipelines. Client onboarding, contract-to-payment,.... The 1BZ Ecosystem\n\n\nCopyGuard (protect) \u2192 IPVault (monetize) \u2192 SmartPDF (deliver) \u2192 DZIT (settle on Polygon) \u2192 BizNode (",
     "sourceName": "DEV Community",
     "sourceUrl": "https://dev.to/biznode/biznode-workflow-marketplace-chain-multiple-bot-handles-into-multi-step-pipelines-client-11h5",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The 1BZ Ecosystem\n\n\nCopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate)\n\n\n\nAI business operator node — https://biznode.1bz.biz\n\n\nDecentralized ad marketplace — ht</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>BizNode Workflow Marketplace: chain multiple bot handles into multi-step pipelines. Client onboarding, contract-to-payment,...</strong> — a short, automation-assisted summary of reporting from DEV Community. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://dev.to/biznode/biznode-workflow-marketplace-chain-multiple-bot-handles-into-multi-step-pipelines-client-11h5\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">DEV Community →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The 1BZ Ecosystem\n\n\nCopyGuard (protect) \u2192 IPVault (monetize) \u2192 SmartPDF (deliver) \u2192 DZIT (settle on Polygon) \u2192 BizNode (automate)\n\n\n\nAI business operator node \u2014 https://biznode.1bz.biz\n\n\nDecentralized ad marketplace \u2014 ht</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>BizNode Workflow Marketplace: chain multiple bot handles into multi-step pipelines. Client onboarding, contract-to-payment,...</strong> \u2014 a short, automation-assisted summary of reporting from DEV Community. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://dev.to/biznode/biznode-workflow-marketplace-chain-multiple-bot-handles-into-multi-step-pipelines-client-11h5\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">DEV Community \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -1139,18 +1167,18 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on The Complicated Case of Passing On Your Digital Estate. There’s no perfect way to transfer possession of your digital assets to your loved ones after you’re gone. But there are",
+    "summary": "Mr. Informer briefing on The Complicated Case of Passing On Your Digital Estate. There\u2019s no perfect way to transfer possession of your digital assets to your loved ones after you\u2019re gone. But there are",
     "sourceName": "Wired",
     "sourceUrl": "https://www.wired.com/story/digital-estate-planning-tips/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">There’s no perfect way to transfer possession of your digital assets to your loved ones after you’re gone.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"But there are things you can do now to make the process easier for them.\"</p>\n      <cite>— Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Complicated Case of Passing On Your Digital Estate</strong> — a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/digital-estate-planning-tips/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">There\u2019s no perfect way to transfer possession of your digital assets to your loved ones after you\u2019re gone.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"But there are things you can do now to make the process easier for them.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Complicated Case of Passing On Your Digital Estate</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/digital-estate-planning-tips/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
     "comments": []
   },
   {
     "id": "auto-meetily-lets-you-transcribe-and-summariz-1786272918",
     "slug": "auto-meetily-lets-you-transcribe-and-summariz-1786272918",
-    "title": "Mr. Informer Briefing: Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+    "title": "Mr. Informer Briefing: Meetily Lets You Transcribe and Summarize Meetings Without a Subscription\u2014Here\u2019s How",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 09, 2026 - 10:55",
@@ -1167,12 +1195,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How. There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open sou",
+    "summary": "Mr. Informer briefing on Meetily Lets You Transcribe and Summarize Meetings Without a Subscription\u2014Here\u2019s How. There are endless ways to record and transcribe your virtual meetings with AI. Here\u2019s an option that\u2019s free and open sou",
     "sourceName": "Wired",
     "sourceUrl": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">There are endless ways to record and transcribe your virtual meetings with AI.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here’s an option that’s free and open source.\"</p>\n      <cite>— Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How</strong> — a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">There are endless ways to record and transcribe your virtual meetings with AI.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here\u2019s an option that\u2019s free and open source.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Meetily Lets You Transcribe and Summarize Meetings Without a Subscription\u2014Here\u2019s How</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -1200,7 +1228,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://www.wired.com/story/the-best-workout-headphones-and-earbuds/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Not every great pair of headphones belongs in the gym.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"These do, thanks to their secure fit, durable design, and impeccable sound.\"</p>\n      <cite>— Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>8 Best Workout Headphones &amp; Earbuds: Beats, Bose, Apple (2026)</strong> — a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/the-best-workout-headphones-and-earbuds/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Not every great pair of headphones belongs in the gym.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"These do, thanks to their secure fit, durable design, and impeccable sound.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>8 Best Workout Headphones &amp; Earbuds: Beats, Bose, Apple (2026)</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/the-best-workout-headphones-and-earbuds/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -1223,12 +1251,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on The 12 Best Anime to Watch if You Think You Hate Anime. Japan’s strongest media export makes a solid case for your attention span. Here’s what to watch.",
+    "summary": "Mr. Informer briefing on The 12 Best Anime to Watch if You Think You Hate Anime. Japan\u2019s strongest media export makes a solid case for your attention span. Here\u2019s what to watch.",
     "sourceName": "Wired",
     "sourceUrl": "https://www.wired.com/story/the-12-best-anime-to-watch-if-you-think-you-hate-anime/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Japan’s strongest media export makes a solid case for your attention span.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here’s what to watch.\"</p>\n      <cite>— Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The 12 Best Anime to Watch if You Think You Hate Anime</strong> — a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/the-12-best-anime-to-watch-if-you-think-you-hate-anime/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Japan\u2019s strongest media export makes a solid case for your attention span.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here\u2019s what to watch.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The 12 Best Anime to Watch if You Think You Hate Anime</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/the-12-best-anime-to-watch-if-you-think-you-hate-anime/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
     "comments": []
   },
   {
@@ -1256,7 +1284,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">There are worse ways to kill time than Mario Kart 64 in VR -just don&#x27;t eat beforehand.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Mario Kart 64 in VR is not for the queasy</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">There are worse ways to kill time than Mario Kart 64 in VR -just don&#x27;t eat beforehand.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Mario Kart 64 in VR is not for the queasy</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1285,12 +1313,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on TCL Note A1 Nxtpaper Review (2026): A Hybrid Tablet for Taking Notes and Watching Video. TCL’s hybrid tablet-digital notebook tries to be the best of both worlds, and it mostly succeeds.",
+    "summary": "Mr. Informer briefing on TCL Note A1 Nxtpaper Review (2026): A Hybrid Tablet for Taking Notes and Watching Video. TCL\u2019s hybrid tablet-digital notebook tries to be the best of both worlds, and it mostly succeeds.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">TCL’s hybrid tablet-digital notebook tries to be the best of both worlds, and it mostly succeeds.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>TCL Note A1 Nxtpaper Review (2026): A Hybrid Tablet for Taking Notes and Watching Video</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">TCL\u2019s hybrid tablet-digital notebook tries to be the best of both worlds, and it mostly succeeds.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>TCL Note A1 Nxtpaper Review (2026): A Hybrid Tablet for Taking Notes and Watching Video</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1324,7 +1352,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Last week an agent I&#x27;d never seen ran 500+ searches against a public catalog API I operate.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It never loaded a page. It never fired a single frontend event. It queried structure, filtered, shortlisted, and left. That&#x27;s t\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Zero-click commerce doesn&#x27;t remove your storefront. It removes everything except your data</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Last week an agent I&#x27;d never seen ran 500+ searches against a public catalog API I operate.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It never loaded a page. It never fired a single frontend event. It queried structure, filtered, shortlisted, and left. That&#x27;s t\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Zero-click commerce doesn&#x27;t remove your storefront. It removes everything except your data</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1358,7 +1386,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">A SIM swapping attack could compromise your phone, your personal accounts, and even your identity.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here&amp;#x27;s how to thwart them.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Your phone doesn&#x27;t block SIM swapping attacks by default: Turn on these carrier settings now</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">A SIM swapping attack could compromise your phone, your personal accounts, and even your identity.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here&amp;#x27;s how to thwart them.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Your phone doesn&#x27;t block SIM swapping attacks by default: Turn on these carrier settings now</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1392,7 +1420,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">You&amp;amp;#x27;ve hit publish on a hundred videos.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"You&amp;amp;#x27;ve got a loyal audience that comments before the video even finishes loading. And somewhere in the back of your mind, you keep circling the same question: should I make merch?\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Merch Ideas Every YouTuber Needs (That Fans Actually Buy)</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">You&amp;amp;#x27;ve hit publish on a hundred videos.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"You&amp;amp;#x27;ve got a loyal audience that comments before the video even finishes loading. And somewhere in the back of your mind, you keep circling the same question: should I make merch?\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Merch Ideas Every YouTuber Needs (That Fans Actually Buy)</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1426,7 +1454,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">A USB-C port presents a lot of options for data transfer and connecting to accessories.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Let&amp;amp;#x27;s talk about some of the most useful ways to employ your USB-C port.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Your phone&#x27;s USB-C port does a lot more than just charge</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">A USB-C port presents a lot of options for data transfer and connecting to accessories.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Let&amp;amp;#x27;s talk about some of the most useful ways to employ your USB-C port.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Your phone&#x27;s USB-C port does a lot more than just charge</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1460,7 +1488,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">I&amp;amp;#x27;ve been shipping code since 2003.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"I remember when a simple CSS mistake meant the whole layout broke in IE6 and you spent hours praying your FTP upload didn&amp;amp;#x27;t corrupt the file. Back then, design was about what you could\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The &quot;AI Design Fingerprint&quot;: Why every agent-generated frontend looks identical (and how to break it)</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">I&amp;amp;#x27;ve been shipping code since 2003.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"I remember when a simple CSS mistake meant the whole layout broke in IE6 and you spent hours praying your FTP upload didn&amp;amp;#x27;t corrupt the file. Back then, design was about what you could\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The &quot;AI Design Fingerprint&quot;: Why every agent-generated frontend looks identical (and how to break it)</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1494,7 +1522,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The Marshall Stanmore IV is a more expensive home speaker, but there&amp;amp;#x27;s so much to like that $430 sounds like a good value.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>This Bluetooth-only Marshall home speaker sounds so good, I can forgive the missing Wi-Fi</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The Marshall Stanmore IV is a more expensive home speaker, but there&amp;amp;#x27;s so much to like that $430 sounds like a good value.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>This Bluetooth-only Marshall home speaker sounds so good, I can forgive the missing Wi-Fi</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1523,12 +1551,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on How to Disable Gemini in Gmail and Google Docs. New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing document",
+    "summary": "Mr. Informer briefing on How to Disable Gemini in Gmail and Google Docs. New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don\u2019t want Gemini\u2019s help in writing document",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">New AI toolbars and prompts are showing up in Google Docs and Gmail.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How to Disable Gemini in Gmail and Google Docs</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">New AI toolbars and prompts are showing up in Google Docs and Gmail.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"If you don\u2019t want Gemini\u2019s help in writing documents and emails, here\u2019s how to turn that stuff off.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How to Disable Gemini in Gmail and Google Docs</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1562,7 +1590,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Samsung&amp;amp;#x27;s latest smartwatch introduces new metrics, a longer-lasting battery, and hints at the future of wearables.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Samsung Galaxy Watch 9 review: Health data overload, but built for the future</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Samsung&amp;amp;#x27;s latest smartwatch introduces new metrics, a longer-lasting battery, and hints at the future of wearables.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Samsung Galaxy Watch 9 review: Health data overload, but built for the future</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1596,7 +1624,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\nComments URL: https://news.ycombinator.com/item?id=49224294\nPoints: 489\n# Comments: 232</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Danish high schoolers will have to verbally defend written assignments</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\nComments URL: https://news.ycombinator.com/item?id=49224294\nPoints: 489\n# Comments: 232</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Danish high schoolers will have to verbally defend written assignments</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1630,7 +1658,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">There are advantages and disadvantages to both connection types.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here&amp;amp;#x27;s how they compare and when you might choose one over the other.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Wired vs. wireless CarPlay: How are they different &amp; which is better to use?</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">There are advantages and disadvantages to both connection types.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here&amp;amp;#x27;s how they compare and when you might choose one over the other.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Wired vs. wireless CarPlay: How are they different &amp; which is better to use?</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1642,7 +1670,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-flock-s-plans-for-rideshare-dashcams-and-1786230926",
     "slug": "auto-flock-s-plans-for-rideshare-dashcams-and-1786230926",
-    "title": "Mr. Informer Briefing: Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
+    "title": "Mr. Informer Briefing: Flock\u2019s Plans for Rideshare Dashcams and Coaching Police, Revealed",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 08, 2026 - 23:15",
@@ -1659,12 +1687,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed. Plus: A judge rules cell tower dumps unconstitutional, water utility hacks spread to a dozen states, a phishing email op",
+    "summary": "Mr. Informer briefing on Flock\u2019s Plans for Rideshare Dashcams and Coaching Police, Revealed. Plus: A judge rules cell tower dumps unconstitutional, water utility hacks spread to a dozen states, a phishing email op",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Plus: A judge rules cell tower dumps unconstitutional, water utility hacks spread to a dozen states, a phishing email opens a missile-parts supplier’s inbox, and a ransomware boss gets 16 years.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Plus: A judge rules cell tower dumps unconstitutional, water utility hacks spread to a dozen states, a phishing email opens a missile-parts supplier\u2019s inbox, and a ransomware boss gets 16 years.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Flock\u2019s Plans for Rideshare Dashcams and Coaching Police, Revealed</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1693,12 +1721,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Best Gaming Laptops (2026): Razer, Asus, Dell, and More. You don’t want any old gaming laptop. Here’s my take on which to get, based on hundreds of hours of testing.",
+    "summary": "Mr. Informer briefing on Best Gaming Laptops (2026): Razer, Asus, Dell, and More. You don\u2019t want any old gaming laptop. Here\u2019s my take on which to get, based on hundreds of hours of testing.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">You don’t want any old gaming laptop.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here’s my take on which to get, based on hundreds of hours of testing.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Best Gaming Laptops (2026): Razer, Asus, Dell, and More</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">You don\u2019t want any old gaming laptop.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here\u2019s my take on which to get, based on hundreds of hours of testing.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Best Gaming Laptops (2026): Razer, Asus, Dell, and More</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1732,7 +1760,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Planned Amazon data center could become the biggest climate polluter in the U.S.</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Planned Amazon data center could become the biggest climate polluter in the U.S.</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1766,7 +1794,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">DraftKings reported weaker second-quarter revenue even as more customers placed bets and used its platform.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Favorable sports results for bettors… Continue reading DraftKings revenue falls despite betting growth as Predic\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>DraftKings revenue falls despite betting growth as Predictions expansion accelerates</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">DraftKings reported weaker second-quarter revenue even as more customers placed bets and used its platform.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Favorable sports results for bettors\u2026 Continue reading DraftKings revenue falls despite betting growth as Predic\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>DraftKings revenue falls despite betting growth as Predictions expansion accelerates</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1800,7 +1828,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">My favorite budget laptop, the HP OmniBook 5, has an OLED screen and gets great battery life, despite being just $750 right now.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">My favorite budget laptop, the HP OmniBook 5, has an OLED screen and gets great battery life, despite being just $750 right now.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1834,7 +1862,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">NextSlide says its team members are now working on ChatGPT.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>OpenAI acquires presentation startup NextSlide</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">NextSlide says its team members are now working on ChatGPT.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>OpenAI acquires presentation startup NextSlide</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1846,7 +1874,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-here-are-the-first-images-of-the-crater-1786219833",
     "slug": "auto-here-are-the-first-images-of-the-crater-1786219833",
-    "title": "Mr. Informer Briefing: Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
+    "title": "Mr. Informer Briefing: Here Are the First Images of the Crater Left on the Moon by SpaceX\u2019s Rocket",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 08, 2026 - 20:10",
@@ -1863,12 +1891,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket. The Korea Aerospace Research Institute shared images that show the gash on the surface. It’s pretty small.",
+    "summary": "Mr. Informer briefing on Here Are the First Images of the Crater Left on the Moon by SpaceX\u2019s Rocket. The Korea Aerospace Research Institute shared images that show the gash on the surface. It\u2019s pretty small.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The Korea Aerospace Research Institute shared images that show the gash on the surface.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It’s pretty small.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The Korea Aerospace Research Institute shared images that show the gash on the surface.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It\u2019s pretty small.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Here Are the First Images of the Crater Left on the Moon by SpaceX\u2019s Rocket</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1902,7 +1930,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">A single adapter could be all you need.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How to connect your retro GameCube to a modern TV</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">A single adapter could be all you need.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How to connect your retro GameCube to a modern TV</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1936,7 +1964,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The inconsistent service, shady upcharges, and uptick in better-valued competitors made the choice easy.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>I was loyal to T-Mobile for 10 years, but switching to Mint slashed my bill</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The inconsistent service, shady upcharges, and uptick in better-valued competitors made the choice easy.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>I was loyal to T-Mobile for 10 years, but switching to Mint slashed my bill</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -1970,7 +1998,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">There&amp;amp;#x27;s a smarter way to power vintage portable gaming devices.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Give these tips a try.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How to get the best battery life from your retro handheld game console</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">There&amp;amp;#x27;s a smarter way to power vintage portable gaming devices.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Give these tips a try.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How to get the best battery life from your retro handheld game console</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2004,7 +2032,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The Satechi ChargeView 240W desktop charger ticks all the right boxes for this charging geek.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>This 6-port USB-C charger replaced my ugly power brick</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The Satechi ChargeView 240W desktop charger ticks all the right boxes for this charging geek.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>This 6-port USB-C charger replaced my ugly power brick</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2016,7 +2044,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-x-replaces--misaligned--revenue-sharing-1786209449",
     "slug": "auto-x-replaces--misaligned--revenue-sharing-1786209449",
-    "title": "Mr. Informer Briefing: X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+    "title": "Mr. Informer Briefing: X replaces \u2018misaligned\u2019 revenue sharing program with Original Content Rewards",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 08, 2026 - 17:17",
@@ -2033,12 +2061,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on X replaces ‘misaligned’ revenue sharing program with Original Content Rewards. X is winding down its existing Revenue Sharing program.",
+    "summary": "Mr. Informer briefing on X replaces \u2018misaligned\u2019 revenue sharing program with Original Content Rewards. X is winding down its existing Revenue Sharing program.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">X is winding down its existing Revenue Sharing program.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>X replaces ‘misaligned’ revenue sharing program with Original Content Rewards</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">X is winding down its existing Revenue Sharing program.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>X replaces \u2018misaligned\u2019 revenue sharing program with Original Content Rewards</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2072,7 +2100,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2084,7 +2112,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-the-kindle-scribe-colorsoft-is-a-lot-of-1786204957",
     "slug": "auto-the-kindle-scribe-colorsoft-is-a-lot-of-1786204957",
-    "title": "Mr. Informer Briefing: The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+    "title": "Mr. Informer Briefing: The Kindle Scribe Colorsoft is a lot of fun, but it\u2019s not a must-have",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 08, 2026 - 16:02",
@@ -2101,12 +2129,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have. While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and ",
+    "summary": "Mr. Informer briefing on The Kindle Scribe Colorsoft is a lot of fun, but it\u2019s not a must-have. While the device is pretty and lightweight, it\u2019s not something the everyday person needs due to its hefty price tag and ",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">While the device is pretty and lightweight, it\u2019s not something the everyday person needs due to its hefty price tag and size.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The Kindle Scribe Colorsoft is a lot of fun, but it\u2019s not a must-have</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2140,7 +2168,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">In a practical breakdown of how Claude and ChatGPT AI models differ, one tends to fall short when it comes to quality responses and overall user experience.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Claude Vs ChatGPT: How These AI Assistants Differ</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">In a practical breakdown of how Claude and ChatGPT AI models differ, one tends to fall short when it comes to quality responses and overall user experience.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Claude Vs ChatGPT: How These AI Assistants Differ</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2152,7 +2180,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-google-s-top-hacker-hunter-explains-why-1786201275",
     "slug": "auto-google-s-top-hacker-hunter-explains-why-1786201275",
-    "title": "Mr. Informer Briefing: Google’s top hacker hunter explains why hacking groups get codenames",
+    "title": "Mr. Informer Briefing: Google\u2019s top hacker hunter explains why hacking groups get codenames",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 08, 2026 - 15:01",
@@ -2169,12 +2197,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Google’s top hacker hunter explains why hacking groups get codenames. Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s fore",
+    "summary": "Mr. Informer briefing on Google\u2019s top hacker hunter explains why hacking groups get codenames. Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world\u2019s fore",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Google recently changed how it refers and assigns names to hacking groups.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Google’s top hacker hunter explains why hacking groups get codenames</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Google recently changed how it refers and assigns names to hacking groups.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"TechCrunch spoke with one of the world\u2019s foremost experts on tracking hackers to understand why companies give hackers codenames.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Google\u2019s top hacker hunter explains why hacking groups get codenames</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2186,7 +2214,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-census-proposal-would-stop-counting-undo-1786199434",
     "slug": "auto-census-proposal-would-stop-counting-undo-1786199434",
-    "title": "Mr. Informer Briefing: Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
+    "title": "Mr. Informer Briefing: Census Proposal Would Stop Counting Undocumented Immigrants\u2014and Ignore Race and Sexual Orientation",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 08, 2026 - 14:30",
@@ -2203,12 +2231,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation. A draft rule reviewed by WIRED would prevent the census from counting undocumented immigrants. To protect against “disto",
+    "summary": "Mr. Informer briefing on Census Proposal Would Stop Counting Undocumented Immigrants\u2014and Ignore Race and Sexual Orientation. A draft rule reviewed by WIRED would prevent the census from counting undocumented immigrants. To protect against \u201cdisto",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">A draft rule reviewed by WIRED would prevent the census from counting undocumented immigrants.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"To protect against “distortions,” it would also bar questions about race and sexual orientation.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">A draft rule reviewed by WIRED would prevent the census from counting undocumented immigrants.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"To protect against \u201cdistortions,\u201d it would also bar questions about race and sexual orientation.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Census Proposal Would Stop Counting Undocumented Immigrants\u2014and Ignore Race and Sexual Orientation</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2242,7 +2270,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">DOGE&amp;amp;#x27;s inflated &amp;amp;quot;Wall of Receipts&amp;amp;quot;: 96% of grant savings unverifiable, GAO says.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>DOGE&#x27;s wild, unverifiable savings claims discredited in US government report</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">DOGE&amp;amp;#x27;s inflated &amp;amp;quot;Wall of Receipts&amp;amp;quot;: 96% of grant savings unverifiable, GAO says.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>DOGE&#x27;s wild, unverifiable savings claims discredited in US government report</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2254,7 +2282,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-deepmind-s-hurricane-breakthrough-has-su-1786194295",
     "slug": "auto-deepmind-s-hurricane-breakthrough-has-su-1786194295",
-    "title": "Mr. Informer Briefing: DeepMind’s hurricane breakthrough has surprised weather scientists",
+    "title": "Mr. Informer Briefing: DeepMind\u2019s hurricane breakthrough has surprised weather scientists",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 08, 2026 - 13:04",
@@ -2271,12 +2299,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on DeepMind’s hurricane breakthrough has surprised weather scientists. Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+    "summary": "Mr. Informer briefing on DeepMind\u2019s hurricane breakthrough has surprised weather scientists. Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Open source WeatherNext model can make accurate predictions with lower-resolution weather data.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>DeepMind’s hurricane breakthrough has surprised weather scientists</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Open source WeatherNext model can make accurate predictions with lower-resolution weather data.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>DeepMind\u2019s hurricane breakthrough has surprised weather scientists</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2310,7 +2338,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">About 90 percent of the distance driven by Perseverance has been autonomous.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The first self-driving vehicle on Mars has proven to be a smashing success</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">About 90 percent of the distance driven by Perseverance has been autonomous.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The first self-driving vehicle on Mars has proven to be a smashing success</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2345,7 +2373,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Article URL: https://github.com/xoreaxeaxeax/rosenbridge\nComments URL: https://news.ycombinator.com/item?id=49219508\nPoints: 137\n# Comments: 42</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Hardware backdoors in some x86 CPUs</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Article URL: https://github.com/xoreaxeaxeax/rosenbridge\nComments URL: https://news.ycombinator.com/item?id=49219508\nPoints: 137\n# Comments: 42</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Hardware backdoors in some x86 CPUs</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2374,12 +2402,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited. Xteink’s new X4 Pro e-reader is its best yet, but the lack of an ebook store can be limiting.",
+    "summary": "Mr. Informer briefing on Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited. Xteink\u2019s new X4 Pro e-reader is its best yet, but the lack of an ebook store can be limiting.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Xteink’s new X4 Pro e-reader is its best yet, but the lack of an ebook store can be limiting.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Xteink\u2019s new X4 Pro e-reader is its best yet, but the lack of an ebook store can be limiting.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2413,7 +2441,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">19 new maps continue the story from MachineGames&amp;amp;#x27; other campaign additions.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>New official 30th anniversary Quake mission pack adds new maps and mechanics</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">19 new maps continue the story from MachineGames&amp;amp;#x27; other campaign additions.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>New official 30th anniversary Quake mission pack adds new maps and mechanics</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2447,7 +2475,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Roblox has become one of the most popular online gaming platforms, giving players access to millions of experiences created by its community.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"👉 You can check the full breakdown here:https://incomepathhub.com/earnfusion/\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Roblox Gift Card Code List (Updated Daily)</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Roblox has become one of the most popular online gaming platforms, giving players access to millions of experiences created by its community.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"\ud83d\udc49 You can check the full breakdown here:https://incomepathhub.com/earnfusion/\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Roblox Gift Card Code List (Updated Daily)</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2481,7 +2509,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Fitted with telescopes, the plane did our longest imaging of the Sun&amp;amp;#x27;s corona.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The ultimate eclipse chase: A Concorde raced against the Moon&#x27;s shadow</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Fitted with telescopes, the plane did our longest imaging of the Sun&amp;amp;#x27;s corona.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The ultimate eclipse chase: A Concorde raced against the Moon&#x27;s shadow</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2515,7 +2543,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Framework&amp;amp;#x27;s customer database was accessed, but no payment info was released.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Framework customer information was accessed as part of a data breach</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Framework&amp;amp;#x27;s customer database was accessed, but no payment info was released.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Framework customer information was accessed as part of a data breach</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2549,7 +2577,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">New Mexico judge orders $567M fund to help address youth mental health crisis.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Judge rules Meta caused &quot;public nuisance&quot; and must fund mental health treatment</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">New Mexico judge orders $567M fund to help address youth mental health crisis.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Judge rules Meta caused &quot;public nuisance&quot; and must fund mental health treatment</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2583,7 +2611,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Six deaths reported among screwworm cases, one directly attributed to the flies.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Flesh-eating screwworms feast on humans in Mexico; human cases top 500</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Six deaths reported among screwworm cases, one directly attributed to the flies.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Flesh-eating screwworms feast on humans in Mexico; human cases top 500</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2617,7 +2645,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Copernicus Browser adds wildfire visualization amid record wildfire season.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Europe&#x27;s free satellite service just made it easier to track wildfires</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Copernicus Browser adds wildfire visualization amid record wildfire season.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Europe&#x27;s free satellite service just made it easier to track wildfires</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2651,7 +2679,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">A spreadsheet can contain hundreds of valid backlink URLs and still describe a fragile off-page footprint.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"I ran into this while auditing 1,023 verified public placements. About 84.8% of them lived on four hosts. The UR\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Audit Backlink Domain Concentration with Node.js (Without Fooling Yourself)</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">A spreadsheet can contain hundreds of valid backlink URLs and still describe a fragile off-page footprint.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"I ran into this while auditing 1,023 verified public placements. About 84.8% of them lived on four hosts. The UR\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Audit Backlink Domain Concentration with Node.js (Without Fooling Yourself)</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2685,7 +2713,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Lanterns, Dark Matter, and the original Star Trek are just a few of the TV shows you should be watching right now.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The 7 Best TV Shows to Stream This Month</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Lanterns, Dark Matter, and the original Star Trek are just a few of the TV shows you should be watching right now.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The 7 Best TV Shows to Stream This Month</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2719,7 +2747,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2731,7 +2759,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-wacom-s-movinkpad-11-is-a-fun--midpriced-1786149073",
     "slug": "auto-wacom-s-movinkpad-11-is-a-fun--midpriced-1786149073",
-    "title": "Mr. Informer Briefing: Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+    "title": "Mr. Informer Briefing: Wacom\u2019s MovinkPad 11 is a fun, midpriced entry point for digital artists",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 08, 2026 - 00:31",
@@ -2748,12 +2776,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists. The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+    "summary": "Mr. Informer briefing on Wacom\u2019s MovinkPad 11 is a fun, midpriced entry point for digital artists. The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Wacom\u2019s MovinkPad 11 is a fun, midpriced entry point for digital artists</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2765,7 +2793,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-wacom-s-movinkpad-11-is-a-fun-and-mid-pr-1786146058",
     "slug": "auto-wacom-s-movinkpad-11-is-a-fun-and-mid-pr-1786146058",
-    "title": "Mr. Informer Briefing: Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+    "title": "Mr. Informer Briefing: Wacom\u2019s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 07, 2026 - 23:40",
@@ -2782,12 +2810,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists. The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+    "summary": "Mr. Informer briefing on Wacom\u2019s Movinkpad 11 is a fun and mid-priced entry point for digital artists. The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Wacom\u2019s Movinkpad 11 is a fun and mid-priced entry point for digital artists</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2821,7 +2849,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>OpenAI says it slowed Astra model development over security concerns</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>OpenAI says it slowed Astra model development over security concerns</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2833,7 +2861,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-the-chinese-philosopher-americans-can-t-1786141000",
     "slug": "auto-the-chinese-philosopher-americans-can-t-1786141000",
-    "title": "Mr. Informer Briefing: The Chinese Philosopher Americans Can’t Stop Fighting About",
+    "title": "Mr. Informer Briefing: The Chinese Philosopher Americans Can\u2019t Stop Fighting About",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 07, 2026 - 22:16",
@@ -2850,12 +2878,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on The Chinese Philosopher Americans Can’t Stop Fighting About. Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous ",
+    "summary": "Mr. Informer briefing on The Chinese Philosopher Americans Can\u2019t Stop Fighting About. Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous ",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Yiyang Zhuge was already an intellectual celebrity in China.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach test.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The Chinese Philosopher Americans Can’t Stop Fighting About</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Yiyang Zhuge was already an intellectual celebrity in China.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Her viral interview with Christopher Nolan made her famous in the US\u2014and quickly turned her into a political Rorschach test.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The Chinese Philosopher Americans Can\u2019t Stop Fighting About</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2889,7 +2917,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>After Rippling blew millions on AI in months, it built an employee ROI tool</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>After Rippling blew millions on AI in months, it built an employee ROI tool</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2918,12 +2946,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026. You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits ",
+    "summary": "Mr. Informer briefing on Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026. You put together the concept \u2014 from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits ",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disru</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">You put together the concept \u2014 from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal \u2014 and the TechCrunch team helps put it in front of the attendees already in town for Disru</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2957,7 +2985,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The Trump administration has now convinced developers to abandon 12 offshore wind leases.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The latest will cost taxpayers $1.2 billion.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Trump administration has spent nearly $4B to cancel offshore wind farms</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The Trump administration has now convinced developers to abandon 12 offshore wind leases.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The latest will cost taxpayers $1.2 billion.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Trump administration has spent nearly $4B to cancel offshore wind farms</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -2969,7 +2997,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-today-s-the-last-day-to-get-up-to--400-o-1786130248",
     "slug": "auto-today-s-the-last-day-to-get-up-to--400-o-1786130248",
-    "title": "Mr. Informer Briefing: Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+    "title": "Mr. Informer Briefing: Today\u2019s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 07, 2026 - 19:17",
@@ -2986,12 +3014,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket. Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, wh",
+    "summary": "Mr. Informer briefing on Today\u2019s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket. Starting today, you can take an\u00a0additional\u00a0$100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, wh",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Starting today, you can take an\u00a0additional\u00a0$100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Today\u2019s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3025,7 +3053,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">This is the fifth such deal in which the president and his team has paid big to cancel a green energy contract.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Trump administration spends another $1.2 billion to kill offshore wind farm projects</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">This is the fifth such deal in which the president and his team has paid big to cancel a green energy contract.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Trump administration spends another $1.2 billion to kill offshore wind farm projects</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3037,7 +3065,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-computer-maker-framework-notifies--all-c-1786123471",
     "slug": "auto-computer-maker-framework-notifies--all-c-1786123471",
-    "title": "Mr. Informer Briefing: Computer maker Framework notifies ‘all customers’ of a data breach",
+    "title": "Mr. Informer Briefing: Computer maker Framework notifies \u2018all customers\u2019 of a data breach",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 07, 2026 - 17:24",
@@ -3054,12 +3082,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Computer maker Framework notifies ‘all customers’ of a data breach. Framework told &amp;quot;all&amp;quot; of its customers that hackers accessed their names, email addresses, phone number",
+    "summary": "Mr. Informer briefing on Computer maker Framework notifies \u2018all customers\u2019 of a data breach. Framework told &amp;quot;all&amp;quot; of its customers that hackers accessed their names, email addresses, phone number",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Framework told &amp;amp;quot;all&amp;amp;quot; of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Computer maker Framework notifies ‘all customers’ of a data breach</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Framework told &amp;amp;quot;all&amp;amp;quot; of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Computer maker Framework notifies \u2018all customers\u2019 of a data breach</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3093,7 +3121,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The company says the browser uses less computing power than Chromium for common automation tasks, helping developers bu\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Cloudflare launches Kitesurf, a browser built for AI agents</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The company says the browser uses less computing power than Chromium for common automation tasks, helping developers bu\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Cloudflare launches Kitesurf, a browser built for AI agents</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3127,7 +3155,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Trump determined to link life-saving shots to autism, despite science and political risk.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Report: White House drafting executive order linking vaccines and autism</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Trump determined to link life-saving shots to autism, despite science and political risk.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Report: White House drafting executive order linking vaccines and autism</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3161,7 +3189,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">If you use a Qi or MagSafe charger, it&amp;amp;#x27;s important for your phone and the charging speed that you get the right kind of case.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>What type of phone case is best for wireless charging?</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">If you use a Qi or MagSafe charger, it&amp;amp;#x27;s important for your phone and the charging speed that you get the right kind of case.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>What type of phone case is best for wireless charging?</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3195,7 +3223,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Suno plans watermarks and download limits to stop &amp;amp;quot;large-scale abuse.&amp;amp;quot;</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Suno hopes to go legit with watermarks for AI-generated music</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Suno plans watermarks and download limits to stop &amp;amp;quot;large-scale abuse.&amp;amp;quot;</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Suno hopes to go legit with watermarks for AI-generated music</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3229,7 +3257,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">&amp;amp;quot;Most people have completely forgotten how chaotic it really was.&amp;amp;quot;</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Remembering the pre-Google web, when search was an experiment</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">&amp;amp;quot;Most people have completely forgotten how chaotic it really was.&amp;amp;quot;</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Remembering the pre-Google web, when search was an experiment</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3263,7 +3291,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Musk continues appeal despite court loss and settlement with advertiser group.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>X wants to keep suing advertisers, asks 5th Circuit to overrule district judge</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Musk continues appeal despite court loss and settlement with advertiser group.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>X wants to keep suing advertisers, asks 5th Circuit to overrule district judge</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3292,12 +3320,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands. Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, cu",
+    "summary": "Mr. Informer briefing on Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands. Not everyone needs a keynote slot to make noise at\u00a0TechCrunch\u00a0Disrupt\u00a02026. Sometimes the\u00a0best way to meet investors, cu",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone We\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Not everyone needs a keynote slot to make noise at\u00a0TechCrunch\u00a0Disrupt\u00a02026.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Sometimes the\u00a0best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco\u2019s Moscone We\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3331,7 +3359,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Russian attack?</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Explosive drone targeted parked aircraft at Leipzig airport.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Explosive drone found hovering near Ukrainian cargo aircraft at German airport</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Russian attack?</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Explosive drone targeted parked aircraft at Leipzig airport.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Explosive drone found hovering near Ukrainian cargo aircraft at German airport</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3365,7 +3393,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Enjoy top deals on cameras, computers, and tech essentials at B&amp;amp;amp;H Photo.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>B&amp;H Photo Promo Codes and Deals This August 2026</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Enjoy top deals on cameras, computers, and tech essentials at B&amp;amp;amp;H Photo.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>B&amp;H Photo Promo Codes and Deals This August 2026</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3377,7 +3405,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-openai-s-new-ai-smart-speaker-will-repor-1786084859",
     "slug": "auto-openai-s-new-ai-smart-speaker-will-repor-1786084859",
-    "title": "Mr. Informer Briefing: OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "title": "Mr. Informer Briefing: OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 07, 2026 - 06:40",
@@ -3394,12 +3422,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400. Additional details about OpenAI&amp;#x27;s mysterious new AI device make it sound like a pricey smart speaker.",
+    "summary": "Mr. Informer briefing on OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400. Additional details about OpenAI&amp;#x27;s mysterious new AI device make it sound like a pricey smart speaker.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Additional details about OpenAI&amp;amp;#x27;s mysterious new AI device make it sound like a pricey smart speaker.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Additional details about OpenAI&amp;amp;#x27;s mysterious new AI device make it sound like a pricey smart speaker.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3433,7 +3461,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Ray-Ban Promo Codes: Save 50% in August 2026</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Ray-Ban Promo Codes: Save 50% in August 2026</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3467,7 +3495,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The organization, Network for Hope, &amp;amp;quot;strongly disagrees&amp;amp;quot; with Trump admin&amp;amp;#x27;s decision.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Organ donation group accused of trying to take living man&#x27;s organs faces shutdown</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The organization, Network for Hope, &amp;amp;quot;strongly disagrees&amp;amp;quot; with Trump admin&amp;amp;#x27;s decision.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Organ donation group accused of trying to take living man&#x27;s organs faces shutdown</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3501,7 +3529,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Google is set to announce its Pixel 11 series phones - here&amp;amp;#x27;s what we know.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Made by Google 2026: How to watch and what to expect from the big Pixel 11 event</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Google is set to announce its Pixel 11 series phones - here&amp;amp;#x27;s what we know.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Made by Google 2026: How to watch and what to expect from the big Pixel 11 event</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3535,7 +3563,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">A growing collection of pocket-size gadgets lets you easily make recordings and extract info from them.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here are our favorites.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>5 Best AI Notetakers (2026), Tested and Reviewed</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">A growing collection of pocket-size gadgets lets you easily make recordings and extract info from them.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here are our favorites.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>5 Best AI Notetakers (2026), Tested and Reviewed</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3547,7 +3575,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-ford-s-new-electric-truck---fathom---sta-1786022166",
     "slug": "auto-ford-s-new-electric-truck---fathom---sta-1786022166",
-    "title": "Mr. Informer Briefing: Ford’s new electric truck, ‘Fathom’, starts at $28,350",
+    "title": "Mr. Informer Briefing: Ford\u2019s new electric truck, \u2018Fathom\u2019, starts at $28,350",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 06, 2026 - 13:16",
@@ -3564,12 +3592,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Ford’s new electric truck, ‘Fathom’, starts at $28,350. Due in &amp;quot;fall 2027,&amp;quot; Ford said Thursday that it won&amp;#x27;t reveal what Fathom looks like until earl",
+    "summary": "Mr. Informer briefing on Ford\u2019s new electric truck, \u2018Fathom\u2019, starts at $28,350. Due in &amp;quot;fall 2027,&amp;quot; Ford said Thursday that it won&amp;#x27;t reveal what Fathom looks like until earl",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Due in &amp;amp;quot;fall 2027,&amp;amp;quot; Ford said Thursday that it won&amp;amp;#x27;t reveal what Fathom looks like until early next year.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Ford’s new electric truck, ‘Fathom’, starts at $28,350</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Due in &amp;amp;quot;fall 2027,&amp;amp;quot; Ford said Thursday that it won&amp;amp;#x27;t reveal what Fathom looks like until early next year.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Ford\u2019s new electric truck, \u2018Fathom\u2019, starts at $28,350</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3603,7 +3631,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Meta launches Muse Code, an AI agent for large code bases</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Meta launches Muse Code, an AI agent for large code bases</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3615,7 +3643,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-travis-kalanick-s-robotics-startup-atoms-1786007667",
     "slug": "auto-travis-kalanick-s-robotics-startup-atoms-1786007667",
-    "title": "Mr. Informer Briefing: Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+    "title": "Mr. Informer Briefing: Travis Kalanick\u2019s robotics startup Atoms taps former Uber finance chief as CFO",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 06, 2026 - 09:14",
@@ -3632,12 +3660,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO. Kalanick continues to get the band back together, after acquiring Anthony Levandowski&amp;#x27;s autonomy startup, and e",
+    "summary": "Mr. Informer briefing on Travis Kalanick\u2019s robotics startup Atoms taps former Uber finance chief as CFO. Kalanick continues to get the band back together, after acquiring Anthony Levandowski&amp;#x27;s autonomy startup, and e",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Kalanick continues to get the band back together, after acquiring Anthony Levandowski&amp;amp;#x27;s autonomy startup, and even soliciting investment from Uber.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Kalanick continues to get the band back together, after acquiring Anthony Levandowski&amp;amp;#x27;s autonomy startup, and even soliciting investment from Uber.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Travis Kalanick\u2019s robotics startup Atoms taps former Uber finance chief as CFO</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3666,12 +3694,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday. Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, wh",
+    "summary": "Mr. Informer briefing on Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday. Starting today, you can take an\u00a0additional\u00a0$100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, wh",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Starting today, you can take an\u00a0additional\u00a0$100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3705,7 +3733,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Baseboard management controllers from the world&amp;amp;#x27;s biggest manufacturers are a security mess.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Thousands of servers can be backdoored by exploiting buggy motherboard controllers</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Baseboard management controllers from the world&amp;amp;#x27;s biggest manufacturers are a security mess.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Thousands of servers can be backdoored by exploiting buggy motherboard controllers</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3717,7 +3745,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-a-security-pro-hacked-north-korean-hacke-1785975172",
     "slug": "auto-a-security-pro-hacked-north-korean-hacke-1785975172",
-    "title": "Mr. Informer Briefing: A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide",
+    "title": "Mr. Informer Briefing: A Security Pro Hacked North Korean Hackers. He Found They\u2019d Breached Hundreds of Networks Worldwide",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 06, 2026 - 00:12",
@@ -3734,12 +3762,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide. For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers’ servers. His work shows ",
+    "summary": "Mr. Informer briefing on A Security Pro Hacked North Korean Hackers. He Found They\u2019d Breached Hundreds of Networks Worldwide. For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers\u2019 servers. His work shows ",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers’ servers.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"His work shows they pulled off intrusions in a shocking number of systems across the globe.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers\u2019 servers.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"His work shows they pulled off intrusions in a shocking number of systems across the globe.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>A Security Pro Hacked North Korean Hackers. He Found They\u2019d Breached Hundreds of Networks Worldwide</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3773,7 +3801,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Schwartz confirmed as CDC director after bungling confirmation hearing</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Schwartz confirmed as CDC director after bungling confirmation hearing</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3785,7 +3813,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-nikita-bier-steps-down-as-x-s-head-of-pr-1785967320",
     "slug": "auto-nikita-bier-steps-down-as-x-s-head-of-pr-1785967320",
-    "title": "Mr. Informer Briefing: Nikita Bier steps down as X’s head of product",
+    "title": "Mr. Informer Briefing: Nikita Bier steps down as X\u2019s head of product",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 05, 2026 - 22:02",
@@ -3802,12 +3830,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Nikita Bier steps down as X’s head of product. The serial entrepreneur is stepping down a little over a year after taking the &amp;quot;24/7 job&amp;quot; of overseein",
+    "summary": "Mr. Informer briefing on Nikita Bier steps down as X\u2019s head of product. The serial entrepreneur is stepping down a little over a year after taking the &amp;quot;24/7 job&amp;quot; of overseein",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The serial entrepreneur is stepping down a little over a year after taking the &amp;amp;quot;24/7 job&amp;amp;quot; of overseeing X.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Nikita Bier steps down as X’s head of product</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The serial entrepreneur is stepping down a little over a year after taking the &amp;amp;quot;24/7 job&amp;amp;quot; of overseeing X.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Nikita Bier steps down as X\u2019s head of product</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3819,7 +3847,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-hank-green-found-the-ai-problem-that-you-1785962990",
     "slug": "auto-hank-green-found-the-ai-problem-that-you-1785962990",
-    "title": "Mr. Informer Briefing: Hank Green found the AI problem that YouTube labels can’t catch",
+    "title": "Mr. Informer Briefing: Hank Green found the AI problem that YouTube labels can\u2019t catch",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 05, 2026 - 20:49",
@@ -3836,12 +3864,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Hank Green found the AI problem that YouTube labels can’t catch. &amp;quot;Slop&amp;quot; isn&amp;#x27;t the only problem.",
+    "summary": "Mr. Informer briefing on Hank Green found the AI problem that YouTube labels can\u2019t catch. &amp;quot;Slop&amp;quot; isn&amp;#x27;t the only problem.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">&amp;amp;quot;Slop&amp;amp;quot; isn&amp;amp;#x27;t the only problem.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Hank Green found the AI problem that YouTube labels can’t catch</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">&amp;amp;quot;Slop&amp;amp;quot; isn&amp;amp;#x27;t the only problem.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Hank Green found the AI problem that YouTube labels can\u2019t catch</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3875,7 +3903,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Jeff Dean and other top AI researchers are leaving Google to launch their own startup</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Jeff Dean and other top AI researchers are leaving Google to launch their own startup</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3909,7 +3937,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Disney is interested in &amp;amp;quot;price-sensitive&amp;amp;quot; streaming customers.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>After jacking up prices, Disney+ and Netflix consider offering free alternatives</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Disney is interested in &amp;amp;quot;price-sensitive&amp;amp;quot; streaming customers.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>After jacking up prices, Disney+ and Netflix consider offering free alternatives</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3938,12 +3966,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Shopify says AI search is driving more traffic and sales, not replacing Google. Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders ",
+    "summary": "Mr. Informer briefing on Shopify says AI search is driving more traffic and sales, not replacing Google. Shopify says AI isn\u2019t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders ",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Shopify says AI isn’t cannibalizing search traffic the way it has for publishers.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Shopify says AI search is driving more traffic and sales, not replacing Google</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Shopify says AI isn\u2019t cannibalizing search traffic the way it has for publishers.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Shopify says AI search is driving more traffic and sales, not replacing Google</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -3977,7 +4005,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">We tested coolers on camping trips, road trips, beach days, and at parties to bring you our favorite models for every situation.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The Yeti Tundra Haul is our top pick.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>13 Best Coolers for Sunshine and Nighttime (2026)</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">We tested coolers on camping trips, road trips, beach days, and at parties to bring you our favorite models for every situation.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The Yeti Tundra Haul is our top pick.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>13 Best Coolers for Sunshine and Nighttime (2026)</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4011,7 +4039,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Create the ultimate movie theater experience at home with 98-inch TVs from Hisense, Samsung, and more.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The best 98-inch TVs of 2026: Expert tested</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Create the ultimate movie theater experience at home with 98-inch TVs from Hisense, Samsung, and more.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The best 98-inch TVs of 2026: Expert tested</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4045,7 +4073,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Wispr Flow&amp;amp;#x27;s new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Wispr Flow launches a Granola-styled meeting notetaker</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Wispr Flow&amp;amp;#x27;s new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Wispr Flow launches a Granola-styled meeting notetaker</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4074,12 +4102,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Texas halts data center connections to power grid amid overwhelming demand. Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+    "summary": "Mr. Informer briefing on Texas halts data center connections to power grid amid overwhelming demand. Governor who touted Texas as AI \u201cepicenter\u201d pauses data center grid connections.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Governor who touted Texas as AI “epicenter” pauses data center grid connections.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Texas halts data center connections to power grid amid overwhelming demand</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Governor who touted Texas as AI \u201cepicenter\u201d pauses data center grid connections.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Texas halts data center connections to power grid amid overwhelming demand</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4113,7 +4141,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">$1.25 billion program restored, but judge ruled race provision unconstitutional.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Trump killed the Digital Equity Act, but US was forced to bring part of it back</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">$1.25 billion program restored, but judge ruled race provision unconstitutional.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Trump killed the Digital Equity Act, but US was forced to bring part of it back</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4125,7 +4153,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-elon-musk-repeatedly-one-upped-his-execs-1785892109",
     "slug": "auto-elon-musk-repeatedly-one-upped-his-execs-1785892109",
-    "title": "Mr. Informer Briefing: Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+    "title": "Mr. Informer Briefing: Elon Musk repeatedly one-upped his execs on SpaceX\u2019s first earnings call",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 05, 2026 - 01:08",
@@ -4142,12 +4170,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call. Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company&am",
+    "summary": "Mr. Informer briefing on Elon Musk repeatedly one-upped his execs on SpaceX\u2019s first earnings call. Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company&am",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company&amp;amp;#x27;s first call.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company&amp;amp;#x27;s first call.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Elon Musk repeatedly one-upped his execs on SpaceX\u2019s first earnings call</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4181,7 +4209,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Fire experts warn such markets could incentivize arson.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Senators demand crackdown on wildfire &quot;prediction markets&quot;</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Fire experts warn such markets could incentivize arson.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Senators demand crackdown on wildfire &quot;prediction markets&quot;</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4215,7 +4243,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"For now, the public remains in the dark.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The White House Is Keeping Its AI Cybersecurity Framework Secret</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"For now, the public remains in the dark.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The White House Is Keeping Its AI Cybersecurity Framework Secret</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4249,7 +4277,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">SpaceX has ramped up its purchases of Tesla Megapacks for its xAI data centers.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>SpaceX has bought $329M worth of Tesla Megapacks so far this year</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">SpaceX has ramped up its purchases of Tesla Megapacks for its xAI data centers.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>SpaceX has bought $329M worth of Tesla Megapacks so far this year</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4283,7 +4311,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Anthropic signs $10 billion deal with AI cloud startup Volta</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Anthropic signs $10 billion deal with AI cloud startup Volta</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4317,7 +4345,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company&amp;amp;#x27;s bid to scale its self-driving technology across the United States, U.K., and Europe.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Waymo opens up robotaxi service in Dallas to everyone</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company&amp;amp;#x27;s bid to scale its self-driving technology across the United States, U.K., and Europe.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Waymo opens up robotaxi service in Dallas to everyone</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4352,7 +4380,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Chevy&amp;amp;#x27;s 721-hp hybrid ups the ante with few compromises, but at a steep cost.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Chevy&amp;amp;#x27;s 721-hp hybrid ups the ante with few compromises, but at a steep cost.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4386,7 +4414,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse&amp;amp;#x27;s companion star.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Research roundup: 6 cool science stories we almost missed</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse&amp;amp;#x27;s companion star.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Research roundup: 6 cool science stories we almost missed</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4420,7 +4448,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>EON wants to move the data superhighway from ocean fiber to space lasers</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>EON wants to move the data superhighway from ocean fiber to space lasers</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4449,12 +4477,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on How Data Centers Broke American Politics. What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
+    "summary": "Mr. Informer briefing on How Data Centers Broke American Politics. What the Unabomber, Steve Bannon\u2019s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How Data Centers Broke American Politics</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">What the Unabomber, Steve Bannon\u2019s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How Data Centers Broke American Politics</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4488,7 +4516,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Design Arena creators raise $7.9 million to bring taste to AI models</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Design Arena creators raise $7.9 million to bring taste to AI models</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4500,7 +4528,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-us-company-s-ai-lets-ukraine-s-cheap-kam-1785818096",
     "slug": "auto-us-company-s-ai-lets-ukraine-s-cheap-kam-1785818096",
-    "title": "Mr. Informer Briefing: US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+    "title": "Mr. Informer Briefing: US company\u2019s AI lets Ukraine\u2019s cheap kamikaze drones track targets on their own",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 04, 2026 - 04:34",
@@ -4517,12 +4545,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own. $100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+    "summary": "Mr. Informer briefing on US company\u2019s AI lets Ukraine\u2019s cheap kamikaze drones track targets on their own. $100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>US company\u2019s AI lets Ukraine\u2019s cheap kamikaze drones track targets on their own</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4556,7 +4584,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won&amp;amp;#x27;t occur until the end of the decade.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Snap CEO sidesteps Specs preorder questions on Q2 earnings call</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won&amp;amp;#x27;t occur until the end of the decade.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Snap CEO sidesteps Specs preorder questions on Q2 earnings call</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4568,7 +4596,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-after-killer-quarter--palantir-ceo-alex-1785801031",
     "slug": "auto-after-killer-quarter--palantir-ceo-alex-1785801031",
-    "title": "Mr. Informer Briefing: After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "title": "Mr. Informer Briefing: After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 03, 2026 - 23:50",
@@ -4585,12 +4613,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’. After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier",
+    "summary": "Mr. Informer briefing on After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019. After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4624,7 +4652,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">And of course, Henry Cavill is involved.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Amazon is developing a Warhammer 40,000 animated show</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">And of course, Henry Cavill is involved.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Amazon is developing a Warhammer 40,000 animated show</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4636,7 +4664,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-who-s-legally-to-blame-for-anthropic-and-1785793347",
     "slug": "auto-who-s-legally-to-blame-for-anthropic-and-1785793347",
-    "title": "Mr. Informer Briefing: Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+    "title": "Mr. Informer Briefing: Who\u2019s legally to blame for Anthropic and OpenAI\u2019s autonomous AI hacks? It\u2019s complicated",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 03, 2026 - 21:42",
@@ -4653,12 +4681,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated. OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in un",
+    "summary": "Mr. Informer briefing on Who\u2019s legally to blame for Anthropic and OpenAI\u2019s autonomous AI hacks? It\u2019s complicated. OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in un",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Who is legally to blame? Should prosecutors charge the two AI frontier lab\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Who is legally to blame? Should prosecutors charge the two AI frontier lab\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Who\u2019s legally to blame for Anthropic and OpenAI\u2019s autonomous AI hacks? It\u2019s complicated</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4692,7 +4720,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It&amp;amp;#x27;s another step towards decoupling apps from models.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>AWS is helping vibe-coding startup Superblocks, and the implications are big</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It&amp;amp;#x27;s another step towards decoupling apps from models.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>AWS is helping vibe-coding startup Superblocks, and the implications are big</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4721,12 +4749,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing. Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you",
+    "summary": "Mr. Informer briefing on Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing. Smart mowers are an expensive alternative to old-fashioned yard work, but they\u2019re finally good enough to consider if you",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Smart mowers are an expensive alternative to old-fashioned yard work, but they\u2019re finally good enough to consider if you\u2019d rather sip an iced tea and watch a robot tame your lawn.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4760,7 +4788,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Last week, I lost more time to AI infrastructure than to the actual creative work.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The task sounded simple: generate images through Vertex AI for a content pipeline. What actually happened:\n\n\none key worked yesterday a\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How I Debugged a Broken Vertex AI Image Pipeline and Finally Made It Reliable</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Last week, I lost more time to AI infrastructure than to the actual creative work.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The task sounded simple: generate images through Vertex AI for a content pipeline. What actually happened:\n\n\none key worked yesterday a\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How I Debugged a Broken Vertex AI Image Pipeline and Finally Made It Reliable</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4794,7 +4822,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4828,7 +4856,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>A Marc Benioff-backed startup thinks AI can solve the AI deployment problem</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>A Marc Benioff-backed startup thinks AI can solve the AI deployment problem</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4862,7 +4890,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">And will Sony continue to support the PS5 once the PS6 is released?</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How long can you expect a PlayStation 5 to last?</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">And will Sony continue to support the PS5 once the PS6 is released?</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How long can you expect a PlayStation 5 to last?</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4874,7 +4902,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-these-app-store-hidden-gems-prove-there-1785732681",
     "slug": "auto-these-app-store-hidden-gems-prove-there-1785732681",
-    "title": "Mr. Informer Briefing: These App Store hidden gems prove there’s still room for great software in the AI era",
+    "title": "Mr. Informer Briefing: These App Store hidden gems prove there\u2019s still room for great software in the AI era",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 03, 2026 - 04:51",
@@ -4891,12 +4919,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on These App Store hidden gems prove there’s still room for great software in the AI era. Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster tha",
+    "summary": "Mr. Informer briefing on These App Store hidden gems prove there\u2019s still room for great software in the AI era. Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster tha",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>These App Store hidden gems prove there’s still room for great software in the AI era</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>These App Store hidden gems prove there\u2019s still room for great software in the AI era</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4908,7 +4936,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-techcrunch-mobility--two-roads-diverged-1785719677",
     "slug": "auto-techcrunch-mobility--two-roads-diverged-1785719677",
-    "title": "Mr. Informer Briefing: TechCrunch Mobility: Two roads diverged — for robotaxis",
+    "title": "Mr. Informer Briefing: TechCrunch Mobility: Two roads diverged \u2014 for robotaxis",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 03, 2026 - 01:14",
@@ -4925,12 +4953,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on TechCrunch Mobility: Two roads diverged — for robotaxis. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is p",
+    "summary": "Mr. Informer briefing on TechCrunch Mobility: Two roads diverged \u2014 for robotaxis. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is p",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>TechCrunch Mobility: Two roads diverged — for robotaxis</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>TechCrunch Mobility: Two roads diverged \u2014 for robotaxis</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4942,7 +4970,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-the-james-webb-telescope-is-changing-ast-1785713834",
     "slug": "auto-the-james-webb-telescope-is-changing-ast-1785713834",
-    "title": "Mr. Informer Briefing: The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos",
+    "title": "Mr. Informer Briefing: The James Webb Telescope Is Changing Astronomers\u2019 Understanding of the Ancient Cosmos",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 02, 2026 - 23:37",
@@ -4959,12 +4987,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos. From how galaxies form to the beginnings of the universe, the images from the space telescope are giving cosmologists ne",
+    "summary": "Mr. Informer briefing on The James Webb Telescope Is Changing Astronomers\u2019 Understanding of the Ancient Cosmos. From how galaxies form to the beginnings of the universe, the images from the space telescope are giving cosmologists ne",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">From how galaxies form to the beginnings of the universe, the images from the space telescope are giving cosmologists new data to explore—and theories to build out.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">From how galaxies form to the beginnings of the universe, the images from the space telescope are giving cosmologists new data to explore\u2014and theories to build out.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The James Webb Telescope Is Changing Astronomers\u2019 Understanding of the Ancient Cosmos</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -4993,12 +5021,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on The global memory shortage hits the MacBook Air. The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+    "summary": "Mr. Informer briefing on The global memory shortage hits the MacBook Air. The global memory chip shortage appears to be affecting the availability of Apple\u2019s most popular Mac.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The global memory shortage hits the MacBook Air</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The global memory chip shortage appears to be affecting the availability of Apple\u2019s most popular Mac.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The global memory shortage hits the MacBook Air</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5010,7 +5038,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-sam-altman-and-ai-s-decel-debate-1785706407",
     "slug": "auto-sam-altman-and-ai-s-decel-debate-1785706407",
-    "title": "Mr. Informer Briefing: Sam Altman and AI’s decel debate",
+    "title": "Mr. Informer Briefing: Sam Altman and AI\u2019s decel debate",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 02, 2026 - 21:33",
@@ -5027,12 +5055,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Sam Altman and AI’s decel debate. On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to &amp;quot;pace the rate of AI ",
+    "summary": "Mr. Informer briefing on Sam Altman and AI\u2019s decel debate. On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to &amp;quot;pace the rate of AI ",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to &amp;amp;quot;pace the rate of AI development.&amp;amp;quot;</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Sam Altman and AI’s decel debate</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to &amp;amp;quot;pace the rate of AI development.&amp;amp;quot;</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Sam Altman and AI\u2019s decel debate</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5061,12 +5089,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Xbox consoles are now much more expensive in the EU and UK. The entry-level price for an Xbox now starts at 499.99€/£429.99.",
+    "summary": "Mr. Informer briefing on Xbox consoles are now much more expensive in the EU and UK. The entry-level price for an Xbox now starts at 499.99\u20ac/\u00a3429.99.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The entry-level price for an Xbox now starts at 499.99€/£429.99.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Xbox consoles are now much more expensive in the EU and UK</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The entry-level price for an Xbox now starts at 499.99\u20ac/\u00a3429.99.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Xbox consoles are now much more expensive in the EU and UK</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5100,7 +5128,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Tracking smells in turbulent air takes a keen sense of direction and sharp memory.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How fruit flies chase invisible ribbons of smell to get to their source</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Tracking smells in turbulent air takes a keen sense of direction and sharp memory.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How fruit flies chase invisible ribbons of smell to get to their source</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5112,7 +5140,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-malaysia-is-reportedly-shutting-down-bal-1785694563",
     "slug": "auto-malaysia-is-reportedly-shutting-down-bal-1785694563",
-    "title": "Mr. Informer Briefing: Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+    "title": "Mr. Informer Briefing: Malaysia is reportedly shutting down Balaji Srinivasan\u2019s Network School",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 02, 2026 - 18:16",
@@ -5129,12 +5157,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Malaysia is reportedly shutting down Balaji Srinivasan’s Network School. Let&amp;#x27;s see how this &amp;quot;frontier community for techno-optimists&amp;quot; is doing ...",
+    "summary": "Mr. Informer briefing on Malaysia is reportedly shutting down Balaji Srinivasan\u2019s Network School. Let&amp;#x27;s see how this &amp;quot;frontier community for techno-optimists&amp;quot; is doing ...",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Let&amp;amp;#x27;s see how this &amp;amp;quot;frontier community for techno-optimists&amp;amp;quot; is doing ...</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Malaysia is reportedly shutting down Balaji Srinivasan’s Network School</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Let&amp;amp;#x27;s see how this &amp;amp;quot;frontier community for techno-optimists&amp;amp;quot; is doing ...</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Malaysia is reportedly shutting down Balaji Srinivasan\u2019s Network School</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5163,12 +5191,12 @@ const ARTICLES_DATA = [
       "Cryptography",
       "Network Safety"
     ],
-    "summary": "Mr. Informer briefing on Defcon's new badge is a security key you can see inside. A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
+    "summary": "Mr. Informer briefing on Defcon's new badge is a security key you can see inside. A removable chip lets hackers inspect their badge\u2014and keep using it after Defcon.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">A removable chip lets hackers inspect their badge—and keep using it after Defcon.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Defcon&#x27;s new badge is a security key you can see inside</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">A removable chip lets hackers inspect their badge\u2014and keep using it after Defcon.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Defcon&#x27;s new badge is a security key you can see inside</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5202,7 +5230,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Christopher Nolan&amp;amp;#x27;s impressionistic remix of Homer&amp;amp;#x27;s epic poem finds the man behind the myth.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Review: Yes, we&#x27;re still arguing about Nolan&#x27;s The Odyssey</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Christopher Nolan&amp;amp;#x27;s impressionistic remix of Homer&amp;amp;#x27;s epic poem finds the man behind the myth.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Review: Yes, we&#x27;re still arguing about Nolan&#x27;s The Odyssey</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5236,7 +5264,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>8 Best Password Managers (2026), Tested and Reviewed</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>8 Best Password Managers (2026), Tested and Reviewed</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5265,12 +5293,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Apps that help you break free from doomscrolling and get active. If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
+    "summary": "Mr. Informer briefing on Apps that help you break free from doomscrolling and get active. If you\u2019re looking to cut back on screen time and get a little more active, here\u2019s a roundup of the apps that might help.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Apps that help you break free from doomscrolling and get active</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">If you\u2019re looking to cut back on screen time and get a little more active, here\u2019s a roundup of the apps that might help.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Apps that help you break free from doomscrolling and get active</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5282,7 +5310,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-uber-is-building-an-autonomous-vehicle-e-1785672723",
     "slug": "auto-uber-is-building-an-autonomous-vehicle-e-1785672723",
-    "title": "Mr. Informer Briefing: Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+    "title": "Mr. Informer Briefing: Uber is building an autonomous vehicle empire, and here\u2019s every company it\u2019s using to do it",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 02, 2026 - 12:12",
@@ -5299,12 +5327,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it. Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the ",
+    "summary": "Mr. Informer briefing on Uber is building an autonomous vehicle empire, and here\u2019s every company it\u2019s using to do it. Uber has partnered with \u2014 and in some cases made direct investments in \u2014 about 30 autonomous vehicle companies over the ",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here&amp;amp;#x27;s the list and the latest on the partnerships.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Uber has partnered with \u2014 and in some cases made direct investments in \u2014 about 30 autonomous vehicle companies over the past two years.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here&amp;amp;#x27;s the list and the latest on the partnerships.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Uber is building an autonomous vehicle empire, and here\u2019s every company it\u2019s using to do it</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5338,7 +5366,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">&amp;amp;quot;We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.&amp;amp;quot;</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Here&#x27;s how engineers plan to save the satellite sent to save NASA&#x27;s Swift mission</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">&amp;amp;quot;We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.&amp;amp;quot;</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Here&#x27;s how engineers plan to save the satellite sent to save NASA&#x27;s Swift mission</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5367,12 +5395,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline. AboFlah talks about his new goals, streaming for charity, and when it’s time to log off.",
+    "summary": "Mr. Informer briefing on YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline. AboFlah talks about his new goals, streaming for charity, and when it\u2019s time to log off.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">AboFlah talks about his new goals, streaming for charity, and when it’s time to log off.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">AboFlah talks about his new goals, streaming for charity, and when it\u2019s time to log off.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5384,7 +5412,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-should-you-still-buy-your-next-smartphon-1785655289",
     "slug": "auto-should-you-still-buy-your-next-smartphon-1785655289",
-    "title": "Mr. Informer Briefing: Should you still buy your next smartphone — or subscribe to it instead?",
+    "title": "Mr. Informer Briefing: Should you still buy your next smartphone \u2014 or subscribe to it instead?",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "August 02, 2026 - 07:21",
@@ -5401,12 +5429,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Should you still buy your next smartphone — or subscribe to it instead?. Apple&amp;#x27;s new Upgrade program is the latest sign that smartphone ownership is changing.",
+    "summary": "Mr. Informer briefing on Should you still buy your next smartphone \u2014 or subscribe to it instead?. Apple&amp;#x27;s new Upgrade program is the latest sign that smartphone ownership is changing.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Apple&amp;amp;#x27;s new Upgrade program is the latest sign that smartphone ownership is changing.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Should you still buy your next smartphone — or subscribe to it instead?</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Apple&amp;amp;#x27;s new Upgrade program is the latest sign that smartphone ownership is changing.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Should you still buy your next smartphone \u2014 or subscribe to it instead?</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5418,7 +5446,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-youtuber-hank-green-says-his-ai-usage-is-1785645827",
     "slug": "auto-youtuber-hank-green-says-his-ai-usage-is-1785645827",
-    "title": "Mr. Informer Briefing: YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "title": "Mr. Informer Briefing: YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 02, 2026 - 04:43",
@@ -5435,12 +5463,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on YouTuber Hank Green says his AI usage is ‘not healthy’. Green offered a remarkable apology, saying that &amp;quot;the level of dopamine that I&amp;#x27;ve been getting from int",
+    "summary": "Mr. Informer briefing on YouTuber Hank Green says his AI usage is \u2018not healthy\u2019. Green offered a remarkable apology, saying that &amp;quot;the level of dopamine that I&amp;#x27;ve been getting from int",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Green offered a remarkable apology, saying that &amp;amp;quot;the level of dopamine that I&amp;amp;#x27;ve been getting from interacting with LLMs ...</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"is not healthy for me or good for the world.&amp;amp;quot;\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>YouTuber Hank Green says his AI usage is ‘not healthy’</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Green offered a remarkable apology, saying that &amp;amp;quot;the level of dopamine that I&amp;amp;#x27;ve been getting from interacting with LLMs ...</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"is not healthy for me or good for the world.&amp;amp;quot;\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>YouTuber Hank Green says his AI usage is \u2018not healthy\u2019</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5452,7 +5480,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-judge-denies-xai-s-request-to-block-minn-1785633368",
     "slug": "auto-judge-denies-xai-s-request-to-block-minn-1785633368",
-    "title": "Mr. Informer Briefing: Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "title": "Mr. Informer Briefing: Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 02, 2026 - 01:16",
@@ -5469,12 +5497,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps. Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "summary": "Mr. Informer briefing on Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps. Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to \u201cnudify\u201d images can move forward.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to \u201cnudify\u201d images can move forward.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5508,7 +5536,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">There are times when a physical connection will perform better than a Wi-Fi hotspot.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here&amp;amp;#x27;s when you want to use USB tethering, and how.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>What Is USB Tethering And How Do You Enable It For Mobile Hotspot?</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">There are times when a physical connection will perform better than a Wi-Fi hotspot.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here&amp;amp;#x27;s when you want to use USB tethering, and how.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>What Is USB Tethering And How Do You Enable It For Mobile Hotspot?</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5542,7 +5570,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">How one founder house is betting work-life balance can beat burnout .</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Inside the London hacker house taking a stand against founder burnout</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">How one founder house is betting work-life balance can beat burnout .</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Inside the London hacker house taking a stand against founder burnout</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5576,7 +5604,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Two security stories from July 2026 make the same point about AI agents.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Hugging Face disclosed that an autonomous agent spent 4.5 days moving through its production systems, executing roughly 17,600 actions, including\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How to Verify AI Agent Work: State Machines, Approval Gates, and Least-Privilege Access</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Two security stories from July 2026 make the same point about AI agents.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Hugging Face disclosed that an autonomous agent spent 4.5 days moving through its production systems, executing roughly 17,600 actions, including\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How to Verify AI Agent Work: State Machines, Approval Gates, and Least-Privilege Access</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5610,7 +5638,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">These natural, organic mattresses are eco-friendly alternatives to conventional models and just as comfortable.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Best Organic Mattresses (2026): Certified Nontoxic, Natural Sleep</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">These natural, organic mattresses are eco-friendly alternatives to conventional models and just as comfortable.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Best Organic Mattresses (2026): Certified Nontoxic, Natural Sleep</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5644,7 +5672,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Originally published at https://seointent.com/blog/writesonic-for-local-keyword-research\n\n\n  \n  \n  TL;DR\n\n\n\n- Writesonic for local keyword research works best when you pair its AI chat interface with a structured prompt</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How to Use Writesonic for Local Keyword Research in 2026</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Originally published at https://seointent.com/blog/writesonic-for-local-keyword-research\n\n\n  \n  \n  TL;DR\n\n\n\n- Writesonic for local keyword research works best when you pair its AI chat interface with a structured prompt</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How to Use Writesonic for Local Keyword Research in 2026</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5678,7 +5706,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>This $9 key physically locks your most addictive apps</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>This $9 key physically locks your most addictive apps</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5712,7 +5740,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">OpenAI&amp;amp;#x27;s CEO seemed excited to share a &amp;amp;quot;cool use case&amp;amp;quot; for parents.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Sam Altman is still making the case for parenting via ChatGPT</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">OpenAI&amp;amp;#x27;s CEO seemed excited to share a &amp;amp;quot;cool use case&amp;amp;quot; for parents.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Sam Altman is still making the case for parenting via ChatGPT</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5724,7 +5752,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-15-best-office-chairs-of-2026-we-tested-1785601639",
     "slug": "auto-15-best-office-chairs-of-2026-we-tested-1785601639",
-    "title": "Mr. Informer Briefing: 15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+    "title": "Mr. Informer Briefing: 15 Best Office Chairs of 2026\u2014We Tested 70 to Pick Them",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 01, 2026 - 16:27",
@@ -5741,12 +5769,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on 15 Best Office Chairs of 2026—We Tested 70 to Pick Them. Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+    "summary": "Mr. Informer briefing on 15 Best Office Chairs of 2026\u2014We Tested 70 to Pick Them. Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>15 Best Office Chairs of 2026—We Tested 70 to Pick Them</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>15 Best Office Chairs of 2026\u2014We Tested 70 to Pick Them</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5780,7 +5808,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Autonomous vehicle giant disturbs residents&amp;amp;#x27; sleep.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Autonomous vehicle giant disturbs residents&amp;amp;#x27; sleep.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5814,7 +5842,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Reddit may still be considering ending its licensing deal with Google.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>As Reddit stock falls, CEO questions value of Google&#x27;s AI Overviews</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Reddit may still be considering ending its licensing deal with Google.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>As Reddit stock falls, CEO questions value of Google&#x27;s AI Overviews</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5826,7 +5854,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-silicon-valley-loves-young-founders--unt-1785587780",
     "slug": "auto-silicon-valley-loves-young-founders--unt-1785587780",
-    "title": "Mr. Informer Briefing: Silicon Valley loves young founders. Until it doesn’t.",
+    "title": "Mr. Informer Briefing: Silicon Valley loves young founders. Until it doesn\u2019t.",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "August 01, 2026 - 12:36",
@@ -5843,12 +5871,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Silicon Valley loves young founders. Until it doesn’t.. AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people ",
+    "summary": "Mr. Informer briefing on Silicon Valley loves young founders. Until it doesn\u2019t.. AI tools have democratized\u00a0the opportunity to build, shortening\u00a0the timelines of success\u00a0and\u00a0enabling more young people ",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Silicon Valley loves young founders. Until it doesn’t.</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">AI tools have democratized\u00a0the opportunity to build, shortening\u00a0the timelines of success\u00a0and\u00a0enabling more young people to start successful companies without stepping foot inside a Big Tech company.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Silicon Valley loves young founders. Until it doesn\u2019t.</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5882,7 +5910,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Here&amp;amp;#x27;s our roundup of new indie games you can try now, as well as ones to look forward to in the weeks to come.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Truck chaos, climbing with dual-mouse controls and other new indie games worth checking out</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Here&amp;amp;#x27;s our roundup of new indie games you can try now, as well as ones to look forward to in the weeks to come.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Truck chaos, climbing with dual-mouse controls and other new indie games worth checking out</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5916,7 +5944,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">There are both cheaper and more powerful entry-level gaming laptops out there, but the Alienware 15 walks that tightrope between price and quality.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Alienware 15 Gaming Laptop Review: Hedging Its Bets</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">There are both cheaper and more powerful entry-level gaming laptops out there, but the Alienware 15 walks that tightrope between price and quality.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Alienware 15 Gaming Laptop Review: Hedging Its Bets</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5950,7 +5978,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Had the hacks used conventional methods, someone would likely go to prison.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Claude published malicious code to the Internet and attacked 3 real companies</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Had the hacks used conventional methods, someone would likely go to prison.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Claude published malicious code to the Internet and attacked 3 real companies</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -5984,7 +6012,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Reddit keeps its strange DMCA fight over Google search results alive</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Reddit keeps its strange DMCA fight over Google search results alive</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6018,7 +6046,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Also has big plans beyond the TM-B.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The startup mostly refers to itself as a &amp;amp;quot;vehicle&amp;amp;quot; company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Rivian spinoff Also to start delivering e-bikes after months of delays</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Also has big plans beyond the TM-B.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The startup mostly refers to itself as a &amp;amp;quot;vehicle&amp;amp;quot; company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Rivian spinoff Also to start delivering e-bikes after months of delays</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6052,7 +6080,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>OpenAI reportedly finds evidence that more of its agents ran amok</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>OpenAI reportedly finds evidence that more of its agents ran amok</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6086,7 +6114,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Some group with no modern descendants contributed a lot to our genomes.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Some group with no modern descendants contributed a lot to our genomes.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6120,7 +6148,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The company appears to have built new laptops and a 2-in-1 for the Googlebook initiative.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Lenovo&#x27;s first Googlebooks have leaked</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The company appears to have built new laptops and a 2-in-1 for the Googlebook initiative.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Lenovo&#x27;s first Googlebooks have leaked</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6154,7 +6182,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Next-generation micro-neural models operating on edge relays demonstrate unprecedented real-time data processing speeds without centralized cluster bottlenecks.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Autonomous Neural Swarms Achieve Real-Time Zero-Trust Verification</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Next-generation micro-neural models operating on edge relays demonstrate unprecedented real-time data processing speeds without centralized cluster bottlenecks.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Autonomous Neural Swarms Achieve Real-Time Zero-Trust Verification</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6183,12 +6211,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on Best Dyson Vacuums (2026): V15 Detect, Gen5Detect, PencilVac. Feeling the pull of a new clean machine? We’ll help you make sense of Dyson’s whirlwind vacuum lineup.",
+    "summary": "Mr. Informer briefing on Best Dyson Vacuums (2026): V15 Detect, Gen5Detect, PencilVac. Feeling the pull of a new clean machine? We\u2019ll help you make sense of Dyson\u2019s whirlwind vacuum lineup.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Feeling the pull of a new clean machine?</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"We’ll help you make sense of Dyson’s whirlwind vacuum lineup.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Best Dyson Vacuums (2026): V15 Detect, Gen5Detect, PencilVac</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Feeling the pull of a new clean machine?</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"We\u2019ll help you make sense of Dyson\u2019s whirlwind vacuum lineup.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Best Dyson Vacuums (2026): V15 Detect, Gen5Detect, PencilVac</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6217,12 +6245,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on 6 Best Phones With Headphone Jacks (2026), Tested and Reviewed. Headphone jacks are endangered, but they’re not gone. Here are our favorite smartphones that still let you plug and play",
+    "summary": "Mr. Informer briefing on 6 Best Phones With Headphone Jacks (2026), Tested and Reviewed. Headphone jacks are endangered, but they\u2019re not gone. Here are our favorite smartphones that still let you plug and play",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Headphone jacks are endangered, but they’re not gone.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here are our favorite smartphones that still let you plug and play.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>6 Best Phones With Headphone Jacks (2026), Tested and Reviewed</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Headphone jacks are endangered, but they\u2019re not gone.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here are our favorite smartphones that still let you plug and play.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>6 Best Phones With Headphone Jacks (2026), Tested and Reviewed</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6251,12 +6279,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on Daisy One Review: Comfy and Tactile Headphones. The company’s first headphones look very stylish and have great tactile features, but underwhelm on sound quality.",
+    "summary": "Mr. Informer briefing on Daisy One Review: Comfy and Tactile Headphones. The company\u2019s first headphones look very stylish and have great tactile features, but underwhelm on sound quality.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The company’s first headphones look very stylish and have great tactile features, but underwhelm on sound quality.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Daisy One Review: Comfy and Tactile Headphones</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The company\u2019s first headphones look very stylish and have great tactile features, but underwhelm on sound quality.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Daisy One Review: Comfy and Tactile Headphones</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6285,12 +6313,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on SJY Zeph Open-Back Headphones Review: Music Through Magnets. SJY’s Zeph are brilliant wired headphones, using flippable earcups for two different takes on your favorite music.",
+    "summary": "Mr. Informer briefing on SJY Zeph Open-Back Headphones Review: Music Through Magnets. SJY\u2019s Zeph are brilliant wired headphones, using flippable earcups for two different takes on your favorite music.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">SJY’s Zeph are brilliant wired headphones, using flippable earcups for two different takes on your favorite music.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>SJY Zeph Open-Back Headphones Review: Music Through Magnets</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">SJY\u2019s Zeph are brilliant wired headphones, using flippable earcups for two different takes on your favorite music.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>SJY Zeph Open-Back Headphones Review: Music Through Magnets</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6319,12 +6347,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key. Created by legendary hardware hacker Andrew “bunnie” Huang, the badges for this year’s famed security conference aim to ",
+    "summary": "Mr. Informer briefing on The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key. Created by legendary hardware hacker Andrew \u201cbunnie\u201d Huang, the badges for this year\u2019s famed security conference aim to ",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Created by legendary hardware hacker Andrew “bunnie” Huang, the badges for this year’s famed security conference aim to push the boundaries of security and transparency.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Created by legendary hardware hacker Andrew \u201cbunnie\u201d Huang, the badges for this year\u2019s famed security conference aim to push the boundaries of security and transparency.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6336,7 +6364,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-the-world-is-too-hot--el-ni-o-is-partly-1785503037",
     "slug": "auto-the-world-is-too-hot--el-ni-o-is-partly-1785503037",
-    "title": "Mr. Informer Briefing: The World Is Too Hot. El Niño Is Partly to Blame",
+    "title": "Mr. Informer Briefing: The World Is Too Hot. El Ni\u00f1o Is Partly to Blame",
     "category": "Tech Pulse",
     "readTime": "1 min read",
     "date": "July 31, 2026 - 19:03",
@@ -6353,12 +6381,12 @@ const ARTICLES_DATA = [
       "Wearables",
       "AR/VR"
     ],
-    "summary": "Mr. Informer briefing on The World Is Too Hot. El Niño Is Partly to Blame. Heat waves are simultaneously hitting Europe, North America, and Asia, driven in part by the hot waters in the tropical ",
+    "summary": "Mr. Informer briefing on The World Is Too Hot. El Ni\u00f1o Is Partly to Blame. Heat waves are simultaneously hitting Europe, North America, and Asia, driven in part by the hot waters in the tropical ",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Heat waves are simultaneously hitting Europe, North America, and Asia, driven in part by the hot waters in the tropical Pacific—and climate change.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The World Is Too Hot. El Niño Is Partly to Blame</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Heat waves are simultaneously hitting Europe, North America, and Asia, driven in part by the hot waters in the tropical Pacific\u2014and climate change.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The World Is Too Hot. El Ni\u00f1o Is Partly to Blame</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6392,7 +6420,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Mattress Firm Coupons: Save up to $700 |</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Mattress Firm Coupons: Save up to $700 |</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6426,7 +6454,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Redecorate your home for less with our expert tips on applying SelectBlinds coupons, maximizing holiday sales, and locking in new customer discounts.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>SelectBlinds Promo Codes &amp; Coupons: Save on Custom Window Treatments</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Redecorate your home for less with our expert tips on applying SelectBlinds coupons, maximizing holiday sales, and locking in new customer discounts.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>SelectBlinds Promo Codes &amp; Coupons: Save on Custom Window Treatments</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6460,7 +6488,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The sunny 2002 platformer was the direct follow-up to Super Mario 64.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Super Mario Sunshine is the Switch 2&#x27;s next GameCube addition</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The sunny 2002 platformer was the direct follow-up to Super Mario 64.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Super Mario Sunshine is the Switch 2&#x27;s next GameCube addition</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6495,7 +6523,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Three approaches to the issue of quantum results that can&amp;amp;#x27;t be verified classically.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Quantum computers outperform classical ones, with results you can trust</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Three approaches to the issue of quantum results that can&amp;amp;#x27;t be verified classically.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Quantum computers outperform classical ones, with results you can trust</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6529,7 +6557,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Its latest Pro headset can mix between four inputs and has improved wireless connectivity over the originals.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Its latest Pro headset can mix between four inputs and has improved wireless connectivity over the originals.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6563,7 +6591,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">arXiv:2607.27210v1 Announce Type: new \nAbstract: The exponential growth of scholarly publications requires automated tools for effective information synthesis.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"However, simple, single-shot prompting methods often lack th\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Prompt Chaining in Practice: A Case Study in Automated Scholarly Report Generation</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">arXiv:2607.27210v1 Announce Type: new \nAbstract: The exponential growth of scholarly publications requires automated tools for effective information synthesis.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"However, simple, single-shot prompting methods often lack th\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Prompt Chaining in Practice: A Case Study in Automated Scholarly Report Generation</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6597,7 +6625,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Meta&amp;amp;#x27;s smart glasses are supposed to alert bystanders when they&amp;amp;#x27;re recording.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Bypassing those safety features is trivially easy, unfortunately.\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>A $2 sticker let me bypass the Meta Glasses&#x27; anti-creep feature</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Meta&amp;amp;#x27;s smart glasses are supposed to alert bystanders when they&amp;amp;#x27;re recording.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Bypassing those safety features is trivially easy, unfortunately.\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>A $2 sticker let me bypass the Meta Glasses&#x27; anti-creep feature</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6631,7 +6659,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Google DeepMind demonstrated Gemini Robotics 2 performing household chores with the Apptronik Apollo 2 and Franka F3 Duo robots.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Google DeepMind tests Gemini Robotics 2 doing chores around the house, and the future looks bright!</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Google DeepMind demonstrated Gemini Robotics 2 performing household chores with the Apptronik Apollo 2 and Franka F3 Duo robots.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Google DeepMind tests Gemini Robotics 2 doing chores around the house, and the future looks bright!</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6665,7 +6693,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Plus, a new policy for the AI protocol ensures features aren&amp;amp;#x27;t removed suddenly.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>New MCP specification addresses the main barrier to enterprise adoption</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Plus, a new policy for the AI protocol ensures features aren&amp;amp;#x27;t removed suddenly.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>New MCP specification addresses the main barrier to enterprise adoption</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6699,7 +6727,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">If your Wi-Fi is a bit sluggish, there are some things you should check before upgrading your router.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Slow downloads? These tweaks could speed up your router</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">If your Wi-Fi is a bit sluggish, there are some things you should check before upgrading your router.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Slow downloads? These tweaks could speed up your router</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6733,7 +6761,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Our experts tested the Steam Machine for weeks to see how Valve&amp;amp;#x27;s hybrid gaming PC performs and whether it&amp;amp;#x27;s worth buying.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>What we really think of the Steam Machine</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Our experts tested the Steam Machine for weeks to see how Valve&amp;amp;#x27;s hybrid gaming PC performs and whether it&amp;amp;#x27;s worth buying.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>What we really think of the Steam Machine</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6745,7 +6773,7 @@ const ARTICLES_DATA = [
   {
     "id": "auto-biznode-runs-entirely-on-your-machine-1785506776",
     "slug": "auto-biznode-runs-entirely-on-your-machine-1785506776",
-    "title": "Mr. Informer Briefing: BizNode runs entirely on your machine — no cloud, no subscriptions, no monthly fees. Your AI business operator that works 24/7",
+    "title": "Mr. Informer Briefing: BizNode runs entirely on your machine \u2014 no cloud, no subscriptions, no monthly fees. Your AI business operator that works 24/7",
     "category": "AI & Future",
     "readTime": "1 min read",
     "date": "July 31, 2026 - 20:06",
@@ -6762,12 +6790,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on BizNode runs entirely on your machine — no cloud, no subscriptions, no monthly fees. Your AI business operator that works 24/7. Ive finally stopped paying for subscriptions and started building a business operator that lives on my own machine, and ",
+    "summary": "Mr. Informer briefing on BizNode runs entirely on your machine \u2014 no cloud, no subscriptions, no monthly fees. Your AI business operator that works 24/7. Ive finally stopped paying for subscriptions and started building a business operator that lives on my own machine, and ",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Ive finally stopped paying for subscriptions and started building a business operator that lives on my own machine, and the difference is night and day.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"BizNode runs entirely locally with zero cloud footprint, no monthly\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>BizNode runs entirely on your machine — no cloud, no subscriptions, no monthly fees. Your AI business operator that works 24/7</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Ive finally stopped paying for subscriptions and started building a business operator that lives on my own machine, and the difference is night and day.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"BizNode runs entirely locally with zero cloud footprint, no monthly\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>BizNode runs entirely on your machine \u2014 no cloud, no subscriptions, no monthly fees. Your AI business operator that works 24/7</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6801,7 +6829,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">If you&amp;amp;#x27;re worried about noise, utility costs, or pollution: here&amp;amp;#x27;s how to fight against a data center.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How to fight a data center</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">If you&amp;amp;#x27;re worried about noise, utility costs, or pollution: here&amp;amp;#x27;s how to fight against a data center.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>How to fight a data center</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6835,7 +6863,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Today is the day the EU&amp;amp;#x27;s Right to Repair rules come into force that will, eventually, make it much easier to fix your broken gear.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The EU&#x27;s Right to Repair directive kicks in today</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Today is the day the EU&amp;amp;#x27;s Right to Repair rules come into force that will, eventually, make it much easier to fix your broken gear.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The EU&#x27;s Right to Repair directive kicks in today</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6869,7 +6897,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Slate&amp;amp;#x27;s anti-truck EV is poised to deliver on all of its promises.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Slate Truck first drive: A minimalist&#x27;s delight</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Slate&amp;amp;#x27;s anti-truck EV is poised to deliver on all of its promises.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Slate Truck first drive: A minimalist&#x27;s delight</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6898,12 +6926,12 @@ const ARTICLES_DATA = [
       "Deep Learning",
       "Automation"
     ],
-    "summary": "Mr. Informer briefing on AI scammers outperform humans when it comes to building trust. The AI chatbot was more effective at creating “exploitable trust” than the humans.",
+    "summary": "Mr. Informer briefing on AI scammers outperform humans when it comes to building trust. The AI chatbot was more effective at creating \u201cexploitable trust\u201d than the humans.",
     "sourceName": "",
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">The AI chatbot was more effective at creating “exploitable trust” than the humans.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>AI scammers outperform humans when it comes to building trust</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">The AI chatbot was more effective at creating \u201cexploitable trust\u201d than the humans.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>AI scammers outperform humans when it comes to building trust</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6937,7 +6965,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Until very recently, emissions monitoring was viewed mostly as a regulatory requirement.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The companies monitored their emissions to ensure compliance with regulations, prepare necessary reports, and to prove environmenta\"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The Reasons Why Accurate Emissions Monitoring Has Become a Competitive Advantage</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Until very recently, emissions monitoring was viewed mostly as a regulatory requirement.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The companies monitored their emissions to ensure compliance with regulations, prepare necessary reports, and to prove environmenta\"</p>\n      <cite>\u2014 unverified source (predates source tracking)</cite>\n    </div>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>The Reasons Why Accurate Emissions Monitoring Has Become a Competitive Advantage</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -6971,7 +6999,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Electronic Arts will close its $55 billion deal to go private by August 4 next week.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Electronic Arts says it&#x27;ll be a private company next week</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Electronic Arts will close its $55 billion deal to go private by August 4 next week.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Electronic Arts says it&#x27;ll be a private company next week</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -7005,7 +7033,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">As of July 31, you can get a 27-inch LG Ultragear OLED gaming monitor (27GS93QE) for $499.99, down from $899.99, at Amazon.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Looking for the ultimate gaming upgrade this weekend? Save $400 on this LG UltraGear OLED gaming monitor.</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">As of July 31, you can get a 27-inch LG Ultragear OLED gaming monitor (27GS93QE) for $499.99, down from $899.99, at Amazon.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>Looking for the ultimate gaming upgrade this weekend? Save $400 on this LG UltraGear OLED gaming monitor.</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -7039,7 +7067,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🗄️ Archival brief — original source not verified</p>\n\n    <p class=\"article-lead\">Microsoft has started rolling out the Xbox app to Hisense TVs and other TVs powered by VIDAA OS.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>You can now play Xbox games on Hisense TVs without a console</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83d\uddc4\ufe0f Archival brief \u2014 original source not verified</p>\n\n    <p class=\"article-lead\">Microsoft has started rolling out the Xbox app to Hisense TVs and other TVs powered by VIDAA OS.</p>\n\n    <h3>About this brief</h3>\n    <p>This briefing on <strong>You can now play Xbox games on Hisense TVs without a console</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source \u2014 see our <a href=\"/terms/\">AI use policy</a> and recent posts for examples.</p>\n    ",
     "comments": [
       {
         "date": "Just now",
@@ -7073,7 +7101,7 @@ const ARTICLES_DATA = [
     "sourceUrl": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
     "claps": 0,
     "views": "New",
-    "content": "\n    <p class=\"ai-disclosure-badge\">🤖 AI-assisted summary of third-party reporting — see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The data was scraped and exfiltrated from 2,500 users of a compromised AI package.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Terabytes of credentials leaked in massive supply-chain attack</strong> — a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica →</a></p>\n    ",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The data was scraped and exfiltrated from 2,500 users of a compromised AI package.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Terabytes of credentials leaked in massive supply-chain attack</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
     "comments": []
   }
 ];

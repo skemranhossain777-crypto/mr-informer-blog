@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-third-predicate--argument-space-veri-1786614774",
+    "slug": "auto-the-third-predicate--argument-space-veri-1786614774",
+    "title": "Mr. Informer Briefing: The Third Predicate: Argument-Space Verification, Tested",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 13, 2026 - 09:52",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech3975/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on The Third Predicate: Argument-Space Verification, Tested, summarizing reporting from DEV Community.",
+    "sourceName": "DEV Community",
+    "sourceUrl": "https://dev.to/zxpmail/the-third-predicate-argument-space-verification-tested-3gfh",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>The Third Predicate: Argument-Space Verification, Tested\n\n\nAgent Determinism Illusions (Part 10)\n\nPart 8 ended with a three-stage pipeline \u2014 evidence gate \u2192 contract regex \u2192 per-requirement LLM \u2014 and a patched framing: t</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The Third Predicate: Argument-Space Verification, Tested\n\n\nAgent Determinism Illusions (Part 10)\n\nPart 8 ended with a three-stage pipeline \u2014 evidence gate \u2192 contract regex \u2192 per-requirement LLM \u2014 and a patched framing: t\"</p>\n      <cite>\u2014 DEV Community</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Third Predicate: Argument-Space Verification, Tested</strong> \u2014 a short, automation-assisted summary of reporting from DEV Community. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://dev.to/zxpmail/the-third-predicate-argument-space-verification-tested-3gfh\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">DEV Community \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-web-s-newest-weapon-against-ai-scrap-1786605006",
     "slug": "auto-the-web-s-newest-weapon-against-ai-scrap-1786605006",
     "title": "Mr. Informer Briefing: The web\u2019s newest weapon against AI scrapers is a font",

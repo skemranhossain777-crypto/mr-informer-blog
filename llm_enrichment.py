@@ -1,26 +1,25 @@
 """Optional LLM-generated editorial context for Mr. Informer briefings.
 
 Adds a short, grounded "Why this matters" paragraph on top of the honest
-RSS-snippet summary built in news_workflow.build_article_content. This is
-strictly additive: it requires ANTHROPIC_API_KEY and the `anthropic`
-package, and silently no-ops (falls back to the template-only article, same
-as before this file existed) if either is missing or the call fails for any
-reason — the RSS pipeline must never fail or block publishing on this.
+RSS-snippet summary built in news_workflow.build_article_content, using the
+Gemini API (Google AI Studio's free tier) via plain REST — no extra pip
+dependency, consistent with the rest of this stdlib-only pipeline.
 
-The model is instructed to ground everything in the provided headline/
-excerpt only and never invent facts, stats, quotes, or names — consistent
-with this codebase's non-negotiable "no fabricated content" rule (see
-CLAUDE.md).
+This is strictly additive: it requires GEMINI_API_KEY, and silently no-ops
+(falls back to the template-only article, same as before this file existed)
+if the key is missing or the call fails for any reason — the RSS pipeline
+must never fail or block publishing on this.
 """
 import os
+import json
+import urllib.request
+import urllib.error
 
-try:
-    import anthropic
-    _ANTHROPIC_AVAILABLE = True
-except ImportError:
-    _ANTHROPIC_AVAILABLE = False
-
-MODEL = "claude-opus-5"
+# gemini-2.5-flash is a well-established, documented free-tier model as of
+# this writing. Google's free tier also covers newer/faster models (e.g.
+# gemini-3.6-flash) if you want to bump this later.
+MODEL = "gemini-2.5-flash"
+API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 
 SYSTEM_PROMPT = (
     "You write a short \"Why this matters\" paragraph for Mr. Informer, a "
@@ -36,7 +35,6 @@ SYSTEM_PROMPT = (
     "phrase it as general framing, not as new factual claims about this "
     "specific story.\n"
     "- 2-4 sentences. Plain prose, no headers, no bullet points, no markdown.\n"
-    "- Do not include internal or system XML tags in your response.\n"
     "- If the excerpt is too thin to say anything useful without inventing "
     "facts, respond with exactly: SKIP"
 )
@@ -45,30 +43,49 @@ SYSTEM_PROMPT = (
 def generate_editorial_context(title, snippet, source_name):
     """Return a short grounded context paragraph, or None if the LLM is
     unavailable, declines, or the call fails for any reason."""
-    api_key = os.getenv("ANTHROPIC_API_KEY", "")
-    if not _ANTHROPIC_AVAILABLE or not api_key:
+    api_key = os.getenv("GEMINI_API_KEY", "")
+    if not api_key:
         return None
 
     user_prompt = f"Headline: {title}\nSource: {source_name}\nExcerpt: {snippet}"
 
+    payload = {
+        "contents": [{"role": "user", "parts": [{"text": user_prompt}]}],
+        "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
+        "generationConfig": {"maxOutputTokens": 400, "temperature": 0.3},
+    }
+
+    req = urllib.request.Request(
+        API_URL,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json", "x-goog-api-key": api_key},
+        method="POST",
+    )
+
     try:
-        client = anthropic.Anthropic(api_key=api_key)
-        response = client.messages.create(
-            model=MODEL,
-            max_tokens=400,
-            system=SYSTEM_PROMPT,
-            output_config={"effort": "low"},
-            messages=[{"role": "user", "content": user_prompt}],
-        )
-    except Exception as e:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
         print(f"[LLM Enrichment] Skipped (API error): {e}")
         return None
-
-    if response.stop_reason == "refusal":
-        print("[LLM Enrichment] Skipped (safety refusal).")
+    except Exception as e:
+        print(f"[LLM Enrichment] Skipped (unexpected error): {e}")
         return None
 
-    text = "".join(b.text for b in response.content if b.type == "text").strip()
+    candidates = data.get("candidates") or []
+    if not candidates:
+        block_reason = (data.get("promptFeedback") or {}).get("blockReason")
+        if block_reason:
+            print(f"[LLM Enrichment] Skipped (blocked: {block_reason}).")
+        return None
+
+    candidate = candidates[0]
+    if candidate.get("finishReason") == "SAFETY":
+        print("[LLM Enrichment] Skipped (safety finish reason).")
+        return None
+
+    parts = (candidate.get("content") or {}).get("parts") or []
+    text = "".join(p.get("text", "") for p in parts).strip()
     if not text or text.upper() == "SKIP":
         return None
     return text

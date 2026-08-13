@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-i-finally-found-a-robot-lawnmower-i-d-tr-1786646758",
+    "slug": "auto-i-finally-found-a-robot-lawnmower-i-d-tr-1786646758",
+    "title": "Mr. Informer Briefing: I finally found a robot lawnmower I\u2019d trust with my yard",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 13, 2026 - 18:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech330172/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on I finally found a robot lawnmower I\u2019d trust with my yard, summarizing reporting from The Verge.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they\u2019re still not set-it-and-forget-it machines.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"If you don\u2019t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors\u2019 yard, you\u2019re still going to need to keep an eye on them. But [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>I finally found a robot lawnmower I\u2019d trust with my yard</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>As autonomous yard maintenance becomes more capable, consumers are increasingly weighing the promise of hands-free convenience against the reality of ongoing oversight. While these devices can significantly reduce the labor of keeping up a property, finding reliable models that avoid common navigation pitfalls remains a key challenge for homeowners. Developments in this space highlight how far domestic robotics have come, even as the industry continues working toward truly seamless automation.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-why-this-prediction-market-banned-teens-1786636070",
     "slug": "auto-why-this-prediction-market-banned-teens-1786636070",
     "title": "Mr. Informer Briefing: Why This Prediction Market Banned Teens",

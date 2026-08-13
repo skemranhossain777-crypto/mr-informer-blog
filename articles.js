@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-northrop-s-robot-space-mechanic-is-a-new-1786624941",
+    "slug": "auto-northrop-s-robot-space-mechanic-is-a-new-1786624941",
+    "title": "Mr. Informer Briefing: Northrop\u2019s robot space mechanic is a new way to keep satellites at work longer",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 13, 2026 - 12:42",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech478950/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Northrop\u2019s robot space mechanic is a new way to keep satellites at work longer, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Northrop\u2019s robot space mechanic is a new way to keep satellites at work longer</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>Northrop\u2019s attempt to attach a new thruster to an aging satellite using a robot space mechanic highlights a significant shift toward extending the operational lifespan of orbiting hardware. As the cost and complexity of launching new spacecraft continue to mount, developing in-space servicing capabilities could fundamentally change how operators manage and maintain satellite constellations. This approach points toward a future where orbital infrastructure is actively repaired and upgraded rather than simply abandoned at the end of its initial fuel supply.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-ai-nuclear-power-firm-fermi-finally-has-1786617931",
     "slug": "auto-ai-nuclear-power-firm-fermi-finally-has-1786617931",
     "title": "Mr. Informer Briefing: AI nuclear power firm Fermi finally has a new CEO",

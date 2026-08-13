@@ -11,16 +11,33 @@ if the key is missing or the call fails for any reason — the RSS pipeline
 must never fail or block publishing on this.
 """
 import os
+import re
 import json
 import urllib.request
 import urllib.error
 
-# "gemini-flash-latest" is Google's alias for its current standard flash-tier
-# model. Using the alias (rather than a dated model like "gemini-2.5-flash")
-# avoids the pipeline breaking every time Google retires an older model
-# generation for new API keys/accounts.
-MODEL = "gemini-flash-latest"
+# gemini-3.5-flash-lite: Google's cost/speed-optimized tier for "simple
+# data processing" tasks like this one. Verified accessible with this
+# project's API key (gemini-2.5-flash / gemini-2.5-flash-lite are not —
+# both 404 as "no longer available to new users").
+MODEL = "gemini-3.5-flash-lite"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+
+# Some models echo a "**Why this matters:**"-style heading back at the start
+# of their answer despite the "no headers, no markdown" instruction — the
+# template already renders its own <h3>Why this matters</h3> above this
+# text, so a leading duplicate (with literal, unescaped-looking asterisks)
+# would show up on the live page. Strip it, plus any stray markdown bold.
+_LEADING_HEADING_RE = re.compile(
+    r'^\**\s*why this matters\s*:?\s*\**\s*', re.IGNORECASE
+)
+
+
+def _clean_output(text):
+    text = _LEADING_HEADING_RE.sub('', text).strip()
+    text = text.replace('**', '')
+    return text.strip()
+
 
 SYSTEM_PROMPT = (
     "You write a short \"Why this matters\" paragraph for Mr. Informer, a "
@@ -96,6 +113,9 @@ def generate_editorial_context(title, snippet, source_name):
 
     parts = (candidate.get("content") or {}).get("parts") or []
     text = "".join(p.get("text", "") for p in parts).strip()
+    if not text or text.upper() == "SKIP":
+        return None
+    text = _clean_output(text)
     if not text or text.upper() == "SKIP":
         return None
     return text

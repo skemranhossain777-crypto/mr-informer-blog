@@ -1,5 +1,845 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-third-predicate--argument-space-veri-1786614774",
+    "slug": "auto-the-third-predicate--argument-space-veri-1786614774",
+    "title": "Mr. Informer Briefing: The Third Predicate: Argument-Space Verification, Tested",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 13, 2026 - 09:52",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech3975/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on The Third Predicate: Argument-Space Verification, Tested, summarizing reporting from DEV Community.",
+    "sourceName": "DEV Community",
+    "sourceUrl": "https://dev.to/zxpmail/the-third-predicate-argument-space-verification-tested-3gfh",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>The Third Predicate: Argument-Space Verification, Tested\n\n\nAgent Determinism Illusions (Part 10)\n\nPart 8 ended with a three-stage pipeline \u2014 evidence gate \u2192 contract regex \u2192 per-requirement LLM \u2014 and a patched framing: t</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The Third Predicate: Argument-Space Verification, Tested\n\n\nAgent Determinism Illusions (Part 10)\n\nPart 8 ended with a three-stage pipeline \u2014 evidence gate \u2192 contract regex \u2192 per-requirement LLM \u2014 and a patched framing: t\"</p>\n      <cite>\u2014 DEV Community</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Third Predicate: Argument-Space Verification, Tested</strong> \u2014 a short, automation-assisted summary of reporting from DEV Community. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://dev.to/zxpmail/the-third-predicate-argument-space-verification-tested-3gfh\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">DEV Community \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-the-web-s-newest-weapon-against-ai-scrap-1786605006",
+    "slug": "auto-the-web-s-newest-weapon-against-ai-scrap-1786605006",
+    "title": "Mr. Informer Briefing: The web\u2019s newest weapon against AI scrapers is a font",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 13, 2026 - 07:10",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech431688/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on The web\u2019s newest weapon against AI scrapers is a font, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>\u201cShieldFont\u201d aims to poison AI training data without making pages unreadable for people.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"\u201cShieldFont\u201d aims to poison AI training data without making pages unreadable for people.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The web\u2019s newest weapon against AI scrapers is a font</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-toddler-s-tragic-death-from-brain-destro-1786596259",
+    "slug": "auto-toddler-s-tragic-death-from-brain-destro-1786596259",
+    "title": "Mr. Informer Briefing: Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 13, 2026 - 04:44",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech166906/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Toddler's tragic death from brain-destroying amoeba offers lessons for doctors, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Boy&#x27;s unusual symptoms could help identify the next case sooner.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Boy&#x27;s unusual symptoms could help identify the next case sooner.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Toddler&#x27;s tragic death from brain-destroying amoeba offers lessons for doctors</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-the-best-photos-of-the-big-august-solar-1786582833",
+    "slug": "auto-the-best-photos-of-the-big-august-solar-1786582833",
+    "title": "Mr. Informer Briefing: The Best Photos of the Big August Solar Eclipse",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 13, 2026 - 01:00",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech658945/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on The Best Photos of the Big August Solar Eclipse, summarizing reporting from Wired.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/best-photos-august-solar-eclipse-spain/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>It\u2019s been a century since the Iberian Peninsula has been in the full shadow of the moon. Here\u2019s what it looked like in the path of totality.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It\u2019s been a century since the Iberian Peninsula has been in the full shadow of the moon. Here\u2019s what it looked like in the path of totality.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Best Photos of the Big August Solar Eclipse</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/best-photos-august-solar-eclipse-spain/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-the-white-house-is-going-to-expand-its-a-1786570432",
+    "slug": "auto-the-white-house-is-going-to-expand-its-a-1786570432",
+    "title": "Mr. Informer Briefing: The White House Is Going to Expand Its AI Policy",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 12, 2026 - 21:33",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech436042/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on The White House Is Going to Expand Its AI Policy, summarizing reporting from Wired.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The White House Is Going to Expand Its AI Policy</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-chatgpt--what-s-free-in-2026-and-what-is-1786560350",
+    "slug": "auto-chatgpt--what-s-free-in-2026-and-what-is-1786560350",
+    "title": "Mr. Informer Briefing: ChatGPT: What's free in 2026 and what isn't?",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 12, 2026 - 18:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech702541/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on ChatGPT: What's free in 2026 and what isn't?, summarizing reporting from Engadget.",
+    "sourceName": "Engadget",
+    "sourceUrl": "https://www.engadget.com/2234173/chatgpt-free-features-2026/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>As of August 2026, you can send unlimited texts to ChatGPT.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"As of August 2026, you can send unlimited texts to ChatGPT.\"</p>\n      <cite>\u2014 Engadget</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>ChatGPT: What&#x27;s free in 2026 and what isn&#x27;t?</strong> \u2014 a short, automation-assisted summary of reporting from Engadget. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.engadget.com/2234173/chatgpt-free-features-2026/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Engadget \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-how-a--250-million-acquisition-collapsed-1786549793",
+    "slug": "auto-how-a--250-million-acquisition-collapsed-1786549793",
+    "title": "Mr. Informer Briefing: How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 12, 2026 - 15:49",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech964788/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on How a $250 million acquisition collapsed into allegations of fraud and forged signatures, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>How a $250 million acquisition collapsed into allegations of fraud and forged signatures</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-honor-s-robot-phone-is-better-than-a-gim-1786538501",
+    "slug": "auto-honor-s-robot-phone-is-better-than-a-gim-1786538501",
+    "title": "Mr. Informer Briefing: Honor\u2019s Robot Phone is better than a gimbal in a phone has any right to be",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 12, 2026 - 12:41",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech175709/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Honor\u2019s Robot Phone is better than a gimbal in a phone has any right to be, summarizing reporting from The Verge.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>The Robot Phone, which launches today in China, doesn&#x27;t sound like a good idea - and not only because it&#x27;s not actually a robot. Instead it&#x27;s a regular Android smartphone with its main camera installed on a compact gimba</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The Robot Phone, which launches today in China, doesn&#x27;t sound like a good idea - and not only because it&#x27;s not actually a robot. Instead it&#x27;s a regular Android smartphone with its main camera installed on a compact gimba\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Honor\u2019s Robot Phone is better than a gimbal in a phone has any right to be</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-def-con-crowd-suspected-in-fake-hotspot-1786528393",
+    "slug": "auto-def-con-crowd-suspected-in-fake-hotspot-1786528393",
+    "title": "Mr. Informer Briefing: DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 12, 2026 - 09:53",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech459563/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on DEF CON crowd suspected in fake-hotspot attack on Delta flight, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>FBI Atlanta confirms it&#x27;s looking into the incident, no arrests made.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"FBI Atlanta confirms it&#x27;s looking into the incident, no arrests made.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>DEF CON crowd suspected in fake-hotspot attack on Delta flight</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-oneplus-promo-codes--30--off-august-2026-1786518395",
+    "slug": "auto-oneplus-promo-codes--30--off-august-2026-1786518395",
+    "title": "Mr. Informer Briefing: OnePlus Promo Codes: 30% Off August 2026",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 12, 2026 - 07:06",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech728046/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on OnePlus Promo Codes: 30% Off August 2026, summarizing reporting from Wired.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/oneplus-promo-code/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Save 30% with a OnePlus coupon in August 2026, plus save up to 10% on earbuds, phones, and more.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Save 30% with a OnePlus coupon in August 2026, plus save up to 10% on earbuds, phones, and more.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>OnePlus Promo Codes: 30% Off August 2026</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/oneplus-promo-code/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-india-s-yulu-raises--93m-as-quick-commer-1786509625",
+    "slug": "auto-india-s-yulu-raises--93m-as-quick-commer-1786509625",
+    "title": "Mr. Informer Briefing: India\u2019s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 12, 2026 - 04:40",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech900599/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on India\u2019s Yulu raises $93M as quick-commerce boom fuels e-bike demand, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>India\u2019s Yulu raises $93M as quick-commerce boom fuels e-bike demand</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-saber-denies-replacing-rideshare-stimula-1786496346",
+    "slug": "auto-saber-denies-replacing-rideshare-stimula-1786496346",
+    "title": "Mr. Informer Briefing: Saber denies replacing Rideshare Stimulator\u2019s writers with ChatGPT",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 12, 2026 - 00:59",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech173183/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Saber denies replacing Rideshare Stimulator\u2019s writers with ChatGPT, summarizing reporting from The Verge.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>After a former lead writer claimed Saber &quot;replaced me with ChatGPT,&quot; CEO Matthew Karch now claims, &quot;Neither Saber nor Unigine have replaced any writers with AI,&quot; for the Rideshare &quot;Stimulator&quot; game announced last month,</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"After a former lead writer claimed Saber &quot;replaced me with ChatGPT,&quot; CEO Matthew Karch now claims, &quot;Neither Saber nor Unigine have replaced any writers with AI,&quot; for the Rideshare &quot;Stimulator&quot; game announced last month,\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Saber denies replacing Rideshare Stimulator\u2019s writers with ChatGPT</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-is-it-safe-to-eat-lettuce-yet-1786484069",
+    "slug": "auto-is-it-safe-to-eat-lettuce-yet-1786484069",
+    "title": "Mr. Informer Briefing: Is It Safe to Eat Lettuce Yet?",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 11, 2026 - 21:34",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech531811/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Is It Safe to Eat Lettuce Yet?, summarizing reporting from Wired.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>\u201cThat product is off the market, so I think there\u2019s absolutely lower risk for cyclospora in terms of eating lettuce,\u201d one professor of food safety tells WIRED.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"\u201cThat product is off the market, so I think there\u2019s absolutely lower risk for cyclospora in terms of eating lettuce,\u201d one professor of food safety tells WIRED.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Is It Safe to Eat Lettuce Yet?</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-a-developer-got-word-1-1a-from-1990-to-r-1786473913",
+    "slug": "auto-a-developer-got-word-1-1a-from-1990-to-r-1786473913",
+    "title": "Mr. Informer Briefing: A developer got Word 1.1a from 1990 to run on Windows 11",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 11, 2026 - 18:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech107847/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on A developer got Word 1.1a from 1990 to run on Windows 11, summarizing reporting from ZDNet.",
+    "sourceName": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/microsoft-word-1-1a-windows/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Longing for a plain, old-fashioned version of Microsoft Word without all the bells, whistles, and AI slop? One developer managed to coax Word 1.1a to run on today&#x27;s Windows.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Longing for a plain, old-fashioned version of Microsoft Word without all the bells, whistles, and AI slop? One developer managed to coax Word 1.1a to run on today&#x27;s Windows.\"</p>\n      <cite>\u2014 ZDNet</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>A developer got Word 1.1a from 1990 to run on Windows 11</strong> \u2014 a short, automation-assisted summary of reporting from ZDNet. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.zdnet.com/article/microsoft-word-1-1a-windows/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ZDNet \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-razer-naga-v3-pro-review--buttons-galore-1786463316",
+    "slug": "auto-razer-naga-v3-pro-review--buttons-galore-1786463316",
+    "title": "Mr. Informer Briefing: Razer Naga V3 Pro Review: Buttons Galore",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 11, 2026 - 15:48",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech620049/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Razer Naga V3 Pro Review: Buttons Galore, summarizing reporting from Wired.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/review/razer-naga-v3-pro/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>The PC gaming world has tried to move on from bulky, heavier mice, but the Naga V3 Pro proves that it still has its place.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The PC gaming world has tried to move on from bulky, heavier mice, but the Naga V3 Pro proves that it still has its place.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Razer Naga V3 Pro Review: Buttons Galore</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/review/razer-naga-v3-pro/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-trump-signs-bonkers-order-that-cuts-vacc-1786451896",
+    "slug": "auto-trump-signs-bonkers-order-that-cuts-vacc-1786451896",
+    "title": "Mr. Informer Briefing: Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 11, 2026 - 12:38",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech731334/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Trump signs bonkers order that cuts vaccines, promotes ones that don't exist, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Trump falsely claimed the MMR vaccine is &quot;quite lethal&quot; and linked shots to autism.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Trump falsely claimed the MMR vaccine is &quot;quite lethal&quot; and linked shots to autism.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Trump signs bonkers order that cuts vaccines, promotes ones that don&#x27;t exist</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-with-new-open-models--meta-pitches-anoth-1786441776",
+    "slug": "auto-with-new-open-models--meta-pitches-anoth-1786441776",
+    "title": "Mr. Informer Briefing: With new open models, Meta pitches another reboot of its struggling AI strategy",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 11, 2026 - 09:49",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech376455/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on With new open models, Meta pitches another reboot of its struggling AI strategy, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Meta has been trailing competitors. Zuckerberg thinks he&#x27;s found a way forward.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Meta has been trailing competitors. Zuckerberg thinks he&#x27;s found a way forward.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>With new open models, Meta pitches another reboot of its struggling AI strategy</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-ars-live--ross-scott-discusses-the-stop-1786430707",
+    "slug": "auto-ars-live--ross-scott-discusses-the-stop-1786430707",
+    "title": "Mr. Informer Briefing: Ars Live: Ross Scott discusses the Stop Killing Games movement",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 11, 2026 - 06:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech262321/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Ars Live: Ross Scott discusses the Stop Killing Games movement, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Our discussion takes place live on August 11 at 3 pm ET.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Our discussion takes place live on August 11 at 3 pm ET.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Ars Live: Ross Scott discusses the Stop Killing Games movement</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-openai-reportedly-completed-a--7-billion-1786421454",
+    "slug": "auto-openai-reportedly-completed-a--7-billion-1786421454",
+    "title": "Mr. Informer Briefing: OpenAI reportedly completed a $7 billion employee tender offer",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 11, 2026 - 04:10",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech132805/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on OpenAI reportedly completed a $7 billion employee tender offer, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>San Francisco&#x27;s housing market is in trouble again.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"San Francisco&#x27;s housing market is in trouble again.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>OpenAI reportedly completed a $7 billion employee tender offer</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-mark-zuckerberg-doesn-t-understand-how-t-1786409549",
+    "slug": "auto-mark-zuckerberg-doesn-t-understand-how-t-1786409549",
+    "title": "Mr. Informer Briefing: Mark Zuckerberg doesn\u2019t understand how to live",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 11, 2026 - 00:52",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech57581/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Mark Zuckerberg doesn\u2019t understand how to live, summarizing reporting from The Verge.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Recently, a man I was rock climbing with told me about how he&#x27;d used AI to make a motivational poster for himself, which he&#x27;d hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said,</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Recently, a man I was rock climbing with told me about how he&#x27;d used AI to make a motivational poster for himself, which he&#x27;d hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said,\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Mark Zuckerberg doesn\u2019t understand how to live</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-google-co-founder-sergey-brin-has-now-sp-1786397481",
+    "slug": "auto-google-co-founder-sergey-brin-has-now-sp-1786397481",
+    "title": "Mr. Informer Briefing: Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 10, 2026 - 21:31",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech286916/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>California&#x27;s Prop 40, would impose a one-time 5% tax on the net worth of the state&#x27;s billionaires.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"California&#x27;s Prop 40, would impose a one-time 5% tax on the net worth of the state&#x27;s billionaires.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-aptoide-becomes-the-first-rival-app-stor-1786387257",
+    "slug": "auto-aptoide-becomes-the-first-rival-app-stor-1786387257",
+    "title": "Mr. Informer Briefing: Aptoide becomes the first rival app store to return to Google Play in the US",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 10, 2026 - 18:40",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech776894/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Aptoide becomes the first rival app store to return to Google Play in the US, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Aptoide becomes the first rival app store to return to Google Play in the US</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-sila-lands--1-4b-pentagon-loan-as-milita-1786376939",
+    "slug": "auto-sila-lands--1-4b-pentagon-loan-as-milita-1786376939",
+    "title": "Mr. Informer Briefing: Sila lands $1.4B Pentagon loan as militaries demand more batteries",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 10, 2026 - 15:48",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech482732/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Sila lands $1.4B Pentagon loan as militaries demand more batteries, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington State.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington State.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Sila lands $1.4B Pentagon loan as militaries demand more batteries</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-peer-review-is-overwhelmed-can-it-surviv-1786365729",
+    "slug": "auto-peer-review-is-overwhelmed-can-it-surviv-1786365729",
+    "title": "Mr. Informer Briefing: Peer review is overwhelmed\u2014can it survive in the AI era?",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 10, 2026 - 12:42",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech170837/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Peer review is overwhelmed\u2014can it survive in the AI era?, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Peer review is overwhelmed\u2014can it survive in the AI era?</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-made-by-google-2026--how-to-watch-and-wh-1786356487",
+    "slug": "auto-made-by-google-2026--how-to-watch-and-wh-1786356487",
+    "title": "Mr. Informer Briefing: Made by Google 2026: How to watch and what to expect from at the Pixel 11 event",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 10, 2026 - 10:08",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech406801/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Made by Google 2026: How to watch and what to expect from at the Pixel 11 event, summarizing reporting from ZDNet.",
+    "sourceName": "ZDNet",
+    "sourceUrl": "https://www.zdnet.com/article/what-to-expect-rumors-made-by-google-2026/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Google is set to announce its Pixel 11 series phones - here&#x27;s what we know.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Google is set to announce its Pixel 11 series phones - here&#x27;s what we know.\"</p>\n      <cite>\u2014 ZDNet</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Made by Google 2026: How to watch and what to expect from at the Pixel 11 event</strong> \u2014 a short, automation-assisted summary of reporting from ZDNet. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.zdnet.com/article/what-to-expect-rumors-made-by-google-2026/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ZDNet \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-anthropic-is-turning-claude-code-s-auto-1786345677",
+    "slug": "auto-anthropic-is-turning-claude-code-s-auto-1786345677",
+    "title": "Mr. Informer Briefing: Anthropic is turning Claude Code\u2019s auto mode on by default",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 10, 2026 - 07:07",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech986212/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Anthropic is turning Claude Code\u2019s auto mode on by default, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Programming with Claude Code will soon require even less human oversight.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Programming with Claude Code will soon require even less human oversight.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Anthropic is turning Claude Code\u2019s auto mode on by default</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-no-dogs-in-space-is-a-music-history-podc-1786335715",
+    "slug": "auto-no-dogs-in-space-is-a-music-history-podc-1786335715",
+    "title": "Mr. Informer Briefing: No Dogs in Space is a music history podcast for true obsessives",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 10, 2026 - 04:21",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech871322/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on No Dogs in Space is a music history podcast for true obsessives, summarizing reporting from The Verge.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Sadly, there hasn&#x27;t been a new episode of No Dogs in Space since July of 2024. Part four of the podcast&#x27;s series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don&#x27;t get me wrong, I lo</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Sadly, there hasn&#x27;t been a new episode of No Dogs in Space since July of 2024. Part four of the podcast&#x27;s series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don&#x27;t get me wrong, I lo\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>No Dogs in Space is a music history podcast for true obsessives</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-embattled-hedge-fund-situational-awarene-1786323190",
+    "slug": "auto-embattled-hedge-fund-situational-awarene-1786323190",
+    "title": "Mr. Informer Briefing: Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "category": "AI & Future",
+    "readTime": "3 min read",
+    "date": "August 10, 2026 - 00:53",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech542361/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>The AI-focused hedge fund is still making some big bets.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The AI-focused hedge fund is still making some big bets.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-mount-toba-eruption-doesn-t-seem-like-it-1786310444",
+    "slug": "auto-mount-toba-eruption-doesn-t-seem-like-it-1786310444",
+    "title": "Mr. Informer Briefing: Mount Toba eruption doesn't seem like it could nearly kill our species",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 09, 2026 - 21:20",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech722400/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Mount Toba eruption doesn't seem like it could nearly kill our species, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>The massive Toba eruption seems to have had little climate impact.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The massive Toba eruption seems to have had little climate impact.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Mount Toba eruption doesn&#x27;t seem like it could nearly kill our species</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
+    "id": "auto-zuckerberg-s-yacht-was-closer--but-someo-1786301742",
+    "slug": "auto-zuckerberg-s-yacht-was-closer--but-someo-1786301742",
+    "title": "Mr. Informer Briefing: Zuckerberg\u2019s yacht was closer, but someone else saved a stranded boat",
+    "category": "Tech Pulse",
+    "readTime": "3 min read",
+    "date": "August 09, 2026 - 18:55",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech708296/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Zuckerberg\u2019s yacht was closer, but someone else saved a stranded boat, summarizing reporting from The Verge.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p>Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Zuckerberg\u2019s yacht was closer, but someone else saved a stranded boat</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-techcrunch-mobility--zoox-prepares-for-l-1786301213",
     "slug": "auto-techcrunch-mobility--zoox-prepares-for-l-1786301213",
     "title": "Mr. Informer Briefing: TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",

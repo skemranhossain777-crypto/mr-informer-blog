@@ -15,10 +15,11 @@ import json
 import urllib.request
 import urllib.error
 
-# gemini-2.5-flash is a well-established, documented free-tier model as of
-# this writing. Google's free tier also covers newer/faster models (e.g.
-# gemini-3.6-flash) if you want to bump this later.
-MODEL = "gemini-2.5-flash"
+# "gemini-flash-latest" is Google's alias for its current standard flash-tier
+# model. Using the alias (rather than a dated model like "gemini-2.5-flash")
+# avoids the pipeline breaking every time Google retires an older model
+# generation for new API keys/accounts.
+MODEL = "gemini-flash-latest"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 
 SYSTEM_PROMPT = (
@@ -52,7 +53,10 @@ def generate_editorial_context(title, snippet, source_name):
     payload = {
         "contents": [{"role": "user", "parts": [{"text": user_prompt}]}],
         "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
-        "generationConfig": {"maxOutputTokens": 400, "temperature": 0.3},
+        # maxOutputTokens has to cover this model's internal "thinking" tokens
+        # too, not just the visible answer — a tight budget here truncates
+        # the response mid-sentence before any text is returned.
+        "generationConfig": {"maxOutputTokens": 2048, "temperature": 0.3},
     }
 
     req = urllib.request.Request(
@@ -63,7 +67,7 @@ def generate_editorial_context(title, snippet, source_name):
     )
 
     try:
-        with urllib.request.urlopen(req, timeout=20) as resp:
+        with urllib.request.urlopen(req, timeout=45) as resp:
             data = json.loads(resp.read().decode("utf-8"))
     except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
         print(f"[LLM Enrichment] Skipped (API error): {e}")
@@ -80,8 +84,14 @@ def generate_editorial_context(title, snippet, source_name):
         return None
 
     candidate = candidates[0]
-    if candidate.get("finishReason") == "SAFETY":
+    finish_reason = candidate.get("finishReason")
+    if finish_reason == "SAFETY":
         print("[LLM Enrichment] Skipped (safety finish reason).")
+        return None
+    if finish_reason == "MAX_TOKENS":
+        # Cut off mid-thought (thinking tokens + answer exceeded the budget)
+        # — never publish a truncated paragraph.
+        print("[LLM Enrichment] Skipped (truncated at max_tokens).")
         return None
 
     parts = (candidate.get("content") or {}).get("parts") or []

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-why-this-prediction-market-banned-teens-1786636070",
+    "slug": "auto-why-this-prediction-market-banned-teens-1786636070",
+    "title": "Mr. Informer Briefing: Why This Prediction Market Banned Teens",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 13, 2026 - 15:47",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech889304/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Why This Prediction Market Banned Teens, summarizing reporting from Wired.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Jacob Fortinsky, the CEO and cofounder of the new prediction market Novig, says his outfit isn\u2019t like those other markets.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"You know the ones.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Why This Prediction Market Banned Teens</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-northrop-s-robot-space-mechanic-is-a-new-1786624941",
     "slug": "auto-northrop-s-robot-space-mechanic-is-a-new-1786624941",
     "title": "Mr. Informer Briefing: Northrop\u2019s robot space mechanic is a new way to keep satellites at work longer",

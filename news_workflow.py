@@ -9,6 +9,8 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import llm_enrichment
+
 # Path Configuration
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ARTICLES_JSON_PATH = os.path.join(BASE_DIR, "articles.json")
@@ -351,10 +353,13 @@ def estimate_read_time(content_html):
     minutes = max(1, round(words / 200))
     return f"{minutes} min read"
 
-def build_article_content(cleaned_title, snippet, source_name, source_url):
+def build_article_content(cleaned_title, snippet, source_name, source_url, editorial_context=None):
     """Honest article body: a labeled summary + real attribution, no invented
     statistics or quotes. This is what used to be a hash-generated fake
-    infographic and fabricated 'verified' metrics table."""
+    infographic and fabricated 'verified' metrics table. `editorial_context`
+    is an optional LLM-generated "Why this matters" paragraph (see
+    llm_enrichment.py) — grounded in the same snippet, never a substitute
+    for it, and omitted entirely when unavailable."""
     safe_snippet = snippet.strip() if snippet else "See the original report for full details."
     lead, quote = split_snippet_for_quote(safe_snippet)
 
@@ -369,6 +374,11 @@ def build_article_content(cleaned_title, snippet, source_name, source_url):
         if quote else ""
     )
 
+    editorial_html = (
+        f'<h3>Why this matters</h3>\n    <p>{html.escape(editorial_context)}</p>\n\n    '
+        if editorial_context else ""
+    )
+
     content_html = f"""
     <p class="ai-disclosure-badge">🤖 AI-assisted summary of third-party reporting — see our <a href="/terms/">AI use policy</a></p>
 
@@ -377,7 +387,7 @@ def build_article_content(cleaned_title, snippet, source_name, source_url):
     {quote_html}<h3>What this covers</h3>
     <p>This is a Mr. Informer briefing on <strong>{html.escape(cleaned_title)}</strong> — a short, automation-assisted summary of reporting from {html.escape(source_name)}. For full quotes, sourcing, and context, read the original report linked below.</p>
 
-    {source_link_html}
+    {editorial_html}{source_link_html}
     """
     return content_html
 
@@ -438,7 +448,8 @@ def generate_mr_informer_article(news_item, existing_articles=None):
         tags = ["Tech Pulse", "Spatial Computing", "Wearables", "AR/VR"]
 
     formatted_date = datetime.now().strftime("%B %d, %Y - %H:%M")
-    content_html = build_article_content(cleaned_title, snippet, source_name, source_url)
+    editorial_context = llm_enrichment.generate_editorial_context(cleaned_title, snippet, source_name)
+    content_html = build_article_content(cleaned_title, snippet, source_name, source_url, editorial_context)
     summary = f"Mr. Informer briefing on {cleaned_title}, summarizing reporting from {source_name}."
 
     article = {

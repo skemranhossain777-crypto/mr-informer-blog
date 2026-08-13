@@ -15,6 +15,7 @@ Safe to run more than once; it's idempotent given the same input.
 import os
 import re
 import json
+import html
 
 import news_workflow as nw
 
@@ -22,6 +23,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 json_path = os.path.join(BASE_DIR, "articles.json")
 js_path = os.path.join(BASE_DIR, "articles.js")
 
+LEAD_RE = re.compile(r'<p class="article-lead">(.*?)</p>', re.DOTALL)
 QUOTE_RE = re.compile(r'<div class="article-quote-box">\s*<p>"(.*?)"</p>', re.DOTALL)
 TITLE_PREFIX_RE = re.compile(r'^(exclusive intel|mr\. informer briefing):\s*', re.IGNORECASE)
 
@@ -43,16 +45,32 @@ def rewrite_legacy_article(art):
     raw_title = repair_mojibake_text(raw_title)
     art["title"] = f"Mr. Informer Briefing: {raw_title}"
 
-    # Recover the real quoted snippet from the old content body if present,
-    # otherwise fall back to the stored summary.
-    match = QUOTE_RE.search(art.get("content", ""))
-    snippet = match.group(1) if match else art.get("summary", "").split(". ")[0]
+    # Recover the real snippet text from the old content body if present,
+    # otherwise fall back to the stored summary. Prefer the labeled lead
+    # paragraph (new template); fall back to the old quote-box duplicate
+    # (pre-dedup template) for anything not yet migrated once.
+    old_content = art.get("content", "")
+    lead_match = LEAD_RE.search(old_content)
+    quote_match = QUOTE_RE.search(old_content)
+    if lead_match:
+        lead_text = html.unescape(lead_match.group(1)).strip()
+        quote_text = html.unescape(quote_match.group(1)).strip() if quote_match else ""
+        snippet = f"{lead_text} {quote_text}".strip() if quote_text and quote_text != lead_text else lead_text
+    elif quote_match:
+        snippet = html.unescape(quote_match.group(1)).strip()
+    else:
+        snippet = art.get("summary", "").split(". ")[0]
     snippet = repair_mojibake_text(snippet)
 
     source_name = art.get("sourceName") or "the original publisher (not recorded for this earlier post)"
     source_url = art.get("sourceUrl") or None
 
-    art["content"] = nw.build_article_content(raw_title, snippet, source_name, source_url)
+    is_archival = not source_url
+    art["content"] = (
+        nw.build_archival_notice_content(raw_title, snippet) if is_archival
+        else nw.build_article_content(raw_title, snippet, source_name, source_url)
+    )
+    art["readTime"] = nw.estimate_read_time(art["content"])
     art["summary"] = f"Mr. Informer briefing on {raw_title}. {snippet[:120]}"
     art.setdefault("slug", art["id"])
     art["sourceName"] = art.get("sourceName") or ""

@@ -207,7 +207,7 @@ def fetch_rss_single(feed_url):
                         'raw_title': clean_title,
                         'link': link,
                         'pubDate': pubDate,
-                        'snippet': clean_desc[:220]
+                        'snippet': clean_desc[:500]
                     })
     except Exception:
         pass
@@ -329,11 +329,34 @@ def generate_unique_cover_image(category, title, existing_articles):
     unique_seed = abs(hash(title_slug + str(len(existing_articles)))) % 999999
     return f"https://picsum.photos/seed/tech{unique_seed}/1200/800"
 
+def split_snippet_for_quote(snippet):
+    """Split a snippet into (lead sentence(s), distinct pull-quote) so a page
+    doesn't render the exact same sentence twice — once as body text and once
+    in a blockquote, which reads as templated/duplicate content to a reviewer.
+    Falls back to no pull-quote when there isn't a second, genuinely different
+    sentence to show."""
+    sentences = [s for s in re.split(r'(?<=[.!?])\s+', snippet.strip()) if s]
+    if len(sentences) < 2:
+        return snippet, None
+    lead, quote = sentences[0], " ".join(sentences[1:])
+    if not quote.strip() or quote.strip() == lead.strip():
+        return snippet, None
+    return lead, quote
+
+def estimate_read_time(content_html):
+    """Honest read-time estimate from the actual rendered word count, instead
+    of a hardcoded '3 min read' regardless of how short the summary is."""
+    text = re.sub('<[^<]+?>', ' ', content_html or '')
+    words = len(text.split())
+    minutes = max(1, round(words / 200))
+    return f"{minutes} min read"
+
 def build_article_content(cleaned_title, snippet, source_name, source_url):
     """Honest article body: a labeled summary + real attribution, no invented
     statistics or quotes. This is what used to be a hash-generated fake
     infographic and fabricated 'verified' metrics table."""
     safe_snippet = snippet.strip() if snippet else "See the original report for full details."
+    lead, quote = split_snippet_for_quote(safe_snippet)
 
     source_link_html = (
         f'<p class="article-source-note">Read the full original report at '
@@ -341,17 +364,17 @@ def build_article_content(cleaned_title, snippet, source_name, source_url):
         if source_url else ""
     )
 
+    quote_html = (
+        f'<div class="article-quote-box">\n      <p>"{html.escape(quote)}"</p>\n      <cite>— {html.escape(source_name)}</cite>\n    </div>\n\n    '
+        if quote else ""
+    )
+
     content_html = f"""
     <p class="ai-disclosure-badge">🤖 AI-assisted summary of third-party reporting — see our <a href="/terms/">AI use policy</a></p>
 
-    <p>{html.escape(safe_snippet)}</p>
+    <p class="article-lead">{html.escape(lead)}</p>
 
-    <div class="article-quote-box">
-      <p>"{html.escape(safe_snippet)}"</p>
-      <cite>— {html.escape(source_name)}</cite>
-    </div>
-
-    <h3>What this covers</h3>
+    {quote_html}<h3>What this covers</h3>
     <p>This is a Mr. Informer briefing on <strong>{html.escape(cleaned_title)}</strong> — a short, automation-assisted summary of reporting from {html.escape(source_name)}. For full quotes, sourcing, and context, read the original report linked below.</p>
 
     {source_link_html}
@@ -363,18 +386,19 @@ def build_archival_notice_content(cleaned_title, snippet):
     real snippet text survives, but makes clear no verified source link exists
     for this one, instead of the old copy that promised a link with none there."""
     safe_snippet = snippet.strip() if snippet else "No further detail survives from this earlier post."
+    lead, quote = split_snippet_for_quote(safe_snippet)
+
+    quote_html = (
+        f'<div class="article-quote-box">\n      <p>"{html.escape(quote)}"</p>\n      <cite>— unverified source (predates source tracking)</cite>\n    </div>\n\n    '
+        if quote else ""
+    )
 
     content_html = f"""
     <p class="ai-disclosure-badge">🗄️ Archival brief — original source not verified</p>
 
-    <p>{html.escape(safe_snippet)}</p>
+    <p class="article-lead">{html.escape(lead)}</p>
 
-    <div class="article-quote-box">
-      <p>"{html.escape(safe_snippet)}"</p>
-      <cite>— unverified source (predates source tracking)</cite>
-    </div>
-
-    <h3>About this brief</h3>
+    {quote_html}<h3>About this brief</h3>
     <p>This briefing on <strong>{html.escape(cleaned_title)}</strong> was published before Mr. Informer began recording a verified, clickable source link for every article. We can't confirm or link back to the original reporting it was based on, so treat this as an unverified archival summary rather than a sourced briefing. Every new briefing links directly to its original source — see our <a href="/terms/">AI use policy</a> and recent posts for examples.</p>
     """
     return content_html
@@ -422,7 +446,7 @@ def generate_mr_informer_article(news_item, existing_articles=None):
         "slug": article_id,
         "title": article_title,
         "category": category,
-        "readTime": "3 min read",
+        "readTime": estimate_read_time(content_html),
         "date": formatted_date,
         "author": {
             "name": "Mr. Informer",

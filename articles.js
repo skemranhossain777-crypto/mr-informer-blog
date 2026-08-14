@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-layla-sleep-coupon--save-up-to--600-in-a-1786691191",
+    "slug": "auto-layla-sleep-coupon--save-up-to--600-in-a-1786691191",
+    "title": "Mr. Informer Briefing: Layla Sleep Coupon: Save Up to $600 in August 2026",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 14, 2026 - 07:06",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech717505/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Layla Sleep Coupon: Save Up to $600 in August 2026, summarizing reporting from Wired.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/layla-sleep-coupon/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Upgrade your sleep setup with the latest Layla promo codes.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Save on flippable mattresses, copper-infused pillows, and adjustable bases in August 2026.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Layla Sleep Coupon: Save Up to $600 in August 2026</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/layla-sleep-coupon/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-flock-says-its-new-tool-will-help-identi-1786682485",
     "slug": "auto-flock-says-its-new-tool-will-help-identi-1786682485",
     "title": "Mr. Informer Briefing: Flock says its new tool will help identify police abuse, but hasn\u2019t explained how it works",

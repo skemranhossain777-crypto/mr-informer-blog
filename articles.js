@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-cmf-hit-the-balance-between-cheap-and-go-1786711114",
+    "slug": "auto-cmf-hit-the-balance-between-cheap-and-go-1786711114",
+    "title": "Mr. Informer Briefing: CMF hit the balance between cheap and good clip earbuds",
+    "category": "Deep Dives",
+    "readTime": "1 min read",
+    "date": "August 14, 2026 - 12:38",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech224754/1200/800",
+    "tags": [
+      "Deep Dives",
+      "Quantum Computing",
+      "Hardware",
+      "Physics"
+    ],
+    "summary": "Mr. Informer briefing on CMF hit the balance between cheap and good clip earbuds, summarizing reporting from The Verge.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Clip earbuds are an exercise in compromise.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It&#x27;s an inherent aspect of their design - and physics. They can be more comfortable for people that don&#x27;t like something jammed in their ear, but sound response suffers. Ambient awareness is great because you can easily hear the sound around you, which means to hear your own [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>CMF hit the balance between cheap and good clip earbuds</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>Clip-on earbuds inherently force manufacturers to balance physical design limitations like sound response and ambient awareness against everyday comfort. For consumers exploring alternatives to traditional in-ear designs, finding a device that successfully navigates this trade-off without a steep price tag represents a significant shift in the accessible audio market.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/979928/cmf-clip-pro-review\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-if-apple-sends-you-a-push-notification-a-1786701042",
     "slug": "auto-if-apple-sends-you-a-push-notification-a-1786701042",
     "title": "Mr. Informer Briefing: If Apple sends you a push notification alerting you to a spyware attack, take it seriously",

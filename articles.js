@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-unforgetful-is-a-new-reminders-app-for-p-1786732760",
+    "slug": "auto-unforgetful-is-a-new-reminders-app-for-p-1786732760",
+    "title": "Mr. Informer Briefing: Unforgetful is a new reminders app for people who can\u2019t stop hitting snooze",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 14, 2026 - 18:39",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech507498/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Unforgetful is a new reminders app for people who can\u2019t stop hitting snooze, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore \u2014 or accidentally dismiss.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Unforgetful is a new reminders app for people who can\u2019t stop hitting snooze</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>This release highlights how indie developers continue to tackle everyday productivity pain points through specialized utility software. For anyone who routinely dismisses standard alerts without actually completing tasks, a more aggressive reminder system offers a fresh approach to habit-building and time management.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-openai-and-anthropic-in-price-war-as-chi-1786722058",
     "slug": "auto-openai-and-anthropic-in-price-war-as-chi-1786722058",
     "title": "Mr. Informer Briefing: OpenAI and Anthropic in price war as Chinese AI rivals gain ground",

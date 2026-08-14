@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-openai-and-anthropic-in-price-war-as-chi-1786722058",
+    "slug": "auto-openai-and-anthropic-in-price-war-as-chi-1786722058",
+    "title": "Mr. Informer Briefing: OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 14, 2026 - 15:40",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech773684/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on OpenAI and Anthropic in price war as Chinese AI rivals gain ground, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">US groups release cheaper models after new challenges to their trillion-dollar ambitions.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>OpenAI and Anthropic in price war as Chinese AI rivals gain ground</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>As competition intensifies and rivals challenge major market players, the cost of accessing advanced artificial intelligence is dropping rapidly. This price war highlights how intense market pressures and growing international competition are forcing foundational AI developers to make their technology more accessible. For users and businesses, this shift signals a broader trend toward lower costs and more widespread availability of cutting-edge AI tools.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-cmf-hit-the-balance-between-cheap-and-go-1786711114",
     "slug": "auto-cmf-hit-the-balance-between-cheap-and-go-1786711114",
     "title": "Mr. Informer Briefing: CMF hit the balance between cheap and good clip earbuds",

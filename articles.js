@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-vulnerability-giving-attackers-full-cont-1786774743",
+    "slug": "auto-vulnerability-giving-attackers-full-cont-1786774743",
+    "title": "Mr. Informer Briefing: Vulnerability giving attackers full control of Macs is under active exploitation",
+    "category": "Cyber Security",
+    "readTime": "1 min read",
+    "date": "August 15, 2026 - 06:19",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech365568/1200/800",
+    "tags": [
+      "Cyber Security",
+      "Zero-Day",
+      "Cryptography",
+      "Network Safety"
+    ],
+    "summary": "Mr. Informer briefing on Vulnerability giving attackers full control of Macs is under active exploitation, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Screen-sharing bug lets remote hackers log in without a password.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Vulnerability giving attackers full control of Macs is under active exploitation</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>When critical security flaws like screen-sharing bugs are actively exploited in the wild, the window between disclosure and widespread attack shrinks dramatically. Users relying on remote access features face immediate risk when authentication bypasses allow unauthorized control without credentials. Promptly applying official security patches is essential to protect systems from remote takeover until vendors issue definitive fixes.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-samsung-has-new-galaxy-headphones-in-the-1786764569",
     "slug": "auto-samsung-has-new-galaxy-headphones-in-the-1786764569",
     "title": "Mr. Informer Briefing: Samsung has new Galaxy headphones in the works",

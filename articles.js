@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-ukraine-strikes-major-russian-rocket-fac-1786828237",
+    "slug": "auto-ukraine-strikes-major-russian-rocket-fac-1786828237",
+    "title": "Mr. Informer Briefing: Ukraine strikes major Russian rocket factory with cruise missiles",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 15, 2026 - 21:10",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech748910/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Ukraine strikes major Russian rocket factory with cruise missiles, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">&quot;Flamingo missiles were used.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"A good achievement.&quot;\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Ukraine strikes major Russian rocket factory with cruise missiles</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-spacex-officially-closes-its-cursor-acqu-1786817573",
     "slug": "auto-spacex-officially-closes-its-cursor-acqu-1786817573",
     "title": "Mr. Informer Briefing: SpaceX officially closes its Cursor acquisition",

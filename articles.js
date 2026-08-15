@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-spacex-officially-closes-its-cursor-acqu-1786817573",
+    "slug": "auto-spacex-officially-closes-its-cursor-acqu-1786817573",
+    "title": "Mr. Informer Briefing: SpaceX officially closes its Cursor acquisition",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 15, 2026 - 18:12",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech85492/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on SpaceX officially closes its Cursor acquisition, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">AI coding startup Cursor is now officially a part of SpaceX.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>SpaceX officially closes its Cursor acquisition</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-retrospec-joe-rev-2-review--2026---putti-1786806622",
     "slug": "auto-retrospec-joe-rev-2-review--2026---putti-1786806622",
     "title": "Mr. Informer Briefing: Retrospec Joe Rev 2 Review (2026): Putting the \u2018Joy\u2019 in Joyride",

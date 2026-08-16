@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-instapaper--the-original-read-it-later-a-1786851514",
+    "slug": "auto-instapaper--the-original-read-it-later-a-1786851514",
+    "title": "Mr. Informer Briefing: Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 16, 2026 - 03:38",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech214427/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade, summarizing reporting from Wired.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">New fonts, better customization, and a whole new layout all make it worth dusting off your Instapaper account.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade</strong> \u2014 a short, automation-assisted summary of reporting from Wired. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>As digital reading habits continue to evolve, classic apps like Instapaper are finding ways to stay relevant by refining the user experience. Updates focusing on design, layout, and readability help these platforms compete in a crowded market of content curation tools. For avid readers, these enhancements offer a more personalized and comfortable way to consume saved articles across devices.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-woman-claims-her-stepfather-used-grok-to-1786840612",
     "slug": "auto-woman-claims-her-stepfather-used-grok-to-1786840612",
     "title": "Mr. Informer Briefing: Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",

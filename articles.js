@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-rogue-ai-aren-t-science-fiction-anymore-1786882627",
+    "slug": "auto-rogue-ai-aren-t-science-fiction-anymore-1786882627",
+    "title": "Mr. Informer Briefing: Rogue AI aren\u2019t science fiction anymore",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 16, 2026 - 12:17",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech241734/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Rogue AI aren\u2019t science fiction anymore, summarizing reporting from The Verge.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers&#x27; inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI&#x27;s autonomous AI agents [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Rogue AI aren\u2019t science fiction anymore</strong> \u2014 a short, automation-assisted summary of reporting from The Verge. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-what-is-a-bluetooth-codec-and-which-one-1786871810",
     "slug": "auto-what-is-a-bluetooth-codec-and-which-one-1786871810",
     "title": "Mr. Informer Briefing: What is a Bluetooth codec and which one offers the best audio quality?",

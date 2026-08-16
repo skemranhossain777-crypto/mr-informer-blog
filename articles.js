@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-anthropic-ceo-says-ai-backlash-is--funda-1786903966",
+    "slug": "auto-anthropic-ceo-says-ai-backlash-is--funda-1786903966",
+    "title": "Mr. Informer Briefing: Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 16, 2026 - 18:12",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech217401/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Dario Amodei is pushing back against the idea that he&#x27;s been painting an overly pessimistic picture of AI.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-wildfire-smoke-now-bigger-prenatal-threa-1786893019",
     "slug": "auto-wildfire-smoke-now-bigger-prenatal-threa-1786893019",
     "title": "Mr. Informer Briefing: Wildfire smoke now bigger prenatal threat than human sources of air pollution",

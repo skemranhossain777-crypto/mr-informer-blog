@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-woman-claims-her-stepfather-used-grok-to-1786840612",
+    "slug": "auto-woman-claims-her-stepfather-used-grok-to-1786840612",
+    "title": "Mr. Informer Briefing: Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 16, 2026 - 00:36",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech59616/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Woman claims her stepfather used Grok to transform childhood photo into explicit imagery, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The woman claimed that AI tools are &quot;taking everyday life and turning it into child sexual abuse.&quot;</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Woman claims her stepfather used Grok to transform childhood photo into explicit imagery</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>This report highlights the severe real-world harm and ethical violations associated with the misuse of generative AI image tools. As platforms increasingly roll out powerful features like Grok, the ease with which bad actors can weaponize personal media underscores the urgent need for robust safeguards and accountability. For everyday users and regulators alike, incidents like this serve as a stark reminder of the dark side of rapid technological advancement.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-ukraine-strikes-major-russian-rocket-fac-1786828237",
     "slug": "auto-ukraine-strikes-major-russian-rocket-fac-1786828237",
     "title": "Mr. Informer Briefing: Ukraine strikes major Russian rocket factory with cruise missiles",

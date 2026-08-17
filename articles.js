@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-why-people-aren-t-buying-mark-zuckerberg-1786926931",
+    "slug": "auto-why-people-aren-t-buying-mark-zuckerberg-1786926931",
+    "title": "Mr. Informer Briefing: Why people aren\u2019t buying Mark Zuckerberg\u2019s AI future",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 17, 2026 - 00:35",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech324246/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Why people aren\u2019t buying Mark Zuckerberg\u2019s AI future, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg\u2019s vision.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Why people aren\u2019t buying Mark Zuckerberg\u2019s AI future</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-stripe-will-reportedly-acquire-ai-gatewa-1786914587",
     "slug": "auto-stripe-will-reportedly-acquire-ai-gatewa-1786914587",
     "title": "Mr. Informer Briefing: Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",

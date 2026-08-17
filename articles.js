@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-first-test-flight-of-largest-all-electri-1786958949",
+    "slug": "auto-first-test-flight-of-largest-all-electri-1786958949",
+    "title": "Mr. Informer Briefing: First test flight of largest all-electric aircraft used just $5 of electricity",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 17, 2026 - 09:29",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech427229/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on First test flight of largest all-electric aircraft used just $5 of electricity, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Airline-backed venture aims to develop a hybrid-electric commercial aircraft.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>First test flight of largest all-electric aircraft used just $5 of electricity</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>As the aviation industry faces mounting pressure to reduce its massive carbon footprint, exploring electric and hybrid-electric propulsion represents a crucial step toward sustainable flight. Demonstrating that large aircraft can operate on nominal electricity costs highlights the immense potential for long-term fuel savings alongside environmental benefits. While commercial adoption remains on the horizon, these initial milestones signal a shifting paradigm in how the aerospace sector approaches energy efficiency and alternative power.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-so-much-solar--digging-into-the-list-of-1786948276",
     "slug": "auto-so-much-solar--digging-into-the-list-of-1786948276",
     "title": "Mr. Informer Briefing: So much solar: Digging into the list of every US power plant that went online this year",

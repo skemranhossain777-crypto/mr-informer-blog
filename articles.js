@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-so-much-solar--digging-into-the-list-of-1786948276",
+    "slug": "auto-so-much-solar--digging-into-the-list-of-1786948276",
+    "title": "Mr. Informer Briefing: So much solar: Digging into the list of every US power plant that went online this year",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 17, 2026 - 06:31",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech325711/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on So much solar: Digging into the list of every US power plant that went online this year, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Utility-scale solar leads by a mile, followed by batteries.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Fossil fuels, not so much.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>So much solar: Digging into the list of every US power plant that went online this year</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-visionquest-trailer-kicks-off-disney-s-d-1786937989",
     "slug": "auto-visionquest-trailer-kicks-off-disney-s-d-1786937989",
     "title": "Mr. Informer Briefing: VisionQuest trailer kicks off Disney's D23 fan event",

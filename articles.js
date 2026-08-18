@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-us-vaccination-rates-fall-again-as-exemp-1787013336",
+    "slug": "auto-us-vaccination-rates-fall-again-as-exemp-1787013336",
+    "title": "Mr. Informer Briefing: US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 18, 2026 - 00:35",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech524541/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on US vaccination rates fall again as exemptions continue to rise, CDC data shows, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Again, the CDC did not publish a full report and instead simply put the data online.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>US vaccination rates fall again as exemptions continue to rise, CDC data shows</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-unprecedented--number-of-apple-users-re-1787001354",
     "slug": "auto-unprecedented--number-of-apple-users-re-1787001354",
     "title": "Mr. Informer Briefing: \u2018Unprecedented\u2019 number of Apple users received recent spyware alert, say investigators",

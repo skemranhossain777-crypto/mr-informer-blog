@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-theban-tomb-reveals-how-egyptian-burial-1787044868",
+    "slug": "auto-theban-tomb-reveals-how-egyptian-burial-1787044868",
+    "title": "Mr. Informer Briefing: Theban tomb reveals how Egyptian burial trends evolved in time",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 18, 2026 - 09:21",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech380590/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on Theban tomb reveals how Egyptian burial trends evolved in time, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Theban tomb reveals how Egyptian burial trends evolved in time</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-ai-automation-startup-relay-shuts-down-1787034203",
     "slug": "auto-ai-automation-startup-relay-shuts-down-1787034203",
     "title": "Mr. Informer Briefing: AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team",

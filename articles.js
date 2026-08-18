@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-doj-s-probe-into-andreessen-horowitz-ove-1787087585",
+    "slug": "auto-doj-s-probe-into-andreessen-horowitz-ove-1787087585",
+    "title": "Mr. Informer Briefing: DOJ\u2019s probe into Andreessen Horowitz over board seats baffles VCs",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 18, 2026 - 21:13",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech880686/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on DOJ\u2019s probe into Andreessen Horowitz over board seats baffles VCs, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>DOJ\u2019s probe into Andreessen Horowitz over board seats baffles VCs</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>When venture capital firms take on board seats across a wide range of portfolio companies, overlapping markets and shifting business models can quickly create operational and governance conflicts. For the broader startup ecosystem, this federal scrutiny highlights the ongoing tension between active investor oversight and fair competition concerns as top firms grow larger and more interconnected.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-whoop-s-advanced-labs-health-screenings-1787077234",
     "slug": "auto-whoop-s-advanced-labs-health-screenings-1787077234",
     "title": "Mr. Informer Briefing: Whoop's Advanced Labs health screenings will no longer require a subscription",

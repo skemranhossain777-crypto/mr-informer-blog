@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-ai-automation-startup-relay-shuts-down-1787034203",
+    "slug": "auto-ai-automation-startup-relay-shuts-down-1787034203",
+    "title": "Mr. Informer Briefing: AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 18, 2026 - 06:23",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech679728/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">&quot;We have some really ambitious plans to help you work with AI in Chrome to get things done, and I\u2019ll have more to share soon,&quot; Jacob Bank, Relay founder and CEO, said.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>When promising early-stage artificial intelligence startups wind down operations and see their founding talent absorbed by tech giants, it highlights how intense the industry&#x27;s race for top-tier engineering talent has become. For users, these acqui-hires often signal where major platforms are placing their bets, as companies rapidly integrate specialized AI expertise directly into mainstream consumer browsers and everyday tools.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-anthropic-s-annualized-revenue-surges-to-1787024120",
     "slug": "auto-anthropic-s-annualized-revenue-surges-to-1787024120",
     "title": "Mr. Informer Briefing: Anthropic\u2019s annualized revenue surges to $65B",

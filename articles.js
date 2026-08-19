@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-cursor-capitalizes-on-github-frustration-1787110619",
+    "slug": "auto-cursor-capitalizes-on-github-frustration-1787110619",
+    "title": "Mr. Informer Briefing: Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 19, 2026 - 03:36",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech833760/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on Cursor capitalizes on GitHub frustration, launches rival hosting platform, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers&#x27; long preferred favorite, GitHub.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Cursor capitalizes on GitHub frustration, launches rival hosting platform</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>When a popular developer tool like Cursor moves to challenge an industry standard like GitHub, it highlights growing user frustration with incumbent platforms and the ongoing push to integrate AI deeper into the software development workflow. Offering a rival hosting platform gives developers an alternative ecosystem, potentially shifting how and where code is stored and managed as AI-native tools gain traction.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-sabotage---experts--lawmakers-blast-rfk-1787099713",
     "slug": "auto-sabotage---experts--lawmakers-blast-rfk-1787099713",
     "title": "Mr. Informer Briefing: \"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",

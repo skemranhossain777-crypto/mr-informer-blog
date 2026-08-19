@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-sabotage---experts--lawmakers-blast-rfk-1787099713",
+    "slug": "auto-sabotage---experts--lawmakers-blast-rfk-1787099713",
+    "title": "Mr. Informer Briefing: \"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 19, 2026 - 00:35",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech82650/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "Mr. Informer briefing on \"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research, summarizing reporting from Ars Technica.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">US healthcare is broken.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Under RFK Jr., the research agency working to fix it is, too.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>&quot;Sabotage&quot;: Experts, lawmakers blast RFK Jr. for destroying healthcare research</strong> \u2014 a short, automation-assisted summary of reporting from Ars Technica. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-doj-s-probe-into-andreessen-horowitz-ove-1787087585",
     "slug": "auto-doj-s-probe-into-andreessen-horowitz-ove-1787087585",
     "title": "Mr. Informer Briefing: DOJ\u2019s probe into Andreessen Horowitz over board seats baffles VCs",

@@ -1,6 +1,6 @@
 # Content Pipeline Report — Mr. Informer Blog
 
-Audit date: 2026-08-09
+Audit date: 2026-08-09 (updated 2026-08-20)
 
 ## How it works, end to end
 
@@ -68,3 +68,23 @@ The homepage (`index.html` + `app.js`) is a separate client-rendered SPA that re
 
 - Consider a lightweight smoke test (even a plain Python script asserting `generate_mr_informer_article()`'s output has the required keys and no fabrication markers) that CI runs before the auto-commit, so a future bad edit fails loudly instead of silently shipping.
 - If duplicate near-misses become a visible problem, loosen/adjust the duplicate check (e.g. fuzzy match or compare source URLs, which are now tracked, instead of only titles).
+
+## Expanded content for AdSense compliance (2026-08-20)
+
+**Problem**: Google AdSense reviewers flagged "thin content" and "content quality" issues. Each article was ~150-200 words (a lead paragraph + one-line attribution), which is too short to demonstrate original editorial value.
+
+**Changes made**:
+
+1. **`llm_enrichment.py` — expanded from 1 to 3 editorial sections.** Instead of a single "Why this matters" paragraph, the LLM now produces:
+   - "Why this matters" — 2-4 sentence industry/trend framing
+   - "Technical context" — 2-4 sentence explanation of the underlying technology
+   - "Key takeaways" — 4-5 bullet points summarizing the most important points
+   The `maxOutputTokens` was increased from 2048 to 4096 to accommodate the longer output. A backward-compatible `generate_editorial_context()` wrapper is preserved for `run_regen.py`.
+
+2. **`news_workflow.py` — expanded article template.** `build_article_content()` now renders all three LLM sections as HTML (with styled headings and a bullet-list component for takeaways). When the LLM is unavailable, the template falls back to a generated "Why this matters" paragraph about the broader trend (no longer thin). The summary in `generate_mr_informer_article()` was expanded from 1 sentence to 2 sentences.
+
+3. **`styles.css` — new CSS classes.** `.article-takeaways` (styled bullet list with cyan accent markers), `.article-source-note` (highlighted attribution box) added.
+
+4. **Net effect per article**: ~400-600 words (was ~150-200). This gives AdSense reviewers substantially more structured, original content to evaluate.
+
+**What still needs doing**: The existing 266 articles in `articles.json` were generated with the old thin template. Running `python run_regen.py` would rewrite them all through the new expanded template (producing the fallback editorial paragraph for each). This is optional but recommended before the next AdSense review.

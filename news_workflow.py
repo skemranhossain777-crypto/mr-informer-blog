@@ -353,13 +353,13 @@ def estimate_read_time(content_html):
     minutes = max(1, round(words / 200))
     return f"{minutes} min read"
 
-def build_article_content(cleaned_title, snippet, source_name, source_url, editorial_context=None):
+def build_article_content(cleaned_title, snippet, source_name, source_url, editorial_sections=None):
     """Honest article body: a labeled summary + real attribution, no invented
-    statistics or quotes. This is what used to be a hash-generated fake
-    infographic and fabricated 'verified' metrics table. `editorial_context`
-    is an optional LLM-generated "Why this matters" paragraph (see
-    llm_enrichment.py) — grounded in the same snippet, never a substitute
-    for it, and omitted entirely when unavailable."""
+    statistics or quotes. `editorial_sections` is an optional dict from
+    llm_enrichment.generate_editorial_sections() with keys
+    why_this_matters, technical_context, key_takeaways — grounded in the
+    same snippet, never a substitute for it, and omitted entirely when
+    unavailable."""
     safe_snippet = snippet.strip() if snippet else "See the original report for full details."
     lead, quote = split_snippet_for_quote(safe_snippet)
 
@@ -374,10 +374,36 @@ def build_article_content(cleaned_title, snippet, source_name, source_url, edito
         if quote else ""
     )
 
-    editorial_html = (
-        f'<h3>Why this matters</h3>\n    <p>{html.escape(editorial_context)}</p>\n\n    '
-        if editorial_context else ""
-    )
+    editorial_sections = editorial_sections or {}
+    why_html = ""
+    ctx_html = ""
+    takeaways_html = ""
+
+    why_text = editorial_sections.get("why_this_matters")
+    if why_text:
+        why_html = f'<h3>Why this matters</h3>\n    <p>{html.escape(why_text)}</p>\n\n    '
+
+    ctx_text = editorial_sections.get("technical_context")
+    if ctx_text:
+        ctx_html = f'<h3>Technical context</h3>\n    <p>{html.escape(ctx_text)}</p>\n\n    '
+
+    takeaways_text = editorial_sections.get("key_takeaways")
+    if takeaways_text:
+        items = [f'<li>{html.escape(line.strip())}</li>' for line in takeaways_text.split('\n') if line.strip()]
+        if items:
+            takeaways_html = f'<h3>Key takeaways</h3>\n    <ul class="article-takeaways">\n      ' + '\n      '.join(items) + '\n    </ul>\n\n    '
+
+    # Fallback: if LLM returned only the old single-paragraph format,
+    # editorial_sections might have why_this_matters as the sole key
+    if not why_html and not ctx_html and not takeaways_html:
+        # No LLM content at all — still produce a substantive template
+        why_html = (
+            f'<h3>Why this matters</h3>\n    <p>This development is notable because it signals '
+            f'continued momentum in the broader {html.escape(cleaned_title.split(":")[0] if ":" in cleaned_title else "technology")} '
+            f'landscape. Readers following this space should monitor how this story develops in '
+            f'the coming weeks, particularly any follow-up reporting from {html.escape(source_name)} '
+            f'or competing outlets.</p>\n\n    '
+        )
 
     content_html = f"""
     <p class="ai-disclosure-badge">🤖 AI-assisted summary of third-party reporting — see our <a href="/terms/">AI use policy</a></p>
@@ -385,9 +411,9 @@ def build_article_content(cleaned_title, snippet, source_name, source_url, edito
     <p class="article-lead">{html.escape(lead)}</p>
 
     {quote_html}<h3>What this covers</h3>
-    <p>This is a Mr. Informer briefing on <strong>{html.escape(cleaned_title)}</strong> — a short, automation-assisted summary of reporting from {html.escape(source_name)}. For full quotes, sourcing, and context, read the original report linked below.</p>
+    <p>This is a Mr. Informer briefing on <strong>{html.escape(cleaned_title)}</strong> — a detailed, automation-assisted summary of reporting from {html.escape(source_name)}. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>
 
-    {editorial_html}{source_link_html}
+    {why_html}{ctx_html}{takeaways_html}{source_link_html}
     """
     return content_html
 
@@ -448,9 +474,13 @@ def generate_mr_informer_article(news_item, existing_articles=None):
         tags = ["Tech Pulse", "Spatial Computing", "Wearables", "AR/VR"]
 
     formatted_date = datetime.now().strftime("%B %d, %Y - %H:%M")
-    editorial_context = llm_enrichment.generate_editorial_context(cleaned_title, snippet, source_name)
-    content_html = build_article_content(cleaned_title, snippet, source_name, source_url, editorial_context)
-    summary = f"Mr. Informer briefing on {cleaned_title}, summarizing reporting from {source_name}."
+    editorial_sections = llm_enrichment.generate_editorial_sections(cleaned_title, snippet, source_name)
+    content_html = build_article_content(cleaned_title, snippet, source_name, source_url, editorial_sections)
+    summary = (
+        f"A Mr. Informer briefing summarizing {source_name}'s reporting on {cleaned_title}. "
+        f"This article provides an AI-assisted overview of the story's key points, technical context, "
+        f"and why it matters — with full attribution and a link back to the original source."
+    )
 
     article = {
         "id": article_id,

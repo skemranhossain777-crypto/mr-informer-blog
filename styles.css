@@ -857,6 +857,53 @@ body {
   margin: 10px 0 20px 0;
 }
 
+.article-body-content .article-takeaways {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px 0;
+}
+
+.article-body-content .article-takeaways li {
+  position: relative;
+  padding: 10px 0 10px 28px;
+  border-bottom: 1px solid var(--border-color);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--text-secondary);
+}
+
+.article-body-content .article-takeaways li:last-child {
+  border-bottom: none;
+}
+
+.article-body-content .article-takeaways li::before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  color: var(--accent-cyan);
+  font-weight: 700;
+}
+
+.article-source-note {
+  margin-top: 24px;
+  padding: 14px 18px;
+  background: rgba(56, 189, 248, 0.06);
+  border: 1px solid rgba(56, 189, 248, 0.2);
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.article-source-note a {
+  color: var(--accent-cyan);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.article-source-note a:hover {
+  text-decoration: underline;
+}
+
 .article-data-table {
   width: 100%;
   border-collapse: collapse;

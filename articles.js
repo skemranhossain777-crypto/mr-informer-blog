@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-ai-isn-t-close-to-curing-cancer--this-st-1787142100",
+    "slug": "auto-ai-isn-t-close-to-curing-cancer--this-st-1787142100",
+    "title": "Mr. Informer Briefing: AI isn\u2019t close to curing cancer. This startup says it knows what it will take.",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 19, 2026 - 12:21",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech276759/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on AI isn\u2019t close to curing cancer. This startup says it knows what it will take., summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">It&#x27;s the data, stupid.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>AI isn\u2019t close to curing cancer. This startup says it knows what it will take.</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-tiktok-explores-peer-to-peer-payments-vi-1787131315",
     "slug": "auto-tiktok-explores-peer-to-peer-payments-vi-1787131315",
     "title": "Mr. Informer Briefing: TikTok explores peer-to-peer payments via DMs, report says",

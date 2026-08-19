@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-tiktok-explores-peer-to-peer-payments-vi-1787131315",
+    "slug": "auto-tiktok-explores-peer-to-peer-payments-vi-1787131315",
+    "title": "Mr. Informer Briefing: TikTok explores peer-to-peer payments via DMs, report says",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 19, 2026 - 09:21",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech991435/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "Mr. Informer briefing on TikTok explores peer-to-peer payments via DMs, report says, summarizing reporting from TechCrunch.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">If rolled out, the feature would use the social media service\u2019s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>TikTok explores peer-to-peer payments via DMs, report says</strong> \u2014 a short, automation-assisted summary of reporting from TechCrunch. For full quotes, sourcing, and context, read the original report linked below.</p>\n\n    <h3>Why this matters</h3>\n    <p>Expanding payment features directly into messaging interfaces represents a natural evolution for social platforms aiming to keep users within their ecosystems longer. By leveraging existing infrastructure like TikTok Pay, platforms can seamlessly bridge the gap between social interaction and commerce, transforming casual chats into transactional hubs. This trend highlights how modern apps are increasingly mimicking super-apps, integrating financial services to capture more of the user&#x27;s daily digital routine.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-steelseries--comfy-wireless-gaming-heads-1787120671",
     "slug": "auto-steelseries--comfy-wireless-gaming-heads-1787120671",
     "title": "Mr. Informer Briefing: SteelSeries\u2019 comfy wireless gaming headset is nearly half off",

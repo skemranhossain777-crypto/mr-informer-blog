@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-binding-of-isaac--repentance--online-1787186120",
+    "slug": "auto-the-binding-of-isaac--repentance--online-1787186120",
+    "title": "Mr. Informer Briefing: The Binding of Isaac: Repentance+ Online release goes head-to-head with GTA 6 on November 19",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "August 20, 2026 - 00:35",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech773809/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Engadget's reporting on The Binding of Isaac: Repentance+ Online release goes head-to-head with GTA 6 on November 19. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Engadget",
+    "sourceUrl": "https://www.engadget.com/2240496/the-binding-of-isaac-repentance-online-release-goes-head-to-head-with-gta-6-on-november-19/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">There&#x27;s nothing else going on that day, right?</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Binding of Isaac: Repentance+ Online release goes head-to-head with GTA 6 on November 19</strong> \u2014 a detailed, automation-assisted summary of reporting from Engadget. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Timing the release of an anticipated gaming update against a massive industry monolith like Grand Theft Auto 6 is a high-risk strategy that highlights how niche or indie titles sometimes have to navigate a crowded calendar. In the broader gaming industry, launch dates can make or break a title&#x27;s initial visibility as it fights for consumer attention against blockbuster giants. Readers should take away that even highly anticipated updates for beloved games must contend with the chaotic and unpredictable nature of video game release schedules.</p>\n\n    <h3>Technical context</h3>\n    <p>The update in question is The Binding of Isaac: Repentance+ Online, which brings online multiplayer capabilities to the title. While the provided text does not detail the exact network protocols or architecture used, online multiplayer implementations generally rely on client-server or peer-to-peer networking models to synchronize game states across different players. Integrating robust online play into a game originally designed around single-player mechanics requires significant technical adjustments to handle latency and synchronization.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The Binding of Isaac: Repentance+ Online is scheduled for release on November 19.</li>\n      <li>The launch date happens to coincide directly with the release of GTA 6.</li>\n      <li>Engadget highlights the humorous coincidence of these two releases sharing the exact same day.</li>\n      <li>The excerpt relies on sarcasm to point out how massive the competition is for that specific release date.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.engadget.com/2240496/the-binding-of-isaac-repentance-online-release-goes-head-to-head-with-gta-6-on-november-19/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Engadget \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-rillet-raises--100m-series-c-at--1b-valu-1787174117",
     "slug": "auto-rillet-raises--100m-series-c-at--1b-valu-1787174117",
     "title": "Mr. Informer Briefing: Rillet raises $100M Series C at $1B valuation \u2014 2 years after emerging from stealth",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-salmonella-is-everywhere-1787217781",
+    "slug": "auto-salmonella-is-everywhere-1787217781",
+    "title": "Mr. Informer Briefing: Salmonella Is Everywhere",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 20, 2026 - 09:23",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech519392/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Wired's reporting on Salmonella Is Everywhere. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/salmonella-is-everywhere/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">From granola to guacamole, a wide variety of foods have been recalled lately over salmonella risks.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Experts say common-sense precautions go a long way.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Salmonella Is Everywhere</strong> \u2014 a detailed, automation-assisted summary of reporting from Wired. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Food safety concerns involving widespread bacterial risks like salmonella highlight the vulnerability of modern supply chains across a diverse range of products. When contamination spans everything from granola to guacamole, it underscores the ongoing challenge of maintaining rigorous safety standards in food production and distribution. Readers should take away that vigilance and adherence to basic food handling protocols remain essential defenses against common biological hazards.</p>\n\n    <h3>Technical context</h3>\n    <p>Salmonella is a type of bacteria capable of causing foodborne illness, prompting widespread product recalls when detected in consumer goods. Contamination can affect a wide variety of food items, ranging from dry goods like granola to perishable foods like guacamole. Managing these risks relies on standard food safety measures and common-sense precautions recommended by industry experts.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>A wide variety of foods have recently faced recalls due to salmonella risks.</li>\n      <li>Contaminated products span everyday items ranging from granola to guacamole.</li>\n      <li>Experts emphasize that common-sense precautions go a long way in preventing illness.</li>\n      <li>Food safety challenges continue to affect multiple sectors of the supply chain.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/salmonella-is-everywhere/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-chewy-promo-codes---20-off-august-2026-1787207110",
     "slug": "auto-chewy-promo-codes---20-off-august-2026-1787207110",
     "title": "Mr. Informer Briefing: Chewy Promo Codes: $20 Off August 2026",

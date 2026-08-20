@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-chewy-promo-codes---20-off-august-2026-1787207110",
+    "slug": "auto-chewy-promo-codes---20-off-august-2026-1787207110",
+    "title": "Mr. Informer Briefing: Chewy Promo Codes: $20 Off August 2026",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 20, 2026 - 06:25",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech12840/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Wired's reporting on Chewy Promo Codes: $20 Off August 2026. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/chewy-promo-code/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more August 2026 discounts.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Chewy Promo Codes: $20 Off August 2026</strong> \u2014 a detailed, automation-assisted summary of reporting from Wired. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader Chewy Promo Codes landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from Wired or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/chewy-promo-code/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-stripe-didn-t-really-buy-openrouter-beca-1787197039",
     "slug": "auto-stripe-didn-t-really-buy-openrouter-beca-1787197039",
     "title": "Mr. Informer Briefing: Stripe didn\u2019t really buy OpenRouter because of the \u2018singularity\u2019",

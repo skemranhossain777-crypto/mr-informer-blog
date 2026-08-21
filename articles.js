@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-google-discover-is-getting-an-ai-chatbot-1787272667",
+    "slug": "auto-google-discover-is-getting-an-ai-chatbot-1787272667",
+    "title": "Mr. Informer Briefing: Google Discover is getting an AI chatbot-tuned feed",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "August 21, 2026 - 00:37",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech172298/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Google Discover is getting an AI chatbot-tuned feed. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Google will soon allow you to customize your Discover feed by describing what you want to see.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The new feature, rolling out to the Google app in the &quot;coming days,&quot; will use AI to automatically tweak your feed and &quot;remember&quot; your preferences for future visits. You&#x27;ll find the option within the three-dot menu on your [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Google Discover is getting an AI chatbot-tuned feed</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The integration of generative AI into content curation feeds represents a broader industry trend toward conversational and natural language-based interfaces. As tech companies move away from static settings menus, users are increasingly empowered to shape their digital experiences through direct descriptions. For the everyday reader, this shift promises more intuitive control over the information they consume, replacing manual tweaking with dynamic, memory-based personalization.</p>\n\n    <h3>Technical context</h3>\n    <p>The newly announced feature utilizes artificial intelligence to interpret natural language descriptions provided by users through the Google app interface. When a user interacts with the three-dot menu to describe their desired content, the underlying AI processes this prompt to automatically adjust the feed parameters. Additionally, the system is designed to retain these stated preferences, allowing it to remember and apply them to future visits without requiring repeated manual input.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Google Discover is introducing a new feature that lets users customize their feed by describing what they want to see.</li>\n      <li>The update is rolling out to the Google app in the coming days.</li>\n      <li>An AI chatbot-tuned system will automatically adjust the feed based on these descriptions.</li>\n      <li>The tool is designed to remember user preferences for future visits to the Discover feed.</li>\n      <li>Users can access this new customization option through the three-dot menu.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-enhanced-games---tech-s-steroid-extr-1787260656",
     "slug": "auto-the-enhanced-games---tech-s-steroid-extr-1787260656",
     "title": "Mr. Informer Briefing: The Enhanced Games \u2014 tech\u2019s steroid extravaganza \u2014 didn\u2019t pay off, as company posts $60 million loss",

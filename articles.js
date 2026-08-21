@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-ai-data-startup-micro1-reaches--500m-gro-1787304280",
+    "slug": "auto-ai-data-startup-micro1-reaches--500m-gro-1787304280",
+    "title": "Mr. Informer Briefing: AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 21, 2026 - 09:24",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech168507/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on AI data startup Micro1 reaches $500M gross run rate amid AI training boom. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Surging demand for AI training data is driving rapid growth for the startup and its rivals.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>AI data startup Micro1 reaches $500M gross run rate amid AI training boom</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The rapid growth of companies providing AI training data highlights the immense resource demands driving the current artificial intelligence boom. As organizations increasingly prioritize high-quality data to train advanced models, foundational infrastructure providers are experiencing significant financial expansion. A reader should understand that the backbone of the AI industry relies heavily on specialized data startups scaling rapidly alongside consumer and enterprise demand.</p>\n\n    <h3>Technical context</h3>\n    <p>The underlying development centers on the scaling of AI training data operations, which are essential for feeding and refining large machine learning models. Startups in this sector build and supply the structured information required to train algorithms effectively. This process underpins the broader computational pipeline that transforms raw data into functioning artificial intelligence systems.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Micro1 has reached a 500 million dollar gross run rate.</li>\n      <li>The startup operates within the AI data and training sector.</li>\n      <li>Surging demand for AI training data is driving rapid growth for the company.</li>\n      <li>Rivals of the startup are also experiencing similar rapid growth due to market demand.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-us-distributor-of-china-s-most-popular-h-1787293558",
     "slug": "auto-us-distributor-of-china-s-most-popular-h-1787293558",
     "title": "Mr. Informer Briefing: US distributor of China\u2019s most popular humanoid robots pivots after US ban",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-tesla--uber--and-waymo-all-get-the-ok-to-1787283652",
+    "slug": "auto-tesla--uber--and-waymo-all-get-the-ok-to-1787283652",
+    "title": "Mr. Informer Briefing: Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 21, 2026 - 03:40",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech139668/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The authorization for thousands of robotaxis marks a significant scaling phase for autonomous vehicle deployment, moving from limited trials to broader commercial operations. This development reflects an ongoing industry trend toward integrating autonomous fleets into major transportation networks. Readers should take away that autonomous ride-hailing is rapidly expanding its footprint with regulatory backing.</p>\n\n    <h3>Technical context</h3>\n    <p>The deployment relies on regulatory permits granted to companies like Tesla, Uber, and Waymo to operate autonomous vehicles on public roads. According to the report, these specific permits enable the rollout of up to 8,000 robotaxis over the next 12 months. This technical milestone involves scaling fleet management and autonomous driving systems to handle increased passenger volume in Nevada.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Tesla, Uber, and Waymo have received approval to operate robotaxis in Nevada.</li>\n      <li>The permits allow for a combined total of up to 8,000 robotaxis to be deployed.</li>\n      <li>The rollout is scheduled to take place over the next 12 months.</li>\n      <li>The authorization represents a major expansion of autonomous vehicle operations in the state.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-google-discover-is-getting-an-ai-chatbot-1787272667",
     "slug": "auto-google-discover-is-getting-an-ai-chatbot-1787272667",
     "title": "Mr. Informer Briefing: Google Discover is getting an AI chatbot-tuned feed",

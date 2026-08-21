@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-apple-is-laying-off-staffers-working-on-1787346783",
+    "slug": "auto-apple-is-laying-off-staffers-working-on-1787346783",
+    "title": "Mr. Informer Briefing: Apple is laying off staffers working on the Vision Pro and Siri",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "August 21, 2026 - 21:13",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech31181/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Apple is laying off staffers working on the Vision Pro and Siri. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The cuts include &quot;largely shutting down&quot; a Vision Pro gaming team and &quot;reducing the size&quot; of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut. Apple said in a statement to [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Apple is laying off staffers working on the Vision Pro and Siri</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When a major technology company scales back specialized teams, it often signals a strategic shift in how resources are allocated across emerging hardware and software projects. In the broader consumer technology landscape, even industry giants must continuously reevaluate investments in high-end devices and virtual assistant features as market demands evolve. Readers should take away that ongoing workforce adjustments can highlight which experimental sectors are currently facing tighter financial or operational scrutiny.</p>\n\n    <h3>Technical context</h3>\n    <p>The report centers on internal corporate restructuring within teams dedicated to specific product ecosystems, namely immersive content creation, gaming, and the Siri virtual assistant infrastructure. While the underlying mechanics of these hardware and software systems remain the focus of ongoing development, the organizational changes involve direct headcount reductions. These staffing alterations directly impact more than 200 roles previously assigned to advancing Apple&#x27;s spatial computing and assistant technologies.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Apple has laid off staff working on both the Vision Pro headset and the Siri assistant team.</li>\n      <li>The cuts involve more than 200 jobs according to reports cited from Bloomberg.</li>\n      <li>The reductions include largely shutting down a Vision Pro gaming team.</li>\n      <li>Apple is also reducing the size of the team that creates immersive content for the Vision Pro.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-100-best-buy-gift-cards-will-be--60-at-1787336456",
     "slug": "auto-100-best-buy-gift-cards-will-be--60-at-1787336456",
     "title": "Mr. Informer Briefing: $100 Best Buy gift cards will be $60 at stores Saturday",

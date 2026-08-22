@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-michael-polansky-is-training-an-ai-model-1787369559",
+    "slug": "auto-michael-polansky-is-training-an-ai-model-1787369559",
+    "title": "Mr. Informer Briefing: Michael Polansky is training an AI model on skin that\u2019s still alive",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "August 22, 2026 - 03:32",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech470777/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Michael Polansky is training an AI model on skin that\u2019s still alive. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Michael Polansky \u2014 better known publicly as Lady Gaga&#x27;s partner and a former top deputy to Sean Parker \u2014 has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Michael Polansky is training an AI model on skin that\u2019s still alive</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The intersection of artificial intelligence and biotechnology represents a growing frontier where tech entrepreneurs apply computational power to biological research. By moving away from traditional methods toward systems that maintain living tissue outside the body, this development reflects a broader industry trend of leveraging advanced automation to accelerate discovery in health and wellness. Readers should take away that tech-backed ventures are increasingly targeting complex biological challenges to find novel consumer and medical compounds.</p>\n\n    <h3>Technical context</h3>\n    <p>The startup developed by Michael Polansky utilizes an artificial intelligence-driven approach focused on keeping living human skin tissue alive for weeks outside the body. This maintained biological medium is then used to test and discover new skincare compounds. While specific computational models and laboratory protocols are not detailed in the available report, the core mechanism bridges tissue preservation techniques with data-driven compound discovery.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Michael Polansky has quietly built an AI-driven startup focused on discovering new skincare compounds.</li>\n      <li>The company&#x27;s technology keeps living human skin tissue alive for weeks outside the body.</li>\n      <li>The venture has operated largely under the radar for years before recently going public.</li>\n      <li>Polansky is publicly known as Lady Gaga&#x27;s partner and a former top deputy to Sean Parker.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-tiktok-will-pay--400-million-to-settle-j-1787358911",
     "slug": "auto-tiktok-will-pay--400-million-to-settle-j-1787358911",
     "title": "Mr. Informer Briefing: TikTok will pay $400 million to settle Justice Department lawsuit over child privacy",

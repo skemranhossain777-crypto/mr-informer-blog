@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-hoverair-s-transforming-modular-drone-ha-1787401027",
+    "slug": "auto-hoverair-s-transforming-modular-drone-ha-1787401027",
+    "title": "Mr. Informer Briefing: HoverAir\u2019s transforming modular drone has already been halted in the US",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "August 22, 2026 - 12:17",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech875492/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on HoverAir\u2019s transforming modular drone has already been halted in the US. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">I am so sorry, fellow US gadget fans: the FCC&#x27;s drone ban appears to have struck again.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>HoverAir\u2019s transforming modular drone has already been halted in the US</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Regulatory actions impacting hardware releases highlight the unpredictable challenges facing consumer tech companies launching innovative products in international markets. When regulatory bodies like the FCC intervene, it disrupts distribution plans and highlights how quickly government oversight can halt crowdfunding campaigns and product rollouts. Readers should note how geopolitical and regulatory hurdles can abruptly derail even the most highly anticipated gadget launches.</p>\n\n    <h3>Technical context</h3>\n    <p>The device in question is the HoverAir Versa, a modular consumer gadget functioning as a steadycam that transforms into a drone using snap-on propeller wings. It was launched via an Indiegogo crowdfunding campaign before running into regulatory roadblocks. The sudden halt in US orders and potential shipping cancellations are attributed to the ongoing impact of the FCC&#x27;s drone ban.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The HoverAir Versa has already stopped taking US orders just three days after its crowdfunding debut.</li>\n      <li>The device features a modular design that transforms a steadycam into a drone using snap-on propeller wings.</li>\n      <li>The sudden distribution halt appears to be caused by the FCC&#x27;s drone ban affecting the US market.</li>\n      <li>The product&#x27;s future US availability is uncertain, as it may be forced to abandon shipping entirely.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-trump-s-space-transportation-policy-call-1787390227",
     "slug": "auto-trump-s-space-transportation-policy-call-1787390227",
     "title": "Mr. Informer Briefing: Trump's space transportation policy calls for new spaceport on federal land",

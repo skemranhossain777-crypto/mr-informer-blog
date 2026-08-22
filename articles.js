@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-putting-mice-into-hibernation-causes-a-m-1787411407",
+    "slug": "auto-putting-mice-into-hibernation-causes-a-m-1787411407",
+    "title": "Mr. Informer Briefing: Putting mice into hibernation causes a major loss of synapses",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "August 22, 2026 - 15:10",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech279167/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Putting mice into hibernation causes a major loss of synapses. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Hibernation cuts down on synapses, but mice seem to retain memories anyway.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Putting mice into hibernation causes a major loss of synapses</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Understanding the biological mechanisms of hibernation and how animals retain memories despite massive neural changes offers a fascinating look at neuroplasticity and brain resilience. This kind of research sheds light on how mammalian brains can undergo dramatic structural shifts without permanently erasing stored information, which has broad implications for neuroscience. Readers should take away that the brain is capable of maintaining memory function even when its physical connections are significantly reduced.</p>\n\n    <h3>Technical context</h3>\n    <p>The process of putting mice into hibernation involves inducing a state of deep metabolic suppression, which triggers a major loss of synapses within the brain. Synapses are the critical junctions that allow neurons to communicate with one another, meaning their reduction represents a profound structural change to the nervous system. Despite this substantial loss of synaptic connections during hibernation, observational evidence shows that the mice are still able to retain their memories afterward.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Putting mice into hibernation causes a major loss of synapses in the brain.</li>\n      <li>Despite the significant reduction in synapses, mice still manage to retain their memories.</li>\n      <li>The research highlights how mammalian brains can withstand drastic physical changes while preserving stored information.</li>\n      <li>This phenomenon underscores the complex relationship between synaptic connectivity and memory retention during metabolic suppression.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-hoverair-s-transforming-modular-drone-ha-1787401027",
     "slug": "auto-hoverair-s-transforming-modular-drone-ha-1787401027",
     "title": "Mr. Informer Briefing: HoverAir\u2019s transforming modular drone has already been halted in the US",

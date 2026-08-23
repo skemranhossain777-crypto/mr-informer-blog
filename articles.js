@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-we-re-all-going-to-the-world-s-fair-is-a-1787497902",
+    "slug": "auto-we-re-all-going-to-the-world-s-fair-is-a-1787497902",
+    "title": "Mr. Informer Briefing: We\u2019re All Going to the World\u2019s Fair is an intimate coming-of-age horror film",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "August 23, 2026 - 15:11",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech248742/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on We\u2019re All Going to the World\u2019s Fair is an intimate coming-of-age horror film. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Jane Schoenbrun&#x27;s latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"So it seems like the perfect time to revisit their first film, We&#x27;re All Going to the World&#x27;s Fair. I fell in love with this film when I first saw it at Sundance in 2021. We [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>We\u2019re All Going to the World\u2019s Fair is an intimate coming-of-age horror film</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Revisiting acclaimed indie horror films like Jane Schoenbrun&#x27;s work provides valuable perspective on how distinct cinematic voices evolve over time in the industry. As directors transition from festival darlings to broader theatrical releases, audiences and critics often look back at their earlier projects to trace their artistic development. This context helps viewers appreciate the trajectory of contemporary independent filmmaking and the growing recognition of specialized horror subgenres.</p>\n\n    <h3>Technical context</h3>\n    <p>The subject involves a cinematic work categorized as an intimate coming-of-age horror film, originally premiering at the Sundance Film Festival in 2021 before being revisited in light of the director&#x27;s later theatrical releases. Directed by Jane Schoenbrun, the film represents an early milestone in the filmmaker&#x27;s catalog, preceding their subsequent project, Teenage Sex and Death at Camp Miasma. The reporting connects these creative milestones through retrospective film criticism and festival history.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Jane Schoenbrun directed the intimate coming-of-age horror film We&#x27;re All Going to the World&#x27;s Fair.</li>\n      <li>The film originally premiered at the Sundance Film Festival in 2021.</li>\n      <li>The same director is also behind the theatrical release Teenage Sex and Death at Camp Miasma.</li>\n      <li>The earlier film is highlighted as a compelling starting point for viewers exploring the director&#x27;s body of work.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-volcanoes-that-made-history-1787487447",
     "slug": "auto-volcanoes-that-made-history-1787487447",
     "title": "Mr. Informer Briefing: Volcanoes that made history",

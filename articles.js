@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-two-years-after-launch--walmart-s-flipka-1787466094",
+    "slug": "auto-two-years-after-launch--walmart-s-flipka-1787466094",
+    "title": "Mr. Informer Briefing: Two years after launch, Walmart\u2019s Flipkart is closing in on India\u2019s quick-commerce leaders",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "August 23, 2026 - 06:21",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech216252/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Two years after launch, Walmart\u2019s Flipkart is closing in on India\u2019s quick-commerce leaders. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Flipkart&#x27;s quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Two years after launch, Walmart\u2019s Flipkart is closing in on India\u2019s quick-commerce leaders</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The rapid scaling of Flipkart&#x27;s quick-commerce venture highlights the intense competition within India&#x27;s fast-moving retail market. As established players race to capture consumer demand for rapid deliveries, milestones like hitting over one million daily orders demonstrate how quickly market share can shift. Readers should take away that the quick-commerce sector is undergoing aggressive expansion, driven by major retail investments and surging delivery volumes.</p>\n\n    <h3>Technical context</h3>\n    <p>The underlying operation relies on high-volume logistics and fulfillment networks designed to process and deliver massive quantities of orders on a daily basis. By scaling up infrastructure to handle between 1.1 million and 1.2 million orders a day, the platform has nearly tripled its transaction volume since November. This capability reflects rapid network optimization over the two years since the venture&#x27;s launch.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Flipkart&#x27;s quick-commerce venture is approaching India&#x27;s market leaders two years after its initial launch.</li>\n      <li>The platform is currently fulfilling between 1.1 million and 1.2 million orders on a daily basis.</li>\n      <li>This current output represents a nearly threefold increase compared to its volume in November.</li>\n      <li>The rapid growth underscores the escalating competition within the quick-commerce sector in India.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-thunder---fiber-optic-cabling-used-for-s-1787456438",
     "slug": "auto-thunder---fiber-optic-cabling-used-for-s-1787456438",
     "title": "Mr. Informer Briefing: Thunder + fiber-optic cabling used for seismic imaging",

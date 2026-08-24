@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-due-to-need-for--absolute-success---chin-1787564109",
+    "slug": "auto-due-to-need-for--absolute-success---chin-1787564109",
+    "title": "Mr. Informer Briefing: Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 24, 2026 - 09:35",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech342055/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Due to need for 'absolute success,' China delays critical Moon launch to 2027. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">&quot;The Chang\u2019e 7 mission does not meet the conditions for launch.&quot;</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Due to need for &#x27;absolute success,&#x27; China delays critical Moon launch to 2027</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Complex space exploration missions frequently encounter schedule adjustments driven by the requirement for absolute mission success. In the broader context of international space development, high-stakes lunar initiatives demand rigorous pre-launch verification before proceeding. Readers should understand that strategic delays in major aerospace programs reflect the high risks and technical complexities inherent in deep-space exploration.</p>\n\n    <h3>Technical context</h3>\n    <p>The Chang\u2019e 7 mission represents a critical lunar exploration effort by China that currently faces postponement because it does not meet necessary launch conditions. Achieving absolute success in such operations requires overcoming demanding technical hurdles and verifying complex aerospace systems. While specific engineering details are limited, deep-space launches of this magnitude rely on strict criteria to ensure the mission can successfully execute its objectives in the lunar environment.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>China has delayed its critical Chang\u2019e 7 Moon launch to the year 2027.</li>\n      <li>The postponement is driven by the strict need for absolute success in the mission.</li>\n      <li>The current mission status indicates that the spacecraft does not yet meet necessary launch conditions.</li>\n      <li>This development impacts the timeline of China&#x27;s ongoing lunar exploration roadmap.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-what-is-a-vesa-mount-and-how-to-know-wha-1787553290",
     "slug": "auto-what-is-a-vesa-mount-and-how-to-know-wha-1787553290",
     "title": "Mr. Informer Briefing: What is a VESA mount and how to know what type your TV has",

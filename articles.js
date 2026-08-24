@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-uber-faces-fine-of-nearly--1b-over-autom-1787531810",
+    "slug": "auto-uber-faces-fine-of-nearly--1b-over-autom-1787531810",
+    "title": "Mr. Informer Briefing: Uber faces fine of nearly $1B over automated driver suspensions",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 24, 2026 - 00:36",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech545236/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Uber faces fine of nearly $1B over automated driver suspensions. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The Dutch Data Protection Authority is fining Uber \u20ac825 million in the second largest penalty issued under Europe\u2019s GDPR.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Uber faces fine of nearly $1B over automated driver suspensions</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Regulatory actions of this scale signal an increasingly aggressive enforcement climate for companies utilizing automated systems for major employment or operational decisions. As data protection authorities scrutinize how algorithmic management affects workers, technology firms face heightened compliance risks regarding automated oversight and human oversight rights. Readers should take away that the intersection of automated labor management and privacy regulation is becoming a primary battleground for tech compliance.</p>\n\n    <h3>Technical context</h3>\n    <p>The penalty centers on GDPR enforcement, which governs data privacy and protection within the European Union. In this context, the Dutch Data Protection Authority targeted automated driver suspensions, which involve algorithmic processing of driver accounts. Such systems rely on automated decision-making frameworks that trigger suspensions without direct human intervention, raising regulatory concerns under European privacy laws.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The Dutch Data Protection Authority is issuing a fine of \u20ac825 million to Uber.</li>\n      <li>This penalty represents the second largest fine ever issued under Europe&#x27;s GDPR.</li>\n      <li>The regulatory action specifically targets Uber over its use of automated driver suspensions.</li>\n      <li>The financial penalty amounts to nearly $1 billion.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-who-s-behind-the-new--stealth-model--ox-1787519480",
     "slug": "auto-who-s-behind-the-new--stealth-model--ox-1787519480",
     "title": "Mr. Informer Briefing: Who\u2019s behind the new \u2018stealth model\u2019 Ox Alpha?",

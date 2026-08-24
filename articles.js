@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-what-is-a-vesa-mount-and-how-to-know-wha-1787553290",
+    "slug": "auto-what-is-a-vesa-mount-and-how-to-know-wha-1787553290",
+    "title": "Mr. Informer Briefing: What is a VESA mount and how to know what type your TV has",
+    "category": "Deep Dives",
+    "readTime": "2 min read",
+    "date": "August 24, 2026 - 06:34",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech418318/1200/800",
+    "tags": [
+      "Deep Dives",
+      "Quantum Computing",
+      "Hardware",
+      "Physics"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Engadget's reporting on What is a VESA mount and how to know what type your TV has. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Engadget",
+    "sourceUrl": "https://www.engadget.com/2240255/vesa-tv-mount-how-to-know-type-guide/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Those 200 \u00d7 200 and 400 \u00d7 400 numbers tell you where the mounting holes line up, but you still need to check the mount&#x27;s weight limit and hardware.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>What is a VESA mount and how to know what type your TV has</strong> \u2014 a detailed, automation-assisted summary of reporting from Engadget. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Understanding standards like VESA mounts is essential for anyone looking to safely and correctly install a flat-screen television or monitor. As consumer displays become more ubiquitous in homes and offices, knowing how to interpret mounting specifications helps prevent equipment damage and ensures hardware compatibility. Readers should take away that successful installation requires looking beyond just hole spacing to verify weight limits and included hardware.</p>\n\n    <h3>Technical context</h3>\n    <p>The VESA mount system relies on standardized numeric values, such as 200 \u00d7 200 and 400 \u00d7 400, which dictate the precise alignment and spacing of the mounting holes on the back of a display. These standardized dimensions ensure that third-party brackets and stands can securely attach to various television models. However, matching the hole pattern is only part of the process, as installers must also account for the physical weight capacity and specific hardware requirements of the mount itself.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>VESA mounting numbers indicate where the mounting holes line up on a television.</li>\n      <li>Numbers like 200 \u00d7 200 and 400 \u00d7 400 represent specific spacing measurements for these holes.</li>\n      <li>Checking the mount&#x27;s weight limit is a crucial step alongside verifying hole alignment.</li>\n      <li>Proper installation also requires inspecting the mounting hardware to ensure it matches the display.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.engadget.com/2240255/vesa-tv-mount-how-to-know-type-guide/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Engadget \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-linkdaze-s-smart-calendar-is-built-to-ru-1787543016",
     "slug": "auto-linkdaze-s-smart-calendar-is-built-to-ru-1787543016",
     "title": "Mr. Informer Briefing: Linkdaze\u2019s smart calendar is built to run a household, not just track a schedule",

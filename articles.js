@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-zillow-and-redfin-settle-ftc-antitrust-c-1787606316",
+    "slug": "auto-zillow-and-redfin-settle-ftc-antitrust-c-1787606316",
+    "title": "Mr. Informer Briefing: Zillow and Redfin settle FTC antitrust case",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "August 24, 2026 - 21:18",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech480185/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Zillow and Redfin settle FTC antitrust case. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Zillow and Redfin settle FTC antitrust case</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Regulatory interventions in the real estate and proptech sectors highlight how antitrust authorities are increasingly scrutinizing major digital platforms and market players. When companies like Zillow and Redfin become subjects of Federal Trade Commission actions, it signals heightened oversight of competition and business practices within online property services. Readers should take away that the competitive landscape of digital real estate advertising remains under close federal watch, with regulators actively working to shape market participation.</p>\n\n    <h3>Technical context</h3>\n    <p>The settlement involves a regulatory enforcement action by the Federal Trade Commission (FTC) targeting alleged antitrust issues within the digital rental advertising space. As part of the resolution, specific operational mandates are imposed on the involved parties, notably requiring Redfin to reenter the rental advertising business. This legal and regulatory mechanism utilizes government oversight to enforce structural or behavioral remedies designed to restore competition in online markets.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Zillow and Redfin have reached a settlement with the Federal Trade Commission regarding an antitrust case.</li>\n      <li>The resolution of this case involves specific regulatory requirements for the companies involved.</li>\n      <li>Under the terms of the settlement, Redfin is required to reenter the rental advertising business.</li>\n      <li>The action underscores the ongoing regulatory oversight of major online real estate platforms.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-zillow-and-redfin-settle-ftc-antitrust-c-1787595789",
     "slug": "auto-zillow-and-redfin-settle-ftc-antitrust-c-1787595789",
     "title": "Mr. Informer Briefing: Zillow and Redfin settle FTC antitrust case over their rental listings partnership",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-india-s-airbound-bags--37m-to-take-on-tr-1787629136",
+    "slug": "auto-india-s-airbound-bags--37m-to-take-on-tr-1787629136",
+    "title": "Mr. Informer Briefing: India\u2019s Airbound bags $37M to take on trucks with rocket-like drones",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "August 25, 2026 - 03:38",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech660788/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on India\u2019s Airbound bags $37M to take on trucks with rocket-like drones. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Airbound&#x27;s ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>India\u2019s Airbound bags $37M to take on trucks with rocket-like drones</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The pursuit of alternative logistics solutions like drone delivery represents an ongoing effort to disrupt traditional ground transportation and reduce reliance on heavy trucks. When high-profile investors and major delivery platforms back early-stage infrastructure startups in this space, it signals strong industry interest in scaling automated aerial fulfillment. Readers should understand that this development highlights a broader push toward optimizing final-mile logistics through novel hardware approaches.</p>\n\n    <h3>Technical context</h3>\n    <p>The startup Airbound focuses on an ultra-lightweight approach to drone delivery, utilizing technology described through a rocket-like design philosophy to compete with conventional trucks. While specific payloads and range metrics are not detailed in the available text, the core engineering challenge in this sector typically involves maximizing structural efficiency and payload capacity relative to the vehicle&#x27;s total weight. By securing funding from backers like DoorDash and Greenoaks, the company aims to scale its specialized aerial delivery mechanism.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Airbound has successfully raised $37 million in funding to advance its drone delivery technology.</li>\n      <li>The startup&#x27;s approach utilizes ultra-lightweight drone designs intended to compete directly with traditional delivery trucks.</li>\n      <li>The funding round attracted notable backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.</li>\n      <li>The company&#x27;s technology aims to offer an alternative logistics method for the final-mile delivery sector.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-lenovo-confirms-legion-go-issues-after-g-1787618174",
     "slug": "auto-lenovo-confirms-legion-go-issues-after-g-1787618174",
     "title": "Mr. Informer Briefing: Lenovo confirms Legion Go issues after gamers report bricked devices",

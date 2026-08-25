@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-x-sends-cease-and-desist-to-open-source-1787692615",
+    "slug": "auto-x-sends-cease-and-desist-to-open-source-1787692615",
+    "title": "Mr. Informer Briefing: X sends cease-and-desist to open-source project Nitter over alleged scraping",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 25, 2026 - 21:16",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech161231/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on X sends cease-and-desist to open-source project Nitter over alleged scraping. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>X sends cease-and-desist to open-source project Nitter over alleged scraping</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When platform operators target alternative interfaces and open-source projects over data harvesting, it highlights the ongoing tension between centralized platform control and user privacy tools. This kind of development illustrates how major tech companies increasingly police data access and enforce strict boundaries around their ecosystems. Readers should understand that accessing social media data outside official channels carries significant legal and operational risks.</p>\n\n    <h3>Technical context</h3>\n    <p>The conflict centers on Nitter, an open-source project that provided privacy-friendly frontends to view content from X without requiring a direct connection to the main platform. X issued cease-and-desist letters arguing that these operations constitute unauthorized scraping, which involves automated extraction of data. Consequently, the platform is demanding the complete removal of Nitter&#x27;s instances and its underlying code repository.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>X sent official cease-and-desist letters to the open-source project Nitter.</li>\n      <li>The targeted project is known for providing privacy-friendly frontends to view X.</li>\n      <li>The platform operator demands that both the instances and the code repository be taken down.</li>\n      <li>The legal action is being driven by allegations of unauthorized scraping.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-tonight-marks-your-last-chance-to-save-u-1787682149",
     "slug": "auto-tonight-marks-your-last-chance-to-save-u-1787682149",
     "title": "Mr. Informer Briefing: Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",

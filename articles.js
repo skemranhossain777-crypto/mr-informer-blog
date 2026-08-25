@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-situational-awareness--star-ai-hedge-fun-1787639124",
+    "slug": "auto-situational-awareness--star-ai-hedge-fun-1787639124",
+    "title": "Mr. Informer Briefing: Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "August 25, 2026 - 06:25",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech174502/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The AI hedge fund went from &quot;the talk of Wall Street&quot; to &quot;subject of federal subpoenas&quot; faster than you can say &quot;diversify your portfolio.&quot;</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Regulatory scrutiny over artificial intelligence in high-stakes financial sectors highlights the growing tension between rapid technological innovation and compliance. As AI-driven investment funds gain prominence on Wall Street, government regulators are increasingly stepping in to examine their operations and stability. This situation serves as a cautionary tale for readers about the volatility and regulatory risks associated with algorithmic finance.</p>\n\n    <h3>Technical context</h3>\n    <p>The developments involve Situational Awareness, an AI-focused hedge fund that experienced a near-implosion followed by federal scrutiny. According to the report, the fund rapidly transitioned from being a major topic of conversation on Wall Street to facing federal subpoenas. This regulatory action indicates that federal authorities are actively investigating the fund&#x27;s practices and operational integrity.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Situational Awareness is an AI hedge fund that recently faced a near-implosion.</li>\n      <li>The fund has now become the subject of an investigation by the SEC.</li>\n      <li>Federal authorities have issued subpoenas regarding the fund&#x27;s operations.</li>\n      <li>The rapid transition from Wall Street favorite to federal target underscores the volatile nature of AI-driven finance.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-india-s-airbound-bags--37m-to-take-on-tr-1787629136",
     "slug": "auto-india-s-airbound-bags--37m-to-take-on-tr-1787629136",
     "title": "Mr. Informer Briefing: India\u2019s Airbound bags $37M to take on trucks with rocket-like drones",

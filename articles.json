@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-a-mutation-is-making-it-easier-for-drug-1787736596",
+    "slug": "auto-a-mutation-is-making-it-easier-for-drug-1787736596",
+    "title": "Mr. Informer Briefing: A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "August 26, 2026 - 09:29",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech806437/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Wired's reporting on A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">New findings shed light on what\u2019s making the parasite less treatable using the drug that\u2019s considered a first line of defense.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread</strong> \u2014 a detailed, automation-assisted summary of reporting from Wired. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The evolution of drug-resistant pathogens poses a continuous challenge to global health infrastructure, especially when a primary line of defense becomes compromised. As parasites adapt to evade standard treatments, public health experts must monitor these genetic shifts closely to understand how diseases adapt and spread. Readers should take away that the emergence of treatment-resistant strains threatens existing disease control efforts and highlights the constant race between medical interventions and pathogen evolution.</p>\n\n    <h3>Technical context</h3>\n    <p>The report centers on a biological mutation occurring within the malaria parasite that alters its response to standard medical treatment. While specific molecular pathways are not detailed in the excerpt, genetic mutations in pathogens often alter target proteins, reducing the efficacy of drugs designed to neutralize them. These adaptive changes can make the parasite significantly less treatable, thereby facilitating its persistence and transmission within populations.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>New research reveals a mutation is helping drug-resistant malaria spread more easily.</li>\n      <li>The findings explain factors making the parasite less treatable by standard medications.</li>\n      <li>The affected drug serves as a crucial first line of defense against the disease.</li>\n      <li>This development underscores ongoing challenges in managing and treating malaria effectively.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-india-s-ringg-gets-backing-from-peak-xv-1787725682",
     "slug": "auto-india-s-ringg-gets-backing-from-peak-xv-1787725682",
     "title": "Mr. Informer Briefing: India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",

@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-bentley-takes-us-for-a-ride-in-its-new-e-1787836610",
+    "slug": "auto-bentley-takes-us-for-a-ride-in-its-new-e-1787836610",
+    "title": "Mr. Informer Briefing: Bentley takes us for a ride in its new EV, the Torcal",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "August 27, 2026 - 13:16",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech72988/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Bentley takes us for a ride in its new EV, the Torcal. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/cars/2026/08/an-ev-that-sounds-like-a-6-75-l-v8-a-ride-in-the-bentley-torcal/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The electric Torcal will be Bentley&#x27;s entry model and cost less than a Bentayga.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Bentley takes us for a ride in its new EV, the Torcal</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When luxury automakers like Bentley introduce new electric vehicles, it signals a broader industry shift toward electrification even within ultra-high-end markets. Positioning the Torcal as an entry-level option suggests manufacturers are looking for ways to expand their customer base and lower the barrier to entry for luxury EVs. Readers can take away that even traditional heritage brands are actively reshaping their lineups to accommodate more accessible electric models.</p>\n\n    <h3>Technical context</h3>\n    <p>The Torcal relies on electric vehicle technology to serve as a new entry-level offering for the brand, distinguishing itself from existing models like the Bentayga. While specific drivetrain protocols, battery capacities, and motor specifications are not detailed in the available report, the vehicle represents the manufacturer&#x27;s transition into battery-powered propulsion. This development highlights how legacy automotive platforms are being adapted to house electric powertrains while maintaining brand hierarchy and pricing tiers.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The electric Torcal is designed to be Bentley&#x27;s new entry-level model.</li>\n      <li>The vehicle will cost less than the existing Bentayga model.</li>\n      <li>The Torcal expands the brand&#x27;s footprint into the electric vehicle market.</li>\n      <li>This release marks a strategic shift in pricing and accessibility for the luxury automaker.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/cars/2026/08/an-ev-that-sounds-like-a-6-75-l-v8-a-ride-in-the-bentley-torcal/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-amazon-just-tripled-its-order-of-nvidia-1787789984",
     "slug": "auto-amazon-just-tripled-its-order-of-nvidia-1787789984",
     "title": "Mr. Informer Briefing: Amazon just tripled its order of Nvidia chips over \u2018surging demand\u2019",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-chinese-automakers-are-following-tesla-s-1787960709",
+    "slug": "auto-chinese-automakers-are-following-tesla-s-1787960709",
+    "title": "Mr. Informer Briefing: Chinese automakers are following Tesla\u2019s bet that robots are the next big profit machine",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "August 28, 2026 - 23:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech120136/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Chinese automakers are following Tesla\u2019s bet that robots are the next big profit machine. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"And they&#x27;re all Chinese automakers.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Chinese automakers are following Tesla\u2019s bet that robots are the next big profit machine</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The entry of Chinese automakers into the humanoid robot space highlights a broader industry trend where transportation and manufacturing giants diversify into advanced robotics. As companies follow Tesla&#x27;s strategic bets, the race to commercialize automated labor is shifting from a futuristic vision into an active corporate battleground. Readers should take away that the convergence of automotive manufacturing expertise and humanoid robotics could dramatically accelerate the deployment of commercial robots.</p>\n\n    <h3>Technical context</h3>\n    <p>The development of humanoid robots relies on recent technical progress that has made building these complex machines commercially viable and promising for profitability. While specific robotic architectures and control systems are not detailed in the source material, the trend mirrors Tesla&#x27;s approach of leveraging automotive-grade engineering, manufacturing scale, and automation tech for bipedal robotics. Companies are capitalizing on these technological advancements to enter the market and chase new profit streams.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Chinese automakers are entering the humanoid robot market following Tesla&#x27;s lead.</li>\n      <li>Recent technical progress has driven a new batch of companies to invest in humanoid robotics.</li>\n      <li>Firms are motivated by the promise of substantial profits from the robotics sector.</li>\n      <li>Automotive companies see humanoid robots as a major upcoming profit machine.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-apple-tv-is-raising-its-subscription-pri-1787928053",
     "slug": "auto-apple-tv-is-raising-its-subscription-pri-1787928053",
     "title": "Mr. Informer Briefing: Apple TV is raising its subscription prices again",

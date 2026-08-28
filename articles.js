@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-anthropic-and-openai-are-joining-the-ai-1787875716",
+    "slug": "auto-anthropic-and-openai-are-joining-the-ai-1787875716",
+    "title": "Mr. Informer Briefing: Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "August 28, 2026 - 00:08",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech454700/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The inclusion of major artificial intelligence companies like Anthropic and OpenAI at prominent industry gatherings highlights the ongoing dominance of generative AI across the technology sector. As tech conferences increasingly center their programming around artificial intelligence, readers gain insight into where leading industry players choose to showcase their developments. This trend reflects a broader shift in the tech ecosystem, where AI discussions have moved from niche technical topics to the central focus of major events.</p>\n\n    <h3>Technical context</h3>\n    <p>The developments highlighted at the event center around the artificial intelligence technologies currently being advanced by leading labs and companies in the sector. While specific technical protocols or system architectures are not detailed in the available report, the programming is designed to explore the single hottest topic in the tech community. These industry stages serve as a public forum for discussing the capabilities, applications, and trajectory of modern AI systems.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Anthropic and OpenAI are participating in the AI stage at TechCrunch Disrupt 2026.</li>\n      <li>The AI stage at the event is returning to focus on the hottest topic in the tech community from recent years.</li>\n      <li>The segment is presented by Google for Startups.</li>\n      <li>The event highlights the continued prominence of artificial intelligence across the technology landscape.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-bentley-takes-us-for-a-ride-in-its-new-e-1787836610",
     "slug": "auto-bentley-takes-us-for-a-ride-in-its-new-e-1787836610",
     "title": "Mr. Informer Briefing: Bentley takes us for a ride in its new EV, the Torcal",

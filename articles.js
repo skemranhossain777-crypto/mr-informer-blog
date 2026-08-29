@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-don-t-fall-for-this-digital-tv-antenna-m-1788018831",
+    "slug": "auto-don-t-fall-for-this-digital-tv-antenna-m-1788018831",
+    "title": "Mr. Informer Briefing: Don't fall for this digital TV antenna myth",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "August 29, 2026 - 15:53",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech240604/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Engadget's reporting on Don't fall for this digital TV antenna myth. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Engadget",
+    "sourceUrl": "https://www.engadget.com/2242754/digital-antenna-range-myth/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">No, you can&#x27;t get an antenna with a 6,000 mile range.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Don&#x27;t fall for this digital TV antenna myth</strong> \u2014 a detailed, automation-assisted summary of reporting from Engadget. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Deceptive marketing claims regarding digital TV antennas are a common trap for consumers navigating cord-cutting options, highlighting a broader trend of misleading product specifications in consumer electronics. Readers should take away that hyperbolic distance ratings, such as a 6,000-mile range, defy physical reality and serve as a red flag for exaggerated advertising. Understanding this helps buyers make informed decisions and avoid paying for over-promised capabilities that no consumer antenna can deliver.</p>\n\n    <h3>Technical context</h3>\n    <p>Digital TV antennas are designed to receive broadcast television signals within a localized radio frequency spectrum, typically limited by line-of-sight and natural geographic boundaries. A physical antenna&#x27;s operational range is constrained by signal propagation physics and curvature of the Earth, making multi-thousand-mile reception impossible for standard consumer hardware. Claims of a 6,000-mile range fundamentally misrepresent how over-the-air broadcasting and antenna physics actually function.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Digital TV antennas cannot achieve a 6,000-mile range.</li>\n      <li>Claims of extreme signal ranges are marketing myths rather than technological facts.</li>\n      <li>Consumers should be skeptical of hyper-extended distance claims when shopping for antennas.</li>\n      <li>Physical laws and geography ultimately limit how far any television antenna can pull in signals.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.engadget.com/2242754/digital-antenna-range-myth/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Engadget \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-neocloud-lambda-secures--1b-in-debt-to-b-1788004505",
     "slug": "auto-neocloud-lambda-secures--1b-in-debt-to-b-1788004505",
     "title": "Mr. Informer Briefing: Neocloud Lambda secures $1B in debt to buy more chips",

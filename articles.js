@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-hollywood-celebs-are-getting-into-microd-1788079101",
+    "slug": "auto-hollywood-celebs-are-getting-into-microd-1788079101",
+    "title": "Mr. Informer Briefing: Hollywood celebs are getting into microdrama apps",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "August 30, 2026 - 08:38",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech934436/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Hollywood celebs are getting into microdrama apps. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Hollywood celebs are getting into microdrama apps</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The shift of Hollywood celebrities toward microdrama apps highlights how traditional entertainment figures are adapting to rapidly changing digital consumption habits and new content formats. As major stars move away from massive eight-figure checks and exotic movie sets to embrace this rising format, it signals a broader industry trend toward bite-sized, mobile-first video production. Readers should take away that entertainment distribution is evolving quickly, opening up alternative platforms for high-profile talent to reach audiences.</p>\n\n    <h3>Technical context</h3>\n    <p>Microdramas represent a rising digital video format delivered primarily through specialized smartphone applications, designed for quick and accessible viewing rather than traditional cinematic presentation. This format relies on mobile distribution networks to reach users directly, bypassing the conventional theatrical and high-budget production pipelines associated with traditional movie sets. By utilizing these dedicated apps, creators and platforms can deliver serialized, short-form content tailored to modern digital attention spans and viewing habits.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Several Hollywood celebrities are shifting away from traditional film formats to participate in microdrama apps.</li>\n      <li>This emerging trend involves moving away from massive eight-figure checks and exotic movie sets.</li>\n      <li>Microdramas represent a rising and alternative content format gaining traction among high-profile talent.</li>\n      <li>The shift highlights the growing importance of mobile-first video platforms within the broader entertainment industry.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-we-re-not-doing-30-bets-a-year---vijay-1788056019",
     "slug": "auto-we-re-not-doing-30-bets-a-year---vijay-1788056019",
     "title": "Mr. Informer Briefing: \u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",

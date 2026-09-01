@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-lg-promo-codes-and-coupons-for-september-1788249866",
+    "slug": "auto-lg-promo-codes-and-coupons-for-september-1788249866",
+    "title": "Mr. Informer Briefing: LG Promo Codes and Coupons for September 2026",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 01, 2026 - 08:04",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech356386/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Wired's reporting on LG Promo Codes and Coupons for September 2026. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/lg-promo-code/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>LG Promo Codes and Coupons for September 2026</strong> \u2014 a detailed, automation-assisted summary of reporting from Wired. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader technology landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from Wired or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/lg-promo-code/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-bentley-supersports--a-stripped-out-1788221449",
     "slug": "auto-the-bentley-supersports--a-stripped-out-1788221449",
     "title": "Mr. Informer Briefing: The Bentley Supersports: A stripped-out engineer's indulgence",

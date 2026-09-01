@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-it-turns-out-that-orion-s-much-maligned-1788285747",
+    "slug": "auto-it-turns-out-that-orion-s-much-maligned-1788285747",
+    "title": "Mr. Informer Briefing: It turns out that Orion's much-maligned heat shield performed really well",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "September 01, 2026 - 18:02",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech4180/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on It turns out that Orion's much-maligned heat shield performed really well. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Independent safety officials also have high praise for changes by NASA leadership.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>It turns out that Orion&#x27;s much-maligned heat shield performed really well</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When high-profile space hardware faces criticism over its performance, subsequent reviews by independent safety officials offer crucial validation for aerospace engineering teams. This situation highlights the importance of rigorous post-flight analysis in space exploration, where public perception often diverges from official safety and operational data. Readers should take away that complex space systems must be judged by comprehensive technical evaluations rather than preliminary assumptions.</p>\n\n    <h3>Technical context</h3>\n    <p>The Orion spacecraft relies on a specialized heat shield designed to withstand extreme thermal environments during atmospheric re-entry. Independent safety officials conducted evaluations that revealed this much-maligned component actually performed really well under operational conditions. Furthermore, these evaluations highlighted significant praise for changes implemented by NASA leadership regarding the management and oversight of the mission.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Independent safety officials gave Orion&#x27;s heat shield high praise for its performance.</li>\n      <li>The heat shield had previously faced significant criticism before this official assessment.</li>\n      <li>NASA leadership also received high praise from independent safety officials for recent changes.</li>\n      <li>The findings indicate that the spacecraft&#x27;s thermal protection system functioned very well.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-if-space-data-centers-feel-far-fetched-1788270409",
     "slug": "auto-if-space-data-centers-feel-far-fetched-1788270409",
     "title": "Mr. Informer Briefing: If space data centers feel far-fetched, why not interstellar travel?",

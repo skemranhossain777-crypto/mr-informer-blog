@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-apple-follows-google-in-adopting-trump-s-1788303220",
+    "slug": "auto-apple-follows-google-in-adopting-trump-s-1788303220",
+    "title": "Mr. Informer Briefing: Apple follows Google in adopting Trump\u2019s \u2018Lake America\u2019 name",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 01, 2026 - 22:53",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech214004/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Apple follows Google in adopting Trump\u2019s \u2018Lake America\u2019 name. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Apple Maps is following President Trump&#x27;s executive order to change the name of Lake Ontario to Lake America.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Apple follows Google in adopting Trump\u2019s \u2018Lake America\u2019 name</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When major technology platforms update their software to reflect government-mandated geographical names, it highlights the complex intersection of digital infrastructure and executive authority. This development underscores how private tech companies must navigate official policy shifts within digital mapping services used by millions. Readers should note how rapidly digital ecosystems can adapt to government directives regarding public data representation.</p>\n\n    <h3>Technical context</h3>\n    <p>The update involves Apple modifying geographical data within its mapping service, specifically changing a designated label in response to an executive order. By altering the identifier for Lake Ontario to Lake America, the platform adjusts its internal database and user interface to match the mandated nomenclature. This demonstrates how centralized digital map layers can be updated to reflect newly issued administrative directives.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Apple Maps has adopted President Trump&#x27;s executive order to rename Lake Ontario.</li>\n      <li>The feature changes the official geographic identifier shown on the platform to Lake America.</li>\n      <li>Apple&#x27;s adoption of the name follows a similar move made by Google.</li>\n      <li>The update is tied directly to a government executive order issued by the president.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-it-turns-out-that-orion-s-much-maligned-1788285747",
     "slug": "auto-it-turns-out-that-orion-s-much-maligned-1788285747",
     "title": "Mr. Informer Briefing: It turns out that Orion's much-maligned heat shield performed really well",

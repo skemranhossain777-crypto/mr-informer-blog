@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-logical-end-point-of-ai-job-intervie-1788372777",
+    "slug": "auto-the-logical-end-point-of-ai-job-intervie-1788372777",
+    "title": "Mr. Informer Briefing: The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 02, 2026 - 18:12",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech183462/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Wired's reporting on The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Christopher was sick of being ghosted by AI recruiters.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"So he unleashed ChatGPT on his robot interviewer.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other</strong> \u2014 a detailed, automation-assisted summary of reporting from Wired. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The evolution of automated hiring processes highlights a growing disconnect between candidates and employers in the modern job market. When job seekers begin deploying their own artificial intelligence to handle automated corporate recruiters, the entire recruitment paradigm shifts toward machine-to-machine interactions. Readers should take away that this escalation underscores the frustrations of modern hiring protocols and points toward a future where automated screening tools may no longer be interacting with human applicants at all.</p>\n\n    <h3>Technical context</h3>\n    <p>The scenario involves job seekers utilizing generative artificial intelligence models, such as ChatGPT, to interact with automated AI recruitment systems. This automated engagement happens because candidates face persistent non-responses, commonly known as being ghosted, by initial screening bots. By substituting human effort with a conversational language model, the applicant effectively automates the interview process on their end to match the automated nature of the corporate screening tool.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>A job seeker named Christopher grew tired of being ignored by automated AI recruiters.</li>\n      <li>He responded to this recruitment trend by deploying ChatGPT to handle his robot interviewer.</li>\n      <li>This interaction demonstrates the logical end point of automated job interviews where two bots converse.</li>\n      <li>The development highlights the growing use of artificial intelligence by both employers and candidates in the hiring process.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/bot-vs-bot-job-interview-ai/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-wordle-in-1--is-the-nyt-s-new-puzzle-ju-1788354198",
     "slug": "auto-wordle-in-1--is-the-nyt-s-new-puzzle-ju-1788354198",
     "title": "Mr. Informer Briefing: \u2018Wordle in 1\u2019 is the NYT\u2019s new puzzle just for subscribers",

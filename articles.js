@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-wordle-in-1--is-the-nyt-s-new-puzzle-ju-1788354198",
+    "slug": "auto-wordle-in-1--is-the-nyt-s-new-puzzle-ju-1788354198",
+    "title": "Mr. Informer Briefing: \u2018Wordle in 1\u2019 is the NYT\u2019s new puzzle just for subscribers",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 02, 2026 - 13:03",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech792280/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on \u2018Wordle in 1\u2019 is the NYT\u2019s new puzzle just for subscribers. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/games/988099/nyt-bonus-puzzle-games-weekly-wordle",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The New York Times has prepared some exclusive goodies for its subscribers: a weekly drop of bonus puzzles based on the publication&#x27;s popular games.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Five to six new puzzles will be released every Wednesday, each featuring &quot;a twist&quot; on games like Wordle, Strands, Connections, and Crossword that are designed to keep puzzleheads playing with fresh, [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>\u2018Wordle in 1\u2019 is the NYT\u2019s new puzzle just for subscribers</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Media companies and puzzle publishers frequently look for ways to add exclusive value to their subscription models, using popular intellectual property to retain paying users. By introducing weekly bonus puzzles featuring twists on established hits like Wordle, publishers can drive ongoing engagement and differentiate their paid tiers from free offerings. For the reader, this represents an expansion of familiar daily habits into new, serialized formats designed specifically for dedicated enthusiasts.</p>\n\n    <h3>Technical context</h3>\n    <p>The New York Times is rolling out a weekly drop of five to six new bonus puzzles every Wednesday that incorporate a twist on its existing digital games, including Wordle, Strands, Connections, and Crossword. These new additions are engineered exclusively for subscribers as part of a content strategy to keep players engaged with fresh gameplay variations. The initiative leverages the established framework of the publication&#x27;s popular digital puzzle portfolio to deliver specialized content on a regular schedule.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The New York Times has introduced a new collection of puzzle content exclusively for its subscribers.</li>\n      <li>A weekly drop of five to six new bonus puzzles will be released every Wednesday.</li>\n      <li>The new puzzles feature unique twists on popular existing games like Wordle, Strands, Connections, and Crossword.</li>\n      <li>The initiative is designed to keep dedicated puzzle enthusiasts engaged with fresh gameplay variations.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/games/988099/nyt-bonus-puzzle-games-weekly-wordle\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-reliance-s-jiohotstar-takes-its-streamin-1788333847",
     "slug": "auto-reliance-s-jiohotstar-takes-its-streamin-1788333847",
     "title": "Mr. Informer Briefing: Reliance\u2019s JioHotstar takes its streaming empire global \u2014 without sports",

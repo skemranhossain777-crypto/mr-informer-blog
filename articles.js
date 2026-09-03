@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-volunteer-at-techcrunch-founder-summit-i-1788440729",
+    "slug": "auto-volunteer-at-techcrunch-founder-summit-i-1788440729",
+    "title": "Mr. Informer Briefing: Volunteer at TechCrunch Founder Summit in Boston",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 03, 2026 - 13:05",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech633184/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Volunteer at TechCrunch Founder Summit in Boston. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th!</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"And we are looking for some incredible volunteers to help us make this event happen. If you are interested in finding out what goes into building tech events, apply to volunteer. If you are selected, not only will you get [\u2026]\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Volunteer at TechCrunch Founder Summit in Boston</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Industry events like the TechCrunch Founder Summit rely on volunteer support to run smoothly, offering community members a practical entry point into the tech conference ecosystem. As events evolve and rebrand\u2014such as the transition from All Stage to the TechCrunch Founder Summit in Boston\u2014organizers lean on enthusiastic participants to help facilitate networking and operational logistics. For attendees and aspiring professionals, participating in these gatherings provides a behind-the-scenes look at how major technology communities connect and collaborate.</p>\n\n    <h3>Technical context</h3>\n    <p>The TechCrunch Founder Summit in Boston represents a live, in-person gathering designed to bring founders and tech industry participants together. Operating an event of this scale involves coordinated logistical planning, venue management, and on-site support to handle attendees. Volunteers play a direct role in executing these operational workflows, gaining firsthand experience in the mechanics of large-scale technology productions.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>TechCrunch is hosting its rebranded Founder Summit in Boston on November 4th, formerly known as All Stage.</li>\n      <li>The organization is currently seeking volunteers to assist with the execution and operations of the event.</li>\n      <li>Interested individuals can apply to volunteer to learn what goes into building technology events.</li>\n      <li>Selected volunteers will have the opportunity to experience the inner workings of a major tech industry gathering.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-spending-deal-comes-with-a-bonus--blocki-1788420476",
     "slug": "auto-spending-deal-comes-with-a-bonus--blocki-1788420476",
     "title": "Mr. Informer Briefing: Spending deal comes with a bonus: Blocking political control of grants",

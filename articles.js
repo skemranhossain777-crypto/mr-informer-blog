@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-crusoe-reportedly-raises--3b-at-a---30b-1788486618",
+    "slug": "auto-crusoe-reportedly-raises--3b-at-a---30b-1788486618",
+    "title": "Mr. Informer Briefing: Crusoe reportedly raises $3B at a  $30B valuation",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 04, 2026 - 01:50",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech363308/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Crusoe reportedly raises $3B at a  $30B valuation. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Crusoe reportedly raises $3B at a  $30B valuation</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This massive funding round highlights the intense capital requirements and explosive valuations associated with the modern infrastructure supporting artificial intelligence and data-intensive computing. As data center developers secure multi-billion-dollar contracts with major financial and tech institutions, the market is seeing unprecedented financial backing for specialized infrastructure. A reader should take away that the foundational hardware and facility layer of the tech ecosystem is commanding astronomical sums to keep pace with soaring computational demands.</p>\n\n    <h3>Technical context</h3>\n    <p>The development centers on specialized data center infrastructure, which is required to handle the immense workloads demanded by modern computational needs like artificial intelligence. Building and scaling these facilities involves securing massive upfront capital and long-term enterprise contracts to fund the physical assets and operational capacity. In this case, a massive contract with Jane Street served as the catalyst that brought the substantial financing round together.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Crusoe reportedly raised $3 billion in new funding.</li>\n      <li>The financing round values the data center developer at $30 billion.</li>\n      <li>The capital raise followed the company securing a $13 billion contract with Jane Street.</li>\n      <li>The report comes via TechCrunch based on the reported funding and contract details.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-reports--rfk-jr--ordered-measles-deaths-1788475962",
     "slug": "auto-reports--rfk-jr--ordered-measles-deaths-1788475962",
     "title": "Mr. Informer Briefing: Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",

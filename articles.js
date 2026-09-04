@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-feds-launch-investigation-into-tesla-s-c-1788526778",
+    "slug": "auto-feds-launch-investigation-into-tesla-s-c-1788526778",
+    "title": "Mr. Informer Briefing: Feds launch investigation into Tesla\u2019s Cybercab deployment",
+    "category": "Cyber Security",
+    "readTime": "1 min read",
+    "date": "September 04, 2026 - 12:59",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech832267/1200/800",
+    "tags": [
+      "Cyber Security",
+      "Zero-Day",
+      "Cryptography",
+      "Network Safety"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Feds launch investigation into Tesla\u2019s Cybercab deployment. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Feds launch investigation into Tesla\u2019s Cybercab deployment</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader technology landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from TechCrunch or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-sameness-problem-behind-those-unappe-1788507008",
     "slug": "auto-the-sameness-problem-behind-those-unappe-1788507008",
     "title": "Mr. Informer Briefing: The sameness problem behind those unappetizing AI-generated menus",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-lifetime-ad-blocker-labor-day-deal--adgu-1788592264",
+    "slug": "auto-lifetime-ad-blocker-labor-day-deal--adgu-1788592264",
+    "title": "Mr. Informer Briefing: Lifetime ad blocker Labor Day deal: AdGuard is $14.97",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 05, 2026 - 07:11",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech613141/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Mashable's reporting on Lifetime ad blocker Labor Day deal: AdGuard is $14.97. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Mashable",
+    "sourceUrl": "https://mashable.com/tech/sept-5-adguard-family-plan-lifetime-subscription",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">AdGuard&#x27;s Family Plan lifetime subscription is on sale for $14.97 (reg.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"$169.99), covering up to nine devices with ad blocking, tracker protection, and parental controls.\"</p>\n      <cite>\u2014 Mashable</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Lifetime ad blocker Labor Day deal: AdGuard is $14.97</strong> \u2014 a detailed, automation-assisted summary of reporting from Mashable. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader Lifetime ad blocker Labor Day deal landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from Mashable or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://mashable.com/tech/sept-5-adguard-family-plan-lifetime-subscription\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Mashable \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-xdof--just-three-months-out-of-stealth-1788573068",
     "slug": "auto-xdof--just-three-months-out-of-stealth-1788573068",
     "title": "Mr. Informer Briefing: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",

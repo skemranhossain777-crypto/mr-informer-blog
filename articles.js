@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-real-reason-your-phone-is-getting-mo-1788791632",
+    "slug": "auto-the-real-reason-your-phone-is-getting-mo-1788791632",
+    "title": "Mr. Informer Briefing: The real reason your phone is getting more expensive",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "September 07, 2026 - 14:33",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech3720/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on The real reason your phone is getting more expensive. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">When Apple debuts the next generation of iPhones this week, they&#x27;re likely to come with an unwanted change: a higher price tag.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it &quot;chipflation&quot; [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The real reason your phone is getting more expensive</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader technology landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from The Verge or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-create-custom-windows-11-notifications-t-1788766735",
     "slug": "auto-create-custom-windows-11-notifications-t-1788766735",
     "title": "Mr. Informer Briefing: Create Custom Windows 11 Notifications to Remind Yourself of Anything",

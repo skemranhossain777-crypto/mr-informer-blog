@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-opaque-recurrence--and-other-ai-terms-th-1788822548",
+    "slug": "auto-opaque-recurrence--and-other-ai-terms-th-1788822548",
+    "title": "Mr. Informer Briefing: Opaque recurrence, and other AI terms that you should probably know",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "September 07, 2026 - 23:09",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech481557/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Opaque recurrence, and other AI terms that you should probably know. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The rise of AI has brought an avalanche of new terms and slang.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Here is a glossary with definitions of some of the most important words and phrases you might encounter.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Opaque recurrence, and other AI terms that you should probably know</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader technology landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from TechCrunch or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-a-secret-new-elizabeth-holmes-documentar-1788807280",
     "slug": "auto-a-secret-new-elizabeth-holmes-documentar-1788807280",
     "title": "Mr. Informer Briefing: A secret new Elizabeth Holmes documentary stuns Telluride",

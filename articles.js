@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-europe-will-go-it-alone-on-venus-mission-1789071516",
+    "slug": "auto-europe-will-go-it-alone-on-venus-mission-1789071516",
+    "title": "Mr. Informer Briefing: Europe will go it alone on Venus mission after NASA yanks radar instrument",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 10, 2026 - 20:18",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech183115/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Europe will go it alone on Venus mission after NASA yanks radar instrument. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Europe will go it alone on Venus mission after NASA yanks radar instrument</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader technology landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from Ars Technica or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-latest-avatar--seven-havens-trailer-1789063015",
     "slug": "auto-the-latest-avatar--seven-havens-trailer-1789063015",
     "title": "Mr. Informer Briefing: The latest Avatar: Seven Havens trailer gives us a deeper dive into the characters and story",

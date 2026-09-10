@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-thrive-capital-led-vcs-into-pro-sports-o-1789080621",
+    "slug": "auto-thrive-capital-led-vcs-into-pro-sports-o-1789080621",
+    "title": "Mr. Informer Briefing: Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "September 10, 2026 - 22:50",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech463552/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Collaborative Fund just bought into D.C.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm&#x27;s startups.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader technology landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from TechCrunch or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-europe-will-go-it-alone-on-venus-mission-1789071516",
     "slug": "auto-europe-will-go-it-alone-on-venus-mission-1789071516",
     "title": "Mr. Informer Briefing: Europe will go it alone on Venus mission after NASA yanks radar instrument",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-underdog-sues-ohio--massachusetts--and-w-1789252919",
+    "slug": "auto-underdog-sues-ohio--massachusetts--and-w-1789252919",
+    "title": "Mr. Informer Briefing: Underdog sues Ohio, Massachusetts, and Wisconsin as prediction market fight deepens",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 12, 2026 - 22:41",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech604231/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing ReadWrite's reporting on Underdog sues Ohio, Massachusetts, and Wisconsin as prediction market fight deepens. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "ReadWrite",
+    "sourceUrl": "https://readwrite.com/underdog-sues-ohio-massachusetts-wisconsin-prediction-market/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Underdog Exchange DCM, Inc.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"and UDM, LLC, which does business as Underdog Predict, have taken regulators in Ohio, Massachusetts, and\u2026 Continue reading Underdog sues Ohio, Massachusetts, and Wisconsin as prediction market fight deepens\nThe post Underdog sues Ohio, Massachusetts, and Wisconsin as prediction market fight deepens appeared first on ReadWrite.\"</p>\n      <cite>\u2014 ReadWrite</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Underdog sues Ohio, Massachusetts, and Wisconsin as prediction market fight deepens</strong> \u2014 a detailed, automation-assisted summary of reporting from ReadWrite. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This legal action highlights the escalating friction between state regulators and prediction market platforms as they expand their operations. Such conflicts reflect a broader regulatory struggle over the oversight of emerging digital prediction exchanges across different jurisdictions. Readers should take away that the legal landscape for these platforms remains fiercely contested as companies push boundaries in multiple states.</p>\n\n    <h3>Technical context</h3>\n    <p>The dispute involves Underdog Exchange DCM, Inc. and UDM, LLC, operating as Underdog Predict, engaging in a legal battle against state regulators. According to the provided text, the companies have taken legal action in Ohio, Massachusetts, and Wisconsin amid a deepening fight over prediction markets. While exact technical protocols or underlying architectures are not detailed in the excerpt, the confrontation centers on state-level regulatory enforcement against prediction market operations.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Underdog Exchange DCM, Inc. and UDM, LLC have filed lawsuits against regulators in Ohio, Massachusetts, and Wisconsin.</li>\n      <li>The legal actions are part of a deepening and broader fight involving prediction market platforms.</li>\n      <li>The conflict underscores ongoing regulatory challenges faced by prediction market operators at the state level.</li>\n      <li>The report from ReadWrite highlights how state-level friction is impacting the expansion of these digital platforms.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://readwrite.com/underdog-sues-ohio-massachusetts-wisconsin-prediction-market/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ReadWrite \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-sylvan-esso-think-you-should-splurge-on-1789242580",
     "slug": "auto-sylvan-esso-think-you-should-splurge-on-1789242580",
     "title": "Mr. Informer Briefing: Sylvan Esso think you should splurge on good-quality yogurt",

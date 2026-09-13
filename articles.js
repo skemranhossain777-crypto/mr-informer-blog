@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-trump-and-mike-johnson-think-the-ai-indu-1789329488",
+    "slug": "auto-trump-and-mike-johnson-think-the-ai-indu-1789329488",
+    "title": "Mr. Informer Briefing: Trump and Mike Johnson think the AI industry is overreacting",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 13, 2026 - 19:58",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech221255/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Trump and Mike Johnson think the AI industry is overreacting. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to &quot;pace the frontier&quot; and slow down AI development.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"OpenAI&#x27;s Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet&#x27;s Demis Hassabis offered tentative support for Amodei&#x27;s proposal. Donald Trump and House Speaker Mike Johnson, however, [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Trump and Mike Johnson think the AI industry is overreacting</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Disagreements over the appropriate speed of artificial intelligence development highlight a growing tension between industry leaders and political figures regarding the future of the technology. While major tech executives debate whether to pace the frontier and slow down development, political leaders like Donald Trump and Mike Johnson appear to hold contrasting views. This dynamic underscores how regulatory discussions and industry self-regulation are becoming increasingly intertwined with national political discourse.</p>\n\n    <h3>Technical context</h3>\n    <p>The debate centers on the trajectory of frontier artificial intelligence development, which involves pushing the boundaries of current machine learning capabilities and model scaling. Industry leaders are publicly discussing the merits of pacing this advancement rather than pursuing unchecked acceleration. This touches on complex questions surrounding safety protocols, resource allocation, and the overall governance of cutting-edge technological systems.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Anthropic CEO Dario Amodei published an open letter calling for the artificial intelligence industry to pace the frontier and slow down development.</li>\n      <li>OpenAI CEO Sam Altman and Elon Musk publicly voiced their support for Amodei&#x27;s proposal on X.</li>\n      <li>Alphabet&#x27;s Demis Hassabis also offered tentative support for the idea of slowing down AI development.</li>\n      <li>Donald Trump and House Speaker Mike Johnson reportedly hold a different perspective, thinking the AI industry is overreacting.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-units--digital-stimulation-is-synthp-1789321582",
     "slug": "auto-the-units--digital-stimulation-is-synthp-1789321582",
     "title": "Mr. Informer Briefing: The Units\u2019 Digital Stimulation is synthpunk perfection",

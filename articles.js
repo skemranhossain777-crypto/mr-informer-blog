@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-units--digital-stimulation-is-synthp-1789321582",
+    "slug": "auto-the-units--digital-stimulation-is-synthp-1789321582",
+    "title": "Mr. Informer Briefing: The Units\u2019 Digital Stimulation is synthpunk perfection",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 13, 2026 - 17:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech130783/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on The Units\u2019 Digital Stimulation is synthpunk perfection. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The Units are a band I discovered in part thanks to No Dogs in Space.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there&#x27;s no better way to get my attention than to combine two of my favorite things - punk rock [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Units\u2019 Digital Stimulation is synthpunk perfection</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader technology landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from The Verge or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-fusion-power-startups-find-new-partners-1789306266",
     "slug": "auto-fusion-power-startups-find-new-partners-1789306266",
     "title": "Mr. Informer Briefing: Fusion power startups find new partners in the defense world",

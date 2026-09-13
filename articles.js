@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-insight-partners--devin-parekh-on-why-th-1789339372",
+    "slug": "auto-insight-partners--devin-parekh-on-why-th-1789339372",
+    "title": "Mr. Informer Briefing: Insight Partners\u2019 Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 13, 2026 - 22:42",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech697328/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Insight Partners\u2019 Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Insight Partners&#x27; Devin Parekh opens up about losing Legora to General Catalyst, why he&#x27;s fine holding stakes in rival AI labs, and why \u2014 even as everyone else piles into OpenAI and Anthropic \u2014 his $90 billion firm is deliberately staying diversified.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Insight Partners\u2019 Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>In the fast-moving artificial intelligence investment landscape, venture capital strategies often swing wildly between concentrated bets on dominant players and broad diversification. When major firms navigate losses and hedge their bets across rival labs, it reflects a broader industry tension between chasing market leaders and managing long-term risk. Readers should take away that venture capital approaches to AI are far from uniform, with some major players choosing deliberately different paths from the prevailing herd mentality.</p>\n\n    <h3>Technical context</h3>\n    <p>The report highlights investment strategies surrounding artificial intelligence labs, specifically focusing on how firms allocate capital among rival organizations in the sector. Rather than concentrating financial backing entirely on prominent market frontrunners like OpenAI and Anthropic, Insight Partners maintains a diversified portfolio of stakes across competing labs. This approach involves managing competitive dynamics and positioning a multi-billion-dollar fund to capture value across various players in the AI ecosystem.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Insight Partners is intentionally maintaining a diversified portfolio while many other firms heavily concentrate their investments in OpenAI and Anthropic.</li>\n      <li>Devin Parekh discussed the firm losing Legora to General Catalyst in the competitive venture capital market.</li>\n      <li>The $90 billion investment firm is comfortable holding ownership stakes across rival artificial intelligence labs.</li>\n      <li>The firm&#x27;s deliberate diversification strategy stands in contrast to the industry-wide trend of backing only a select few dominant AI players.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-trump-and-mike-johnson-think-the-ai-indu-1789329488",
     "slug": "auto-trump-and-mike-johnson-think-the-ai-indu-1789329488",
     "title": "Mr. Informer Briefing: Trump and Mike Johnson think the AI industry is overreacting",

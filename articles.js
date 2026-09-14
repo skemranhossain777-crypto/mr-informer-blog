@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-openai-buys-smartphone-camera-maker-glas-1789420115",
+    "slug": "auto-openai-buys-smartphone-camera-maker-glas-1789420115",
+    "title": "Mr. Informer Briefing: OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 14, 2026 - 21:08",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech777697/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple&#x27;s Portrait Mode.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The acquisition of a smartphone camera maker by a leading artificial intelligence company highlights the ongoing convergence of hardware and advanced machine learning techniques. As AI developers look to enhance how devices capture and process visual data, bringing specialized engineering talent in-house represents a strategic move to integrate imaging technology directly with AI systems. Readers should take away that the boundary between traditional optics and artificial intelligence is increasingly blurring as tech giants invest heavily in proprietary capture hardware.</p>\n\n    <h3>Technical context</h3>\n    <p>Glass Imaging is a smartphone camera maker founded by former Apple engineers who previously led the team that developed Apple&#x27;s Portrait Mode. While the report does not detail the exact mechanics of the acquisition or its technological integration, the company&#x27;s background centers on advanced computational photography and camera software development. This expertise in processing and capturing images at the hardware and software level provides the foundational concepts behind their imaging systems.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>OpenAI has reportedly purchased the smartphone camera maker Glass Imaging for $300 million.</li>\n      <li>The acquisition was reported by TechCrunch based on the available excerpt.</li>\n      <li>Glass Imaging was founded by a pair of former Apple engineers.</li>\n      <li>The founders previously led the team that developed Apple&#x27;s Portrait Mode.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-best-air-purifier-of-2026--tested-pi-1789399366",
     "slug": "auto-the-best-air-purifier-of-2026--tested-pi-1789399366",
     "title": "Mr. Informer Briefing: The Best Air Purifier of 2026: Tested Picks for Every Room",

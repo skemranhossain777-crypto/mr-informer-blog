@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-waymo-pulls-over--calls-cops-on-riders-w-1789373636",
+    "slug": "auto-waymo-pulls-over--calls-cops-on-riders-w-1789373636",
+    "title": "Mr. Informer Briefing: Waymo pulls over, calls cops on riders with a ghost gun",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 14, 2026 - 08:13",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech100118/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Waymo pulls over, calls cops on riders with a ghost gun. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating the [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Waymo pulls over, calls cops on riders with a ghost gun</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This incident highlights the intersection of autonomous vehicle technology and public safety, raising new questions about how robotaxis interact with law enforcement. As driverless vehicles become more common on public streets, their built-in systems and operational protocols are increasingly positioned to play a direct role in crime detection and reporting. Readers should take away that the deployment of autonomous fleets introduces novel security dynamics that extend far beyond simple transportation.</p>\n\n    <h3>Technical context</h3>\n    <p>The report describes a scenario where an autonomous vehicle operated by Waymo independently pulled over and contacted authorities regarding passengers inside the cabin. While the specific mechanism triggering the intervention is not detailed in the available text, modern robotaxis rely on extensive sensor arrays and onboard software to monitor vehicle status and passenger environments. This capability demonstrates how automated fleet management systems can autonomously execute emergency protocols based on real-time onboard data.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Two juveniles were arrested in San Francisco while riding in a Waymo robotaxi.</li>\n      <li>The autonomous vehicle pulled over and called the police on the passengers.</li>\n      <li>The riders were found to be in possession of a loaded AR-style ghost gun.</li>\n      <li>The suspects were subsequently taken to a juvenile hall following their arrest.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-apple-is-reportedly-working-on-iphone-ga-1789351858",
     "slug": "auto-apple-is-reportedly-working-on-iphone-ga-1789351858",
     "title": "Mr. Informer Briefing: Apple is reportedly working on iPhone game controllers",

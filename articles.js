@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-boston-dumps-flock--says-it-shared-data-1789497241",
+    "slug": "auto-boston-dumps-flock--says-it-shared-data-1789497241",
+    "title": "Mr. Informer Briefing: Boston dumps Flock, says it shared data nationwide in violation of contract",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 15, 2026 - 18:34",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech533552/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Boston dumps Flock, says it shared data nationwide in violation of contract. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">City: Flock enabled &quot;nationwide lookup&quot; despite contract requiring it to be disabled.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Boston dumps Flock, says it shared data nationwide in violation of contract</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When municipalities adopt automated license plate reading and surveillance infrastructure, data governance and strict adherence to contractual limitations become critical safeguards for public privacy. This development highlights the growing friction between local governments and surveillance tech vendors over data sharing, jurisdictional boundaries, and the unauthorized dissemination of citizens&#x27; location information across nationwide networks. Readers should take away that the incident underscores the vulnerability of municipal oversight when dealing with private automated monitoring platforms.</p>\n\n    <h3>Technical context</h3>\n    <p>The controversy centers on automated surveillance infrastructure provided by Flock, which uses optical character recognition to log and track vehicle movements. According to the report, the system facilitated a nationwide lookup capability that allowed data to be shared across the country. This feature operated in direct contravention of a municipal contract that explicitly mandated the nationwide lookup function to remain disabled.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Boston has officially ended its relationship with Flock due to contract violations.</li>\n      <li>The city stated that Flock enabled a nationwide lookup feature against explicit agreement terms.</li>\n      <li>The disputed functionality allowed vehicle data to be shared across the country.</li>\n      <li>The termination highlights ongoing concerns regarding data governance and surveillance technology contracts.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-early-anthropic-hire--former-metr-coo-ha-1789480605",
     "slug": "auto-early-anthropic-hire--former-metr-coo-ha-1789480605",
     "title": "Mr. Informer Briefing: Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",

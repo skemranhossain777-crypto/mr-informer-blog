@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-mediatek-s-dimensity-9600-pro-focuses-on-1789459612",
+    "slug": "auto-mediatek-s-dimensity-9600-pro-focuses-on-1789459612",
+    "title": "Mr. Informer Briefing: MediaTek\u2019s Dimensity 9600 Pro Focuses on Gaming, AI Performance for High-End Phones",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "September 15, 2026 - 08:06",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech107830/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing CNET's reporting on MediaTek\u2019s Dimensity 9600 Pro Focuses on Gaming, AI Performance for High-End Phones. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "CNET",
+    "sourceUrl": "https://www.cnet.com/tech/mobile/mediateks-dimensity-9600-pro-focuses-on-gaming-ai-performance-for-high-end-phones/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The high-end processor is the company\u2019s first to use TSMC\u2019s 2-nanometer process.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>MediaTek\u2019s Dimensity 9600 Pro Focuses on Gaming, AI Performance for High-End Phones</strong> \u2014 a detailed, automation-assisted summary of reporting from CNET. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Processor advancements like this highlight the relentless industry push toward more powerful and efficient silicon for mobile devices. As flagship smartphones increasingly rely on intensive gaming and on-device artificial intelligence, hardware manufacturers are turning to cutting-edge manufacturing processes to meet these demands. Readers should take away that the foundational hardware inside high-end phones is evolving rapidly to support heavier workloads while aiming to maintain efficiency.</p>\n\n    <h3>Technical context</h3>\n    <p>The Dimensity 9600 Pro is a high-end processor designed by MediaTek to focus specifically on gaming and AI performance for smartphones. Notably, it is the company&#x27;s first processor to utilize TSMC&#x27;s 2-nanometer manufacturing process. This advanced node technology allows for greater transistor density on the silicon chip, which generally enables improved performance and energy efficiency compared to previous generations.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>MediaTek announced the Dimensity 9600 Pro processor tailored for high-end phones.</li>\n      <li>The chip places a primary focus on enhancing both gaming and artificial intelligence performance.</li>\n      <li>It stands out as MediaTek&#x27;s first processor to utilize TSMC&#x27;s advanced 2-nanometer manufacturing process.</li>\n      <li>The high-end silicon aims to push the boundaries of what mobile devices can handle for intensive tasks.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.cnet.com/tech/mobile/mediateks-dimensity-9600-pro-focuses-on-gaming-ai-performance-for-high-end-phones/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">CNET \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-rfk-jr--headlines-sold-out-anti-vaccine-1789438675",
     "slug": "auto-rfk-jr--headlines-sold-out-anti-vaccine-1789438675",
     "title": "Mr. Informer Briefing: RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",

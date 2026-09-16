@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-best-movies-to-stream-this-month--se-1789583521",
+    "slug": "auto-the-best-movies-to-stream-this-month--se-1789583521",
+    "title": "Mr. Informer Briefing: The Best Movies to Stream This Month (September 2026)",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 16, 2026 - 18:32",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech3341/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Wired's reporting on The Best Movies to Stream This Month (September 2026). This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The Mandalorian and Grogu, The Wild Robot, and Obsession are among the must-watch films arriving this month.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The Best Movies to Stream This Month (September 2026)</strong> \u2014 a detailed, automation-assisted summary of reporting from Wired. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Streaming guides serve as curated curation tools for consumers navigating crowded entertainment platforms. As digital distribution becomes the primary battleground for major releases, platforms continually refresh their lineups with high-profile titles to capture audience attention. Understanding what lands on streaming services helps viewers prioritize their entertainment options amidst an ever-expanding sea of digital content.</p>\n\n    <h3>Technical context</h3>\n    <p>Digital streaming relies on high-speed internet protocols and cloud-based content delivery networks to transmit video files directly to consumer devices on demand. This infrastructure enables platforms to release major motion pictures and series updates simultaneously to global audiences. Viewers access these catalogs through proprietary software applications running on smart TVs, mobile devices, and dedicated streaming hardware.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The Mandalorian and Grogu is among the must-watch films arriving on streaming platforms this month.</li>\n      <li>The Wild Robot is featured as a key title to stream during September 2026.</li>\n      <li>Obsession is highlighted as one of the notable film releases for the month.</li>\n      <li>The curated list aims to guide viewers through the best movie options available on streaming services.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/the-8-best-movies-to-stream-right-now/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-sk-hynix-reportedly-in-talks-with-intel-1789566575",
     "slug": "auto-sk-hynix-reportedly-in-talks-with-intel-1789566575",
     "title": "Mr. Informer Briefing: SK Hynix reportedly in talks with Intel to build memory chips in US",

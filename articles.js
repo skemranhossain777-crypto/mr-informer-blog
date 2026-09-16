@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-we-don-t-need-ai-regulation---leave-safe-1789524644",
+    "slug": "auto-we-don-t-need-ai-regulation---leave-safe-1789524644",
+    "title": "Mr. Informer Briefing: We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 16, 2026 - 02:10",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech181979/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">AI isn&#x27;t some new form of &quot;alien mind,&quot; according to Jensen Huang.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It&#x27;s just hardware and software, so safety can be engineered by each AI product maker.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This perspective highlights the ongoing debate between industry leaders and policymakers regarding the governance of emerging technologies. When major executives argue that self-regulation and engineering are sufficient to manage risk, it shapes the broader industry trend of pushing back against external oversight. Readers should take away that the technology sector remains deeply divided on whether government rules or corporate self-policing is the best path forward for safety.</p>\n\n    <h3>Technical context</h3>\n    <p>The discussion centers on artificial intelligence as a product of standard hardware and software systems rather than an autonomous or unpredictable entity. According to this view, risk mitigation is a technical challenge that can be addressed directly by individual product makers through engineering practices. By framing AI safety as a manageable design feature, proponents argue it does not require specialized regulatory frameworks.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Nvidia CEO Jensen Huang asserts that artificial intelligence does not require government regulation.</li>\n      <li>He compares AI to standard hardware and software rather than treating it as an unpredictable alien mind.</li>\n      <li>Safety measures can and should be engineered directly by each individual AI product maker.</li>\n      <li>The stance reflects a broader industry preference for self-regulation over external policy oversight.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-ai-data-center-boom-is-colliding-wit-1789514213",
     "slug": "auto-the-ai-data-center-boom-is-colliding-wit-1789514213",
     "title": "Mr. Informer Briefing: The AI data center boom is colliding with cities scarred by big industry",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-2-5-hour-ai-generated-odyssey-movie-1789600929",
+    "slug": "auto-the-2-5-hour-ai-generated-odyssey-movie-1789600929",
+    "title": "Mr. Informer Briefing: The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 16, 2026 - 23:22",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech320586/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Christopher Nolan&#x27;s engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, called Odysseus: The Fall, comes [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The emergence of feature-length, AI-generated films highlights the ongoing collision between traditional Hollywood filmmaking and experimental machine-learning media generation. As artificial intelligence tools become more accessible, creators are attempting to bypass conventional production pipelines to deliver full-scale cinematic projects. While this trend points toward a future of democratized content creation, early efforts like this suggest that automated storytelling still struggles to achieve the quality required to engage audiences on a level comparable to human-directed epics.</p>\n\n    <h3>Technical context</h3>\n    <p>The film in question, titled Odysseus: The Fall, represents a complete retelling of a classic literary story produced entirely through artificial intelligence generation techniques. Without the traditional human elements of cinematography, acting, and scriptwriting, the production relies on automated systems to synthesize the visual and narrative components of a feature film. This process bypasses the complex, multi-year workflows typically managed by studios, attempting instead to generate a two-and-a-half-hour runtime directly from machine-learning models.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>A new feature-length film titled Odysseus: The Fall has been created entirely using artificial intelligence.</li>\n      <li>The project arrives in the wake of Christopher Nolan&#x27;s successful box office take on The Odyssey, which sparked renewed interest in the classic tale.</li>\n      <li>Reviews of the AI-generated retelling describe it as exceptionally poor in quality.</li>\n      <li>The film is criticized as being so ineffective that it risks turning viewers against the original literary story.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-best-movies-to-stream-this-month--se-1789583521",
     "slug": "auto-the-best-movies-to-stream-this-month--se-1789583521",
     "title": "Mr. Informer Briefing: The Best Movies to Stream This Month (September 2026)",

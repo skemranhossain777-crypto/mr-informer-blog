@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-how-chimps-teach-their-kids-tool-tricks-1789545623",
+    "slug": "auto-how-chimps-teach-their-kids-tool-tricks-1789545623",
+    "title": "Mr. Informer Briefing: How chimps teach their kids tool tricks",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 16, 2026 - 08:00",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech901355/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on How chimps teach their kids tool tricks. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>How chimps teach their kids tool tricks</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Observations of animal behavior often provide valuable insights into the evolutionary roots of cultural transmission and learning processes. When adult chimpanzees demonstrate tool use and then hand implements over to their infants, it highlights a structured form of generational knowledge transfer. Readers can take away that complex behavioral traits and the passing of skills are not exclusive to human societies.</p>\n\n    <h3>Technical context</h3>\n    <p>The underlying behavioral dynamic involves active adult demonstration paired with subsequent tool transfer to younger individuals, enabling observational learning and copying. In this context, adults first show how an implement is used before handing it directly to their infants. The infants then replicate the observed behavior, completing a foundational cycle of practical skill acquisition.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Adult chimpanzees demonstrate tool use to their offspring.</li>\n      <li>Adults actively hand implements over to infants after demonstrating the behavior.</li>\n      <li>Infants copy the tool-using behavior shown by the adults.</li>\n      <li>This process highlights how chimpanzees teach tool tricks to their kids.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-we-don-t-need-ai-regulation---leave-safe-1789524644",
     "slug": "auto-we-don-t-need-ai-regulation---leave-safe-1789524644",
     "title": "Mr. Informer Briefing: We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",

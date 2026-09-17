@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-waymo-restarts-san-antonio-service-5-mon-1789670409",
+    "slug": "auto-waymo-restarts-san-antonio-service-5-mon-1789670409",
+    "title": "Mr. Informer Briefing: Waymo restarts San Antonio service 5 months after flooding troubles",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 17, 2026 - 18:40",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech144086/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Waymo restarts San Antonio service 5 months after flooding troubles. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The company suspended service in the city in April after one of its robotaxis got swept away.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Waymo restarts San Antonio service 5 months after flooding troubles</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When autonomous vehicle services encounter unexpected disruptions like weather events, their ability to safely resume operations serves as a crucial milestone for the broader industry. The rapid growth of autonomous fleets depends on how companies manage liability, environmental hazards, and public safety after incidents occur. Readers should take away that robotaxi deployment involves continuous risk management, where service suspensions and restarts are part of navigating real-world infrastructure challenges.</p>\n\n    <h3>Technical context</h3>\n    <p>Autonomous ride-hailing services rely on continuous environmental monitoring and mapping to navigate city streets, which can be disrupted by severe weather conditions like flooding. When extreme events compromise vehicle safety, operators must suspend service to reassess routing protocols and hazard detection systems. The decision to restart operations indicates that the company has evaluated these risks and determined its vehicles can safely navigate the affected area again.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Waymo has officially restarted its robotaxi service in San Antonio.</li>\n      <li>The service restart comes five months after operations were suspended.</li>\n      <li>Operations were initially halted in April due to a robotaxi being swept away by flooding.</li>\n      <li>The flooding troubles occurred in the city where the service has now returned.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-bose-s-next-open-earbuds-have-more-bass-1789653224",
     "slug": "auto-bose-s-next-open-earbuds-have-more-bass-1789653224",
     "title": "Mr. Informer Briefing: Bose\u2019s next open earbuds have more bass, more volume, and more battery life",

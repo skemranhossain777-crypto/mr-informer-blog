@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-bose-s-next-open-earbuds-have-more-bass-1789653224",
+    "slug": "auto-bose-s-next-open-earbuds-have-more-bass-1789653224",
+    "title": "Mr. Informer Briefing: Bose\u2019s next open earbuds have more bass, more volume, and more battery life",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 17, 2026 - 13:53",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech374261/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Bose\u2019s next open earbuds have more bass, more volume, and more battery life. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The new Ultra Open Earbuds (2nd Gen) feature a subtle redesign with improved performance in both sound quality and battery life. They&#x27;re also joined by a new cheaper alternative called [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Bose\u2019s next open earbuds have more bass, more volume, and more battery life</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Announcements of iterative hardware updates in popular audio product lines highlight how manufacturers continually refine established form factors to meet consumer demands for better performance. In the context of the broader wearable audio market, improvements focusing on core metrics like sound output and longevity help sustain consumer interest in pioneering designs. Readers should view these updates as part of a continuous refinement cycle aimed at enhancing everyday audio consumption.</p>\n\n    <h3>Technical context</h3>\n    <p>The newly announced Ultra Open Earbuds (2nd Gen) build upon the clip-on wireless earbud design that originally launched roughly two-and-a-half years ago. This iteration incorporates a subtle physical redesign alongside engineering adjustments aimed at delivering increased volume and enhanced bass response. Additionally, the updated hardware achieves improvements in overall battery life compared to the preceding model.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Bose has announced a second-generation version of its Ultra Open Earbuds.</li>\n      <li>The new earbuds feature a subtle redesign accompanied by performance upgrades.</li>\n      <li>Improvements include better sound quality, such as more bass and more volume.</li>\n      <li>The device also offers increased battery life over the previous model.</li>\n      <li>The announcement includes the introduction of a new, cheaper alternative model.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-iceland-based-treble-raises--18-million-1789632383",
     "slug": "auto-iceland-based-treble-raises--18-million-1789632383",
     "title": "Mr. Informer Briefing: Iceland-based Treble raises $18 million for its voice simulation platform",

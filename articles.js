@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-khosla-backed-mazama-energy-just-raised-1789717312",
+    "slug": "auto-khosla-backed-mazama-energy-just-raised-1789717312",
+    "title": "Mr. Informer Briefing: Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "September 18, 2026 - 07:41",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech254064/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The pursuit of advanced geothermal energy represents a major push toward clean, continuous power generation that is not dependent on weather conditions like wind or solar. As investors pour capital into innovative energy startups, the industry is increasingly looking toward deep-earth engineering to scale renewable baseload electricity. Readers should understand this as part of a broader technological shift aiming to unlock high-capacity subterranean heat sources once considered inaccessible or economically unviable.</p>\n\n    <h3>Technical context</h3>\n    <p>The process involves drilling approximately three miles underground to access superhot rock formations capable of producing immense thermal energy. By tapping into these extreme depths, a single well can generate 15 megawatts of electricity continuously around the clock. This approach relies on advanced subsurface drilling capabilities to harness natural heat from the earth for power generation.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Mazama Energy has successfully raised $135 million with backing from Khosla.</li>\n      <li>The startup focuses on super-hot-rock geothermal energy production.</li>\n      <li>Operations involve drilling three miles beneath the earth&#x27;s surface.</li>\n      <li>A single well developed by the company can generate 15 MW of electricity 24/7.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-ai-superintelligence-slowdown-1789696864",
     "slug": "auto-the-ai-superintelligence-slowdown-1789696864",
     "title": "Mr. Informer Briefing: The AI Superintelligence Slowdown",

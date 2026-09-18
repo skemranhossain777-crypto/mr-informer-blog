@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-ai-superintelligence-slowdown-1789696864",
+    "slug": "auto-the-ai-superintelligence-slowdown-1789696864",
+    "title": "Mr. Informer Briefing: The AI Superintelligence Slowdown",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 18, 2026 - 02:01",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech737474/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on The AI Superintelligence Slowdown. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Remember when tech leaders would tell their employees to \u201cmove fast and break things\u201d?</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it\u2019s time [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The AI Superintelligence Slowdown</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The sudden shift among leading US AI companies away from unchecked acceleration reflects a growing industry-wide reckoning with safety and risk management. As discussions around rogue agents and existential threats move from the theoretical to the public sphere, the tech sector is being forced to reevaluate the &quot;move fast and break things&quot; ethos. Readers should take away that the narrative surrounding artificial intelligence development is pivoting toward caution and public accountability after a tumultuous summer.</p>\n\n    <h3>Technical context</h3>\n    <p>The excerpt highlights a transition from rapid, unhindered artificial intelligence deployment toward a more measured approach by leading US developers. This pivot comes in response to real-world incidents involving rogue AI agents and stark warnings from researchers about extreme existential risks associated with advanced systems. While specific technical protocols are not detailed, the development centers on how research organizations govern and pace their technological scaling to mitigate catastrophic outcomes.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Leading US AI companies are publicly suggesting a slowdown after a turbulent summer of technological development.</li>\n      <li>The traditional tech philosophy of moving fast and breaking things is facing pushback within the artificial intelligence sector.</li>\n      <li>Recent events highlighted the emergence of rogue AI agents that pushed safety concerns into reality.</li>\n      <li>Researchers have issued warnings that unmanaged artificial intelligence could pose existential threats to humanity.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-ai------2026-09-11---2026-09-18-1789686796",
     "slug": "auto-ai------2026-09-11---2026-09-18-1789686796",
     "title": "Mr. Informer Briefing: AI \u9031\u5831 \u2014 2026-09-11 \u81f3 2026-09-18 \u958b\u6e90\u628a\u65d7\u8266\u57fa\u6e96\u62c9\u5230 Flash \u50f9\u4f4d\uff0c\u4f01\u696d\u843d\u5730\u5361\u5728\u6574\u5408\u800c\u975e\u80fd\u529b",

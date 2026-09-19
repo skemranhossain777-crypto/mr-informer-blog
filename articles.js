@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-india-forces-caller-id-apps-to-feed-spam-1789803443",
+    "slug": "auto-india-forces-caller-id-apps-to-feed-spam-1789803443",
+    "title": "Mr. Informer Briefing: India forces caller-ID apps to feed spam reports to telcos",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 19, 2026 - 07:37",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech532847/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on India forces caller-ID apps to feed spam reports to telcos. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>India forces caller-ID apps to feed spam reports to telcos</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Regulatory mandates regarding data sharing can significantly alter the competitive landscape between third-party applications and telecommunications infrastructure providers. When governments require platforms to hand over proprietary assets to network operators, it raises broader questions about data governance, commercial value, and fair competition in the digital ecosystem. Readers should understand that such policy shifts can force a major redistribution of valuable data assets within the tech industry.</p>\n\n    <h3>Technical context</h3>\n    <p>Caller-ID applications rely on proprietary reporting mechanisms and accumulated user data to identify and flag spam communications. Under the new mandate, these apps are forced to implement a one-way sharing requirement that feeds their spam reports directly to telecom operators. This technical pipeline transfers commercially valuable intelligence gathered by software platforms over to traditional network infrastructure companies.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>India is requiring caller-ID apps to feed their spam reports directly to telecom operators.</li>\n      <li>Truecaller has criticized the new mandate as a one-way sharing requirement.</li>\n      <li>The policy forces the platform to hand over a commercially valuable proprietary asset.</li>\n      <li>Telecom operators stand to benefit directly from the data compiled by third-party caller-ID applications.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-ai-hallucination-of-chinese-nuclear-comp-1789783542",
     "slug": "auto-ai-hallucination-of-chinese-nuclear-comp-1789783542",
     "title": "Mr. Informer Briefing: AI hallucination of Chinese nuclear components almost led to US military attack",

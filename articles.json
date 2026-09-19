@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-quant-teams-get-standardized-access-to-k-1789821908",
+    "slug": "auto-quant-teams-get-standardized-access-to-k-1789821908",
+    "title": "Mr. Informer Briefing: Quant Teams Get Standardized Access to Kalshi Historical Data",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 19, 2026 - 12:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech339454/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing ReadWrite's reporting on Quant Teams Get Standardized Access to Kalshi Historical Data. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "ReadWrite",
+    "sourceUrl": "https://readwrite.com/kalshi-data-bmll-partnership/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Kalshi data is being standardized by BMLL for quant teams, enabling backtests on Fed, CPI and GDP events through Snowflake, SFTP and Data Lab.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The post Quant Teams Get Standardized Access to Kalshi Historical Data appeared first on ReadWrite.\"</p>\n      <cite>\u2014 ReadWrite</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Quant Teams Get Standardized Access to Kalshi Historical Data</strong> \u2014 a detailed, automation-assisted summary of reporting from ReadWrite. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Standardizing access to prediction market data allows quantitative research teams to rigorously backtest strategies involving macroeconomic indicators like the Fed, CPI, and GDP. In the broader context of financial technology, this kind of data integration bridges niche alternative datasets with mainstream institutional workflows. Readers should take away that prediction market events are increasingly becoming a formal asset class for algorithmic trading models.</p>\n\n    <h3>Technical context</h3>\n    <p>The partnership leverages BMLL to standardize Kalshi data, which is then delivered to quantitative teams through established enterprise pipelines including Snowflake, SFTP, and Data Lab. This infrastructure enables quants to run historical backtests on event-driven data without manually parsing fragmented source formats. By routing the data through these standard channels, firms can seamlessly incorporate macroeconomic prediction metrics into their existing analytical frameworks.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Kalshi historical data is now being standardized for quantitative trading teams.</li>\n      <li>The integration allows quants to run backtests on macroeconomic events like the Fed, CPI, and GDP.</li>\n      <li>Data delivery is supported through enterprise channels such as Snowflake, SFTP, and Data Lab.</li>\n      <li>BMLL is managing the standardization process for the Kalshi datasets.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://readwrite.com/kalshi-data-bmll-partnership/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ReadWrite \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-india-forces-caller-id-apps-to-feed-spam-1789803443",
     "slug": "auto-india-forces-caller-id-apps-to-feed-spam-1789803443",
     "title": "Mr. Informer Briefing: India forces caller-ID apps to feed spam reports to telcos",

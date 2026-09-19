@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-ai-hallucination-of-chinese-nuclear-comp-1789783542",
+    "slug": "auto-ai-hallucination-of-chinese-nuclear-comp-1789783542",
+    "title": "Mr. Informer Briefing: AI hallucination of Chinese nuclear components almost led to US military attack",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 19, 2026 - 02:05",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech353249/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on AI hallucination of Chinese nuclear components almost led to US military attack. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">But the military&#x27;s overall use of AI seems to be accelerating.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>AI hallucination of Chinese nuclear components almost led to US military attack</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The intersection of military strategy and artificial intelligence highlights the high-stakes consequences of accelerating automation in defense operations. As military applications of AI expand, incidents involving flawed outputs underscore the critical risks associated with unverified machine-generated data. Readers should take away that the rapid adoption of these technologies introduces severe operational hazards, particularly when critical decisions hang in the balance.</p>\n\n    <h3>Technical context</h3>\n    <p>The situation involves an artificial intelligence hallucination, which refers to an instance where a model generates incorrect or fabricated information presented as fact. In this context, the system mistakenly identified Chinese nuclear components, demonstrating how digital errors can propagate through systems relied upon by defense forces. While the military&#x27;s broader use of artificial intelligence is accelerating, this event exposes the vulnerabilities inherent in trusting automated analysis for sensitive national security assessments.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>An artificial intelligence hallucination nearly triggered a United States military attack based on flawed data.</li>\n      <li>The erroneous output incorrectly identified components related to China&#x27;s nuclear infrastructure.</li>\n      <li>This dangerous incident occurred amid an overall acceleration in how the military uses artificial intelligence.</li>\n      <li>The event highlights the significant risks and vulnerabilities tied to relying on automated systems for defense decisions.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-apple-watch-ultra-4-review--the-series-1-1789772062",
     "slug": "auto-apple-watch-ultra-4-review--the-series-1-1789772062",
     "title": "Mr. Informer Briefing: Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",

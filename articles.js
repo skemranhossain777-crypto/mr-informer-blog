@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-thermacell-liv-2-0-review--taking-my-yar-1789944403",
+    "slug": "auto-thermacell-liv-2-0-review--taking-my-yar-1789944403",
+    "title": "Mr. Informer Briefing: Thermacell LIV 2.0 Review: Taking My Yard Back",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 20, 2026 - 22:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech986605/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Wired's reporting on Thermacell LIV 2.0 Review: Taking My Yard Back. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Thermacell LIV 2.0 is expensive and imperfect, but it outperforms nearly every mosquito-control method I\u2019ve tried.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Thermacell LIV 2.0 Review: Taking My Yard Back</strong> \u2014 a detailed, automation-assisted summary of reporting from Wired. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Innovations in consumer pest control highlight how connected and automated home care devices continue to evolve to tackle everyday lifestyle problems. When premium outdoor management tools enter the market, they set a new performance benchmark for consumer expectations, even if high price points create barriers to entry. For the everyday reader, evaluating these systems involves weighing the effectiveness of advanced solutions against their cost and inherent limitations.</p>\n\n    <h3>Technical context</h3>\n    <p>The Thermacell LIV 2.0 functions as a targeted mosquito-control system designed for outdoor spaces. Based on the provided details, it operates as a sophisticated alternative to traditional pest-management methods, delivering performance that surpasses many competing options. The technology balances high-level efficacy with certain practical imperfections and a significant financial investment.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The Thermacell LIV 2.0 is designed to control mosquitoes in outdoor yard spaces.</li>\n      <li>The reviewer notes that the device is both expensive and imperfect.</li>\n      <li>Despite its drawbacks, it outperforms nearly every other mosquito-control method the reviewer has tried.</li>\n      <li>The product represents a potent technological option for yard pest management.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-t--rex-teeth-indicate-it-ran-as-warm-as-1789934135",
     "slug": "auto-t--rex-teeth-indicate-it-ran-as-warm-as-1789934135",
     "title": "Mr. Informer Briefing: T. rex teeth indicate it ran as warm as an elephant",

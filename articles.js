@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-t--rex-teeth-indicate-it-ran-as-warm-as-1789934135",
+    "slug": "auto-t--rex-teeth-indicate-it-ran-as-warm-as-1789934135",
+    "title": "Mr. Informer Briefing: T. rex teeth indicate it ran as warm as an elephant",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 20, 2026 - 19:55",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech378217/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on T. rex teeth indicate it ran as warm as an elephant. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Isotope ratios provide a hint that the giants were actively managing temperatures.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>T. rex teeth indicate it ran as warm as an elephant</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Understanding the thermal biology of extinct apex predators like the Tyrannosaurus rex offers critical insight into how ancient ecosystems functioned and how large animals handled physiological demands. This kind of research contributes to ongoing scientific debates regarding dinosaur metabolism and behavior by leveraging advanced geochemical techniques. Readers should take away that modern analytical methods continue to unlock physiological secrets of prehistoric creatures long thought lost to time.</p>\n\n    <h3>Technical context</h3>\n    <p>Researchers utilized isotope ratios found within the teeth of the giant dinosaurs to glean insights into their internal biology. By analyzing these chemical signatures, scientists can infer details about how the creatures regulated their body temperatures. This approach allows paleontologists to investigate whether ancient giants like the T. rex were actively managing their internal warmth in a manner comparable to modern elephants.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Isotope ratios in teeth suggest Tyrannosaurus rex ran as warm as an elephant.</li>\n      <li>The findings provide hints that these giant predators were actively managing their temperatures.</li>\n      <li>The research sheds new light on the thermal biology and physiological traits of ancient dinosaurs.</li>\n      <li>Advanced geochemical analysis of teeth serves as a window into the inner workings of extinct species.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-new-california-law-will-penalize-influen-1789926403",
     "slug": "auto-new-california-law-will-penalize-influen-1789926403",
     "title": "Mr. Informer Briefing: New California law will penalize influencers who don\u2019t disclose political ads",

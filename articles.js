@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-kalshi-and-tunica-biloxi-launch-tribal-p-1789870259",
+    "slug": "auto-kalshi-and-tunica-biloxi-launch-tribal-p-1789870259",
+    "title": "Mr. Informer Briefing: Kalshi and Tunica-Biloxi Launch Tribal Prediction Market App",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 20, 2026 - 02:10",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech107161/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing ReadWrite's reporting on Kalshi and Tunica-Biloxi Launch Tribal Prediction Market App. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "ReadWrite",
+    "sourceUrl": "https://readwrite.com/prediction-market-app-tunica-biloxi/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Tunica-Biloxi and Kalshi launched a prediction market app, pairing Tribal ownership with Kalshi\u2019s exchange infrastructure and national reach.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The post Kalshi and Tunica-Biloxi Launch Tribal Prediction Market App appeared first on ReadWrite.\"</p>\n      <cite>\u2014 ReadWrite</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Kalshi and Tunica-Biloxi Launch Tribal Prediction Market App</strong> \u2014 a detailed, automation-assisted summary of reporting from ReadWrite. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This partnership introduces a novel collaboration between a Native American Tribe and a federally regulated financial exchange, expanding the reach of prediction markets into sovereign tribal territories. As prediction markets continue to grow in popularity and integrate with diverse sectors, alliances like this highlight how specialized infrastructure can be adapted for unique organizational partnerships. Readers should note how this bridges traditional tribal enterprise with modern national exchange networks.</p>\n\n    <h3>Technical context</h3>\n    <p>The newly launched app combines the Tunica-Biloxi Tribe&#x27;s ownership with the underlying exchange infrastructure and national reach provided by Kalshi. By pairing these two elements, the collaboration enables a prediction market platform designed to leverage Kalshi&#x27;s established technological capabilities. This setup allows the tribal-backed app to operate on a proven national framework while retaining its distinct ownership structure.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Tunica-Biloxi and Kalshi have officially launched a new tribal prediction market app.</li>\n      <li>The collaboration pairs Tribal ownership directly with Kalshi&#x27;s established exchange infrastructure.</li>\n      <li>The app aims to leverage Kalshi&#x27;s national reach to expand its market presence.</li>\n      <li>ReadWrite reported on the launch of this unique prediction market partnership.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://readwrite.com/prediction-market-app-tunica-biloxi/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ReadWrite \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-flock-reportedly-tries-to-shrink-workfor-1789857207",
     "slug": "auto-flock-reportedly-tries-to-shrink-workfor-1789857207",
     "title": "Mr. Informer Briefing: Flock reportedly tries to shrink workforce with employee buyouts",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-trump-says-it-s-time-to-rebrand-ai-with-1789891239",
+    "slug": "auto-trump-says-it-s-time-to-rebrand-ai-with-1789891239",
+    "title": "Mr. Informer Briefing: Trump says it\u2019s time to rebrand AI with a new name \u2014 and he\u2019s also creating an AI Force",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 20, 2026 - 08:00",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech681133/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Trump says it\u2019s time to rebrand AI with a new name \u2014 and he\u2019s also creating an AI Force. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Trump claimed, without evidence, that the AI backlash is a Democratic hoax.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Trump says it\u2019s time to rebrand AI with a new name \u2014 and he\u2019s also creating an AI Force</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Discussions surrounding artificial intelligence increasingly intersect with political rhetoric and public relations strategies, highlighting how emerging technologies become entangled in partisan debates. When political figures propose rebranding initiatives or specialized task forces, it reflects a growing effort to shape public perception and policy direction around complex technological systems. Readers should recognize that such proposals are often designed to influence the cultural and political framing of technology rather than alter its underlying engineering.</p>\n\n    <h3>Technical context</h3>\n    <p>The report addresses the public perception and political framing of artificial intelligence, specifically noting claims regarding a tech backlash and proposed administrative actions like an AI Force and a potential name rebrand. While the headline mentions artificial intelligence and a newly proposed unit, the provided excerpt does not detail any underlying computer science protocols, algorithms, or technical architectures. Therefore, the discussion remains strictly focused on the political and rhetorical measures surrounding the technology rather than its code or hardware foundations.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Trump suggested that artificial intelligence should be rebranded with a new name.</li>\n      <li>He also announced the creation of an initiative referred to as an AI Force.</li>\n      <li>Trump claimed that the current backlash against artificial intelligence is a Democratic hoax.</li>\n      <li>The report from TechCrunch notes that these claims were made without providing evidence.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-kalshi-and-tunica-biloxi-launch-tribal-p-1789870259",
     "slug": "auto-kalshi-and-tunica-biloxi-launch-tribal-p-1789870259",
     "title": "Mr. Informer Briefing: Kalshi and Tunica-Biloxi Launch Tribal Prediction Market App",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-review--neagley-is-a-worthy-spinoff-to-m-1790004401",
+    "slug": "auto-review--neagley-is-a-worthy-spinoff-to-m-1790004401",
+    "title": "Mr. Informer Briefing: Review: Neagley is a worthy spinoff to megahit Reacher",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "September 21, 2026 - 15:26",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech680660/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Review: Neagley is a worthy spinoff to megahit Reacher. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">It&#x27;s a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Review: Neagley is a worthy spinoff to megahit Reacher</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The expansion of established entertainment franchises into character-focused spinoffs reflects a broader industry strategy to capitalize on existing megahit properties. For consumers, these projects offer familiar fast-paced escapism even when execution varies across the episodic or narrative board. Readers tracking media trends can view this as part of ongoing efforts by studios to sustain viewer engagement through established universes.</p>\n\n    <h3>Technical context</h3>\n    <p>The review evaluates Neagley as a spinoff series derived from the original megahit property Reacher. While the production shows some unevenness in its overall execution, it successfully functions as fast-paced and entertaining escapist media according to the source report. The critique focuses on these narrative and pacing elements as defining characteristics of the viewing experience.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Neagley serves as a spinoff to the megahit property Reacher.</li>\n      <li>The review notes that the execution of the spinoff is a bit uneven.</li>\n      <li>Despite pacing flaws, the show still delivers as fast-paced entertainment.</li>\n      <li>The production is characterized as entertaining escapist fare by the source report.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-6-days-left-to-save-up-to--200-to-techcr-1789978769",
     "slug": "auto-6-days-left-to-save-up-to--200-to-techcr-1789978769",
     "title": "Mr. Informer Briefing: 6 days left to save up to $200 to TechCrunch Disrupt 2026",

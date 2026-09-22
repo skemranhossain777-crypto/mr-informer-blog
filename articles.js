@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-review--resident-evil-is-the-fresh-take-1790101441",
+    "slug": "auto-review--resident-evil-is-the-fresh-take-1790101441",
+    "title": "Mr. Informer Briefing: Review: Resident Evil is the fresh take this flagging franchise really needed",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 22, 2026 - 18:24",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech873917/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Review: Resident Evil is the fresh take this flagging franchise really needed. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Director Zach Cregger&#x27;s clever reboot strikes perfect balance between horror, humor, and over-the-top gore.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Review: Resident Evil is the fresh take this flagging franchise really needed</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When a long-running entertainment franchise begins to lose momentum, creative reboots are frequently employed to revitalize interest among audiences. This development highlights how balancing distinct tones like horror, humor, and extreme gore can successfully breathe new life into established intellectual property. Readers should take away that strategic directorial choices can completely transform the perception and viability of a flagging series.</p>\n\n    <h3>Technical context</h3>\n    <p>The reboot relies on the directorial vision of Zach Cregger to reshape the established Resident Evil property. By executing a clever restructuring that blends humor, horror, and over-the-top gore, the production achieves a specific tonal balance. This approach serves as the primary mechanism for delivering a fresh take on the source material.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Zach Cregger serves as the director of the new Resident Evil reboot.</li>\n      <li>The review from Ars Technica calls the project a fresh take that the flagging franchise needed.</li>\n      <li>The rebooted film achieves a balance between horror, humor, and over-the-top gore.</li>\n      <li>The production is described as a clever take on the source material.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-nasa-chief--i-m-only-interested-in--good-1790084698",
     "slug": "auto-nasa-chief--i-m-only-interested-in--good-1790084698",
     "title": "Mr. Informer Briefing: NASA chief: I'm only interested in \"good deals\" from international partners",

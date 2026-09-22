@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-ai--tariffs--rare-minerals--what-to-expe-1790043372",
+    "slug": "auto-ai--tariffs--rare-minerals--what-to-expe-1790043372",
+    "title": "Mr. Informer Briefing: AI, Tariffs, Rare Minerals: What to Expect From Trump\u2019s Upcoming Summit With Xi Jinping",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "September 22, 2026 - 02:16",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech753655/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Wired's reporting on AI, Tariffs, Rare Minerals: What to Expect From Trump\u2019s Upcoming Summit With Xi Jinping. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>AI, Tariffs, Rare Minerals: What to Expect From Trump\u2019s Upcoming Summit With Xi Jinping</strong> \u2014 a detailed, automation-assisted summary of reporting from Wired. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>High-stakes diplomatic meetings between global superpowers often hinge on the intersection of emerging technology and economic policy. As artificial intelligence binds national economies tighter together, regulatory measures and trade restrictions become powerful diplomatic levers. Readers should understand that these geopolitical summits directly influence the global tech supply chain and the future availability of advanced computing hardware.</p>\n\n    <h3>Technical context</h3>\n    <p>The relationship between Washington and Beijing relies heavily on hardware exports and technological restrictions related to the artificial intelligence boom. These hardware elements and export controls serve as critical bargaining chips in high-level trade and diplomatic negotiations. Such restrictions dictate how advanced computing components flow across borders, directly shaping the technological capabilities of both nations.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Washington and Beijing are increasingly linked through the ongoing artificial intelligence boom.</li>\n      <li>Hardware exports and technological restrictions are serving as hefty bargaining chips in negotiations.</li>\n      <li>Trump and Xi Jinping are addressing these critical tech issues during their upcoming summit.</li>\n      <li>Tariffs and rare minerals are also expected to be part of the discussions between the two leaders.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-openai-forms-math-advisory-group-as-its-1790025642",
     "slug": "auto-openai-forms-math-advisory-group-as-its-1790025642",
     "title": "Mr. Informer Briefing: OpenAI forms math advisory group as its AI resolves more than 100 open problems",

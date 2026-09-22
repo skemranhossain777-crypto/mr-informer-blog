@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-morphotonics-raises--40m-to-expand-its-d-1790064115",
+    "slug": "auto-morphotonics-raises--40m-to-expand-its-d-1790064115",
+    "title": "Mr. Informer Briefing: Morphotonics raises \u20ac40M to expand its display tech into data centers",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "September 22, 2026 - 08:01",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech288447/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Morphotonics raises \u20ac40M to expand its display tech into data centers. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Deeptech company Morphotonics raises \u20ac40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Morphotonics raises \u20ac40M to expand its display tech into data centers</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The infusion of \u20ac40M into deeptech companies highlights ongoing investor interest in expanding specialized optical manufacturing capabilities into high-demand infrastructure like data centers. As display technologies find new applications in heavy-duty computing environments, startups require substantial capital to scale production and meet emerging industry needs. For readers, this move signals a growing convergence between consumer-facing display innovations and the foundational hardware driving modern data processing.</p>\n\n    <h3>Technical context</h3>\n    <p>Morphotonics is a deeptech company specializing in display technology that is now expanding its focus toward data centers. The \u20ac40M funding round was backed by a consortium of investors, including 3M Ventures, Innovation Industries, BOM, and Invest-NL. While the specific mechanical process is not detailed in the excerpt, the company&#x27;s core work involves advanced optical or display engineering capable of attracting major venture and institutional backing.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Morphotonics successfully raised \u20ac40M in new funding from a group of prominent investors.</li>\n      <li>The funding round included participation from 3M Ventures, Innovation Industries, BOM, and Invest-NL.</li>\n      <li>The company is categorised as a deeptech enterprise working with display technology.</li>\n      <li>Morphotonics plans to expand the application of its technology into data centers.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-ai--tariffs--rare-minerals--what-to-expe-1790043372",
     "slug": "auto-ai--tariffs--rare-minerals--what-to-expe-1790043372",
     "title": "Mr. Informer Briefing: AI, Tariffs, Rare Minerals: What to Expect From Trump\u2019s Upcoming Summit With Xi Jinping",

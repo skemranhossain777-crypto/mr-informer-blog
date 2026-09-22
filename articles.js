@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-nasa-chief--i-m-only-interested-in--good-1790084698",
+    "slug": "auto-nasa-chief--i-m-only-interested-in--good-1790084698",
+    "title": "Mr. Informer Briefing: NASA chief: I'm only interested in \"good deals\" from international partners",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 22, 2026 - 13:44",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech345983/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on NASA chief: I'm only interested in \"good deals\" from international partners. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">&quot;There was absolutely a time where\u00a0we were trying to\u00a0make everyone happy.&quot;</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>NASA chief: I&#x27;m only interested in &quot;good deals&quot; from international partners</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Shifts in how major space agencies approach international cooperation reflect a growing emphasis on fiscal pragmatism and strategic value over diplomatic appeasement. When leadership openly prioritizes cost-effective agreements, it signals a departure from past models of space exploration that heavily favored broad consensus and universal satisfaction. Readers should take away that future space partnerships will likely be judged strictly by their economic and operational utility to the agency.</p>\n\n    <h3>Technical context</h3>\n    <p>The statement from the NASA chief highlights a strategic re-evaluation of how international partnerships and collaborative space missions are structured. Historically, agency initiatives often balanced diplomatic objectives with technical goals to keep multiple global stakeholders aligned. By narrowing the focus exclusively to favorable financial and operational arrangements, leadership is emphasizing efficiency and value in upcoming projects.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The NASA chief stated a clear disinterest in past practices aimed at making everyone happy.</li>\n      <li>Future international partnerships will be driven by the pursuit of good deals.</li>\n      <li>The approach marks a departure from historical efforts to accommodate all international stakeholders.</li>\n      <li>The shift emphasizes prioritizing the agency&#x27;s direct interests over broad diplomatic appeasement.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-morphotonics-raises--40m-to-expand-its-d-1790064115",
     "slug": "auto-morphotonics-raises--40m-to-expand-its-d-1790064115",
     "title": "Mr. Informer Briefing: Morphotonics raises \u20ac40M to expand its display tech into data centers",

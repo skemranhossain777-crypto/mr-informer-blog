@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-apple-is-reportedly-developing-a-screenl-1790119317",
+    "slug": "auto-apple-is-reportedly-developing-a-screenl-1790119317",
+    "title": "Mr. Informer Briefing: Apple Is Reportedly Developing a Screenless Fitness Tracker",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 22, 2026 - 23:21",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech769802/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing CNET's reporting on Apple Is Reportedly Developing a Screenless Fitness Tracker. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "CNET",
+    "sourceUrl": "https://www.cnet.com/tech/mobile/apple-screenless-fitness-tracker/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Do you find the Apple Watch too bulky and distracting?</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"A screen-free solution may be coming.\"</p>\n      <cite>\u2014 CNET</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Apple Is Reportedly Developing a Screenless Fitness Tracker</strong> \u2014 a detailed, automation-assisted summary of reporting from CNET. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The development of a screenless fitness tracker points to a broader industry trend toward minimizing digital fatigue and device distraction. As wearable technology saturates the market, manufacturers are exploring alternative form factors that strip away complex interfaces in favor of streamlined functionality. Readers should take away that future health and fitness tracking may prioritize subtlety and comfort over traditional smartwatch capabilities.</p>\n\n    <h3>Technical context</h3>\n    <p>While detailed specifications are not provided, the reported device is described as a screen-free fitness tracker designed as an alternative to the bulkier Apple Watch. This implies a hardware design focused on lightweight health monitoring without the visual interface and distraction of a standard screen. The underlying concept centers on providing a more subtle and less intrusive wearable experience for users seeking simplicity.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Apple is reportedly working on the development of a screenless fitness tracker.</li>\n      <li>The upcoming product is intended to serve as a less bulky and less distracting alternative to the traditional Apple Watch.</li>\n      <li>The proposed device aims to offer a screen-free solution for users interested in wearable health tracking.</li>\n      <li>Further specifics regarding the exact design, features, and release timeline of the fitness tracker remain undisclosed in the initial report.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.cnet.com/tech/mobile/apple-screenless-fitness-tracker/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">CNET \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-review--resident-evil-is-the-fresh-take-1790101441",
     "slug": "auto-review--resident-evil-is-the-fresh-take-1790101441",
     "title": "Mr. Informer Briefing: Review: Resident Evil is the fresh take this flagging franchise really needed",

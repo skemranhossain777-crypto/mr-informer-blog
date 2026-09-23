@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-microsoft-refreshes-its-smaller-surface-1790205472",
+    "slug": "auto-microsoft-refreshes-its-smaller-surface-1790205472",
+    "title": "Mr. Informer Briefing: Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm\u2019s X2 Plus",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 23, 2026 - 23:17",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech899142/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm\u2019s X2 Plus. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm&#x27;s latest Snapdragon X2 Plus chips.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The smaller Surface devices retain the same design and hardware features from last year, with faster and more capable chips inside and higher price tags (thanks RAMageddon!). While the 12-inch Surface Pro started at $799.99 last [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm\u2019s X2 Plus</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Hardware refreshes that incorporate newer silicon help keep compact computing form factors competitive, especially as component pricing pressures evolve across the industry. When manufacturers update existing designs with upgraded chips rather than full redesigns, it points to a strategy of incremental performance boosts and cost adjustments. Readers should understand that these updates often bring internal speed improvements alongside external price shifts driven by broader hardware market conditions.</p>\n\n    <h3>Technical context</h3>\n    <p>Microsoft is updating its 12-inch Surface Pro and 13-inch Surface Laptop by swapping in Qualcomm&#x27;s newer Snapdragon X2 Plus processors. These refreshed smaller devices maintain the identical physical design and hardware features found in their predecessors from the previous year. The primary internal change involves the integration of these faster and more capable chips, which also introduces higher retail pricing influenced by increased memory costs.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Microsoft is refreshing its 12-inch Surface Pro and 13-inch Surface Laptop with new processors.</li>\n      <li>The updated devices incorporate Qualcomm&#x27;s latest Snapdragon X2 Plus chips for faster performance.</li>\n      <li>Both smaller Surface devices retain the exact physical design and hardware features from the previous year.</li>\n      <li>The refreshed models come with higher price tags due to component cost pressures.</li>\n      <li>The previous 12-inch Surface Pro generation had started at a base price of $799.99.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-disney--and-hulu-add-to-the-growing-tren-1790188996",
     "slug": "auto-disney--and-hulu-add-to-the-growing-tren-1790188996",
     "title": "Mr. Informer Briefing: Disney+ and Hulu add to the growing trend of streaming inflation",

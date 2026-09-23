@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-spotify-s-is-giving-you-the-keys-to-its-1790171806",
+    "slug": "auto-spotify-s-is-giving-you-the-keys-to-its-1790171806",
+    "title": "Mr. Informer Briefing: Spotify\u2019s is giving you the keys to its recommendation algorithm with US launch of \u2018Taste Profile\u2019",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 23, 2026 - 13:56",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech640398/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Spotify\u2019s is giving you the keys to its recommendation algorithm with US launch of \u2018Taste Profile\u2019. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Spotify\u2019s is giving you the keys to its recommendation algorithm with US launch of \u2018Taste Profile\u2019</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>As music streaming platforms increasingly rely on complex automated systems to curate daily listening habits, giving users direct visibility and control represents a notable shift in user experience. This kind of development reflects a broader industry trend toward transparency and personalization in algorithmic curation, empowering users to actively shape their digital media consumption rather than passively accept automated outputs. A reader should take away that streaming services are beginning to open up their recommendation systems, allowing for a more customized and interactive approach to music discovery.</p>\n\n    <h3>Technical context</h3>\n    <p>The newly launched Taste Profile feature allows U.S. Premium users to interact directly with the streamer&#x27;s underlying system by utilizing natural language processing to adjust their recommendations. By interpreting everyday human phrasing, the software translates text inputs into algorithmic adjustments that reshape how music is suggested to the listener. This functionality bridges the gap between complex backend preference models and everyday user commands, offering a clearer view into how the platform understands individual tastes.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Spotify is officially rolling out Taste Profile to Premium users located in the United States.</li>\n      <li>The new feature allows listeners to view how the streaming platform understands their musical tastes.</li>\n      <li>Users can input natural language commands to actively reshape their personalized music recommendations.</li>\n      <li>The launch brings greater user control and visibility to the streaming service&#x27;s underlying recommendation algorithm.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-openai-wants-to-consult-elite-mathematic-1790150658",
     "slug": "auto-openai-wants-to-consult-elite-mathematic-1790150658",
     "title": "Mr. Informer Briefing: OpenAI wants to consult elite mathematicians about how to not fumble again",

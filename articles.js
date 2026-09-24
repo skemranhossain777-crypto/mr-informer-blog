@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-rfk-jr--s-cdc-isn-t-letting-states-order-1790236466",
+    "slug": "auto-rfk-jr--s-cdc-isn-t-letting-states-order-1790236466",
+    "title": "Mr. Informer Briefing: RFK Jr.'s CDC isn\u2019t letting states order COVID-19 shots for kids, blocking access",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "September 24, 2026 - 07:54",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech607474/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on RFK Jr.'s CDC isn\u2019t letting states order COVID-19 shots for kids, blocking access. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">US health deptartment said it wants to ensure the vaccine orders are &quot;appropriate.&quot;</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>RFK Jr.&#x27;s CDC isn\u2019t letting states order COVID-19 shots for kids, blocking access</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When federal agencies alter how states access pediatric vaccines, it immediately disrupts public health distribution networks and limits choices for families. This kind of intervention highlights the growing tension between federal health administration policies and local state-level healthcare access. Readers should note how administrative decisions at the health department level can directly translate into immediate access barriers for routine medical treatments.</p>\n\n    <h3>Technical context</h3>\n    <p>The federal health department oversees the logistics and approval processes through which individual states place orders for vaccines. By intervening in this pipeline under the stated goal of ensuring orders are appropriate, the agency exerts central control over local procurement. This mechanism allows the federal level to pause or restrict the flow of specific immunization supplies to state health authorities.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The US health department is blocking states from ordering COVID-19 shots for children.</li>\n      <li>Officials claim the restriction is intended to ensure that vaccine orders are appropriate.</li>\n      <li>The intervention by RFK Jr.&#x27;s CDC effectively creates barriers to vaccine access for kids at the state level.</li>\n      <li>Federal oversight is directly impacting the established supply and distribution channels for pediatric immunizations.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-everything-new-coming-to-meta-s-ai-agent-1790215389",
     "slug": "auto-everything-new-coming-to-meta-s-ai-agent-1790215389",
     "title": "Mr. Informer Briefing: Everything new coming to Meta\u2019s AI agent Muse",

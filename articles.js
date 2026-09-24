@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-there-s-a-new-way-to-break-rsa-that-s-fa-1790257991",
+    "slug": "auto-there-s-a-new-way-to-break-rsa-that-s-fa-1790257991",
+    "title": "Mr. Informer Briefing: There's a new way to break RSA that's faster than anything we've seen before",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 24, 2026 - 13:53",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech749193/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on There's a new way to break RSA that's faster than anything we've seen before. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Until now, cryptographers thought factoring was the only way to break RSA.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Not anymore.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>There&#x27;s a new way to break RSA that&#x27;s faster than anything we&#x27;ve seen before</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader technology landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from Ars Technica or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-rfk-jr--s-cdc-isn-t-letting-states-order-1790236466",
     "slug": "auto-rfk-jr--s-cdc-isn-t-letting-states-order-1790236466",
     "title": "Mr. Informer Briefing: RFK Jr.'s CDC isn\u2019t letting states order COVID-19 shots for kids, blocking access",

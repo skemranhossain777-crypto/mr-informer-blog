@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-everything-new-coming-to-meta-s-ai-agent-1790215389",
+    "slug": "auto-everything-new-coming-to-meta-s-ai-agent-1790215389",
+    "title": "Mr. Informer Briefing: Everything new coming to Meta\u2019s AI agent Muse",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 24, 2026 - 02:03",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech198106/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Everything new coming to Meta\u2019s AI agent Muse. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">CEO Mark Zuckerberg kicked off the company\u2019s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It&#x27;s even coming to Meta&#x27;s AI glasses.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Everything new coming to Meta\u2019s AI agent Muse</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The expansion of conversational AI agents into consumer hardware represents a major push by technology companies to embed artificial intelligence directly into daily life. As platforms like Meta integrate tools such as Muse into wearable devices like AI glasses, the industry is shifting toward ubiquitous, hands-free interfaces. Readers should understand this as a sign that AI assistants are moving away from standalone apps and becoming core operating layers for physical hardware.</p>\n\n    <h3>Technical context</h3>\n    <p>The development centers on Meta&#x27;s AI agent, Muse, which is being deployed across the company&#x27;s hardware ecosystem, specifically including its AI glasses. While specific underlying machine learning architectures or natural language processing protocols are not detailed in the available text, the integration relies on bridging cloud-based or edge AI processing with wearable devices. This requires embedding sophisticated agent capabilities into hardware constraints like form factor, power, and audio-visual input systems.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>CEO Mark Zuckerberg announced the rollout of Meta&#x27;s AI agent Muse during his keynote at the annual Connect event in Menlo Park.</li>\n      <li>Meta is making a major strategic push into artificial intelligence, described as going all-in on the Muse agent.</li>\n      <li>The Muse AI agent is expanding beyond traditional software interfaces to be integrated directly into Meta&#x27;s AI glasses.</li>\n      <li>The announcements were made during the company&#x27;s annual event held on Wednesday.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-microsoft-refreshes-its-smaller-surface-1790205472",
     "slug": "auto-microsoft-refreshes-its-smaller-surface-1790205472",
     "title": "Mr. Informer Briefing: Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm\u2019s X2 Plus",

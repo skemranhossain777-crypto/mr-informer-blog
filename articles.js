@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-crusoe-abandons--1-25b-plan-to-use-boom-1790379643",
+    "slug": "auto-crusoe-abandons--1-25b-plan-to-use-boom-1790379643",
+    "title": "Mr. Informer Briefing: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 25, 2026 - 23:40",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech235104/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Crusoe abandons $1.25B plan to use Boom turbines at AI data centers. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe&#x27;s near-term plans.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Crusoe abandons $1.25B plan to use Boom turbines at AI data centers</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The decision by Crusoe to step away from a major investment involving alternative power technology for AI data centers highlights the intense and rapidly shifting infrastructure demands of the artificial intelligence boom. As tech companies and data center operators scramble for reliable energy sources, projects that deviate from proven, immediate solutions often face reassessment or cancellation. Readers should take away that the race to power AI infrastructure involves high financial stakes and volatile strategic pivots as companies reevaluate their near-term priorities.</p>\n\n    <h3>Technical context</h3>\n    <p>The initiative involved Crusoe planning a $1.25 billion venture utilizing stationary power plants developed by Boom Supersonic, a company typically known for its aircraft turbine technology. According to Boom Supersonic CEO Blake Scholl, these stationary power systems are no longer part of Crusoe&#x27;s immediate operational strategy. This deployment represented an effort to integrate specialized power generation technology directly into the infrastructure supporting AI data centers.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Crusoe has abandoned a $1.25 billion plan to utilize Boom turbines at AI data centers.</li>\n      <li>Boom Supersonic CEO Blake Scholl confirmed that the stationary power plants are no longer in Crusoe&#x27;s near-term plans.</li>\n      <li>The canceled initiative involved adapting stationary power generation technology for data center use.</li>\n      <li>The shift underscores how rapidly companies involved in AI infrastructure are altering their strategic and financial commitments.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-ahead-of-us-ipo--british-ai-neocloud-nsc-1790362845",
     "slug": "auto-ahead-of-us-ipo--british-ai-neocloud-nsc-1790362845",
     "title": "Mr. Informer Briefing: Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",

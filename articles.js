@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-ahead-of-us-ipo--british-ai-neocloud-nsc-1790362845",
+    "slug": "auto-ahead-of-us-ipo--british-ai-neocloud-nsc-1790362845",
+    "title": "Mr. Informer Briefing: Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 25, 2026 - 19:00",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech483552/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The funding, which comes from Third Point, Nvidia, and others, will  fuel the company&#x27;s massive AI data center buildout.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The massive financial backing of artificial intelligence infrastructure highlights the intense capital requirements needed to build out the next generation of computing power. As firms race to secure the physical foundation for advanced workloads, investments from major players like Nvidia and Third Point signal strong market confidence in specialized cloud providers. Readers should note how the commercialization of artificial intelligence is driving unprecedented hardware and facility investments on a global scale.</p>\n\n    <h3>Technical context</h3>\n    <p>Convertible financing provides companies with capital through an arrangement that can later convert into equity, supporting capital-intensive operations such as large-scale infrastructure projects. In this context, the financial injection directly powers the construction of massive AI data centers required to handle heavy computational workloads. These specialized neocloud facilities are designed specifically to meet the high-performance demands of modern artificial intelligence development.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>British AI neocloud Nscale secured $3.36 billion in convertible financing ahead of a planned U.S. initial public offering.</li>\n      <li>The funding round includes investments from Third Point and Nvidia, among others.</li>\n      <li>The capital is designated to fuel the company&#x27;s massive artificial intelligence data center buildout.</li>\n      <li>The financial backing supports the physical infrastructure necessary to scale modern AI workloads.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-affected-by-layoffs--don-t-miss-this--75-1790345797",
     "slug": "auto-affected-by-layoffs--don-t-miss-this--75-1790345797",
     "title": "Mr. Informer Briefing: Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",

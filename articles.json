@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-nexterity-wants-to-automate-the-hard--da-1790302806",
+    "slug": "auto-nexterity-wants-to-automate-the-hard--da-1790302806",
+    "title": "Mr. Informer Briefing: Nexterity wants to automate the hard, dangerous part of pipefitting",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 25, 2026 - 02:20",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech20826/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Nexterity wants to automate the hard, dangerous part of pipefitting. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The startup&#x27;s robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Nexterity wants to automate the hard, dangerous part of pipefitting</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Automating physically demanding and hazardous labor highlights how robotics continues to find targeted niches in heavy industrial sectors. By focusing on specific repetitive tasks like managing multiple bolts simultaneously, startups aim to improve job site safety and operational efficiency in trades like pipefitting. Readers should note how compact, portable automation tools are beginning to address labor-intensive challenges traditionally handled entirely by human workers.</p>\n\n    <h3>Technical context</h3>\n    <p>The underlying technology centers on a specialized robotics system designed to handle specific mechanical fastening tasks, specifically tightening or loosening four bolts concurrently. Physical deployment is facilitated by its compact form factor, as the entire unit is small enough to fit inside a standard Pelican case for easy transport. This design combines mechanical utility with portability to operate in constrained environments typical of pipefitting work.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Nexterity is a startup developing a robot aimed at automating the difficult and dangerous aspects of pipefitting.</li>\n      <li>The startup&#x27;s specialized robot is capable of tightening or loosening four bolts at a time.</li>\n      <li>The physical design of the robotic system is compact enough to fit inside a Pelican case.</li>\n      <li>The technology targets a hazardous and physically demanding part of industrial labor.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-waymo-is-scaling-fast--here-s-what-the-f-1790293126",
     "slug": "auto-waymo-is-scaling-fast--here-s-what-the-f-1790293126",
     "title": "Mr. Informer Briefing: Waymo is scaling fast. Here\u2019s what the fleet data shows.",

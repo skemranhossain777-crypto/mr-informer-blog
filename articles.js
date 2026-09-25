@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-affected-by-layoffs--don-t-miss-this--75-1790345797",
+    "slug": "auto-affected-by-layoffs--don-t-miss-this--75-1790345797",
+    "title": "Mr. Informer Briefing: Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 25, 2026 - 14:16",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech128632/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Your next opportunity could be one conversation away.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Professional networking events and tech conferences often position themselves as vital bridges for workers navigating career disruptions or looking for their next opportunity. Offering discounted access to events like TechCrunch Disrupt can lower financial barriers for individuals affected by industry layoffs, potentially facilitating crucial connections with employers. For readers following the tech job market, this highlights how major industry publications and event organizers respond to economic shifts within the sector.</p>\n\n    <h3>Technical context</h3>\n    <p>The promotion centers on an Expo+ Pass for the TechCrunch Disrupt 2026 event, which is being offered at a reduced price of $75 instead of its standard rate. This specialized discount targets individuals specifically affected by recent layoffs within the technology industry. To manage the promotion, the offer is subject to a strict cap, limited exclusively to the first 100 qualifying people who apply.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>TechCrunch is offering a discounted Expo+ Pass for the Disrupt 2026 event priced at $75.</li>\n      <li>The special pricing is intended specifically for individuals who have been affected by layoffs.</li>\n      <li>Organizers are restricting this deal to the first 100 qualifying people.</li>\n      <li>The promotion emphasizes networking opportunities as a way to find your next professional opportunity.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-here-s-the-tesla-semi--again-1790324254",
     "slug": "auto-here-s-the-tesla-semi--again-1790324254",
     "title": "Mr. Informer Briefing: Here\u2019s the Tesla Semi\u2026 again",

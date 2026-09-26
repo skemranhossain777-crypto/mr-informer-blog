@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-at-meta-connect--the-company-s-smart-gla-1790429260",
+    "slug": "auto-at-meta-connect--the-company-s-smart-gla-1790429260",
+    "title": "Mr. Informer Briefing: At Meta Connect, the company\u2019s smart glasses were everywhere",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 26, 2026 - 13:27",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech22628/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on At Meta Connect, the company\u2019s smart glasses were everywhere. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>At Meta Connect, the company\u2019s smart glasses were everywhere</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The heavy presence of smart glasses at Meta Connect highlights how major technology companies are pushing wearable devices as a primary frontier for consumer connectivity. As firms like the parent company of Facebook and Instagram expand their hardware ecosystems, users are being nudged to integrate digital interfaces seamlessly into their everyday physical lives. This development reflects a broader industry trend toward ubiquitous computing, where screens and digital networks are no longer confined to handheld or desktop devices. Readers should take away that wearable tech is rapidly evolving from a niche gadget category into a core strategic focus for social media and technology giants.</p>\n\n    <h3>Technical context</h3>\n    <p>Smart glasses function by embedding digital display and connectivity technologies directly into standard-looking eyewear frames. By leveraging an ever-growing line of smart glasses, companies aim to maintain continuous user engagement with digital networks and applications. While specific technical hardware specifications are not detailed in the source material, the core concept relies on bridging physical reality with digital platforms through wearable form factors. This approach allows consumers to interact with software services\u2014such as those tied to Facebook and Instagram\u2014without needing to constantly pull out a smartphone.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Smart glasses were prominently featured throughout the Meta Connect event.</li>\n      <li>The company behind Facebook and Instagram is actively expanding its line of smart wearable devices.</li>\n      <li>These hardware efforts are designed to keep consumers continuously connected to the digital world.</li>\n      <li>Wearable technology represents an increasingly important strategic direction for major tech platforms.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-can-an--esuv--e-bike-really-go-from-trai-1790409879",
     "slug": "auto-can-an--esuv--e-bike-really-go-from-trai-1790409879",
     "title": "Mr. Informer Briefing: Can an \u2018eSUV\u2019 e-bike really go from trail to town?",

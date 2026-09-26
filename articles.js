@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-tesla-s-big-electric-truck-faces-an-even-1790446173",
+    "slug": "auto-tesla-s-big-electric-truck-faces-an-even-1790446173",
+    "title": "Mr. Informer Briefing: Tesla\u2019s big electric truck faces an even bigger infrastructure challenge",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 26, 2026 - 18:09",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech216585/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Tesla\u2019s big electric truck faces an even bigger infrastructure challenge. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The 500-mile Semi arrives as charging gaps still limit electric trucking.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Tesla\u2019s big electric truck faces an even bigger infrastructure challenge</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The rollout of long-range electric commercial vehicles highlights the ongoing friction between advancing vehicle capabilities and the readiness of the supporting physical infrastructure. As manufacturers push heavy-duty electrification forward, the scarcity of suitable high-capacity charging corridors presents a major bottleneck for widespread adoption. Readers should take away that the success of electric trucking depends as much on energy network expansion as it does on vehicle engineering.</p>\n\n    <h3>Technical context</h3>\n    <p>The Tesla Semi is designed to achieve a 500-mile range, positioning it for long-haul commercial transport. However, realizing this operational potential requires high-powered charging architecture capable of supporting massive battery systems. The current limitations of the power grid and charging station availability create significant barriers for long-distance electric freight routes.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Tesla has introduced a 500-mile electric Semi truck to the market.</li>\n      <li>Existing infrastructure gaps continue to limit the widespread adoption of electric trucking.</li>\n      <li>The deployment of long-range commercial EVs outpaces the current availability of charging solutions.</li>\n      <li>Infrastructure challenges remain a central hurdle for the heavy-duty electric vehicle sector.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-at-meta-connect--the-company-s-smart-gla-1790429260",
     "slug": "auto-at-meta-connect--the-company-s-smart-gla-1790429260",
     "title": "Mr. Informer Briefing: At Meta Connect, the company\u2019s smart glasses were everywhere",

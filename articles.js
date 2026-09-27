@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-tiktok-agrees-to-pay-at-least--100m-in-a-1790518999",
+    "slug": "auto-tiktok-agrees-to-pay-at-least--100m-in-a-1790518999",
+    "title": "Mr. Informer Briefing: TikTok agrees to pay at least $100M in Alabama settlement",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "September 27, 2026 - 14:23",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech774016/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on TikTok agrees to pay at least $100M in Alabama settlement. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>TikTok agrees to pay at least $100M in Alabama settlement</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development highlights the growing legal and regulatory pressure technology companies face regarding user safety and the psychological impact of their platforms on younger audiences. As states increasingly take legal action over how apps are designed and marketed, platforms must navigate costly settlements that could alter their operational practices. For readers, this serves as a reminder of the heightened scrutiny surrounding digital wellbeing and platform accountability in the tech industry.</p>\n\n    <h3>Technical context</h3>\n    <p>The legal dispute centers on TikTok&#x27;s platform design and how its core mechanisms influence user behavior, particularly among children. Allegations focus on whether the short-form video platform&#x27;s architecture was intentionally crafted to foster addiction and whether safety communications misled users. The resulting settlement involves substantial financial compensation directed to the state of Alabama to resolve these specific claims.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>TikTok has agreed to pay Alabama a minimum of $100 million to resolve a legal settlement.</li>\n      <li>The allegations tied to the settlement claim the platform misled users about its safety features.</li>\n      <li>The lawsuit specifically targeted the design of the short-form video platform for allegedly addicting children.</li>\n      <li>The report comes from the source outlet TechCrunch based on the announced agreement.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-google-tests-buying-from-walmart-owned-f-1790498436",
     "slug": "auto-google-tests-buying-from-walmart-owned-f-1790498436",
     "title": "Mr. Informer Briefing: Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",

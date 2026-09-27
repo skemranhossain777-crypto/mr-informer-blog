@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-how-the-smithsonian-became-the-latest-fr-1790551687",
+    "slug": "auto-how-the-smithsonian-became-the-latest-fr-1790551687",
+    "title": "Mr. Informer Briefing: How the Smithsonian became the latest front in Trump\u2019s culture war",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 27, 2026 - 23:28",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech28904/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on How the Smithsonian became the latest front in Trump\u2019s culture war. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The Smithsonian has faced withering pressure from the Trump administration.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>How the Smithsonian became the latest front in Trump\u2019s culture war</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Cultural institutions like museums often find themselves at the center of broader political and ideological conflicts, illustrating how political administrations attempt to exert influence over public bodies. This dynamic reflects an ongoing trend where historical and cultural preservation organizations are pulled into contemporary partisan debates. Readers should take away that institutional independence is frequently tested when governance intersects with shifting political priorities.</p>\n\n    <h3>Technical context</h3>\n    <p>The situation involves institutional pressure applied by a political administration against a major public entity like the Smithsonian. While technical protocols or software systems are not mentioned, the mechanism at play is administrative and political leverage exerted upon a public-facing cultural organization. Understanding this involves recognizing how political power translates into institutional scrutiny and pressure based on the provided report.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The Smithsonian has recently faced intense pressure from the Trump administration.</li>\n      <li>This situation highlights how cultural institutions can become fronts in broader culture wars.</li>\n      <li>The report from Ars Technica identifies the Smithsonian as the latest target of this political friction.</li>\n      <li>Institutional pressure of this nature demonstrates the intersection of politics and public cultural preservation.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-anthropic-s-dario-amodei-gets-the-snl-tr-1790534720",
     "slug": "auto-anthropic-s-dario-amodei-gets-the-snl-tr-1790534720",
     "title": "Mr. Informer Briefing: Anthropic\u2019s Dario Amodei gets the SNL treatment",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-anthropic-s-dario-amodei-gets-the-snl-tr-1790534720",
+    "slug": "auto-anthropic-s-dario-amodei-gets-the-snl-tr-1790534720",
+    "title": "Mr. Informer Briefing: Anthropic\u2019s Dario Amodei gets the SNL treatment",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 27, 2026 - 18:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech142661/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Anthropic\u2019s Dario Amodei gets the SNL treatment. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">&quot;AI is the devil and I its maker.&quot;</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Anthropic\u2019s Dario Amodei gets the SNL treatment</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When prominent artificial intelligence figures like Anthropic&#x27;s Dario Amodei receive parody treatment on shows like Saturday Night Live, it highlights the growing cultural penetration and public anxiety surrounding generative technology. This pop culture milestone reflects a broader trend where tech leaders and their creations are increasingly viewed not just as business figures, but as central characters in a broader societal debate about the future. Readers should take away that the cultural conversation around AI has officially entered mainstream satire, signaling a shift in public perception.</p>\n\n    <h3>Technical context</h3>\n    <p>The available excerpt references a dramatic quote attributing the creation of artificial intelligence to a maker confronting the devil, though no specific underlying technical protocol or system is detailed in the source material. Without further information from the headline and brief excerpt, the commentary remains focused on the cultural acknowledgment of Anthropic and its leadership rather than underlying machine learning mechanics. Interested non-specialists can understand this as a moment of cultural reflection on the rapid rise of AI developers and their powerful creations.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Anthropic CEO Dario Amodei was recently featured in a Saturday Night Live segment.</li>\n      <li>The report highlights a memorable quote stating that AI is the devil and its maker.</li>\n      <li>This development illustrates how artificial intelligence topics are reaching mainstream entertainment and satire.</li>\n      <li>The brief TechCrunch excerpt offers a lighthearted look at the tech industry&#x27;s cultural impact.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-tiktok-agrees-to-pay-at-least--100m-in-a-1790518999",
     "slug": "auto-tiktok-agrees-to-pay-at-least--100m-in-a-1790518999",
     "title": "Mr. Informer Briefing: TikTok agrees to pay at least $100M in Alabama settlement",

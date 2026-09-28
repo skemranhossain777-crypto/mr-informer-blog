@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-court-rules-pentagon-can-blacklist-anthr-1790586260",
+    "slug": "auto-court-rules-pentagon-can-blacklist-anthr-1790586260",
+    "title": "Mr. Informer Briefing: Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 28, 2026 - 09:04",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech493184/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">&quot;Overly constrained AI models&quot; could cause military operations to fail, judges say.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This legal conflict highlights the growing friction between commercial AI developers and national security agencies over the customization and deployment of artificial intelligence in defense operations. As governments increasingly rely on advanced machine learning for strategic decisions, disputes regarding autonomy, safety constraints, and military utility are bound to escalate. Readers should understand that this ruling sets a significant precedent for how tech companies and defense institutions negotiate the operational boundaries of sensitive technology.</p>\n\n    <h3>Technical context</h3>\n    <p>The dispute centers on artificial intelligence features and the degree to which developers can apply safety boundaries or constraints to models intended for military use. According to the court&#x27;s reasoning, models deemed overly constrained risk failing during critical military operations where uninhibited functionality may be demanded. This highlights the operational tension between commercial AI safety guardrails and the specialized, mission-critical performance requirements of defense applications.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>A court ruled that the Pentagon has the authority to blacklist Anthropic.</li>\n      <li>The conflict arose because Anthropic refused to enable certain Claude features for military use.</li>\n      <li>Judges stated that overly constrained artificial intelligence models could cause military operations to fail.</li>\n      <li>The decision underscores ongoing tensions between commercial AI safety constraints and defense sector requirements.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-anthropic-s-ceo-is-about-to-have-dinner-1790562289",
     "slug": "auto-anthropic-s-ceo-is-about-to-have-dinner-1790562289",
     "title": "Mr. Informer Briefing: Anthropic\u2019s CEO is about to have dinner with President Trump",

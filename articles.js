@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-amd-is-acquiring-ai-company-world-labs-i-1790642597",
+    "slug": "auto-amd-is-acquiring-ai-company-world-labs-i-1790642597",
+    "title": "Mr. Informer Briefing: AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 29, 2026 - 00:43",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech724914/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on AMD is acquiring AI company World Labs in a deal worth more than $8 billion. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">AMD announced today that it&#x27;s acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>AMD is acquiring AI company World Labs in a deal worth more than $8 billion</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This multi-billion-dollar acquisition underscores the intense race among technology giants to secure top-tier artificial intelligence talent and proprietary capabilities. As major chipmakers and platform companies compete for dominance in the generative AI space, acquiring specialized research labs has become a primary strategy for accelerating innovation. Readers should note how rapidly emerging startups focused on advanced AI models are being absorbed into larger technology ecosystems.</p>\n\n    <h3>Technical context</h3>\n    <p>The transaction centers on World Labs, an artificial intelligence research lab co-founded by prominent researcher Dr. Fei-Fei Li that recently launched its first commercial product, a world generation model. World Generation models represent a sophisticated branch of artificial intelligence designed to simulate or construct virtual environments and spatial scenarios. By integrating this research and technology through an all-stock deal valued at approximately $8.2 billion, AMD is expanding its footprint beyond hardware manufacturing into cutting-edge AI software and model development.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>AMD has announced the acquisition of AI research lab World Labs in an all-stock deal valued at approximately $8.2 billion.</li>\n      <li>World Labs was co-founded by prominent researcher Dr. Fei-Fei Li and launched in 2024.</li>\n      <li>The startup achieved a $1 billion valuation within a matter of months following its inception.</li>\n      <li>The company recently launched its first commercial product, which is a world generation model.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-nvidia-launches-new-platform-for-reining-1790621643",
     "slug": "auto-nvidia-launches-new-platform-for-reining-1790621643",
     "title": "Mr. Informer Briefing: Nvidia launches new platform for reining in rogue AI agents",

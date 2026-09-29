@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-ai-researchers-put-out-videos-saying-sup-1790717825",
+    "slug": "auto-ai-researchers-put-out-videos-saying-sup-1790717825",
+    "title": "Mr. Informer Briefing: AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 29, 2026 - 21:37",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech35308/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">&quot;The chance of human extinction is about a coin flip, in my view,&quot; Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It&#x27;s one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it&#x27;s a nonprofit studying AIs&#x27; [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>As artificial intelligence labs push toward increasingly advanced systems, warnings from prominent researchers highlight a growing anxiety over the potential existential risks of superintelligence. This discourse reflects a broader industry tension between accelerating capabilities and safety governance, emphasizing that insiders are seriously reckoning with worst-case scenarios. Readers should take away that safety concerns are not merely theoretical speculation, but a subject of active debate among those directly building these technologies.</p>\n\n    <h3>Technical context</h3>\n    <p>The excerpt highlights interviews conducted by Palisade Research, a nonprofit studying artificial intelligence, featuring perspectives from former and current employees of major AI labs like OpenAI, Google, and Anthropic. These researchers are evaluating the extreme capabilities of hypothetical superintelligence systems, which they view through the lens of severe existential risk, such as human extinction. The underlying technology relies on cutting-edge machine learning models whose future trajectories and safety bounds remain subjects of intense technical uncertainty.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>A group of AI researchers have released videos warning that superintelligence is extremely dangerous.</li>\n      <li>Geoffrey Irving, a former employee of OpenAI and Google DeepMind, stated that the chance of human extinction is about a coin flip.</li>\n      <li>The interviews feature a dozen researchers, including current and former staff from OpenAI, Google, and Anthropic.</li>\n      <li>The project was conducted by Palisade Research, which describes itself as a nonprofit studying AIs.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-fruit-flies-remember-their-larval-diet-1790701917",
     "slug": "auto-fruit-flies-remember-their-larval-diet-1790701917",
     "title": "Mr. Informer Briefing: Fruit flies remember their larval diet, which influences their longevity",

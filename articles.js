@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-most-powerful-obesity-drug-yet--people-l-1790759208",
+    "slug": "auto-most-powerful-obesity-drug-yet--people-l-1790759208",
+    "title": "Mr. Informer Briefing: Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "September 30, 2026 - 09:06",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech749355/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Most powerful obesity drug yet: People lost up to 25% of weight in trial. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Most powerful obesity drug yet: People lost up to 25% of weight in trial</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The development of advanced pharmaceutical treatments for weight management represents a major shift in how modern medicine approaches chronic health conditions like obesity. As drug developers experiment with multi-hormone targeting, the potential efficacy of these interventions continues to rise, offering profound implications for public health and the pharmaceutical industry. Readers should understand that this progress highlights an ongoing evolution in metabolic treatments, moving past single-hormone approaches toward more comprehensive biological simulations.</p>\n\n    <h3>Technical context</h3>\n    <p>Retatrutide functions as a triple-hormone obesity drug that simulates three distinct hormones: GLP-1, GIP, and glucagon. By targeting this specific combination of hormonal pathways simultaneously, the treatment aims to regulate appetite and metabolic processes more effectively than previous generations of medications. Clinical trial data associated with this mechanism have demonstrated significant weight loss outcomes for participants, reaching up to 25 percent of their body weight.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Retatrutide has been identified in a clinical trial as the most powerful obesity drug yet.</li>\n      <li>Participants in the trial lost up to 25 percent of their weight.</li>\n      <li>The medication operates as a triple-hormone drug.</li>\n      <li>It simulates GLP-1, GIP, and glucagon to achieve its effects.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-america-gov-gets-really-weird-when-you-a-1790736631",
     "slug": "auto-america-gov-gets-really-weird-when-you-a-1790736631",
     "title": "Mr. Informer Briefing: America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-america-gov-gets-really-weird-when-you-a-1790736631",
+    "slug": "auto-america-gov-gets-really-weird-when-you-a-1790736631",
+    "title": "Mr. Informer Briefing: America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch",
+    "category": "Cyber Security",
+    "readTime": "2 min read",
+    "date": "September 30, 2026 - 02:50",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech717319/1200/800",
+    "tags": [
+      "Cyber Security",
+      "Zero-Day",
+      "Cryptography",
+      "Network Safety"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">For the sake of national security, it&#x27;s a relief to learn that America.gov is not hallucinating to the point that it&#x27;s penning lengthy poetry.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When government-facing digital properties exhibit unexpected behavior, it often sparks immediate concern about technical stability and security vulnerabilities. This situation highlights the broader challenge of managing automated systems and web platforms to ensure they respond reliably without generating confusion. Readers should take away that even when outputs appear unusual or bizarre, they do not necessarily indicate a software glitch or a systemic failure.</p>\n\n    <h3>Technical context</h3>\n    <p>The phenomenon in question relates to how digital services and automated platforms process specific user queries, which can sometimes produce unexpected thematic or creative responses. Rather than stemming from a system malfunction or a literal software hallucination, these occurrences are often bounded by the system&#x27;s operational parameters. In this case, the behavior observed when interacting with America.gov regarding Minecraft was confirmed to be something other than a glitch.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>America.gov produces unusual responses when queried about the game Minecraft.</li>\n      <li>The strange behavior is officially confirmed not to be a system glitch.</li>\n      <li>The platform fortunately avoids generating lengthy, unintended poetry.</li>\n      <li>The situation offers reassurance from a national security perspective regarding system reliability.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-ai-researchers-put-out-videos-saying-sup-1790717825",
     "slug": "auto-ai-researchers-put-out-videos-saying-sup-1790717825",
     "title": "Mr. Informer Briefing: AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-meta-disputes-claim-that-muse-read-a-use-1790788207",
+    "slug": "auto-meta-disputes-claim-that-muse-read-a-use-1790788207",
+    "title": "Mr. Informer Briefing: Meta disputes claim that Muse read a user\u2019s private messages without permission",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 30, 2026 - 17:10",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech582767/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Meta disputes claim that Muse read a user\u2019s private messages without permission. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Meta says its Muse AI agent cannot access a user\u2019s Messages without explicit permission, disputing a journalist\u2019s account that the agent read his private messages while the required Mac setting was turned off.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Meta disputes claim that Muse read a user\u2019s private messages without permission</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Disputes regarding artificial intelligence tools and private data access highlight the ongoing challenges of maintaining user trust as platforms integrate advanced features. When users question how AI agents interact with personal communications, it underscores broader industry concerns about privacy transparency and software permissions. For the reader, this situation serves as a reminder to closely examine how AI systems interact with sensitive data across different devices and operating systems.</p>\n\n    <h3>Technical context</h3>\n    <p>The controversy centers on the interaction between an AI agent named Muse and a user&#x27;s messaging system on a Mac computer. According to the report, the core disagreement involves whether the AI agent was able to access private messages while a specific required Mac setting was toggled off. Meta&#x27;s position relies on the premise that explicit user permission is technically required and enforced to allow the agent access to these messages.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Meta stated that its Muse AI agent cannot access a user&#x27;s Messages without explicit permission.</li>\n      <li>The company disputed a journalist&#x27;s account that Muse read private messages while a required Mac setting was turned off.</li>\n      <li>The original claim alleged that the AI agent read private messages despite the necessary setting being disabled.</li>\n      <li>The situation highlights ongoing concerns surrounding AI privacy controls and user data access on desktop operating systems.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-most-powerful-obesity-drug-yet--people-l-1790759208",
     "slug": "auto-most-powerful-obesity-drug-yet--people-l-1790759208",
     "title": "Mr. Informer Briefing: Most powerful obesity drug yet: People lost up to 25% of weight in trial",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-valor--atreides--and-sequoia-back-ai-sta-1790804257",
+    "slug": "auto-valor--atreides--and-sequoia-back-ai-sta-1790804257",
+    "title": "Mr. Informer Briefing: Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "September 30, 2026 - 21:37",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech951686/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The backing of AI startup Flow Engineering by prominent venture firms highlights the growing investor interest in applying artificial intelligence to specialized engineering tasks. As AI agents increasingly penetrate complex sectors like hardware design, traditional workflows are positioned for significant transformation and efficiency gains. Readers should understand this trend as part of a broader movement to integrate intelligent automation into deep tech and heavy industries.</p>\n\n    <h3>Technical context</h3>\n    <p>Flow Engineering operates by bringing AI agents to the domain of hardware design, automating and streamlining technical workflows in a space typically dominated by manual engineering processes. High-profile institutional backers such as Valor, Atreides, and Sequoia, alongside angel investor and board member Roelof Botha, are funding this application of advanced software. This development underscores how venture capital is channeling substantial resources into artificial intelligence solutions tailored for specialized hardware creation.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Flow Engineering has secured backing from Valor, Atreides, and Sequoia at a $750 million valuation.</li>\n      <li>The startup is focused on bringing artificial intelligence agents into the realm of hardware design.</li>\n      <li>Roelof Botha participated in the funding round as an angel investor and has joined the company&#x27;s board of directors.</li>\n      <li>The substantial valuation reflects strong investor confidence in applying AI to specialized engineering sectors.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-meta-disputes-claim-that-muse-read-a-use-1790788207",
     "slug": "auto-meta-disputes-claim-that-muse-read-a-use-1790788207",
     "title": "Mr. Informer Briefing: Meta disputes claim that Muse read a user\u2019s private messages without permission",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-vivo-s-x-fold-6-accidentally-feels-like-1790823391",
+    "slug": "auto-vivo-s-x-fold-6-accidentally-feels-like-1790823391",
+    "title": "Mr. Informer Briefing: Vivo\u2019s X Fold 6 accidentally feels like a throwback",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 01, 2026 - 02:56",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech577860/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Vivo\u2019s X Fold 6 accidentally feels like a throwback. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">It&#x27;s a quirk of the release calendar that when Vivo&#x27;s X Fold 6 launched in China this June, it was just another foldable.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Now that it&#x27;s ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same size as Vivo&#x27;s previous foldables, and most other [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Vivo\u2019s X Fold 6 accidentally feels like a throwback</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When device release cycles differ across regions, consumer perception of form factors can shift rapidly in a competitive market. As other manufacturers evolve their hardware dimensions, devices that maintain previous sizing can suddenly appear out of step with current industry expectations. Readers should take away that timing and shifting market standards play a crucial role in how a tech product is perceived globally compared to its domestic debut.</p>\n\n    <h3>Technical context</h3>\n    <p>The Vivo X Fold 6 is a foldable smartphone that launched in China in June and is now preparing for a global release. According to the available details, its physical dimensions, size, and aspect ratio remain consistent with Vivo&#x27;s previous foldable devices. This hardware configuration mirrors the general sizing approach seen in most other comparable foldable offerings on the market.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Vivo originally launched the X Fold 6 in China this June as part of a crowded foldable market.</li>\n      <li>The device is now preparing for its broader global release.</li>\n      <li>Its size and aspect ratio now feel oddly old-fashioned due to the shifting release calendar.</li>\n      <li>The hardware dimensions remain much the same size as Vivo&#x27;s previous foldables and most other competitors.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-valor--atreides--and-sequoia-back-ai-sta-1790804257",
     "slug": "auto-valor--atreides--and-sequoia-back-ai-sta-1790804257",
     "title": "Mr. Informer Briefing: Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",

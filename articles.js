@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-apple-s-reportedly-developing-a-smart-ho-1790909950",
+    "slug": "auto-apple-s-reportedly-developing-a-smart-ho-1790909950",
+    "title": "Mr. Informer Briefing: Apple\u2019s reportedly developing a smart home camera that doesn\u2019t record video",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 02, 2026 - 02:59",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech797803/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Apple\u2019s reportedly developing a smart home camera that doesn\u2019t record video. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Apple&#x27;s rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Mark Gurman said in the first episode of the Power On podcast that the camera will be part of &quot;a new Apple smart home ecosystem,&quot; alongside Apple&#x27;s rumored smart home [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Apple\u2019s reportedly developing a smart home camera that doesn\u2019t record video</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Innovations in smart home technology often center on maximizing data capture, but shifting toward text-based descriptions points to a growing emphasis on alternative methods for home monitoring. This kind of development reflects broader industry conversations around user privacy and minimalist data collection in consumer electronics. Readers should note how hardware concepts can evolve to address potential privacy concerns without abandoning the core utility of home security monitoring.</p>\n\n    <h3>Technical context</h3>\n    <p>The reported device functions as a smart home security camera that departs from traditional video recording by instead generating text event descriptions for users. According to the report from Mark Gurman&#x27;s Power On podcast, this hardware is intended to operate as part of a newly developing Apple smart home ecosystem. The underlying concept relies on translating visual security events into a text-only format rather than storing or streaming raw video footage.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Apple is reportedly developing a smart home security camera that differs from traditional models by omitting video recording capabilities.</li>\n      <li>Instead of video footage, the device will provide users with text event descriptions of activity in the home.</li>\n      <li>The reported camera is expected to be part of a larger, emerging Apple smart home ecosystem alongside other rumored devices.</li>\n      <li>The information regarding this new product development was shared by Mark Gurman on the Power On podcast.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/1003877/apple-security-camera-no-video\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-hacks-of-2-federal-agencies-in-a-month-h-1790892341",
     "slug": "auto-hacks-of-2-federal-agencies-in-a-month-h-1790892341",
     "title": "Mr. Informer Briefing: Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-venus--mysterious-haze-is-actually-cosmi-1790933092",
+    "slug": "auto-venus--mysterious-haze-is-actually-cosmi-1790933092",
+    "title": "Mr. Informer Briefing: Venus' mysterious haze is actually cosmic dust",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 02, 2026 - 09:24",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech552280/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Venus' mysterious haze is actually cosmic dust. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">A physical model show that iron dust and sulfuric acid create the right properties.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Venus&#x27; mysterious haze is actually cosmic dust</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Understanding planetary atmospheres and the composition of celestial hazes helps scientists unlock the broader mysteries of our solar system&#x27;s planetary bodies. Research into planetary phenomena like the Venusian haze contributes to a deeper comprehension of how different elements interact under extreme atmospheric conditions. For readers interested in space science, this offers a clearer picture of what makes up neighboring planets and how modern physical models help decode those environments.</p>\n\n    <h3>Technical context</h3>\n    <p>Researchers utilized a physical model to determine the composition of the haze surrounding Venus. By analyzing the properties of the environment, the model demonstrated that a combination of iron dust and sulfuric acid successfully accounts for the observed haze characteristics. This approach allows scientists to test hypotheses about extraterrestrial atmospheres using theoretical frameworks and physical data.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>A new physical model reveals that Venus&#x27;s mysterious haze consists of cosmic dust.</li>\n      <li>Researchers specifically identified iron dust and sulfuric acid as the key components creating these haze properties.</li>\n      <li>The study helps solve a long-standing question about the composition of the atmosphere on Venus.</li>\n      <li>This scientific insight relies on modeling atmospheric and physical interactions to match observed planetary traits.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-apple-s-reportedly-developing-a-smart-ho-1790909950",
     "slug": "auto-apple-s-reportedly-developing-a-smart-ho-1790909950",
     "title": "Mr. Informer Briefing: Apple\u2019s reportedly developing a smart home camera that doesn\u2019t record video",

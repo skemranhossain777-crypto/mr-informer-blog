@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-amazon-s--1b-plan-to-combat-data-center-1790976771",
+    "slug": "auto-amazon-s--1b-plan-to-combat-data-center-1790976771",
+    "title": "Mr. Informer Briefing: Amazon\u2019s $1B plan to combat data center backlash draws more backlash",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 02, 2026 - 21:32",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech872593/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Amazon\u2019s $1B plan to combat data center backlash draws more backlash. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Amazon praised for ending NDAs but slammed for downplaying data center pollution.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Amazon\u2019s $1B plan to combat data center backlash draws more backlash</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development highlights the growing friction between massive technology infrastructure expansion and local community concerns, a tension that is becoming central to the modern tech industry. As tech giants pour vast sums into physical infrastructure, public scrutiny over environmental impacts and transparency continues to intensify. Readers should understand that corporate sustainability and community relations initiatives are increasingly facing rigorous public pushback rather than serving as easy public relations wins.</p>\n\n    <h3>Technical context</h3>\n    <p>The situation revolves around large-scale data center operations and the physical infrastructure required to sustain them, which frequently draw criticism regarding environmental pollution. At the same time, corporate governance practices\u2014specifically the use of nondisclosure agreements\u2014are under the spotlight as companies interact with local populations and stakeholders. Balancing transparency around operational impacts with the deployment of heavy computing infrastructure remains a core challenge for the industry.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Amazon announced a one billion dollar plan intended to combat data center backlash.</li>\n      <li>The initiative faced immediate criticism and additional backlash from the public.</li>\n      <li>Observers praised the company for ending the use of nondisclosure agreements.</li>\n      <li>Critics slammed Amazon for allegedly downplaying data center pollution.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-7-year-old-nvidia-shield-tv-is-now-1790960333",
     "slug": "auto-the-7-year-old-nvidia-shield-tv-is-now-1790960333",
     "title": "Mr. Informer Briefing: The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",

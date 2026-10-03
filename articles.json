@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-meta-wants-your-next-gadget-to-be-muse-i-1790995512",
+    "slug": "auto-meta-wants-your-next-gadget-to-be-muse-i-1790995512",
+    "title": "Mr. Informer Briefing: Meta wants your next gadget to be Muse-infused",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 03, 2026 - 02:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech854644/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Meta wants your next gadget to be Muse-infused. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Meta wants Muse in your TV and your toaster, so it&#x27;s giving the code away for free.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Meta wants your next gadget to be Muse-infused</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When major technology companies open-source foundational software, it can dramatically lower barriers for hardware manufacturers looking to integrate advanced capabilities into everyday household items. By offering its code for free, Meta is positioning its technology to become a ubiquitous standard across a wide variety of consumer electronics ranging from televisions to kitchen appliances. For the broader industry, this move signals an aggressive push to embed proprietary ecosystems deeper into the physical fabric of the home. Readers should recognize this strategy as an effort to drive widespread adoption by removing financial friction for device makers.</p>\n\n    <h3>Technical context</h3>\n    <p>The initiative centers on Meta distributing its software code, specifically referred to as Muse, without charge to manufacturers. While the provided details do not explicitly define the internal mechanics or specific protocols of Muse, the strategy relies on open-source distribution to facilitate integration into third-party hardware. By supplying the underlying code directly to builders of devices like TVs and toasters, Meta enables these disparate products to run its technology natively. This approach allows software to scale rapidly across heterogeneous physical devices without requiring those manufacturers to develop the underlying systems from scratch.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Meta is offering its Muse code completely for free to hardware manufacturers.</li>\n      <li>The company aims to integrate Muse into a wide variety of consumer gadgets including TVs and toasters.</li>\n      <li>This open-source approach is designed to encourage widespread adoption of Meta&#x27;s technology across everyday household items.</li>\n      <li>The strategy allows device makers to incorporate advanced software capabilities without building the underlying code themselves.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-amazon-s--1b-plan-to-combat-data-center-1790976771",
     "slug": "auto-amazon-s--1b-plan-to-combat-data-center-1790976771",
     "title": "Mr. Informer Briefing: Amazon\u2019s $1B plan to combat data center backlash draws more backlash",

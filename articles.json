@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-apple-changes-full-disk-access-permissio-1791016863",
+    "slug": "auto-apple-changes-full-disk-access-permissio-1791016863",
+    "title": "Mr. Informer Briefing: Apple changes full-disk access permissions to curb abuse from AI agents",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 03, 2026 - 08:41",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech702782/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Apple changes full-disk access permissions to curb abuse from AI agents. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Meta says FDA isn&#x27;t sufficient to Muse reading messages.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Apple begs to differ.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Apple changes full-disk access permissions to curb abuse from AI agents</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Security permissions and access controls are increasingly becoming battlegrounds as artificial intelligence systems seek deeper integration into personal devices. This development highlights the tension between platform security and the functional demands of advanced software agents that require broad data visibility. For readers, it underscores how operating system developers are actively tightening restrictions to protect user privacy against potential software overreach.</p>\n\n    <h3>Technical context</h3>\n    <p>Full-disk access permissions act as a security gateway that determines whether applications can read sensitive user data like stored messages. According to the report, Meta argued that current full-disk access mechanisms are insufficient for reading messages, while Apple holds a different stance. By changing these permissions, Apple is directly altering how and when software can bypass standard boundaries to access private user communications.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Apple has altered full-disk access permissions in an effort to curb abuse from AI agents.</li>\n      <li>Meta contends that the current full-disk access framework is not sufficient for reading messages.</li>\n      <li>Apple takes a contrasting position on the adequacy of these access protocols compared to Meta.</li>\n      <li>The change highlights growing friction between operating system security controls and the operational needs of AI software.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-meta-wants-your-next-gadget-to-be-muse-i-1790995512",
     "slug": "auto-meta-wants-your-next-gadget-to-be-muse-i-1790995512",
     "title": "Mr. Informer Briefing: Meta wants your next gadget to be Muse-infused",

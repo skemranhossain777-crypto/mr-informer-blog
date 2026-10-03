@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-muse-creates-detailed-profiles-of-all-yo-1791036165",
+    "slug": "auto-muse-creates-detailed-profiles-of-all-yo-1791036165",
+    "title": "Mr. Informer Briefing: Muse Creates Detailed Profiles of All Your Friends and Family",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 03, 2026 - 14:02",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech464164/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Wired's reporting on Muse Creates Detailed Profiles of All Your Friends and Family. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Millions have downloaded Meta\u2019s AI agent Muse.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"But getting it to do your bidding comes with privacy costs.\"</p>\n      <cite>\u2014 Wired</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Muse Creates Detailed Profiles of All Your Friends and Family</strong> \u2014 a detailed, automation-assisted summary of reporting from Wired. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The rise of consumer-facing AI agents capable of organizing personal data highlights the growing tension between convenience and user privacy. As millions adopt tools like Meta&#x27;s Muse, the necessity of handing over intimate details about friends and family raises critical questions about data collection practices in modern technology. Readers should recognize that powerful personal AI assistants often require deep access to private social graphs, signaling a broader industry trend where convenience trades directly against personal data protection.</p>\n\n    <h3>Technical context</h3>\n    <p>Meta&#x27;s AI agent Muse functions by aggregating and processing vast amounts of personal information to generate detailed profiles of an individual&#x27;s friends and family. While the provided excerpt does not detail the underlying machine learning architectures or data storage protocols, it indicates that the system ingests user-supplied information to execute personalized commands. This capability relies on advanced data parsing and profiling algorithms operating within Meta&#x27;s ecosystem, inherently involving significant privacy trade-offs for the end user.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Millions of users have already downloaded Meta&#x27;s AI agent known as Muse.</li>\n      <li>The application creates detailed profiles of the user&#x27;s friends and family members.</li>\n      <li>Utilizing the AI agent to execute tasks comes with notable privacy costs.</li>\n      <li>The tool demonstrates the privacy implications inherent in modern consumer AI technologies.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-apple-changes-full-disk-access-permissio-1791016863",
     "slug": "auto-apple-changes-full-disk-access-permissio-1791016863",
     "title": "Mr. Informer Briefing: Apple changes full-disk access permissions to curb abuse from AI agents",

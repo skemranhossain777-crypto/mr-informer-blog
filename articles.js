@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-federal-judge-calls-flock--indiscriminat-1791069932",
+    "slug": "auto-federal-judge-calls-flock--indiscriminat-1791069932",
+    "title": "Mr. Informer Briefing: Federal judge calls Flock \u2018indiscriminate mass surveillance\u2019",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 03, 2026 - 23:25",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech20144/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Federal judge calls Flock \u2018indiscriminate mass surveillance\u2019. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">A federal judge ruled that a sheriff\u2019s deputy violated a woman\u2019s Fourth Amendment rights when using Flock to search for her license plate without a warrant.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Federal judge calls Flock \u2018indiscriminate mass surveillance\u2019</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This judicial ruling highlights growing legal scrutiny over the deployment of automated license plate reading technology by law enforcement agencies. As surveillance tools become more pervasive, court decisions addressing Fourth Amendment protections help shape the boundaries between public safety initiatives and individual privacy rights. Readers should note how judicial pushback against warrantless database searches could significantly impact how police departments utilize mass tracking systems moving forward.</p>\n\n    <h3>Technical context</h3>\n    <p>The case centers on the use of Flock, a technology designed to scan and search for license plates, which the federal judge characterized as indiscriminate mass surveillance. Specifically, a sheriff&#x27;s deputy utilized the system to locate a woman&#x27;s vehicle by running a search for her license plate. The core legal dispute involves whether querying such automated tracking databases without a warrant constitutes an unreasonable search under the Fourth Amendment.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>A federal judge ruled that a sheriff&#x27;s deputy violated a woman&#x27;s Fourth Amendment rights.</li>\n      <li>The violation occurred when the deputy used Flock to search for the woman&#x27;s license plate without a warrant.</li>\n      <li>The judge explicitly referred to the Flock technology as indiscriminate mass surveillance.</li>\n      <li>The legal challenge focuses on the warrantless use of license plate searching capabilities by law enforcement.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-webster-seeks-support-for-monthly-activi-1791051884",
     "slug": "auto-webster-seeks-support-for-monthly-activi-1791051884",
     "title": "Mr. Informer Briefing: Webster Seeks Support for Monthly Activity Statements in Pennsylvania",

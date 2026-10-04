@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-openai-safety-employee-resigns--claiming-1791113345",
+    "slug": "auto-openai-safety-employee-resigns--claiming-1791113345",
+    "title": "Mr. Informer Briefing: OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 04, 2026 - 11:29",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech623442/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>High-profile resignations from major artificial intelligence labs highlight ongoing internal tensions regarding how safety is prioritized as these organizations grow and commercialize. When employees step down to warn the public about broken corporate cultures, it brings human and organizational governance issues to the forefront of the tech industry. Readers should take away that the rapid advancement of artificial intelligence is accompanied by significant internal debate about safety protocols and workplace ethics.</p>\n\n    <h3>Technical context</h3>\n    <p>The report details the departure of David Robinson, an employee at OpenAI, who resigned with a warning regarding the company&#x27;s internal culture. While the excerpt does not specify the exact technical architecture or safety alignment protocols Robinson worked on, it highlights a personnel shift within a leading artificial intelligence organization. Such resignations serve as public indicators of the organizational pressures and disagreements present inside frontier AI labs.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>An OpenAI safety employee named David Robinson has resigned from his position.</li>\n      <li>Robinson described himself as a clich\u00e9 for issuing a dire warning while leaving his job at a leading AI company.</li>\n      <li>He specifically claimed that the company&#x27;s culture is broken.</li>\n      <li>The report of his resignation comes via TechCrunch.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-amazon-responds-to-data-center-backlash-1791083773",
     "slug": "auto-amazon-responds-to-data-center-backlash-1791083773",
     "title": "Mr. Informer Briefing: Amazon responds to data center backlash, says it no longer uses NDAs",

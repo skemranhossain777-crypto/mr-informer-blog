@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-amazon-responds-to-data-center-backlash-1791083773",
+    "slug": "auto-amazon-responds-to-data-center-backlash-1791083773",
+    "title": "Mr. Informer Briefing: Amazon responds to data center backlash, says it no longer uses NDAs",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 04, 2026 - 03:16",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech361463/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Amazon responds to data center backlash, says it no longer uses NDAs. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Amazon responds to data center backlash, says it no longer uses NDAs</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>As tech companies face growing public and regulatory scrutiny over the environmental and community impact of their infrastructure, managing local backlash has become a critical operational priority. Public pushback against large-scale digital infrastructure highlights the tension between rapid technological expansion and local transparency. Readers should take away that tech giants are increasingly forced to alter their communication strategies and engagement practices in response to public skepticism over data centers.</p>\n\n    <h3>Technical context</h3>\n    <p>The report centers on the operational practices surrounding data centers, which are the physical facilities housing the servers and networking hardware required to power cloud computing and artificial intelligence. Companies typically rely on these massive installations to manage vast workloads, but the rapid growth of such facilities has drawn intense local scrutiny regarding resource consumption and land use. By addressing transparency measures like non-disclosure agreements, leadership attempts to navigate the complex relationship between corporate infrastructure development and community relations.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The CEO of Amazon Web Services attempted to push back against widespread suspicion regarding data centers.</li>\n      <li>Amazon stated in its response to data center backlash that it no longer uses non-disclosure agreements.</li>\n      <li>The development highlights growing public and community scrutiny over the presence and expansion of data centers.</li>\n      <li>AWS leadership addressed the controversy in an effort to ease concerns about data center operations.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-federal-judge-calls-flock--indiscriminat-1791069932",
     "slug": "auto-federal-judge-calls-flock--indiscriminat-1791069932",
     "title": "Mr. Informer Briefing: Federal judge calls Flock \u2018indiscriminate mass surveillance\u2019",

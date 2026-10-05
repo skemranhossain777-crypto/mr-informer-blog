@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-after-factory-s-public-spat-with-khosla-1791229993",
+    "slug": "auto-after-factory-s-public-spat-with-khosla-1791229993",
+    "title": "Mr. Informer Briefing: After Factory\u2019s public spat with Khosla, Menlo proudly invests",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "October 05, 2026 - 19:53",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech169168/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on After Factory\u2019s public spat with Khosla, Menlo proudly invests. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>After Factory\u2019s public spat with Khosla, Menlo proudly invests</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>High-profile public disagreements and venture capital investments often highlight the competitive and opinionated nature of the startup funding ecosystem. When prominent investors publicly clash over a company&#x27;s prospects, subsequent funding rounds from rival firms serve as a strong counter-signal in the market. Readers should take away that venture capital dynamics frequently involve public posturing alongside financial maneuvering.</p>\n\n    <h3>Technical context</h3>\n    <p>The situation centers on a venture capital investment deal involving the firm Menlo providing financial backing to a company named Factory. This investment directly follows a public disagreement where Vinod Khosla criticized Factory as a struggling also-ran. Menlo responded to this critique by issuing a glowing blog post and delivering a financial check to the company.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Menlo has invested in Factory shortly after a public dispute involving Vinod Khosla.</li>\n      <li>Vinod Khosla previously labeled Factory as a struggling also-ran.</li>\n      <li>Menlo countered the negative characterization by providing a check and a glowing blog post.</li>\n      <li>The public spat highlights the contrasting opinions and rivalries within the venture capital space.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-trump-unveils-his-new-super-intelligence-1791193561",
     "slug": "auto-trump-unveils-his-new-super-intelligence-1791193561",
     "title": "Mr. Informer Briefing: Trump unveils his new Super Intelligence Force",

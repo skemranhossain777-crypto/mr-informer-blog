@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-can--super-intelligence--and-a-non-bindi-1791168728",
+    "slug": "auto-can--super-intelligence--and-a-non-bindi-1791168728",
+    "title": "Mr. Informer Briefing: Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 05, 2026 - 02:52",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech729784/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">On Equity, we discussed the Trump administration&#x27;s attempts to rebrand AI.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader technology landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from TechCrunch or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-lions-and-cheetahs-and-chimps--oh-my--a-1791157316",
     "slug": "auto-lions-and-cheetahs-and-chimps--oh-my--a-1791157316",
     "title": "Mr. Informer Briefing: Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",

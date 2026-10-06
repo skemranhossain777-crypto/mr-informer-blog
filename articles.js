@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-gemini-call-for-me-might-tell-your-mom-y-1791250520",
+    "slug": "auto-gemini-call-for-me-might-tell-your-mom-y-1791250520",
+    "title": "Mr. Informer Briefing: Gemini Call for Me might tell your mom you\u2019re running late",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 06, 2026 - 01:35",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech737553/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Gemini Call for Me might tell your mom you\u2019re running late. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Google may be expanding its &quot;Call for Me&quot; AI feature beyond business calls so you can use it to send messages to friends and family.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Android Authority reports finding a &quot;Gemini Calling&quot; introductory screen in an APK teardown with examples that include &quot;Call Mom and tell her I will be 15 minutes late&quot; and &quot;Call [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Gemini Call for Me might tell your mom you\u2019re running late</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The potential expansion of AI assistance into personal communications highlights how technology companies are working to integrate artificial intelligence deeper into everyday life. This evolution points toward a broader trend where automated tools handle routine interpersonal tasks, shifting how users manage their daily schedules and relationships. Readers should take away that conversational AI is moving beyond professional or transactional settings into personal domains, changing the nature of how we interact with our devices.</p>\n\n    <h3>Technical context</h3>\n    <p>The finding stems from an APK teardown, which involves analyzing the installation package of an Android application to uncover unreleased code and features. In this instance, researchers discovered a &quot;Gemini Calling&quot; introductory screen referencing Google&#x27;s existing &quot;Call for Me&quot; AI capability. This suggests the underlying system architecture is being adapted to interpret conversational prompts like telling a family member about being late.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Google may soon expand its Call for Me AI feature beyond business calls to include friends and family.</li>\n      <li>The upcoming capability was discovered through an APK teardown conducted by Android Authority.</li>\n      <li>Discovered code points to a Gemini Calling introductory screen detailing the new personal use cases.</li>\n      <li>An example found in the teardown demonstrates the AI being used to call mom with a tardiness message.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-after-factory-s-public-spat-with-khosla-1791229993",
     "slug": "auto-after-factory-s-public-spat-with-khosla-1791229993",
     "title": "Mr. Informer Briefing: After Factory\u2019s public spat with Khosla, Menlo proudly invests",

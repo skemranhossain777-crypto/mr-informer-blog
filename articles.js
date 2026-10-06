@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-silicon-valley-s-ai-wunderkind-launches-1791323931",
+    "slug": "auto-silicon-valley-s-ai-wunderkind-launches-1791323931",
+    "title": "Mr. Informer Briefing: Silicon Valley\u2019s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 06, 2026 - 21:58",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech365186/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Silicon Valley\u2019s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Sigil Wen, backed by a Silicon Valley who&#x27;s who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Silicon Valley\u2019s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The launch of Underdog by Sigil Wen represents an ongoing industry push toward on-device artificial intelligence solutions that prioritize user privacy. As consumers and developers increasingly seek alternatives to cloud-dependent tools, privacy-focused competitors are emerging to challenge established players like Instinct and Muse. Readers should take away that the market is shifting toward locally processed, free AI assistants designed to handle everyday tasks without compromising personal data.</p>\n\n    <h3>Technical context</h3>\n    <p>Underdog operates as an on-device AI assistant, meaning its processing occurs directly on the user&#x27;s hardware rather than relying on external cloud servers. This local execution model enables the assistant to deliver full privacy by keeping user interactions and data contained entirely on the device. Backed by prominent Silicon Valley figures, the system is engineered to provide everyday task capabilities while remaining free to use.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Sigil Wen has launched an on-device AI assistant called Underdog to compete with Instinct and Muse.</li>\n      <li>The project is backed by notable figures from across Silicon Valley.</li>\n      <li>Underdog is designed to be completely free for users.</li>\n      <li>The assistant promises full privacy by operating on-device.</li>\n      <li>It is built to be capable of handling everyday tasks.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-best-october-prime-day-mattress-and-bedd-1791307982",
     "slug": "auto-best-october-prime-day-mattress-and-bedd-1791307982",
     "title": "Mr. Informer Briefing: Best October Prime Day Mattress and Bedding Deals (2026)",

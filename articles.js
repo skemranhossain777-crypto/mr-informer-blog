@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-lucid-motors--ev-output-falls-to-lowest-1791279191",
+    "slug": "auto-lucid-motors--ev-output-falls-to-lowest-1791279191",
+    "title": "Mr. Informer Briefing: Lucid Motors\u2019 EV output falls to lowest level in almost 2 years",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "October 06, 2026 - 09:33",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech823692/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Lucid Motors\u2019 EV output falls to lowest level in almost 2 years. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Lucid Motors\u2019 EV output falls to lowest level in almost 2 years</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When an electric vehicle maker deliberately restricts its output, it highlights the ongoing challenges companies face in scaling production while struggling to secure broad consumer interest. This kind of development illustrates the wider economic pressures within the automotive sector as manufacturers try to balance operational costs against lagging mass-market demand. Readers should take away that the electric vehicle market remains volatile, requiring companies to constantly adjust their output strategies to survive.</p>\n\n    <h3>Technical context</h3>\n    <p>Lucid Motors manufactures electric vehicles and manages production volume based on market demand and manufacturing capabilities. Deliberately limiting output involves scaling back assembly lines and reducing the manufacturing of vehicles to align with current sales rates. This adjustment reflects a direct response to years of difficulty in finding sufficient mass-market consumers for their electric vehicle lineup.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Lucid Motors has reduced its electric vehicle output to its lowest level in nearly two years.</li>\n      <li>The company is intentionally limiting production rather than scaling up.</li>\n      <li>This production cut follows years of struggles to find mass-market demand for its vehicles.</li>\n      <li>The development was reported by TechCrunch.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-gemini-call-for-me-might-tell-your-mom-y-1791250520",
     "slug": "auto-gemini-call-for-me-might-tell-your-mom-y-1791250520",
     "title": "Mr. Informer Briefing: Gemini Call for Me might tell your mom you\u2019re running late",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-teenage-engineering-s-ceo-says-it-ll-sto-1791452432",
+    "slug": "auto-teenage-engineering-s-ceo-says-it-ll-sto-1791452432",
+    "title": "Mr. Informer Briefing: Teenage Engineering\u2019s CEO says it\u2019ll stop making synths",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 08, 2026 - 09:40",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech590383/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Teenage Engineering\u2019s CEO says it\u2019ll stop making synths. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"And yes, that includes the iconic OP-1, which put the company on the map. TE isn&#x27;t just a music gear maker; it&#x27;s also a sought-after design firm. It&#x27;s collaborated with Ikea, Nothing, and Playdate, among others. But almost everything [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Teenage Engineering\u2019s CEO says it\u2019ll stop making synths</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When a brand famous for a defining product decides to shift directions, it signals a major pivot away from its foundational identity. This development highlights how niche hardware makers can evolve into broader design powerhouses with diverse industry partnerships. Readers should note that iconic devices are not guaranteed to remain in production forever as companies redirect their focus.</p>\n\n    <h3>Technical context</h3>\n    <p>The report centers on synthesizers, specifically highlighting the iconic OP-1 device that established the company&#x27;s reputation in the music gear market. Alongside this audio hardware manufacturing, the firm operates as a design entity collaborating with various technology and consumer brands. The available details show a planned cessation of synth production without delving deeper into specific engineering protocols or internal manufacturing processes.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Teenage Engineering plans to stop making synthesizers according to its CEO Jesper Kouthoofd.</li>\n      <li>The decision to end production includes the iconic OP-1 device that put the company on the map.</li>\n      <li>The company is not solely a music gear maker and also functions as a sought-after design firm.</li>\n      <li>The firm has previously collaborated with well-known brands including Ikea, Nothing, and Playdate.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-bmw-s-ix4-suv-is-a-428-mile-defensive-we-1791419529",
     "slug": "auto-bmw-s-ix4-suv-is-a-428-mile-defensive-we-1791419529",
     "title": "Mr. Informer Briefing: BMW\u2019s iX4 SUV is a 428-mile defensive weapon against China\u2019s EV takeover",

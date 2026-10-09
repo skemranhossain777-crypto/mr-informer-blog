@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-decade-old-ram-is-making-a-comeback-1791583113",
+    "slug": "auto-decade-old-ram-is-making-a-comeback-1791583113",
+    "title": "Mr. Informer Briefing: Decade-old RAM is making a comeback",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 09, 2026 - 21:58",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech257173/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Decade-old RAM is making a comeback. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that&#x27;ll support the older, more affordable type of memory. On Friday, Gigabyte announced that two of [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Decade-old RAM is making a comeback</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The resurgence of older memory standards highlights how shifting economic pressures and pricing trends in the hardware market can directly influence hardware design choices. As component costs create barriers to PC upgrades, manufacturers are forced to adapt by providing more affordable alternatives. For consumers, this shift represents a practical response to market inflation, offering a way to build or update systems without bearing the high cost of newer memory technology.</p>\n\n    <h3>Technical context</h3>\n    <p>To combat high memory prices, CPU makers like Intel and AMD are developing new processors that support DDR4 RAM, a last-generation memory type. This allows users to utilize older, more budget-friendly RAM modules instead of being forced to adopt newer, pricier standards. Hardware partners like Gigabyte are facilitating this transition by designing compatible motherboards and hardware to support these CPU capabilities.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Rising RAM prices are creating financial challenges for consumers looking to upgrade their personal computers.</li>\n      <li>CPU manufacturers Intel and AMD are responding by producing new processors with support for last-gen DDR4 RAM.</li>\n      <li>This return to decade-old RAM offers a more affordable memory option for budget-conscious builders.</li>\n      <li>Gigabyte has announced hardware support aligned with this industry trend toward older memory integration.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-amazon-s-new-kindles-appear-to-have-a-li-1791567633",
     "slug": "auto-amazon-s-new-kindles-appear-to-have-a-li-1791567633",
     "title": "Mr. Informer Briefing: Amazon\u2019s new Kindles appear to have a light leak problem",

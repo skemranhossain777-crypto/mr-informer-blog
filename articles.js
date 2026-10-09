@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-spacex-calls-for-better-coordination-in-1791539182",
+    "slug": "auto-spacex-calls-for-better-coordination-in-1791539182",
+    "title": "Mr. Informer Briefing: SpaceX calls for better coordination in orbit after near-misses with Starlink",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 09, 2026 - 09:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech864656/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on SpaceX calls for better coordination in orbit after near-misses with Starlink. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">&quot;These led to conjunctions of tens of meters to hundreds of meters.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Way too close to comfort.&quot;\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>SpaceX calls for better coordination in orbit after near-misses with Starlink</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>As the orbital environment becomes increasingly crowded with satellite mega-constellations, the risk of close encounters highlights the urgent need for enhanced space traffic management. Incidents where spacecraft pass within tens to hundreds of meters of each other underscore the vulnerability of current orbital operations, pointing to a broader industry trend toward stricter safety protocols. Readers should take away that managing orbital congestion is becoming a critical operational challenge for private space companies and global regulators alike.</p>\n\n    <h3>Technical context</h3>\n    <p>Orbital conjunctions occur when two objects in space approach each other closely, creating potential collision risks that require evasive maneuvers. According to the provided details, recent close calls involving Starlink satellites resulted in dangerously narrow separation distances ranging from tens to hundreds of meters. Addressing these near-misses relies on improved tracking, communication, and coordination between satellite operators to maintain safe operating margins in orbit.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>SpaceX is calling for better orbital coordination following alarming near-miss incidents involving its Starlink satellites.</li>\n      <li>Recent close encounters resulted in dangerously tight conjunction distances measuring between tens and hundreds of meters.</li>\n      <li>The company described these narrow margins as being way too close to comfort.</li>\n      <li>This situation emphasizes the growing operational challenges and safety risks associated with crowded orbital environments.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-president-trump-awards-big-tech-donors-w-1791506815",
     "slug": "auto-president-trump-awards-big-tech-donors-w-1791506815",
     "title": "Mr. Informer Briefing: President Trump awards Big Tech donors with nation\u2019s highest science prizes",

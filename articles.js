@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-president-trump-awards-big-tech-donors-w-1791506815",
+    "slug": "auto-president-trump-awards-big-tech-donors-w-1791506815",
+    "title": "Mr. Informer Briefing: President Trump awards Big Tech donors with nation\u2019s highest science prizes",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 09, 2026 - 00:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech823073/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on President Trump awards Big Tech donors with nation\u2019s highest science prizes. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>President Trump awards Big Tech donors with nation\u2019s highest science prizes</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development highlights the intersection of political fundraising and prestigious national honors, drawing scrutiny over how high-level awards are distributed. In the broader context of technology policy and governance, the alignment between major political donors and national recognition raises questions about influence and the criteria used for the country&#x27;s highest accolades. Readers should take away a critical perspective on the relationship between significant financial contributions to political campaigns and official government recognition.</p>\n\n    <h3>Technical context</h3>\n    <p>The report centers on the distribution of the nation&#x27;s highest science prizes by President Trump to individuals identified as Big Tech donors. According to the source material, these specific awardees collectively share a history of donating nearly $6 billion toward efforts tied to the president and his administration. The available information does not provide further technical details regarding the specific scientific achievements or criteria used for these particular awards.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>President Trump has awarded the nation&#x27;s highest science prizes to individuals identified as Big Tech donors.</li>\n      <li>The collective donations from these awardees amount to nearly $6 billion.</li>\n      <li>The financial contributions were directed toward efforts tied to Trump and his administration.</li>\n      <li>The report was published by TechCrunch.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-usa-today-becomes-the-latest-publisher-t-1791482829",
     "slug": "auto-usa-today-becomes-the-latest-publisher-t-1791482829",
     "title": "Mr. Informer Briefing: USA Today becomes the latest publisher to sue OpenAI",

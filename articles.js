@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-ai-is-getting-really-good-at-messing-wit-1791676621",
+    "slug": "auto-ai-is-getting-really-good-at-messing-wit-1791676621",
+    "title": "Mr. Informer Briefing: AI Is Getting Really Good at Messing With Cybercriminals",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 10, 2026 - 23:57",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech644398/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Wired's reporting on AI Is Getting Really Good at Messing With Cybercriminals. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>AI Is Getting Really Good at Messing With Cybercriminals</strong> \u2014 a detailed, automation-assisted summary of reporting from Wired. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>As artificial intelligence continues to advance, its applications extend far beyond productivity and content creation into the realm of active defense and cybersecurity. By turning AI tools against threat actors, anti-cybercrime initiatives are shifting from passive protection to proactive disruption. Readers should understand that this development represents an evolving landscape where automated deception is becoming a key tactic in countering digital fraud.</p>\n\n    <h3>Technical context</h3>\n    <p>The underlying technology relies on lifelike bots designed to engage cybercriminals in realistic conversations, effectively tricking them into believing they are interacting with genuine victims. By sustaining these artificial dialogues, the initiatives can waste the time and resources of scammers. This approach utilizes natural language capabilities to mimic human behavior and maintain operational deception at scale.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Anti-cybercrime initiatives are increasingly employing artificial intelligence to counter scammers.</li>\n      <li>The technology uses lifelike bots to trick cybercriminals into believing they are talking to real victims.</li>\n      <li>This deceptive strategy aims to engage malicious actors in prolonged conversations.</li>\n      <li>The development highlights a shift toward using advanced automation to actively disrupt cybercrime.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-apple-discloses-deal-to-hire-team-and-li-1791665398",
     "slug": "auto-apple-discloses-deal-to-hire-team-and-li-1791665398",
     "title": "Mr. Informer Briefing: Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",

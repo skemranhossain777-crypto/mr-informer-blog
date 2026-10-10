@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-apple-discloses-deal-to-hire-team-and-li-1791665398",
+    "slug": "auto-apple-discloses-deal-to-hire-team-and-li-1791665398",
+    "title": "Mr. Informer Briefing: Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 10, 2026 - 20:49",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech655249/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Apple discloses deal to hire team and license tech from personalized podcast startup Huxe. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Is Apple hoping to get into the AI-generated podcast business?</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Apple discloses deal to hire team and license tech from personalized podcast startup Huxe</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Deals involving major tech companies acquiring talent and licensing specialized technology from startups highlight the ongoing race to integrate advanced media capabilities into mainstream platforms. As artificial intelligence continues to reshape content creation, legacy players are increasingly looking to absorb innovative approaches to audio generation and personalization. For the reader, this signals a potential shift in how audio content is produced and tailored on major consumer platforms.</p>\n\n    <h3>Technical context</h3>\n    <p>The development centers on Apple hiring a team and licensing technology from Huxe, a startup focused on personalized podcasts, raising questions about potential integration into AI-generated podcast creation. While specific architectural details are not provided in the source material, the concept involves leveraging automated systems to generate or tailor audio experiences for users. Such initiatives typically rely on advanced computational models to process and synthesize spoken audio and media feeds.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Apple disclosed a deal to hire a team and license technology from a personalized podcast startup named Huxe.</li>\n      <li>The move raises industry questions about whether Apple is looking to enter the AI-generated podcast business.</li>\n      <li>The arrangement involves bringing Huxe&#x27;s engineering talent and technical assets directly into Apple&#x27;s operations.</li>\n      <li>The exact financial terms and long-term product integration plans for the licensed technology were not detailed.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-cloudflare-acquires-deno-to-improve-its-1791649924",
     "slug": "auto-cloudflare-acquires-deno-to-improve-its-1791649924",
     "title": "Mr. Informer Briefing: Cloudflare acquires Deno to improve its Workers programming model",

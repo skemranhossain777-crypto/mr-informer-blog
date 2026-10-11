@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-nasa-dumped-over-800gb-of-artemis-ii-dat-1791737812",
+    "slug": "auto-nasa-dumped-over-800gb-of-artemis-ii-dat-1791737812",
+    "title": "Mr. Informer Briefing: NASA dumped over 800GB of Artemis II data online",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 11, 2026 - 16:56",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech593228/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on NASA dumped over 800GB of Artemis II data online. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">If you thought you&#x27;d seen all there is to see from the Artemis II mission, you&#x27;re wrong.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights &amp; Sounds of Science site. The archive includes over 11,000 photos and videos, over 8.5 hours of audio, and crew-annotated [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>NASA dumped over 800GB of Artemis II data online</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When space agencies make massive data repositories publicly accessible, it fosters greater transparency and public engagement with complex missions. This type of large-scale data release allows enthusiasts and researchers alike to dive deep into the mission&#x27;s findings. Ultimately, it transforms raw institutional data into an open resource that broadens our collective connection to space exploration.</p>\n\n    <h3>Technical context</h3>\n    <p>The newly released archive encompasses over 800 gigabytes of science data, images, and videos hosted on the Artemis II: Sights &amp; Sounds of Science site. Specifically, the collection features more than 11,000 photos and videos alongside over 8.5 hours of audio. Additionally, the repository includes crew-annotated materials that offer specialized context directly from the mission participants.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>NASA has published over 800GB of science data, images, and videos related to the Artemis II mission.</li>\n      <li>The new public archive is hosted on the Artemis II: Sights &amp; Sounds of Science website.</li>\n      <li>The uploaded content includes more than 11,000 photos and videos.</li>\n      <li>Users can access over 8.5 hours of audio included within the dataset.</li>\n      <li>The collection also features crew-annotated materials from the mission.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-one-with-the-world--a-new-look-at-brains-1791719124",
     "slug": "auto-one-with-the-world--a-new-look-at-brains-1791719124",
     "title": "Mr. Informer Briefing: One with the world? A new look at brains transformed by psychedelics.",

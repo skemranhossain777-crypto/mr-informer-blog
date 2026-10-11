@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-aaron-sorkin-s--social-reckoning--is-off-1791753058",
+    "slug": "auto-aaron-sorkin-s--social-reckoning--is-off-1791753058",
+    "title": "Mr. Informer Briefing: Aaron Sorkin\u2019s \u2018Social Reckoning\u2019 is off to a weak start",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 11, 2026 - 21:10",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech529234/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Aaron Sorkin\u2019s \u2018Social Reckoning\u2019 is off to a weak start. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">What does this mean for a fall full of movies starring villainous tech CEOs?</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Aaron Sorkin\u2019s \u2018Social Reckoning\u2019 is off to a weak start</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The intersection of Hollywood storytelling and the tech industry often shapes public perception of major figures and corporations. As studios release films focusing on villainous tech CEOs, the initial reception of these projects offers insight into audience appetite for dramatizations of Silicon Valley culture. Readers should take away that the cultural narrative surrounding tech leadership is increasingly becoming a staple of mainstream entertainment.</p>\n\n    <h3>Technical context</h3>\n    <p>The excerpt highlights a cinematic trend centered on portrayals of villainous tech CEOs during the fall film season. This reflects how narrative filmmaking utilizes current technological and corporate themes to engage viewers. The underlying creative effort relies on screenwriting, production, and casting to shape public discourse around the tech sector.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Aaron Sorkin\u2019s project titled Social Reckoning is experiencing a weak start according to reports.</li>\n      <li>The entertainment industry is currently seeing a fall season full of movies starring villainous tech CEOs.</li>\n      <li>The report questions what these initial reception trends mean for the broader cinematic focus on technology executives.</li>\n      <li>TechCrunch provided the initial coverage regarding the weak start of Sorkin&#x27;s project.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-nasa-dumped-over-800gb-of-artemis-ii-dat-1791737812",
     "slug": "auto-nasa-dumped-over-800gb-of-artemis-ii-dat-1791737812",
     "title": "Mr. Informer Briefing: NASA dumped over 800GB of Artemis II data online",

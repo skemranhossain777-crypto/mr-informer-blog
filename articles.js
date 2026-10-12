@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-oneplus-16-is-the-company-s-most-int-1791812873",
+    "slug": "auto-the-oneplus-16-is-the-company-s-most-int-1791812873",
+    "title": "Mr. Informer Briefing: The OnePlus 16 is the company\u2019s most interesting phone in years",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 12, 2026 - 13:47",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech624208/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on The OnePlus 16 is the company\u2019s most interesting phone in years. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Today the OnePlus 16 launched in China, the company&#x27;s first flagship phone since quitting both the US and European markets this summer.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"As luck would have it, it also looks like the company&#x27;s best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdragon 8 Elite Extreme Gen [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The OnePlus 16 is the company\u2019s most interesting phone in years</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The launch of a major flagship device following a significant regional withdrawal highlights shifting strategies in the global mobile market. For industry observers, watching how brands pivot their hardware focus after exiting key Western markets provides insight into regional competition and product evolution. Readers should note that innovative performance-focused hardware can still debut abroad even when availability shifts away from traditional domestic channels.</p>\n\n    <h3>Technical context</h3>\n    <p>The newly launched OnePlus 16 is designed as a flagship mobile device built around high-end performance capabilities. Under the hood, the smartphone is powered by a Snapdragon 8 Elite Extreme Gen processor, which anchors its hardware architecture. This hardware setup drives the device&#x27;s positioning as the company&#x27;s leading offering following its departure from the US and European markets this summer.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The OnePlus 16 has officially launched in China as the company&#x27;s latest flagship device.</li>\n      <li>This release marks the brand&#x27;s first major phone rollout since it exited the US and European markets earlier this summer.</li>\n      <li>Early impressions suggest it stands out as the company&#x27;s best and most interesting phone in years.</li>\n      <li>The device continues the brand&#x27;s tradition by being heavily positioned around high-end performance.</li>\n      <li>It runs on a Snapdragon 8 Elite Extreme Gen processor to power its core capabilities.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-founder-s-guide-to-techcrunch-disrup-1791774413",
     "slug": "auto-the-founder-s-guide-to-techcrunch-disrup-1791774413",
     "title": "Mr. Informer Briefing: The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",

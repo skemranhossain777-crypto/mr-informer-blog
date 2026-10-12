@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-meta-releases-its-first-frontier-model-1791843477",
+    "slug": "auto-meta-releases-its-first-frontier-model-1791843477",
+    "title": "Mr. Informer Briefing: Meta releases its first frontier model, Muse Wonder",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 12, 2026 - 22:17",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech557220/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Meta releases its first frontier model, Muse Wonder. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Meta releases its first frontier model, Muse Wonder</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The introduction of larger, more capable frontier models like Muse Wonder highlights the ongoing race among tech giants to push the boundaries of artificial intelligence performance. As companies build out families of models ranging from lightweight options to massive systems, users gain access to tools optimized for varying tasks like complex coding. This development underscores how industry competition is driving rapid advancements in model capability and benchmark scores.</p>\n\n    <h3>Technical context</h3>\n    <p>Muse Wonder represents Meta&#x27;s first frontier model, designed to be larger and more capable than its lightweight predecessor, Muse Spark. While the earlier Spark model prioritized low latency, the Wonder models achieve higher benchmark scores by handling more demanding operations. These advancements allow the system to deliver better results on intricate workloads such as complex coding tasks.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Meta has officially released its first frontier model, which is named Muse Wonder.</li>\n      <li>This new model is larger and more capable than the lightweight Muse Spark model.</li>\n      <li>Muse Wonder is designed to achieve higher benchmark scores than its predecessor.</li>\n      <li>The model delivers improved results on complex tasks, specifically including coding.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-oneplus-16-is-the-company-s-most-int-1791812873",
     "slug": "auto-the-oneplus-16-is-the-company-s-most-int-1791812873",
     "title": "Mr. Informer Briefing: The OnePlus 16 is the company\u2019s most interesting phone in years",

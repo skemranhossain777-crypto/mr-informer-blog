@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-founder-s-guide-to-techcrunch-disrup-1791774413",
+    "slug": "auto-the-founder-s-guide-to-techcrunch-disrup-1791774413",
+    "title": "Mr. Informer Briefing: The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 12, 2026 - 03:06",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech68488/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era?</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Our programming and speaker lineup reflect that.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Industry events and conferences like TechCrunch Disrupt often serve as barometers for where venture capital, startup strategy, and technological focus are heading at any given time. As artificial intelligence continues to dominate the tech landscape, programming shifts to address the specific challenges of scaling and sustaining businesses in this new paradigm. Readers should view this event guide as a reflection of how industry leaders are attempting to navigate the intersection of rapid AI advancement and long-term business viability.</p>\n\n    <h3>Technical context</h3>\n    <p>While the excerpt does not detail specific technical protocols or engineering frameworks, it frames the core operational challenge around building enduring companies within the AI era. This involves leveraging artificial intelligence capabilities to shape core business infrastructure and product offerings. The technical and strategic discourse at such events typically centers on how companies integrate generative models, machine learning, and automation into scalable architectures.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>TechCrunch Disrupt 2026 centers entirely around building enduring companies in the AI era.</li>\n      <li>The event&#x27;s programming and speaker lineup are specifically curated to address this central AI-focused question.</li>\n      <li>Founders can look to the conference for guidance on navigating the current technological landscape.</li>\n      <li>The initiative reflects the broader industry preoccupation with long-term viability during the rise of artificial intelligence.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-aaron-sorkin-s--social-reckoning--is-off-1791753058",
     "slug": "auto-aaron-sorkin-s--social-reckoning--is-off-1791753058",
     "title": "Mr. Informer Briefing: Aaron Sorkin\u2019s \u2018Social Reckoning\u2019 is off to a weak start",

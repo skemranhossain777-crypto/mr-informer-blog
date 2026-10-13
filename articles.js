@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-windborne-wins-a-hefty-us-air-force-cont-1791865365",
+    "slug": "auto-windborne-wins-a-hefty-us-air-force-cont-1791865365",
+    "title": "Mr. Informer Briefing: WindBorne wins a hefty US Air Force contract for its balloon data",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 13, 2026 - 04:22",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech995030/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on WindBorne wins a hefty US Air Force contract for its balloon data. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"military contract worth almost $50 million.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>WindBorne wins a hefty US Air Force contract for its balloon data</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Securing a major military contract highlights the growing convergence of private tech innovation and national defense applications. As advanced meteorological forecasting becomes increasingly critical for strategic planning, startups specializing in niche data collection are finding lucrative pathways to scale. Readers should take away that artificial intelligence-driven environmental tracking is rapidly becoming a high-value asset for governmental operations.</p>\n\n    <h3>Technical context</h3>\n    <p>The underlying technology relies on a combination of physical weather balloons and artificial intelligence systems to generate predictive weather models. By deploying specialized balloon hardware to gather atmospheric data, the system feeds this raw information into AI algorithms. This process allows the startup to produce sophisticated weather predictions based on real-time aerial observations.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>WindBorne has secured a U.S. military contract valued at nearly $50 million.</li>\n      <li>The Silicon Valley startup specializes in combining weather balloons with artificial intelligence.</li>\n      <li>The company&#x27;s core offering focuses on advanced weather prediction capabilities.</li>\n      <li>The deal demonstrates significant government interest in private meteorological technology.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-meta-releases-its-first-frontier-model-1791843477",
     "slug": "auto-meta-releases-its-first-frontier-model-1791843477",
     "title": "Mr. Informer Briefing: Meta releases its first frontier model, Muse Wonder",

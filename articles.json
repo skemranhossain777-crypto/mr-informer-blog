@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-whatsapp-adds-a-guest-option-for-joining-1791986916",
+    "slug": "auto-whatsapp-adds-a-guest-option-for-joining-1791986916",
+    "title": "Mr. Informer Briefing: WhatsApp adds a guest option for joining calls without an account",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "October 14, 2026 - 14:08",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech242943/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Engadget's reporting on WhatsApp adds a guest option for joining calls without an account. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Engadget",
+    "sourceUrl": "https://www.engadget.com/2286108/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">It&#x27;s also working on calendar integrations for later this year.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>WhatsApp adds a guest option for joining calls without an account</strong> \u2014 a detailed, automation-assisted summary of reporting from Engadget. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Allowing users to join calls without a WhatsApp account removes a traditional barrier to entry often associated with messaging platforms, making communication more flexible. This type of feature development aligns with broader industry trends where services attempt to streamline connectivity and increase accessibility for external participants. For readers, this indicates a shift toward more frictionless, cross-platform collaboration tools reminiscent of traditional video conferencing software.</p>\n\n    <h3>Technical context</h3>\n    <p>The update introduces a guest option that facilitates call participation without requiring a formal user account within the system. Additionally, the development pipeline includes upcoming calendar integrations scheduled for later in the year to further streamline scheduling and accessibility. While specific protocol details are not provided in the source material, the implementation focuses on user onboarding and scheduling integration.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>WhatsApp is introducing a guest option that allows people to join calls without needing an account.</li>\n      <li>The platform is also developing calendar integrations slated for release later this year.</li>\n      <li>These updates aim to make joining and scheduling calls more accessible and convenient for participants.</li>\n      <li>The new guest feature lowers traditional barriers to entry for communication on the app.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.engadget.com/2286108/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Engadget \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-apple-s-homeview-ad-is-confusing-to-ever-1791965276",
     "slug": "auto-apple-s-homeview-ad-is-confusing-to-ever-1791965276",
     "title": "Mr. Informer Briefing: Apple\u2019s HomeView ad is confusing to everyone except parents",

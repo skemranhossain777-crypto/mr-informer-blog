@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-fridge-hack-costing-millions-and-sparkin-1792020700",
+    "slug": "auto-fridge-hack-costing-millions-and-sparkin-1792020700",
+    "title": "Mr. Informer Briefing: Fridge hack costing millions and sparking fires stemmed from poor security",
+    "category": "Cyber Security",
+    "readTime": "1 min read",
+    "date": "October 14, 2026 - 23:31",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech333623/1200/800",
+    "tags": [
+      "Cyber Security",
+      "Zero-Day",
+      "Cryptography",
+      "Network Safety"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Fridge hack costing millions and sparking fires stemmed from poor security. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Fridge hack costing millions and sparking fires stemmed from poor security</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Cybersecurity vulnerabilities in physical appliances can have severe real-world consequences, stretching far beyond digital data theft to cause physical damage and financial loss. When organizations deploy outdated devices directly onto the public internet, they create critical weak points that malicious actors can exploit on a massive scale. This incident underscores the urgent need for robust security hygiene and proper network isolation as everyday infrastructure becomes increasingly interconnected.</p>\n\n    <h3>Technical context</h3>\n    <p>The security failure involved outdated internet-exposed devices lacking adequate defenses against remote exploitation. By leaving these legacy appliances accessible via the internet without proper protection, attackers were able to gain unauthorized access and manipulate them. This lack of restriction allowed the compromise to propagate widely, ultimately impacting hundreds of separate supermarket locations.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The security incident impacted approximately 700 supermarkets through vulnerable hardware.</li>\n      <li>Attackers actively exploited outdated devices that were directly exposed to the internet.</li>\n      <li>The security failure resulted in millions of dollars in financial damages.</li>\n      <li>The exploitation of these devices also directly sparked physical fires.</li>\n      <li>The breach highlights the critical risks associated with poor device security management.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-apple-tried-hard-to-sell-me-on-the-homev-1792004486",
     "slug": "auto-apple-tried-hard-to-sell-me-on-the-homev-1792004486",
     "title": "Mr. Informer Briefing: Apple Tried Hard to Sell Me on the HomeView as a Seamless Smart Home Experience and Succeeded",

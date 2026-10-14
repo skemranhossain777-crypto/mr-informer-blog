@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-martin-shkreli-livestreamed-himself-viol-1791936046",
+    "slug": "auto-martin-shkreli-livestreamed-himself-viol-1791936046",
+    "title": "Mr. Informer Briefing: Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 14, 2026 - 00:00",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech381069/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">&quot;I can always find a couple of biotech stocks to smoke,&quot; Shkreli said in a livestream.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development highlights ongoing regulatory oversight and enforcement regarding high-profile individuals barred from specific industries. When banned figures attempt to operate or influence markets from the sidelines, it tests the limits and efficacy of federal prohibitions. For readers, this serves as a reminder of how regulatory bodies monitor public statements and media appearances to catch potential violations of lifetime bans.</p>\n\n    <h3>Technical context</h3>\n    <p>The Federal Trade Commission (FTC) monitors communications and public statements, such as livestreams, to determine if individuals under lifetime bans are violating the terms of their restrictions. In this case, the scrutiny centers on statements made during a live broadcast regarding biotech stocks. Such digital broadcasts serve as a public record that regulatory agencies can review and use as evidence of non-compliance.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The FTC stated that Martin Shkreli livestreamed himself violating a lifetime pharmaceutical ban.</li>\n      <li>During the broadcast, Shkreli made a remark about finding biotech stocks to smoke.</li>\n      <li>The incident was reported by Ars Technica based on federal oversight findings.</li>\n      <li>The situation underscores the enforcement of lifetime industry prohibitions in the digital age.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-cambridge-heavy-industries-has-been-quie-1791923109",
     "slug": "auto-cambridge-heavy-industries-has-been-quie-1791923109",
     "title": "Mr. Informer Briefing: Cambridge Heavy Industries has been quietly building a desktop fusion device",

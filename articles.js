@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-amazon-s-bee-launches-two-new-personal-a-1792071980",
+    "slug": "auto-amazon-s-bee-launches-two-new-personal-a-1792071980",
+    "title": "Mr. Informer Briefing: Amazon\u2019s Bee launches two new personal AI devices, starting at $75",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 15, 2026 - 13:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech871376/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Amazon\u2019s Bee launches two new personal AI devices, starting at $75. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Amazon\u2019s Bee launches two new personal AI devices, starting at $75</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The launch of these new personal AI devices by Amazon-owned Bee illustrates a broader industry push to integrate artificial intelligence directly into everyday physical accessories. By offering tools like updated wearables and smartphone-attached recorders that connect with existing ecosystems like Alexa and Amazon shopping, companies are aiming to make voice and conversation management more ubiquitous. For readers, this signals a growing market where hardware and AI assistants are merging to handle routine organizational tasks on the go.</p>\n\n    <h3>Technical context</h3>\n    <p>The newly launched hardware relies on specialized form factors\u2014an updated wearable and a credit-card-sized recorder that attaches to smartphones\u2014to capture audio in various settings. These devices utilize artificial intelligence capabilities to process captured audio by summarizing conversations and automatically generating to-do lists. Furthermore, they feature software integration capabilities that connect the recorded data and AI functions with established ecosystems like Alexa and Amazon shopping.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Amazon-owned Bee has launched its first new AI devices since being acquired by the company.</li>\n      <li>The product lineup includes an updated wearable device and a credit-card-sized recorder designed to attach to smartphones.</li>\n      <li>These devices are capable of summarizing conversations and creating to-do lists based on user interactions.</li>\n      <li>The hardware integrates directly with Alexa and Amazon shopping services.</li>\n      <li>Pricing for these new personal AI devices starts at $74.99.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-figma-announces-new-features-to-define-h-1792050524",
     "slug": "auto-figma-announces-new-features-to-define-h-1792050524",
     "title": "Mr. Informer Briefing: Figma announces new features to define how agents work on its platform",

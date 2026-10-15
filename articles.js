@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-figma-announces-new-features-to-define-h-1792050524",
+    "slug": "auto-figma-announces-new-features-to-define-h-1792050524",
+    "title": "Mr. Informer Briefing: Figma announces new features to define how agents work on its platform",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 15, 2026 - 07:48",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech269061/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Figma announces new features to define how agents work on its platform. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Figma is also releasing its code layers feature in open beta.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Figma announces new features to define how agents work on its platform</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>As platforms increasingly open their ecosystems to automated systems, defining how agents operate becomes a critical step in collaborative software design. This development reflects a broader industry trend toward integrating AI agents directly into developer and designer workflows. Readers should understand that these tools are shifting from experimental concepts to structured, platform-supported features.</p>\n\n    <h3>Technical context</h3>\n    <p>Figma is establishing new features to define how agents work on its platform, accompanied by the open beta release of its code layers feature. While specific protocol mechanisms are not detailed in the available text, these additions provide foundational infrastructure for automated agents to interact with platform elements. Code layers specifically give users a tangible new mechanism to test during this open beta phase.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Figma has announced new features designed to define how agents operate on its platform.</li>\n      <li>The platform is simultaneously releasing its code layers feature into an open beta.</li>\n      <li>These updates point toward deeper integration of automated workflows within design environments.</li>\n      <li>The rollout gives users an early opportunity to test the new code layers functionality.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-ricursive-intelligence-is-betting-on-ai-1792030430",
     "slug": "auto-ricursive-intelligence-is-betting-on-ai-1792030430",
     "title": "Mr. Informer Briefing: Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-amazon-devices-chief-panos-panay-on-the-1792106646",
+    "slug": "auto-amazon-devices-chief-panos-panay-on-the-1792106646",
+    "title": "Mr. Informer Briefing: Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 15, 2026 - 23:24",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech672751/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Amazon devices chief Panos Panay on the importance of failure and bouncing back from it. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Panay said that it&#x27;s possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Amazon devices chief Panos Panay on the importance of failure and bouncing back from it</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>In the consumer technology sector, executive leadership philosophies regarding product development often set the tone for corporate innovation and risk-taking. Understanding how leaders view setbacks offers insight into the internal culture behind major hardware and software ecosystems. Readers should take away that the process of building consumer devices involves navigating significant hurdles rather than achieving immediate, flawless success.</p>\n\n    <h3>Technical context</h3>\n    <p>The report centers on statements from Amazon devices chief Panos Panay concerning the reality of engineering and launching new hardware products. According to the excerpt, even catastrophic product failures can serve as learning opportunities during the creation and development cycle. This perspective highlights the inherent unpredictability and iterative nature of bringing complex technological devices to market.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Amazon devices chief Panos Panay discussed the vital role of failure in the product development process.</li>\n      <li>He emphasized that recovery and learning are achievable even after facing catastrophic product setbacks.</li>\n      <li>The insights reflect the realities of building and iterating on consumer technology hardware.</li>\n      <li>The report highlights how leadership views the journey of overcoming major engineering and design obstacles.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-last-chance-to-save-up-to--200-on-your-t-1792089914",
     "slug": "auto-last-chance-to-save-up-to--200-on-your-t-1792089914",
     "title": "Mr. Informer Briefing: Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",

@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-kde-turns-30-with-plasma-6-8--remote-upg-1792116289",
+    "slug": "auto-kde-turns-30-with-plasma-6-8--remote-upg-1792116289",
+    "title": "Mr. Informer Briefing: KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "October 16, 2026 - 02:04",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech109020/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Software longevity and the shifting foundations of graphical display environments shape the broader evolution of desktop computing. Major milestone releases like this highlight how open-source projects continually modernize their ecosystems while retiring aging infrastructure. A reader should take away that foundational display protocols are actively evolving to meet contemporary computing standards.</p>\n\n    <h3>Technical context</h3>\n    <p>The release centers on Plasma 6.8, marking a significant update for the KDE desktop environment alongside its 30th anniversary celebrations. A notable aspect of this technological shift is the farewell to X11, the long-standing display server protocol, as the ecosystem moves forward. Additionally, the update introduces remote upgrade capabilities alongside the new desktop environment and a commemorative movie.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>KDE is celebrating its 30th anniversary with the release of Plasma 6.8.</li>\n      <li>The project is officially saying farewell to the X11 display protocol.</li>\n      <li>The update introduces new remote upgrade capabilities.</li>\n      <li>A celebratory movie has been released as part of the 30th-anniversary milestones.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-amazon-devices-chief-panos-panay-on-the-1792106646",
     "slug": "auto-amazon-devices-chief-panos-panay-on-the-1792106646",
     "title": "Mr. Informer Briefing: Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",

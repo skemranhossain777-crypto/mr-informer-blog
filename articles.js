@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-replit-is-no-longer-working-with-anthrop-1792202340",
+    "slug": "auto-replit-is-no-longer-working-with-anthrop-1792202340",
+    "title": "Mr. Informer Briefing: Replit is no longer working with Anthropic, CEO says",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 17, 2026 - 01:59",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech514102/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Replit is no longer working with Anthropic, CEO says. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Masad said the decision was made for a number of different reasons, including cost.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Replit is no longer working with Anthropic, CEO says</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Shifts in foundational partnerships highlight the volatile nature of relationships between AI platform providers and development tool companies. As the generative AI landscape matures, companies must continuously evaluate their vendor alliances based on financial viability and strategic alignment. For readers, this change signals how fluid the ecosystem remains as major players navigate costs and overlapping capabilities.</p>\n\n    <h3>Technical context</h3>\n    <p>Replit previously maintained a working relationship with Anthropic, but has now severed ties due to multiple factors, including cost considerations. This development follows Replit&#x27;s separate partnership announcement with OpenAI made in August. The transition demonstrates how platform providers manage their underlying technological infrastructure and model integrations over time.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Replit is no longer working with Anthropic according to the company&#x27;s CEO.</li>\n      <li>The decision to end the relationship was driven by several factors, including cost.</li>\n      <li>Replit previously announced a partnership with OpenAI back in August.</li>\n      <li>There was no prior public indication that Replit had ceased its collaboration with Anthropic.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-leap-second-is-no-more-1792191971",
     "slug": "auto-the-leap-second-is-no-more-1792191971",
     "title": "Mr. Informer Briefing: The Leap Second Is No More",

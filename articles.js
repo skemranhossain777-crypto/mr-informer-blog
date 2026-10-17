@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-meta-removes-language-that-raised-scrapi-1792277116",
+    "slug": "auto-meta-removes-language-that-raised-scrapi-1792277116",
+    "title": "Mr. Informer Briefing: Meta removes language that raised scraping and AI training concerns",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 17, 2026 - 22:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech50873/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Meta removes language that raised scraping and AI training concerns. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Meta removes language that raised scraping and AI training concerns</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When major tech platforms update their terms and legal language, it often signals shifts in how they approach data collection, web scraping, and artificial intelligence training. As scrutiny over data privacy and automated harvesting grows, understanding how companies frame their data collection practices helps stakeholders gauge industry compliance. For the everyday reader, these adjustments highlight the ongoing tension between public web content and the immense data demands of modern AI models.</p>\n\n    <h3>Technical context</h3>\n    <p>The update involves modifications to Meta&#x27;s terms regarding web crawling and the potential harvesting of data for training artificial intelligence systems. While the specific legal wording was altered, a company spokesperson maintained that these changes did not actually alter the underlying mechanisms of how Meta crawls the web. This situation underscores the complex legal frameworks governing automated data extraction and machine learning dataset curation.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Meta recently removed language from its terms that previously raised concerns regarding web scraping and artificial intelligence training.</li>\n      <li>A company spokesperson stated that this update did not reflect any actual change in Meta&#x27;s web crawling practices.</li>\n      <li>The revision highlights ongoing industry sensitivities around how major tech platforms gather data for artificial intelligence development.</li>\n      <li>Public scrutiny continues to follow the legal and operational methods companies use to collect web-based information.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-tiktok-bans-musk-documentary-account-1792266484",
     "slug": "auto-tiktok-bans-musk-documentary-account-1792266484",
     "title": "Mr. Informer Briefing: TikTok bans Musk documentary account",

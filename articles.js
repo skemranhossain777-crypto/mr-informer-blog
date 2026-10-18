@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-everyone-s-watching-the-elizabeth-holmes-1792352964",
+    "slug": "auto-everyone-s-watching-the-elizabeth-holmes-1792352964",
+    "title": "Mr. Informer Briefing: Everyone\u2019s watching the Elizabeth Holmes documentary \u2018You Can See Everything\u2019",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "October 18, 2026 - 19:49",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech831539/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Everyone\u2019s watching the Elizabeth Holmes documentary \u2018You Can See Everything\u2019. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">&quot;You Can See Everything&quot; is having the second biggest opening weekend ever for a documentary film.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Everyone\u2019s watching the Elizabeth Holmes documentary \u2018You Can See Everything\u2019</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The immense popularity of true-crime and documentary releases continues to captivate streaming audiences, highlighting how high-profile corporate scandals resonate with the public. As media consumption heavily favors real-world investigative storytelling, major streaming platforms frequently leverage these narratives to drive massive viewership. Readers should note how cultural fascination with figures like Elizabeth Holmes translates directly into record-breaking digital engagement.</p>\n\n    <h3>Technical context</h3>\n    <p>The report measures the success of &quot;You Can See Everything&quot; by evaluating its streaming performance during its opening weekend relative to other documentary films. This metric is typically calculated using viewership data, streaming hours, or platform-specific engagement algorithms managed by the distributing service. Such digital distribution models allow platforms to instantly track and compare the launch metrics of newly released video content.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The documentary You Can See Everything is currently drawing massive viewership numbers.</li>\n      <li>The film has achieved the second biggest opening weekend ever recorded for a documentary.</li>\n      <li>The project centers on subjects related to Elizabeth Holmes.</li>\n      <li>The report on its milestone performance comes from TechCrunch.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-disney-agrees-to-hire-the-majority-of-ch-1792345111",
     "slug": "auto-disney-agrees-to-hire-the-majority-of-ch-1792345111",
     "title": "Mr. Informer Briefing: Disney agrees to hire the majority of Character.AI\u2019s workforce",

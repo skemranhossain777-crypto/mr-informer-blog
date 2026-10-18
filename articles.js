@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-tiktok-permanently-bans--musk--documenta-1792288697",
+    "slug": "auto-tiktok-permanently-bans--musk--documenta-1792288697",
+    "title": "Mr. Informer Briefing: TikTok permanently bans \u2018Musk\u2019 documentary advertising account",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 18, 2026 - 01:58",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech227092/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on TikTok permanently bans \u2018Musk\u2019 documentary advertising account. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>TikTok permanently bans \u2018Musk\u2019 documentary advertising account</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Content moderation decisions on major social media platforms frequently impact how independent media and documentaries reach public audiences. When a platform bans an advertising account associated with a high-profile project, it highlights the challenges creators face in promoting politically or culturally sensitive works online. For readers, this serves as a reminder of the gatekeeping power that social media giants hold over public discourse and marketing.</p>\n\n    <h3>Technical context</h3>\n    <p>The reporting indicates that a four-hour documentary about Elon Musk faced resistance and an advertising account ban on a social media platform. While the underlying mechanisms of the ban are not detailed in the excerpt, advertising accounts on social platforms typically rely on automated policy enforcement systems and manual reviews to manage promotional content. Such actions restrict the ability of creators to use paid distribution tools to target specific user bases on the platform.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>TikTok permanently banned an advertising account promoting a four-hour documentary about Elon Musk.</li>\n      <li>The documentary has faced ongoing resistance from multiple social media platforms.</li>\n      <li>The ban restricts the promotional capabilities of the filmmakers on this specific platform.</li>\n      <li>The situation underscores the ongoing challenges independent media projects encounter with digital ad policies.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-meta-removes-language-that-raised-scrapi-1792277116",
     "slug": "auto-meta-removes-language-that-raised-scrapi-1792277116",
     "title": "Mr. Informer Briefing: Meta removes language that raised scraping and AI training concerns",

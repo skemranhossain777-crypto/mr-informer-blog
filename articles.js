@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-a-savannah-police-officer-gave-her-flock-1792376104",
+    "slug": "auto-a-savannah-police-officer-gave-her-flock-1792376104",
+    "title": "Mr. Informer Briefing: A Savannah police officer gave her Flock login to her ICE agent husband",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 19, 2026 - 02:15",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech758820/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on A Savannah police officer gave her Flock login to her ICE agent husband. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"SPD does not share its Flock data with ICE and said sharing access to the system violated the department&#x27;s security protocols. While he [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>A Savannah police officer gave her Flock login to her ICE agent husband</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When law enforcement personnel share secure system credentials with unauthorized individuals outside their department, it exposes critical vulnerabilities in municipal data sharing and public trust. This incident highlights the ongoing challenges agencies face regarding data access governance, particularly as automated license plate reader networks expand. Readers should take away that strict internal security controls are essential to prevent the unauthorized cross-jurisdictional leakage of sensitive surveillance data.</p>\n\n    <h3>Technical context</h3>\n    <p>The incident centers on unauthorized access to a Flock automated license plate reader system used by the Savannah police department. Flock systems rely on secure login credentials to restrict access to authorized personnel in accordance with specific agency policies. By sharing her login information with her husband, the former officer bypassed the department&#x27;s established security protocols, which explicitly prohibit sharing this data with Immigration and Customs Enforcement.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>A former Savannah police officer was fired after an internal investigation revealed she shared her Flock login details.</li>\n      <li>Her husband, Tyler Harpe, is an ICE agent who gained unauthorized access to the system through her credentials.</li>\n      <li>The Savannah Police Department does not share its Flock data with ICE.</li>\n      <li>Sharing the login information was found to be a direct violation of the police department&#x27;s security protocols.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-no-agenda--no-rush--no-leaving-san-franc-1792363206",
     "slug": "auto-no-agenda--no-rush--no-leaving-san-franc-1792363206",
     "title": "Mr. Informer Briefing: No agenda, no rush, no leaving San Francisco: Benchmark\u2019s partners on investing in a frenzied market",

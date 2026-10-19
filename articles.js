@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-nvidia-launches-new-open-models-to-run-a-1792425554",
+    "slug": "auto-nvidia-launches-new-open-models-to-run-a-1792425554",
+    "title": "Mr. Informer Briefing: Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 19, 2026 - 15:59",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech469645/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Nvidia launches new open models to run agents in the enterprise and on PCs. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Nvidia launches new open models to run agents in the enterprise and on PCs</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The release of new open models highlights a growing industry demand for companies to maintain control over their data by running systems in private data centers. By targeting both enterprise infrastructure and local PCs, Nvidia is positioning itself to capture the expanding market for private, on-device AI agents. Readers should understand this shift as part of a broader movement toward localized and customizable artificial intelligence deployments rather than strict reliance on external cloud services.</p>\n\n    <h3>Technical context</h3>\n    <p>The newly launched technology centers on open models designed to power autonomous agents capable of operating both within enterprise data centers and directly on personal computers. This approach relies on keeping AI processing close to the user or organization to ensure privacy and operational independence. The strategy directly addresses the technical requirements of enterprises wanting to execute complex workloads on their own hardware infrastructure.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Nvidia has launched new open models aimed at running agents in enterprise environments and on personal computers.</li>\n      <li>The initiative capitalizes on the growing enterprise trend of deploying open models within private data centers.</li>\n      <li>The company is actively working to make on-device and private artificial intelligence agents a reality.</li>\n      <li>The development emphasizes local execution, giving organizations greater control over their AI deployments.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-mister-organ-is-one-of-the-most-unsettli-1792397625",
     "slug": "auto-mister-organ-is-one-of-the-most-unsettli-1792397625",
     "title": "Mr. Informer Briefing: Mister Organ is one of the most unsettling documentaries I\u2019ve ever seen",

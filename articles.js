@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-spacex-alum-s-aviation-startup--reliable-1792504607",
+    "slug": "auto-spacex-alum-s-aviation-startup--reliable-1792504607",
+    "title": "Mr. Informer Briefing: SpaceX alum\u2019s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "October 20, 2026 - 13:56",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech858707/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on SpaceX alum\u2019s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>SpaceX alum\u2019s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The influx of significant capital into aviation startups highlights the ongoing venture backing for advanced autonomous transportation technologies. As companies like Reliable Robotics secure massive funding rounds, the broader aerospace and autonomy sectors continue to attract investor confidence. Readers should understand that large-scale financial backing enables these firms to pursue complex long-term engineering goals in aviation.</p>\n\n    <h3>Technical context</h3>\n    <p>Reliable Robotics is an aviation startup founded by a SpaceX alum that is working on autonomous flight technologies. The company recently extended its Series D funding round to further support its operations and development efforts. While specific engineering details are not provided in the source text, capital raises of this magnitude typically fund the rigorous testing, certification, and hardware development required in aerospace.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Reliable Robotics is an aviation startup founded by a SpaceX alum.</li>\n      <li>The company recently extended its Series D funding round.</li>\n      <li>It secured $115 million in equity as part of the extension.</li>\n      <li>It also added $25 million in debt to the funding round.</li>\n      <li>The new capital has pushed the startup&#x27;s valuation past the $1 billion mark.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-adorama-camera-coupon-codes---promo-code-1792483190",
     "slug": "auto-adorama-camera-coupon-codes---promo-code-1792483190",
     "title": "Mr. Informer Briefing: Adorama Camera Coupon Codes & Promo Codes: October 2026",

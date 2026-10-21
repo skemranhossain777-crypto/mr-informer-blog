@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-xbox-wants-you-to-pay-24-to-40-cents-per-1792626414",
+    "slug": "auto-xbox-wants-you-to-pay-24-to-40-cents-per-1792626414",
+    "title": "Mr. Informer Briefing: Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 21, 2026 - 23:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech633996/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Time-based a la carte charges come on top of the purchase price for the games themselves.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The exploration of time-based a la carte pricing models by major platforms like Xbox reflects an ongoing industry push to monetize cloud gaming beyond traditional subscription models. As cloud gaming continues to evolve, companies are testing alternative financial frameworks that charge users strictly for the duration of their streaming sessions. For readers and consumers, this represents a potential shift in how accessibility to purchased digital content is priced and delivered over cloud networks.</p>\n\n    <h3>Technical context</h3>\n    <p>This development involves cloud gaming infrastructure, where games are executed on remote servers and video streams are transmitted to a user&#x27;s local device in real time. The reported system introduces metered, time-based billing architecture layered on top of existing digital ownership records. This requires platforms to track active streaming hours precisely to bill users between 24 and 40 cents per hour for titles they already own.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Xbox is considering a time-based a la carte pricing model for streaming games.</li>\n      <li>Users would be charged between 24 and 40 cents per hour of streaming time.</li>\n      <li>These hourly charges would apply even to games that the players have already purchased.</li>\n      <li>The model introduces a usage-based fee structure on top of traditional game ownership costs.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-legal-ai-startup-legora-raises--550m-ser-1792609277",
     "slug": "auto-legal-ai-startup-legora-raises--550m-ser-1792609277",
     "title": "Mr. Informer Briefing: Legal AI startup Legora raises $550M Series E at $8.8B valuation",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-legal-ai-startup-legora-raises--550m-ser-1792609277",
+    "slug": "auto-legal-ai-startup-legora-raises--550m-ser-1792609277",
+    "title": "Mr. Informer Briefing: Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 21, 2026 - 19:01",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech624673/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Legal AI startup Legora raises $550M Series E at $8.8B valuation. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Legal AI startup Legora raises $550M Series E at $8.8B valuation</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The massive funding round secured by Legora highlights the surging investor interest and capital pouring into artificial intelligence applications tailored for specialized industries like law. As venture capital continues to fuel high-valuation rounds for legal tech startups, it signals a broader industry trend where domain-specific AI platforms are scaling rapidly. Readers should take away that the legal sector is experiencing significant financial backing, positioning AI tools as a major force in the future of legal work.</p>\n\n    <h3>Technical context</h3>\n    <p>While the provided text does not detail the underlying code or architecture, Legora operates as a legal AI startup leveraging artificial intelligence to address workflows within the legal industry. Such platforms typically rely on advanced computational models trained to process, analyze, and generate text relevant to legal contexts. The substantial financial investment allows the company to scale its underlying infrastructure and expand its technological capabilities to support a valuation of $8.8 billion.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Legal AI startup Legora announced it has raised a $550 million Series E funding round.</li>\n      <li>The new investment brings the company&#x27;s total valuation to $8.8 billion.</li>\n      <li>The funding news was formally announced by the startup on Wednesday.</li>\n      <li>TechCrunch reported on the massive capital raise by the legal technology firm.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-foursquare-co-founder-says-equity-holder-1792591978",
     "slug": "auto-foursquare-co-founder-says-equity-holder-1792591978",
     "title": "Mr. Informer Briefing: Foursquare co-founder says equity holders saw no returns from the company\u2019s acquisition",

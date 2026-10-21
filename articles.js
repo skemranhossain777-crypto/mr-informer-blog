@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-hugging-face-ceo-warns-that-netflix-s-op-1792569903",
+    "slug": "auto-hugging-face-ceo-warns-that-netflix-s-op-1792569903",
+    "title": "Mr. Informer Briefing: Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 21, 2026 - 08:05",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech186180/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Before you share the Netflix documentary &quot;AI Gone Rogue,&quot; take note.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Clem Delangue, Hugging Face&#x27;s co-founder who is featured in the film, says it went &quot;full doomer mode&quot; and isn&#x27;t accurate.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Discussions surrounding artificial intelligence often oscillate between cautious optimism and catastrophic warnings, shaping public perception of the technology. When prominent industry figures who appear in media productions publicly dispute their accuracy, it highlights tensions in how media narratives frame AI development. Readers should take away the importance of critically evaluating sensationalized media portrayals of emerging technologies.</p>\n\n    <h3>Technical context</h3>\n    <p>The excerpt touches on public media framing regarding artificial intelligence, specifically referencing a Netflix documentary titled &quot;AI Gone Rogue.&quot; Clem Delangue, the co-founder of Hugging Face, is featured in the project but contends that the production adopted an excessive &quot;doomer mode.&quot; This disagreement points to a broader industry debate over whether popular media accurately represents the realities of AI systems.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Hugging Face CEO Clem Delangue has issued a warning regarding the accuracy of a Netflix documentary.</li>\n      <li>The documentary in question is titled &quot;AI Gone Rogue&quot; and features Delangue.</li>\n      <li>Delangue specifically criticized the film for going into &quot;full doomer mode.&quot;</li>\n      <li>The warning advises viewers to take note before sharing the documentary.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-spacex-and-tesla-boards-form-special-com-1792549417",
     "slug": "auto-spacex-and-tesla-boards-form-special-com-1792549417",
     "title": "Mr. Informer Briefing: SpaceX and Tesla boards form special committees to review merger",

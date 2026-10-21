@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-spacex-and-tesla-boards-form-special-com-1792549417",
+    "slug": "auto-spacex-and-tesla-boards-form-special-com-1792549417",
+    "title": "Mr. Informer Briefing: SpaceX and Tesla boards form special committees to review merger",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 21, 2026 - 02:23",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech831047/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on SpaceX and Tesla boards form special committees to review merger. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>SpaceX and Tesla boards form special committees to review merger</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When prominent companies overseen by the same leadership explore structural changes, the formation of independent committees represents a crucial step in governance to manage potential conflicts of interest. This type of corporate review highlights how major entities led by high-profile figures navigate complex strategic realignments and internal evaluations. Readers should take away that while top leadership may favor a concept, formal corporate processes led by independent boards are necessary to thoroughly review major business combinations.</p>\n\n    <h3>Technical context</h3>\n    <p>The process involves the creation of designated special committees structured specifically from independent directors to assess the proposed merger. Elon Musk has stated his support for the underlying idea, yet he intentionally remains excluded from the committees evaluating the transaction. This mechanism is designed to ensure that strategic business decisions are reviewed objectively without direct executive influence from shared leadership.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>SpaceX and Tesla boards have formed special committees to review a potential merger.</li>\n      <li>Elon Musk has stated that he likes the idea of the merger.</li>\n      <li>Musk is not a member of either of the newly formed review committees.</li>\n      <li>The committees assessing the proposal are composed entirely of independent directors.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-anthropic-pitches-ai-safety-bill-that-ma-1792539079",
     "slug": "auto-anthropic-pitches-ai-safety-bill-that-ma-1792539079",
     "title": "Mr. Informer Briefing: Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",

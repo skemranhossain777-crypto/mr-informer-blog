@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-youtube-says-it-isn-t-testing-hiding-the-1792656256",
+    "slug": "auto-youtube-says-it-isn-t-testing-hiding-the-1792656256",
+    "title": "Mr. Informer Briefing: YouTube says it isn\u2019t testing hiding the dislike button",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 22, 2026 - 08:04",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech537199/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on YouTube says it isn\u2019t testing hiding the dislike button. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is &quot;not testing hiding [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>YouTube says it isn\u2019t testing hiding the dislike button</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>User interface changes on major platforms often spark intense speculation and user concern about content visibility and feedback mechanisms. When conflicting reports emerge from user-shared screenshots and official company statements, it highlights the delicate balance platforms must maintain regarding interface design. Readers should take away that visual tests or accidental UI shifts can easily be mistaken for permanent platform policy changes.</p>\n\n    <h3>Technical context</h3>\n    <p>The situation involves user interface testing, where features like a video&#x27;s dislike button are potentially relocated into secondary menus, such as a three-dot options menu. Platform developers often roll out visual tweaks or layout experiments to subsets of users to evaluate usability and engagement metrics. In this case, user-shared screenshots on social media captured a layout variation that prompted public inquiry and a subsequent official denial from the platform&#x27;s representatives.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>A recent report suggested YouTube was testing the removal or relocation of the video dislike button.</li>\n      <li>The speculation arose after at least two users shared screenshots on X showing the dislike button inside the three-dot menu.</li>\n      <li>A YouTube spokesperson officially confirmed to The Verge on Wednesday that the platform is not testing hiding the dislike button.</li>\n      <li>The original story and subsequent denial illustrate how quickly interface observations on social media can generate platform-wide speculation.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-fcc-chair-warns-media-not-to-run-the--fa-1792635535",
     "slug": "auto-fcc-chair-warns-media-not-to-run-the--fa-1792635535",
     "title": "Mr. Informer Briefing: FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-disgraced-emudhra-drops-out-of-tls-busin-1792712720",
+    "slug": "auto-disgraced-emudhra-drops-out-of-tls-busin-1792712720",
+    "title": "Mr. Informer Briefing: Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 22, 2026 - 23:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech475240/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Disgraced eMudhra drops out of TLS business after using cert private key of 4. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Flubbed key signing &quot;ceremony&quot; allowed minting of web credentials for any site.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Disgraced eMudhra drops out of TLS business after using cert private key of 4</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Security lapses involving foundational cryptographic credentials undermine the implicit trust that underpins secure web browsing and digital communications. When a certificate authority mismanages private keys in a way that allows the creation of fraudulent credentials for arbitrary websites, it exposes structural vulnerabilities in how web security is monitored and enforced. Incidents of this magnitude typically prompt industry-wide reckonings, tighter regulatory oversight, and a re-evaluation of which entities are trusted to safeguard the cryptographic roots of the internet.</p>\n\n    <h3>Technical context</h3>\n    <p>Transport Layer Security (TLS) relies on digital certificates issued by trusted certificate authorities to authenticate websites and encrypt traffic between servers and clients. The process of generating and signing these certificates requires strict cryptographic ceremonies to protect the private keys that authorize them. In this case, a flawed signing ceremony involving a private key of 4 allowed unauthorized credential minting, effectively bypassing the security controls designed to prevent the creation of fraudulent web certificates.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Disgraced eMudhra is dropping out of the TLS business following a severe security failure.</li>\n      <li>A botched key-signing ceremony directly caused the security lapse.</li>\n      <li>The flaw allowed the minting of web credentials for any site on the internet.</li>\n      <li>The incident compromised a certificate private key using a value of 4.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-new-fire-tv-stick-4k-is-already-half-1792695394",
     "slug": "auto-the-new-fire-tv-stick-4k-is-already-half-1792695394",
     "title": "Mr. Informer Briefing: The new Fire TV Stick 4K is already half off",

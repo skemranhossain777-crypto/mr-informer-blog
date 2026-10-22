@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-new-fire-tv-stick-4k-is-already-half-1792695394",
+    "slug": "auto-the-new-fire-tv-stick-4k-is-already-half-1792695394",
+    "title": "Mr. Informer Briefing: The new Fire TV Stick 4K is already half off",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 22, 2026 - 18:56",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech232466/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on The new Fire TV Stick 4K is already half off. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The new Fire TV Stick 4K is already half off</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Early discounts on newly announced hardware highlight the competitive nature of the streaming device market, where aggressive pricing is frequently used to drive consumer adoption. This trend of rapid markdowns allows buyers to secure the latest technology at a fraction of its original cost shortly after release. Readers should take away that waiting for initial promotions, or keeping an eye out for early sales, can yield significant savings on brand-new tech products.</p>\n\n    <h3>Technical context</h3>\n    <p>The newly discounted device is the Amazon Fire TV Stick 4K, which was announced just a few weeks prior to the sale. A notable technological improvement in this latest iteration is that it no longer requires a separate power source. Retailers Amazon and Best Buy are facilitating the markdown, reducing the price by 50 percent to an all-time low of $29.99.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The Amazon Fire TV Stick 4K is currently available at a 50 percent discount.</li>\n      <li>Both Amazon and Best Buy are offering the device at this reduced rate.</li>\n      <li>The promotion brings the price of the streaming stick down to an all-time low of $29.99.</li>\n      <li>The discount comes just a few weeks after the device was officially announced.</li>\n      <li>The most notable new feature of this version is that it no longer requires a separate power source.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-developer-platform-railway-urges--all-us-1792678336",
     "slug": "auto-developer-platform-railway-urges--all-us-1792678336",
     "title": "Mr. Informer Briefing: Developer platform Railway urges \u2018all users\u2019 to revoke secret keys after cyberattack",

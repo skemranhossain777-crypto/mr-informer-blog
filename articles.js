@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-ukraine-learns-to-fight-without-starlink-1792763700",
+    "slug": "auto-ukraine-learns-to-fight-without-starlink-1792763700",
+    "title": "Mr. Informer Briefing: Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 23, 2026 - 13:55",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech801144/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Ukraine learns to fight without Starlink as Musk plays politics with satellites. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Ukraine learns to fight without Starlink as Musk plays politics with satellites</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When critical communications infrastructure is controlled by private entities, geopolitical instability and the political whims of executives can directly threaten operational security. This development highlights the vulnerability nations face when depending on commercial technology for national defense and the imperative to build redundancy into modern military systems. For readers, it serves as a reminder of how quickly the technological landscape of modern conflict must adapt to external disruptions.</p>\n\n    <h3>Technical context</h3>\n    <p>The conflict in Ukraine relies heavily on advanced war-fighting technology, including drones that traditionally depended on Starlink for connectivity and coordination. In response to political interference by Elon Musk regarding satellite access, Ukrainian forces had to re-engineer their systems. This involved modifying drones and associated military hardware to operate effectively while reducing their reliance on the satellite network.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Ukraine has modified its drones and war-fighting technology to decrease its dependence on Starlink.</li>\n      <li>Elon Musk has reportedly been playing politics with the satellite network.</li>\n      <li>The changes were necessary as Ukraine learned to fight without relying consistently on Starlink.</li>\n      <li>The shift demonstrates how military forces must rapidly adapt their hardware to counter vulnerabilities in commercial infrastructure.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-oura-sues-rival-ultrahuman-again--threat-1792742581",
     "slug": "auto-oura-sues-rival-ultrahuman-again--threat-1792742581",
     "title": "Mr. Informer Briefing: Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",

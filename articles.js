@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-revival-rugs-birthday-sale--20-percent-o-1792798679",
+    "slug": "auto-revival-rugs-birthday-sale--20-percent-o-1792798679",
+    "title": "Mr. Informer Briefing: Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 23, 2026 - 23:37",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech324107/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Wired's reporting on Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Wired",
+    "sourceUrl": "https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The brand\u2019s lovely selection of hand-knotted and handwoven wool rugs at reasonable prices make it a WIRED-staff favorite.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday</strong> \u2014 a detailed, automation-assisted summary of reporting from Wired. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Discounts on popular home goods from trusted publications provide readers with timely purchasing opportunities during promotional events. When a brand recognized by tech and lifestyle reviewers holds a sitewide sale, it signals a common retail strategy to drive volume through limited-time price reductions. A reader should take away that such sales offer a brief window to acquire favored items at a discount before the promotion ends on Sunday.</p>\n\n    <h3>Technical context</h3>\n    <p>The promotion involves a sitewide discount of twenty percent applied to a brand&#x27;s inventory of hand-knotted and handwoven wool rugs. These products are manufactured using traditional weaving and knotting techniques with wool materials, which contribute to their standing as staff favorites. The pricing structure is temporarily adjusted via this birthday sale mechanic to lower the cost for consumers through the end of the weekend.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Revival Rugs is currently holding a birthday sale offering twenty percent off sitewide.</li>\n      <li>The promotion runs through Sunday, giving customers a limited time to make purchases.</li>\n      <li>The brand is known for its selection of hand-knotted and handwoven wool rugs.</li>\n      <li>Reasonable pricing and product quality have made the brand a favorite among Wired staff.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Wired \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-soundcore-s-latest-noise-crushing-headph-1792781227",
     "slug": "auto-soundcore-s-latest-noise-crushing-headph-1792781227",
     "title": "Mr. Informer Briefing: Soundcore\u2019s latest noise-crushing headphones are on sale for a new low price",

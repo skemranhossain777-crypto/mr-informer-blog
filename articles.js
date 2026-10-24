@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-xbox-s-first-chief-operating-officer-is-1792808523",
+    "slug": "auto-xbox-s-first-chief-operating-officer-is-1792808523",
+    "title": "Mr. Informer Briefing: Xbox\u2019s first chief operating officer is out after just a few months",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 24, 2026 - 02:22",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech533578/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Xbox\u2019s first chief operating officer is out after just a few months. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Xbox&#x27;s first chief operating officer (COO) is leaving after the new role was created just a few months ago.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Xbox\u2019s first chief operating officer is out after just a few months</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Executive departures at major gaming companies highlight how leadership structures shift as corporations attempt to navigate evolving industry landscapes. When a newly created high-level role is vacated after only a few months, it often signals internal adjustments or strategic realignments within a dominant tech giant like Microsoft. Readers should take away that organizational changes at this scale reflect broader corporate reevaluations of how large divisions are managed.</p>\n\n    <h3>Technical context</h3>\n    <p>The report details a personnel change involving an internal Xbox memo obtained by The Verge regarding a chief operating officer position. This organizational update involves Helen Chiang leaving Microsoft after a 21-year tenure that included leading Minecraft before stepping into the newly created COO role. No other technical systems, protocols, or engineering concepts are mentioned in the available source material.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Xbox has lost its first chief operating officer just months after the role was newly created.</li>\n      <li>Helen Chiang is leaving Microsoft today after a 21-year career at the company.</li>\n      <li>The departure was revealed through an internal Xbox memo seen by The Verge.</li>\n      <li>Prior to taking on the Xbox COO position, Chiang served as the head of Minecraft.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-revival-rugs-birthday-sale--20-percent-o-1792798679",
     "slug": "auto-revival-rugs-birthday-sale--20-percent-o-1792798679",
     "title": "Mr. Informer Briefing: Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday",

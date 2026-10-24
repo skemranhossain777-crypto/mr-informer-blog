@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-ai-graveyard--a-running-list-of-proj-1792871812",
+    "slug": "auto-the-ai-graveyard--a-running-list-of-proj-1792871812",
+    "title": "Mr. Informer Briefing: The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 24, 2026 - 19:56",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech452430/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on The AI graveyard: a running list of projects and startups that didn\u2019t make it. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">From Apple&#x27;s repeatedly delayed Siri AI to OpenAI&#x27;s messy &quot;super app&quot; launch, here&#x27;s a look at the AI projects that shut down or missed expectations.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The AI graveyard: a running list of projects and startups that didn\u2019t make it</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The rapid evolution of artificial intelligence often leaves behind a trail of high-profile casualties as companies rush to commercialize new technologies. Examining these failures offers valuable insight into the immense challenges of executing ambitious consumer-facing features and products in a competitive market. Readers can take away that even industry giants and leading startups face steep hurdles regarding delays, strategic missteps, and unmet expectations.</p>\n\n    <h3>Technical context</h3>\n    <p>The developments surrounding these AI projects involve complex engineering efforts, ranging from virtual assistant architectures like Siri to multifaceted consumer offerings like OpenAI&#x27;s super app. Integrating advanced machine learning capabilities into reliable, scalable user products frequently encounters technical friction and deployment hurdles. These struggles highlight the gap between conceptual AI capabilities and the difficult reality of maintaining functional, timely software releases.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Apple&#x27;s Siri AI highlights a history of repeated project delays within major tech ecosystems.</li>\n      <li>OpenAI faced significant challenges during the launch of its ambitious super app.</li>\n      <li>The running list documents various AI projects and startups that ultimately shut down or missed expectations.</li>\n      <li>Examining these failures provides a clear look at the common pitfalls encountered in the modern artificial intelligence landscape.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-instacart-reportedly-discussed-selling-i-1792863756",
     "slug": "auto-instacart-reportedly-discussed-selling-i-1792863756",
     "title": "Mr. Informer Briefing: Instacart reportedly discussed selling itself with DoorDash and Uber",

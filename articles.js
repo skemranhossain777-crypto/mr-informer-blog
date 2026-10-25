@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-this-switch-2-sequel-accessory-was-a-few-1792951048",
+    "slug": "auto-this-switch-2-sequel-accessory-was-a-few-1792951048",
+    "title": "Mr. Informer Briefing: This Switch 2 sequel accessory was a few millimeters away from being good",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 25, 2026 - 17:57",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech914715/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on This Switch 2 sequel accessory was a few millimeters away from being good. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The Crkd Nitro Deck was a saving grace for the original Nintendo Switch.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>This Switch 2 sequel accessory was a few millimeters away from being good</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Hardware accessories that address persistent hardware frustrations, like stick drift, play a major role in shaping the handheld gaming experience. By offering drop-in alternatives to factory controllers, manufacturers bridge the gap between official limitations and player demands across console generations. Readers should understand that third-party peripherals remain vital for enhancing usability without requiring risky internal repairs.</p>\n\n    <h3>Technical context</h3>\n    <p>The accessory utilizes Hall effect sticks, an underlying technology designed to prevent the mechanical wear and drift issues common in traditional potentiometers. It functions as a slide-on hardware addition that physically attaches to the console to replace standard control inputs. This design allows users to bypass complicated internal console repairs while maintaining compatibility across both the original Nintendo Switch and the larger Switch 2.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The Crkd Nitro Deck 2 serves as a follow-up accessory designed to fit both the original Nintendo Switch and the larger Switch 2.</li>\n      <li>The original Nitro Deck helped players avoid complicated Joy-Con repairs by introducing Hall effect sticks to drift-plagued consoles.</li>\n      <li>The accessory maintains the $59.99 price point established by its predecessor.</li>\n      <li>This slide-on peripheral continues a tradition of addressing hardware longevity issues through third-party design.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-ice-sheet-expansion-may-have-started-2-0-1792934757",
     "slug": "auto-ice-sheet-expansion-may-have-started-2-0-1792934757",
     "title": "Mr. Informer Briefing: Ice sheet expansion may have started 2,000 years ago, but we canceled that",

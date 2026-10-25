@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-zen-browser-is-the-arc-replacement-i-was-1792959493",
+    "slug": "auto-zen-browser-is-the-arc-replacement-i-was-1792959493",
+    "title": "Mr. Informer Briefing: Zen Browser is the Arc replacement I was looking for",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 25, 2026 - 20:18",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech117649/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Zen Browser is the Arc replacement I was looking for. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">I know many of you are mourning the loss of the Arc browser, and I get it.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Zen Browser is the Arc replacement I was looking for</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The shift in browser development away from original experimental designs toward new AI-focused applications highlights the fast-moving and volatile nature of software design. When popular tools like Arc are acquired and redirected toward projects like Dia, users and developers naturally search for alternative browsers that capture that same innovative spirit. For readers, this dynamic underscores how quickly beloved platforms can evolve or fade as corporate priorities and industry trends shift toward artificial intelligence.</p>\n\n    <h3>Technical context</h3>\n    <p>The excerpt touches on browser design and development, specifically noting how companies alter their focus from one application to another following corporate acquisitions. While the text does not detail specific codebases, protocols, or rendering engines, it references distinct browser products\u2014Arc, Zen Browser, and Dia\u2014representing different approaches to user interfaces and AI integration. These applications compete in a space where software architecture must balance custom user experience features with modern web compatibility.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Many users are mourning the loss of the Arc browser because it offered a fresh approach to browser design.</li>\n      <li>Atlassian acquired the company behind Arc last year.</li>\n      <li>Following the acquisition, the company shifted its focus to developing a new, heavily AI-focused browser called Dia.</li>\n      <li>Zen Browser is emerging as an alternative and replacement for users looking for what Arc previously provided.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/1018275/zen-browser-arc-replacement\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-this-switch-2-sequel-accessory-was-a-few-1792951048",
     "slug": "auto-this-switch-2-sequel-accessory-was-a-few-1792951048",
     "title": "Mr. Informer Briefing: This Switch 2 sequel accessory was a few millimeters away from being good",

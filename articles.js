@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-anthropic-officially-files-for-its-publi-1793028934",
+    "slug": "auto-anthropic-officially-files-for-its-publi-1793028934",
+    "title": "Mr. Informer Briefing: Anthropic officially files for its public debut",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 26, 2026 - 15:35",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech746700/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Anthropic officially files for its public debut. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Anthropic officially files for its public debut</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The decision by a major artificial intelligence player to pursue a public debut marks a significant milestone for the tech industry, as investors gain direct access to the booming generative AI sector. This move highlights the intense financial dynamics of the space, balancing rapid enterprise growth and soaring revenue against substantial losses. For readers, it underscores how high-stakes AI companies are navigating the public markets while attempting to balance commercial success with long-term foundational goals.</p>\n\n    <h3>Technical context</h3>\n    <p>An initial public offering allows a private company to sell shares to the public, shifting its financial reporting and governance into a public arena. In this case, the filing details both the surging commercial momentum driven by major enterprise adoption and the heavy financial investments required to sustain AI development. Additionally, the structure incorporates unique governance mechanisms specifically designed to protect the company&#x27;s stated AI safety mission and maintain founder control even after going public.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Anthropic has officially filed for an initial public offering to make its public debut.</li>\n      <li>The filing reveals soaring revenue alongside mounting financial losses.</li>\n      <li>The company is experiencing major enterprise adoption for its technology.</li>\n      <li>An unusual governance structure has been established to preserve founder control.</li>\n      <li>The governance design is also intended to protect the company&#x27;s AI safety mission.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-ifixit-s-look-inside-the-iphone-duo-may-1793002466",
     "slug": "auto-ifixit-s-look-inside-the-iphone-duo-may-1793002466",
     "title": "Mr. Informer Briefing: iFixit\u2019s look inside the iPhone Duo may explain those broken screens and hinges",

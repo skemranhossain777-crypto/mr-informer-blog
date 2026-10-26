@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-hegseth-warns-prediction-market-bets-war-1792980587",
+    "slug": "auto-hegseth-warns-prediction-market-bets-war-1792980587",
+    "title": "Mr. Informer Briefing: Hegseth warns prediction market bets warp military judgment, endanger troops",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "October 26, 2026 - 02:09",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech592705/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Hegseth warns prediction market bets warp military judgment, endanger troops. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Pentagon memo: Insider trading gives US enemies key intel on military operations.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Hegseth warns prediction market bets warp military judgment, endanger troops</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When national security matters intersect with speculative financial tools, the integrity of military decision-making can be severely compromised. This development highlights the growing risks that modern financial instruments pose to operational security and strategic planning. Readers should take away that the convergence of insider trading and prediction markets creates dangerous vulnerabilities that adversaries can exploit.</p>\n\n    <h3>Technical context</h3>\n    <p>The situation involves the use of prediction markets where individuals can place bets on real-world events, including military operations. According to the Pentagon memo, insider trading within these markets can leak sensitive information regarding US military activities. Adversaries can monitor these wagers as intelligence sources to gain insights into classified or impending operational plans, thereby endangering troops on the ground.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Hegseth warns that prediction market bets can warp military judgment and endanger troops.</li>\n      <li>A Pentagon memo highlights how insider trading in these markets gives US enemies key intelligence.</li>\n      <li>Speculative financial bets tied to real-world events pose significant risks to operational security.</li>\n      <li>Adversaries can potentially exploit prediction market data to track impending military operations.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-grok-releases-the-first-seven-minutes-of-1792968864",
     "slug": "auto-grok-releases-the-first-seven-minutes-of-1792968864",
     "title": "Mr. Informer Briefing: Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",

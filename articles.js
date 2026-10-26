@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-databricks-co-founder-shares-his-secrets-1793052117",
+    "slug": "auto-databricks-co-founder-shares-his-secrets-1793052117",
+    "title": "Mr. Informer Briefing: Databricks co-founder shares his secrets for winning big enterprises customers",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "October 26, 2026 - 22:01",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech967813/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Databricks co-founder shares his secrets for winning big enterprises customers. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Turns out selling to big companies isn\u2019t about having the shiniest tech: it\u2019s about hitching a ride on a giant\u2019s sales team.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Databricks co-founder shares his secrets for winning big enterprises customers</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Understanding the strategies behind enterprise sales offers a window into how major technology companies scale and secure high-value clients. In the broader tech industry, the dynamic between startup innovation and established corporate giants heavily influences market success. Readers should take away that technological superiority alone does not guarantee commercial dominance in the enterprise sector.</p>\n\n    <h3>Technical context</h3>\n    <p>The excerpt highlights a strategic approach to enterprise go-to-market execution, specifically focusing on leveraging existing sales infrastructure. Rather than relying solely on product features, companies can utilize established corporate sales teams to reach large enterprise customers. This operational tactic shifts the focus from product-led growth mechanics to strategic partnership and distribution alignment.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Selling to big companies is not primarily about having the shiniest technology.</li>\n      <li>Success in the enterprise market involves hitching a ride on a giant&#x27;s sales team.</li>\n      <li>Enterprise customer acquisition strategies often rely on leveraging existing corporate infrastructure.</li>\n      <li>Product quality takes a back seat to distribution relationships when targeting large organizations.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-anthropic-officially-files-for-its-publi-1793028934",
     "slug": "auto-anthropic-officially-files-for-its-publi-1793028934",
     "title": "Mr. Informer Briefing: Anthropic officially files for its public debut",

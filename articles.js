@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-disruptive-raises--10b-fund-to-make-big-1793130804",
+    "slug": "auto-disruptive-raises--10b-fund-to-make-big-1793130804",
+    "title": "Mr. Informer Briefing: Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 27, 2026 - 19:53",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech556157/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Disruptive raises $10B fund to make big bets on at least 10 companies. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Disruptive raises $10B fund to make big bets on at least 10 companies</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Venture capital funds of significant scale enable investors to make massive, concentrated financial bets on emerging technology sectors. As firms like Disruptive channel billions into high-profile startups, the broader industry trend points toward sustained, heavy investment in specialized infrastructure like chips and artificial intelligence. Readers should understand that large-scale capital deployment often accelerates the market presence and scaling capacity of disruptive early-stage companies.</p>\n\n    <h3>Technical context</h3>\n    <p>The financial mechanism involves raising a centralized capital pool to distribute substantial funding rounds across a targeted portfolio of private enterprises. In this context, the investments are directed toward specialized technology developers, such as hardware companies specializing in advanced chips and software firms building artificial intelligence voice-generation systems. These operations rely on venture funding to sustain high research and development costs before achieving broad commercial viability.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Disruptive has successfully raised a $10 billion fund.</li>\n      <li>The newly announced fund is intended to make big bets on at least 10 companies.</li>\n      <li>The investing firm has previously drawn media attention for funding chip startup Groq.</li>\n      <li>Disruptive has also previously invested in the artificial intelligence voice-generation startup ElevenLabs.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-we-ve-had-touchscreen-laptops-for-years-1793113198",
     "slug": "auto-we-ve-had-touchscreen-laptops-for-years-1793113198",
     "title": "Mr. Informer Briefing: We\u2019ve had touchscreen laptops for years. Can Apple make them better?",

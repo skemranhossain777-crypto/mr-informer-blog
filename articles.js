@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-openai-announces-three-big-science-disco-1793089706",
+    "slug": "auto-openai-announces-three-big-science-disco-1793089706",
+    "title": "Mr. Informer Briefing: OpenAI announces three big science discoveries and a new way to work with academics",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 27, 2026 - 08:28",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech961467/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on OpenAI announces three big science discoveries and a new way to work with academics. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more &quot;major&quot; discoveries in math, computer science, and physics.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"What&#x27;s different this time is the choice to have external experts that OpenAI describes as &quot;shepherds&quot; guiding the results in [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>OpenAI announces three big science discoveries and a new way to work with academics</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Announcements detailing major scientific discoveries driven by artificial intelligence highlight a shifting paradigm in how academic research and technological advancement intersect. By integrating external experts to guide the process, organizations are exploring collaborative frameworks that bridge the gap between automated problem-solving and human domain knowledge. Readers should recognize this as a step toward more structured cooperation between private AI developers and the scientific research community.</p>\n\n    <h3>Technical context</h3>\n    <p>OpenAI has released new developments spanning mathematics, computer science, and physics, following a prior release of manuscripts containing solutions to long-standing math questions. This latest iteration introduces external experts known as &quot;shepherds&quot; who actively guide the results produced by the systems. This approach pairs automated computational capabilities with human oversight to direct research outcomes in specialized scientific fields.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>OpenAI announced three major new discoveries in the fields of mathematics, computer science, and physics.</li>\n      <li>The latest rollout follows a previous mass release of manuscripts containing solutions to long-standing mathematics questions.</li>\n      <li>This announcement introduces a novel working method that incorporates external experts referred to as shepherds.</li>\n      <li>The shepherds play a role in guiding the results of the scientific discoveries produced through this initiative.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-microsoft-offers-to-buy-out-a-quarter-of-1793069214",
     "slug": "auto-microsoft-offers-to-buy-out-a-quarter-of-1793069214",
     "title": "Mr. Informer Briefing: Microsoft offers to buy out a quarter of its workforce",

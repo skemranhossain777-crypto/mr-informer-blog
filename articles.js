@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-microsoft-offers-to-buy-out-a-quarter-of-1793069214",
+    "slug": "auto-microsoft-offers-to-buy-out-a-quarter-of-1793069214",
+    "title": "Mr. Informer Briefing: Microsoft offers to buy out a quarter of its workforce",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "October 27, 2026 - 02:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech130018/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Microsoft offers to buy out a quarter of its workforce. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Employees in the US, Canada, India, and the UK may receive offers to leave MS today.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Microsoft offers to buy out a quarter of its workforce</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When a major technology company like Microsoft offers to buy out a significant portion of its workforce across multiple countries, it signals a major shift in corporate strategy and operational scaling. In the broader context of the tech industry, large-scale workforce reductions and voluntary departure programs often reflect changing market demands, economic realignments, or internal restructuring. Readers should take away that even industry giants continually evaluate their human capital needs, which can lead to sweeping changes for employees globally.</p>\n\n    <h3>Technical context</h3>\n    <p>The provided text does not contain information about underlying technologies, protocols, or computing concepts. Workforce buyouts and employment restructuring operate through human resources frameworks, corporate administration, and financial severance packages rather than software or hardware mechanisms. Consequently, the technical context of this development is strictly administrative and organizational rather than technical in nature.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Microsoft is offering to buy out a quarter of its workforce.</li>\n      <li>The potential offers to leave the company may reach employees today.</li>\n      <li>The affected regions include the US, Canada, India, and the UK.</li>\n      <li>The report comes from Ars Technica.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-databricks-co-founder-shares-his-secrets-1793052117",
     "slug": "auto-databricks-co-founder-shares-his-secrets-1793052117",
     "title": "Mr. Informer Briefing: Databricks co-founder shares his secrets for winning big enterprises customers",

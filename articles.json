@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-windows-11-gets-right-click-menu-improve-1793311833",
+    "slug": "auto-windows-11-gets-right-click-menu-improve-1793311833",
+    "title": "Mr. Informer Briefing: Windows 11 gets right-click menu improvements as PC revenue slides",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 29, 2026 - 22:10",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech156928/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Windows 11 gets right-click menu improvements as PC revenue slides. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The latest update also brings a cloud recovery option for PCs that won&#x27;t boot.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Windows 11 gets right-click menu improvements as PC revenue slides</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Software updates that combine interface refinements with critical system recovery tools demonstrate how developers continuously try to add value to operating systems even as hardware market conditions shift. For consumers and IT professionals alike, features that address core reliability concerns are critical for maintaining device functionality. Readers should take away that modern operating systems are evolving on dual tracks, improving everyday usability while simultaneously enhancing emergency maintenance capabilities.</p>\n\n    <h3>Technical context</h3>\n    <p>The update focuses on user interface refinements through right-click menu improvements alongside a new cloud recovery option designed for PCs that fail to boot. While specific protocol details are not provided in the source material, cloud recovery typically involves downloading system recovery images directly from remote servers to repair unbootable machines. This functionality leverages cloud connectivity to bypass local drive corruption issues during the operating system restoration process.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Windows 11 has received right-click menu improvements as part of its latest software update.</li>\n      <li>The update arrives during a period when PC revenue is experiencing a decline.</li>\n      <li>A new cloud recovery option has been introduced for personal computers that fail to boot properly.</li>\n      <li>The feature set combines everyday interface updates with emergency system maintenance tools.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-day-87-1793295865",
     "slug": "auto-day-87-1793295865",
     "title": "Mr. Informer Briefing: Day 87",

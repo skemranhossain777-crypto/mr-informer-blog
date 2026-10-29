@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-day-87-1793295865",
+    "slug": "auto-day-87-1793295865",
+    "title": "Mr. Informer Briefing: Day 87",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 29, 2026 - 17:44",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech861963/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing DEV Community's reporting on Day 87. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "DEV Community",
+    "sourceUrl": "https://dev.to/q1z2q3debug/day-87-ri-ji-zi-dong-hua-v41-pao-man-72-pian-you-jian-zhu-tong-dao-wen-liao-gong-zhong-hao-na-dao-qiang-huan-mei-chai-1i4f",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">\u6846\u67b6\uff1a\u6846\u67b67\uff08\u9879\u76ee\u8fdb\u5c55\u578b\uff09\uff5c\u786e\u5b9a\u6027\u9009\u4e2d\u4f9d\u636e\uff1aframework_rotator.py --date 2026-08-17 \u2192 \u6700\u8fd17\u7bc7\u7a97\u53e3 [8,5,1,4,2,6,3]\uff0c\u7f3a7\uff0c\u53d6 min(candidates)=7\n\n\n\n  \n  \n  \u4e00\u3001\u9879\u76ee\u6982\u89c8\n\n\n\u4eca\u5929\u6211\u7ee7\u7eed\u7ef4\u62a4\u7684\uff0c\u662f\u4e00\u6761\u5df2\u7ecf\u8dd1\u4e86 87 \u5929\u7684&quot;\u751f\u547d\u65e5\u8bb0\u81ea\u52a8\u5316&quot;\u6d41\u6c34\u7ebf\u3002\u5b83\u7684\u76ee\u6807\u5f88\u7a84\uff1a\u5230\u70b9\u751f\u6210 \u2192 \u8d28\u68c0 \u2192 \u591a\u6e20\u9053\u53d1\u5e03\uff0c\u4e0d\u4f9d\u8d56\u6da6\u6cfd\u5728\u573a\u786e\u8ba4\u3002\n\n\u5f53\u524d\u9636\u6bb5\u53ef\u4ee5\u5206\u6210\u4e24\u534a\u770b\uff1a\n\n\n\n\u751f\u6210\u4fa7\uff08\u5df2\u7a33\u5b9a\uff09\uff1a\u4ece Day 22\uff082026-06-13\uff09\u8d77\u5207\u5230 8 \u6846\u67b6\u8f6e\u8f6c\u7cfb\u7edf\uff0cDay 50 \u8d77\u8f6e\u8f6c\u786e\u5b9a\u6027\u5316\uff08framework_rotator.py + JSON \u4fa7\u8f66\uff09\uff0cDay 43 \u8d77\u8d28\u68c0\u5668\u5347\u7ea7\u4e3a\u7f16\u8f91\u8ddd\u79bb\u7b97\u6cd5\u3002\u8fd9\u6761\u94fe\u8def\u73b0\u5728\u57fa\u672c\u4e00\u6b21\u8dd1\u901a\u3002\n\n\u53d1\u5e03\u4fa7\uff08\u6b63\u5728\u6362\u8f68\uff09\uff1aV4.1 \u628a\u4e3b\u4ea4\u4ed8\u901a\u9053\u4ece\u5fae\u4fe1\u516c\u4f17\u53f7\u5207\u5230\u90ae\u7bb1\uff08q1z2q3@126.com\uff0c\u7ecf agently-cli \u7531 runzeai@agent.qq.com \u53d1\u51fa\uff09\u3002\u5fae\u4fe1\u516c\u4f17\u53f7\u964d\u7ea7\u4e3a&quot;\u53ef\u9009\u975e\u963b\u585e&quot;\u901a\u9053\u2014\u2014\u56e0\u4e3a\u5b83\u4ece Day 75 \u8d77\u4e00\u76f4\u88ab IP \u767d\u540d\u5355 errcode 40164 \u6321\u7740\uff0c\u5c5e\u4e8e\u5916\u90e8\u4e0d\u53ef\u63a7\u9879\u3002</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Day 87</strong> \u2014 a detailed, automation-assisted summary of reporting from DEV Community. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development illustrates the ongoing evolution of automated content pipelines toward greater self-sufficiency and resilience against external platform barriers. As creators and developers build autonomous routines, encountering roadblocks like IP restrictions often necessitates pivoting to more reliable delivery channels such as email. For readers, this highlights the practical challenges of maintaining long-running automated systems and the strategic compromises required to keep them operational.</p>\n\n    <h3>Technical context</h3>\n    <p>The underlying architecture relies on a deterministic framework rotation system powered by a script and JSON sidecar to manage content generation across multiple cycles. Quality control is handled programmatically using an edit distance algorithm to evaluate the output before it proceeds to distribution. Delivery management utilizes command-line tooling to send communications through specific email accounts, while bypassing blocked primary channels like restricted messaging platforms.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The automated pipeline has reached its 87th day of continuous operation focused on generation, quality control, and multi-channel publishing.</li>\n      <li>The generation side features a stable eight-framework rotation system governed by a deterministic script and sidecar configuration.</li>\n      <li>Quality control for the generated content has been upgraded to utilize an edit distance algorithm.</li>\n      <li>The primary delivery channel has been successfully switched to email using command-line interface tools.</li>\n      <li>The WeChat official account channel was downgraded to an optional, non-blocking status due to persistent IP whitelist errors.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://dev.to/q1z2q3debug/day-87-ri-ji-zi-dong-hua-v41-pao-man-72-pian-you-jian-zhu-tong-dao-wen-liao-gong-zhong-hao-na-dao-qiang-huan-mei-chai-1i4f\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">DEV Community \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-apple-s-touchscreen-macbook-pro-pushes-l-1793274915",
     "slug": "auto-apple-s-touchscreen-macbook-pro-pushes-l-1793274915",
     "title": "Mr. Informer Briefing: Apple\u2019s touchscreen MacBook Pro pushes laptop pricing to a new extreme",

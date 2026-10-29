@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-upwind-raises--400m-after-walking-away-f-1793244004",
+    "slug": "auto-upwind-raises--400m-after-walking-away-f-1793244004",
+    "title": "Mr. Informer Briefing: Upwind raises $400M after walking away from Datadog acquisition offer",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 29, 2026 - 03:20",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech186724/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Upwind raises $400M after walking away from Datadog acquisition offer. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Upwind raises $400M after walking away from Datadog acquisition offer</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development highlights the aggressive financial strategies and high valuations characteristic of the cloud security sector. Startups facing major acquisition decisions often weigh the immediate payout of a buyout against the long-term growth potential of remaining independent through substantial venture capital funding. For readers observing the tech industry, this move underscores how well-capitalized startups can pivot from potential sales to massive funding rounds to fuel their independent market presence.</p>\n\n    <h3>Technical context</h3>\n    <p>Upwind operates as a cloud security startup that recently secured a Series C funding round. The company achieved a 3.8 billion dollar valuation through this investment process, bypassing a potential acquisition offer that was valued at that same financial threshold. By choosing to raise capital rather than sell, the firm retained its corporate autonomy while securing substantial financial backing.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Upwind raised four hundred million dollars in a Series C funding round.</li>\n      <li>The startup achieved a valuation of three point eight billion dollars.</li>\n      <li>The company chose this funding route instead of accepting an acquisition offer from Datadog.</li>\n      <li>The acquisition offer matched the exact financial valuation of the new funding round.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-google-expands-ai-search-ads-globally-as-1793224713",
     "slug": "auto-google-expands-ai-search-ads-globally-as-1793224713",
     "title": "Mr. Informer Briefing: Google expands AI Search ads globally as core ad growth slows",

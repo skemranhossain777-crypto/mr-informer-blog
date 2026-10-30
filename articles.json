@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-dartmouth-s-provost-warned-us-about-ai-c-1793396751",
+    "slug": "auto-dartmouth-s-provost-warned-us-about-ai-c-1793396751",
+    "title": "Mr. Informer Briefing: Dartmouth's provost warned us about AI cheating\u2014but his own AI use cost him his job",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 30, 2026 - 21:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech346146/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Dartmouth's provost warned us about AI cheating\u2014but his own AI use cost him his job. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">People who love AI don&#x27;t always love telling others they used it.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Dartmouth&#x27;s provost warned us about AI cheating\u2014but his own AI use cost him his job</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This situation highlights the growing tension and hypocrisy surrounding the use of artificial intelligence in institutional leadership. When individuals in positions of authority issue warnings or policies regarding AI usage\u2014such as cheating\u2014while secretly utilizing it themselves, it damages public trust and organizational integrity. For readers, this serves as a reminder of the personal and professional risks associated with undeclared AI dependency, particularly as scrutiny over its ethical use intensifies.</p>\n\n    <h3>Technical context</h3>\n    <p>The report centers on the covert deployment of artificial intelligence by a high-ranking academic official in a context where its use was either hypocritical or prohibited relative to his public warnings. While the specific tools or prompts are not detailed in the excerpt, the reliance on automated systems to handle tasks usually expected of human intellect remains a central theme. This dynamic underscores how easily the line between helpful assistance and deceptive shortcut-taking can be crossed, even by those tasked with governing its use.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Dartmouth&#x27;s provost lost his job due to his own undisclosed use of artificial intelligence.</li>\n      <li>The incident occurred despite the provost having previously warned others about AI cheating.</li>\n      <li>The report was published by the source outlet Ars Technica.</li>\n      <li>The situation highlights the complex and often secretive ways professionals interact with AI tools.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-google-s-first-data-center-satellite-is-1793381054",
     "slug": "auto-google-s-first-data-center-satellite-is-1793381054",
     "title": "Mr. Informer Briefing: Google\u2019s first data center satellite is online and writing poetry",

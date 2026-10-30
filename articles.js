@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-here-s-why-you-re-about-to-see-more-ads-1793330528",
+    "slug": "auto-here-s-why-you-re-about-to-see-more-ads-1793330528",
+    "title": "Mr. Informer Briefing: Here\u2019s Why You\u2019re About to See More Ads in Google\u2019s AI Overviews",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 30, 2026 - 03:22",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech736443/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing CNET's reporting on Here\u2019s Why You\u2019re About to See More Ads in Google\u2019s AI Overviews. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "CNET",
+    "sourceUrl": "https://www.cnet.com/tech/services-and-software/google-expands-advertising-ai-mode-overviews/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">With Google now injecting \u201csponsored\u201d links directly into AI follow-up queries, traffic to online publishers will suffer even more.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Here\u2019s Why You\u2019re About to See More Ads in Google\u2019s AI Overviews</strong> \u2014 a detailed, automation-assisted summary of reporting from CNET. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When search engines alter how they present information by injecting sponsored links directly into conversational interfaces, the foundational economic relationship between search platforms and content creators shifts dramatically. As these features evolve to capture user attention earlier and keep them within the search ecosystem, online publishers face mounting pressure over declining referral traffic. Readers should understand that this marks a fundamental evolution in how information is monetized and retrieved online, moving further away from traditional web browsing.</p>\n\n    <h3>Technical context</h3>\n    <p>The underlying development involves Google modifying its AI Overviews feature to incorporate sponsored links directly into AI-generated follow-up queries. By embedding paid placements into conversational search results, the system blends commercial advertising with automated answers generated from web content. This technological integration changes the traditional query-and-link mechanism of search engines by interposing a monetized AI layer between the user and external publishers.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Google is now injecting sponsored links directly into AI follow-up queries within its search features.</li>\n      <li>This change in the AI Overviews interface is expected to cause traffic to online publishers to suffer even more.</li>\n      <li>The integration merges commercial advertising directly with AI-generated conversational responses.</li>\n      <li>Publishers face growing challenges as search platforms capture user engagement and traffic within the search engine itself.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.cnet.com/tech/services-and-software/google-expands-advertising-ai-mode-overviews/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">CNET \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-windows-11-gets-right-click-menu-improve-1793311833",
     "slug": "auto-windows-11-gets-right-click-menu-improve-1793311833",
     "title": "Mr. Informer Briefing: Windows 11 gets right-click menu improvements as PC revenue slides",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-google-s-first-data-center-satellite-is-1793381054",
+    "slug": "auto-google-s-first-data-center-satellite-is-1793381054",
+    "title": "Mr. Informer Briefing: Google\u2019s first data center satellite is online and writing poetry",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "October 30, 2026 - 17:24",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech290932/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Google\u2019s first data center satellite is online and writing poetry. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Google\u2019s first data center satellite is online and writing poetry</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Deploying advanced machine learning hardware into orbit represents a significant leap in edge computing, moving complex model execution off terrestrial servers and directly into space. As AI models become capable of running on satellite hardware, the aerospace and tech industries are unlocking new possibilities for real-time data processing far from traditional ground stations. For readers, this marks an early glimpse into an era where orbital infrastructure is not just for observation and communication, but for active, autonomous artificial intelligence processing.</p>\n\n    <h3>Technical context</h3>\n    <p>The deployment involves launching a Tensor Processing Unit (TPU) into space to run Google DeepMind&#x27;s Gemma 4 model directly on an orbital satellite. By operating a complex neural network on a TPU in orbit, the system demonstrates that specialized machine learning silicon can function outside of terrestrial data centers. This setup enables the satellite hardware to execute generative AI tasks, such as writing poetry, independently while in space.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Google has successfully brought its first TPU hardware online in space.</li>\n      <li>The orbital satellite is running a Google DeepMind Gemma 4 machine learning model.</li>\n      <li>The space-based AI system has demonstrated its capability by writing cheesy poetry.</li>\n      <li>This development marks a pioneering use of advanced AI infrastructure in an orbital environment.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-waymo-taps-toyota-to-supply-robotaxis-fo-1793360956",
     "slug": "auto-waymo-taps-toyota-to-supply-robotaxis-fo-1793360956",
     "title": "Mr. Informer Briefing: Waymo taps Toyota to supply robotaxis for Japan and the U.K.",

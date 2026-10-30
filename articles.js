@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-waymo-taps-toyota-to-supply-robotaxis-fo-1793360956",
+    "slug": "auto-waymo-taps-toyota-to-supply-robotaxis-fo-1793360956",
+    "title": "Mr. Informer Briefing: Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "October 30, 2026 - 11:49",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech302845/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Waymo taps Toyota to supply robotaxis for Japan and the U.K.. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Waymo will begin testing self-driving versions of Toyota&#x27;s electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Waymo taps Toyota to supply robotaxis for Japan and the U.K.</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Strategic partnerships between autonomous vehicle developers and major automotive manufacturers represent a critical step toward scaling self-driving technology globally. As companies like Waymo look beyond domestic markets to international territories like Japan and the U.K., collaborations with established global carmakers help navigate the complexities of international deployment. Readers should view this as a sign of the autonomous vehicle industry maturing through cross-border cooperation and dedicated hardware integration.</p>\n\n    <h3>Technical context</h3>\n    <p>The development involves integrating self-driving technology into Toyota&#x27;s electric bZ4X vehicles, which will begin testing in Japan next year. This initiative relies on combining Waymo&#x27;s autonomous driving system with Toyota&#x27;s electric vehicle platform. Such testing phases are essential for validating how automated systems handle foreign road networks, driving laws, and environmental conditions.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Waymo has partnered with Toyota to supply robotaxis for markets in Japan and the U.K.</li>\n      <li>Testing of self-driving Toyota electric bZ4X vehicles is scheduled to begin in Japan next year.</li>\n      <li>The initiative is part of a broader partnership between Waymo and the automaker.</li>\n      <li>The collaboration marks an expansion of Waymo&#x27;s autonomous vehicle testing into international territories.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-here-s-why-you-re-about-to-see-more-ads-1793330528",
     "slug": "auto-here-s-why-you-re-about-to-see-more-ads-1793330528",
     "title": "Mr. Informer Briefing: Here\u2019s Why You\u2019re About to See More Ads in Google\u2019s AI Overviews",

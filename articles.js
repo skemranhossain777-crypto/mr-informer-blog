@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-apple-ceo-says-the-company-doesn-t--want-1793490624",
+    "slug": "auto-apple-ceo-says-the-company-doesn-t--want-1793490624",
+    "title": "Mr. Informer Briefing: Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "October 31, 2026 - 23:50",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech498677/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Apple&#x27;s new CEO defended the company&#x27;s current position in the AI landscape.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development highlights how major technology companies approach emerging software trends, balancing market pressure with deliberate product strategy. In the broader industry, firms often rush to adopt new capabilities, whereas a more measured approach focuses on purposeful implementation. Readers should take away that strategic pacing can sometimes supersede speed when companies evaluate how to integrate advanced technologies into their ecosystems.</p>\n\n    <h3>Technical context</h3>\n    <p>Artificial intelligence integration involves embedding complex algorithms and machine learning capabilities into consumer devices and software platforms. According to the report, Apple&#x27;s leadership is currently defending the company&#x27;s specific positioning and readiness within this technological landscape. This implies a careful evaluation of how AI features are developed and deployed rather than merely adopting the technology for its own sake.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Apple&#x27;s CEO defended the company&#x27;s current position in the artificial intelligence landscape.</li>\n      <li>The leadership stated that the company does not want to ship artificial intelligence simply for the sake of it.</li>\n      <li>The report comes from TechCrunch.</li>\n      <li>The commentary addresses Apple&#x27;s strategic approach to emerging technology trends.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-seabirds-racing-home-over-the-ocean-can-1793479548",
     "slug": "auto-seabirds-racing-home-over-the-ocean-can-1793479548",
     "title": "Mr. Informer Briefing: Seabirds racing home over the ocean can get jet-lagged",

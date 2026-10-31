@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-seabirds-racing-home-over-the-ocean-can-1793479548",
+    "slug": "auto-seabirds-racing-home-over-the-ocean-can-1793479548",
+    "title": "Mr. Informer Briefing: Seabirds racing home over the ocean can get jet-lagged",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "October 31, 2026 - 20:45",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech312202/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Seabirds racing home over the ocean can get jet-lagged. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">A long flight home from feeding grounds messes with birds&#x27; internal clocks.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Seabirds racing home over the ocean can get jet-lagged</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When animals like seabirds experience disruptions to their internal clocks from long flights, it highlights the hidden physiological tolls of migration and foraging. Understanding how environmental factors and long-distance travel impact biological rhythms provides broader insight into animal behavior and health. Readers should take away that even creatures perfectly adapted for the open ocean are vulnerable to the physiological stresses of rapid travel.</p>\n\n    <h3>Technical context</h3>\n    <p>The phenomenon involves a disruption to the birds&#x27; internal biological clocks caused by the demands of long flights returning from feeding grounds over the ocean. This physiological misalignment mirrors the jet lag experienced by humans traveling across time zones. While brief, the provided details indicate that the physical journey itself is the primary driver of this internal desynchronization.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Seabirds can experience jet lag after making long flights home over the ocean.</li>\n      <li>The condition is caused by a disruption to the birds&#x27; internal clocks.</li>\n      <li>The stress stems specifically from long journeys returning from feeding grounds.</li>\n      <li>The phenomenon shows that ocean-faring birds are not immune to the physiological impacts of fatigue and travel.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-openai-reportedly-lowers-funding-target-1793464104",
     "slug": "auto-openai-reportedly-lowers-funding-target-1793464104",
     "title": "Mr. Informer Briefing: OpenAI reportedly lowers funding target for new round",

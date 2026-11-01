@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-techcrunch-mobility--a-new--bigger-av-bo-1793560548",
+    "slug": "auto-techcrunch-mobility--a-new--bigger-av-bo-1793560548",
+    "title": "Mr. Informer Briefing: TechCrunch Mobility: A new, bigger AV boom is here",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "November 01, 2026 - 19:15",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech185712/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on TechCrunch Mobility: A new, bigger AV boom is here. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>TechCrunch Mobility: A new, bigger AV boom is here</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Developments in transportation are increasingly intertwined with artificial intelligence, signaling a major shift in how the future of mobility is shaped. As autonomous vehicle technology experiences a resurgence, understanding these overarching industry trends helps readers navigate the evolving landscape of modern transit. The integration of AI into transportation hubs like TechCrunch Mobility highlights the growing scale and importance of this technological transformation.</p>\n\n    <h3>Technical context</h3>\n    <p>The intersection of transportation and artificial intelligence involves complex computational systems designed to manage and interpret future mobility trends. While specific protocols or algorithms are not detailed in the source material, the core concept relies on leveraging advanced software to power autonomous systems. This technological framework underpins the expanding role of AI in the latest generation of autonomous vehicle developments.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>TechCrunch Mobility serves as a hub focused on the future of transportation.</li>\n      <li>Artificial intelligence is playing a bigger role than ever in the mobility sector.</li>\n      <li>A new and larger autonomous vehicle boom is currently underway.</li>\n      <li>The evolving landscape highlights the intersection of advanced tech and transit.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-data-centers-are-now-a-midterm-issue--ev-1793535279",
     "slug": "auto-data-centers-are-now-a-midterm-issue--ev-1793535279",
     "title": "Mr. Informer Briefing: Data centers are now a midterm issue, even in Brooklyn",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-fda-wants-to-pull-its-approval-of-a-1793502093",
+    "slug": "auto-the-fda-wants-to-pull-its-approval-of-a-1793502093",
+    "title": "Mr. Informer Briefing: The FDA wants to pull its approval of a drug. It\u2019s not so easy.",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "November 01, 2026 - 03:01",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech969362/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on The FDA wants to pull its approval of a drug. It\u2019s not so easy.. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The regulator says Tavneos was approved on the basis of manipulated study data.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"Should patients still have access to it?\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The FDA wants to pull its approval of a drug. It\u2019s not so easy.</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When a regulatory agency attempts to reverse the approval of a medication, it highlights the immense challenges oversight bodies face in managing drug lifecycles after they reach the market. This situation underscores broader concerns about the integrity of clinical trial data and the complex legal and ethical dilemmas involved in stripping patients of access to an approved treatment. Readers should take away that ensuring safety and efficacy is an ongoing battle that extends far beyond initial market authorization.</p>\n\n    <h3>Technical context</h3>\n    <p>The regulatory process for pharmaceuticals relies heavily on clinical study data submitted to agencies like the FDA to determine approval status. When questions arise regarding the manipulation of this foundational data, regulators face the difficult task of re-evaluating a drug&#x27;s authorization. This involves weighing the integrity of the scientific evidence against the ongoing medical needs of patients who are currently relying on the medication.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The FDA is currently seeking to withdraw its approval for a drug named Tavneos.</li>\n      <li>The regulatory challenge stems from allegations that the drug was originally approved based on manipulated study data.</li>\n      <li>This situation raises critical questions about whether patients should maintain access to the medication while its approval status is contested.</li>\n      <li>The difficulty of pulling an approved drug highlights the complex nature of pharmaceutical oversight and market regulation.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-apple-ceo-says-the-company-doesn-t--want-1793490624",
     "slug": "auto-apple-ceo-says-the-company-doesn-t--want-1793490624",
     "title": "Mr. Informer Briefing: Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",

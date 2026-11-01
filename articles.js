@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-data-centers-are-now-a-midterm-issue--ev-1793535279",
+    "slug": "auto-data-centers-are-now-a-midterm-issue--ev-1793535279",
+    "title": "Mr. Informer Briefing: Data centers are now a midterm issue, even in Brooklyn",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 01, 2026 - 12:14",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech679994/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Data centers are now a midterm issue, even in Brooklyn. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">At a Brooklyn midterm party five days before Election Day, every conversation, from a council member\u2019s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Data centers are now a midterm issue, even in Brooklyn</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The intersection of artificial intelligence infrastructure and local politics highlights how rapidly emerging technology sectors are shifting from abstract industry trends into immediate community concerns. As digital infrastructure demands scale up to support modern computing needs, local populations and political figures are increasingly forced to grapple with the real-world footprint of these facilities. This dynamic demonstrates that decisions surrounding tech deployment are no longer confined to corporate boardrooms, but are now active battlegrounds in grassroots and municipal politics.</p>\n\n    <h3>Technical context</h3>\n    <p>The underlying issue driving these political discussions is the intensive resource demand of artificial intelligence and its supporting data center infrastructure. While specific architectural details are not provided in the excerpt, data centers function as the physical foundation for processing massive computational workloads required by modern AI systems. The concentration of these facilities within urban or residential regions introduces local policy debates surrounding resource consumption, land use, and municipal priorities.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Artificial intelligence and data centers have emerged as prominent topics in midterm political discussions.</li>\n      <li>Even in urban locations like Brooklyn, local political conversations are frequently dominated by AI infrastructure concerns.</li>\n      <li>A council member addressed the topic during a fireside chat five days before Election Day.</li>\n      <li>The subject sparked active debates concerning the Democratic Party and broader community implications.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-fda-wants-to-pull-its-approval-of-a-1793502093",
     "slug": "auto-the-fda-wants-to-pull-its-approval-of-a-1793502093",
     "title": "Mr. Informer Briefing: The FDA wants to pull its approval of a drug. It\u2019s not so easy.",

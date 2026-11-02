@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-germany-says-lawmakers--iphones-may-have-1793653172",
+    "slug": "auto-germany-says-lawmakers--iphones-may-have-1793653172",
+    "title": "Mr. Informer Briefing: Germany says lawmakers\u2019 iPhones may have been hacked with spyware",
+    "category": "Cyber Security",
+    "readTime": "1 min read",
+    "date": "November 02, 2026 - 20:59",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech84830/1200/800",
+    "tags": [
+      "Cyber Security",
+      "Zero-Day",
+      "Cryptography",
+      "Network Safety"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Germany says lawmakers\u2019 iPhones may have been hacked with spyware. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Germany says lawmakers\u2019 iPhones may have been hacked with spyware</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Incidents involving suspected spyware targeting political figures highlight the ongoing security vulnerabilities facing high-profile individuals and public officials. As digital surveillance tools become more sophisticated, the integrity of communications used by lawmakers remains a critical concern for national security and digital privacy. Readers should take away that even advanced consumer devices remain targets for targeted cyber attacks by unknown actors.</p>\n\n    <h3>Technical context</h3>\n    <p>The situation involves Apple issuing direct security warnings to device owners regarding potential state-sponsored or advanced spyware compromises. These notifications are part of a broader security mechanism designed to alert users when their hardware or software may have been infiltrated. While the specific exploit vector is not detailed, such attacks typically leverage targeted vulnerabilities to gain unauthorized access to mobile operating systems.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>German lawmakers and a filmmaker received notifications from Apple about potential iPhone hacks.</li>\n      <li>Apple&#x27;s automated warning system flagged the devices as possibly compromised by spyware.</li>\n      <li>The source outlet reporting this cybersecurity development is TechCrunch.</li>\n      <li>Further details regarding the identity of the attackers or the specific spyware used were not provided in the excerpt.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-borrowed-reading--stories-from-our-exten-1793614447",
     "slug": "auto-borrowed-reading--stories-from-our-exten-1793614447",
     "title": "Mr. Informer Briefing: Borrowed reading: stories from our extended colleagues",

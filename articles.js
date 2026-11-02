@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-openai-might-rebrand-its-data-centers-as-1793577627",
+    "slug": "auto-openai-might-rebrand-its-data-centers-as-1793577627",
+    "title": "Mr. Informer Briefing: OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 02, 2026 - 00:00",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech917044/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Data centers are deeply unpopular.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"But what if we called them something else?\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Public perception and community pushback surrounding heavy infrastructure projects remain major hurdles for the tech industry as AI infrastructure scales up. Rebranding initiatives reflect a broader corporate strategy of managing public relations and shifting the narrative around large-scale technological developments. Readers should take away that tech companies are actively seeking ways to navigate growing friction with local communities over resource consumption and the physical footprint of new facilities.</p>\n\n    <h3>Technical context</h3>\n    <p>The report addresses the branding and public perception surrounding data centers, which serve as the physical infrastructure housing the heavy compute power necessary to train and run artificial intelligence systems. While the excerpt mentions &quot;AI compute campuses&quot; as a potential new term, it does not provide specific technical details regarding hardware, cooling systems, or network protocols. The fundamental underlying concept involves shifting the linguistic framing of massive computing facilities to sound less industrial and more aligned with research or educational hubs.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Data centers currently face deep unpopularity among the public.</li>\n      <li>OpenAI is considering a potential rebrand of these facilities to call them AI compute campuses.</li>\n      <li>This naming shift attempts to alter how large-scale computing infrastructure is perceived.</li>\n      <li>The available report focuses entirely on this conceptual renaming strategy rather than operational changes.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-techcrunch-mobility--a-new--bigger-av-bo-1793560548",
     "slug": "auto-techcrunch-mobility--a-new--bigger-av-bo-1793560548",
     "title": "Mr. Informer Briefing: TechCrunch Mobility: A new, bigger AV boom is here",

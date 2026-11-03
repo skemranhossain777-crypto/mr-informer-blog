@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-at-home-in-space--opens--caps-air-and-s-1793673991",
+    "slug": "auto-at-home-in-space--opens--caps-air-and-s-1793673991",
+    "title": "Mr. Informer Briefing: \"At Home in Space\" opens, caps Air and Space Museum renovation",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "November 03, 2026 - 02:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech454524/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on \"At Home in Space\" opens, caps Air and Space Museum renovation. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The Smithsonian&#x27;s National Air and Space Museum has all of its &quot;space&quot; back open.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>&quot;At Home in Space&quot; opens, caps Air and Space Museum renovation</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The reopening of museum spaces represents a significant milestone for cultural institutions striving to reconnect the public with historical milestones and technological achievements. As major exhibitions complete their updates, visitors gain renewed access to the physical artifacts that chart humanity&#x27;s progression in exploration. For the broader industry and cultural sector, completing large-scale renovations signals a return to full public engagement and education after periods of closure.</p>\n\n    <h3>Technical context</h3>\n    <p>The Smithsonian&#x27;s National Air and Space Museum has fully reopened its &quot;space&quot; exhibits, marking the completion of its comprehensive renovation project. This development means that the institution now has all of its designated space areas accessible to the public once again. The milestone signifies the culmination of modernization and refurbishment efforts within the prominent museum facility.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The Smithsonian&#x27;s National Air and Space Museum has fully reopened all of its space-related exhibits.</li>\n      <li>This milestone successfully caps off a comprehensive renovation project at the museum.</li>\n      <li>Visitors now have complete access to the museum&#x27;s space galleries once again.</li>\n      <li>The reopening restores the institution&#x27;s full capacity to showcase its space history collections.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-germany-says-lawmakers--iphones-may-have-1793653172",
     "slug": "auto-germany-says-lawmakers--iphones-may-have-1793653172",
     "title": "Mr. Informer Briefing: Germany says lawmakers\u2019 iPhones may have been hacked with spyware",

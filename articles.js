@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-waymo-confirms-it-will-split-with-uber-i-1793818818",
+    "slug": "auto-waymo-confirms-it-will-split-with-uber-i-1793818818",
+    "title": "Mr. Informer Briefing: Waymo confirms it will split with Uber in January 2028",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "November 04, 2026 - 19:00",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech962443/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Waymo confirms it will split with Uber in January 2028. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Waymo confirms it will split with Uber in January 2028</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Strategic shifts between major players in the autonomous vehicle and ride-hailing sectors highlight how shifting partnerships can reshape competitive landscapes. As companies realign their alliances, consumers and industry observers can expect altered market dynamics in affected regions. This development reflects the broader trend of autonomous technology firms and ride-sharing platforms navigating the balance between collaboration and direct competition.</p>\n\n    <h3>Technical context</h3>\n    <p>The operational split involves autonomous vehicle networks and ride-hailing infrastructure integration. By parting ways, the systems and partnerships supporting autonomous rides will operate independently to enable direct competition in specific markets. Uber&#x27;s existing network of multiple autonomous vehicle partners will facilitate this transition and subsequent market positioning.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Waymo has confirmed that it will officially split with Uber in January 2028.</li>\n      <li>The upcoming separation will establish direct competition between the companies in their operating markets.</li>\n      <li>Uber maintains partnerships with multiple other autonomous vehicle providers on its network.</li>\n      <li>The split signifies a shift in how autonomous vehicle technology integrates with major ride-hailing platforms.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-anthropic-is-working-on-a-system-to-prov-1793753859",
     "slug": "auto-anthropic-is-working-on-a-system-to-prov-1793753859",
     "title": "Mr. Informer Briefing: Anthropic is working on a system to prove AI models\u2019 identity",

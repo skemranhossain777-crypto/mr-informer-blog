@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-after-the-midterms--a-bigger-clash-over-1793840929",
+    "slug": "auto-after-the-midterms--a-bigger-clash-over-1793840929",
+    "title": "Mr. Informer Briefing: After the midterms, a bigger clash over data centers could be coming",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "November 05, 2026 - 01:08",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech773243/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on After the midterms, a bigger clash over data centers could be coming. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Data center opposition crossed party lines in Tuesday\u2019s midterms.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>After the midterms, a bigger clash over data centers could be coming</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>As data center developments increasingly face opposition that crosses party lines, local resistance is shaping up to become a major bipartisan flashpoint. This trend highlights a broader industry friction where rapid digital infrastructure growth collides with community-level concerns. Readers should take away that future tech expansion will likely face complex political hurdles regardless of which party is in power.</p>\n\n    <h3>Technical context</h3>\n    <p>Data centers are large physical facilities used to house computer systems and associated components, such as telecommunications and storage systems, which are foundational to modern digital infrastructure. The excerpt indicates that public pushback against these facilities successfully bridged traditional political divides during the midterms. Understanding this dynamic requires recognizing how localized opposition to physical tech footprints can unify otherwise disparate political groups.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Data center opposition crossed party lines in the midterms.</li>\n      <li>A bigger clash over data centers could be coming after the midterms.</li>\n      <li>The report comes from TechCrunch.</li>\n      <li>Local and political resistance to data infrastructure is gaining bipartisan traction.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-waymo-confirms-it-will-split-with-uber-i-1793818818",
     "slug": "auto-waymo-confirms-it-will-split-with-uber-i-1793818818",
     "title": "Mr. Informer Briefing: Waymo confirms it will split with Uber in January 2028",

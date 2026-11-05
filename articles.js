@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-google--meta-and-tiktok-are-all-suing-ca-1793905928",
+    "slug": "auto-google--meta-and-tiktok-are-all-suing-ca-1793905928",
+    "title": "Mr. Informer Briefing: Google, Meta and TikTok are all suing California to block social media law intended to help kids",
+    "category": "Cyber Security",
+    "readTime": "2 min read",
+    "date": "November 05, 2026 - 19:12",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech560406/1200/800",
+    "tags": [
+      "Cyber Security",
+      "Zero-Day",
+      "Cryptography",
+      "Network Safety"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Engadget's reporting on Google, Meta and TikTok are all suing California to block social media law intended to help kids. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Engadget",
+    "sourceUrl": "https://www.engadget.com/2308280/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Assembly Bill 1709 demands that platforms remove &quot;psychologically exploitative features.&quot;</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Google, Meta and TikTok are all suing California to block social media law intended to help kids</strong> \u2014 a detailed, automation-assisted summary of reporting from Engadget. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When major technology companies join forces to legally challenge legislation, it highlights the intense friction between government regulation and platform design practices. This development reflects a broader industry trend where tech giants fiercely resist state-level mandates aimed at altering user experiences and content delivery systems for minors. Readers should take away that the legal battle over California&#x27;s Assembly Bill 1709 sets a critical precedent for how far states can go in policing digital features marketed to children.</p>\n\n    <h3>Technical context</h3>\n    <p>Assembly Bill 1709 targets features deemed &quot;psychologically exploitative,&quot; requiring platforms to physically remove them to comply with the law. While the excerpt does not detail the exact mechanics of these features, such regulations typically challenge how algorithms, notification loops, and infinite scroll mechanisms engage users. Platforms like Google, Meta, and TikTok rely heavily on these integrated software architectures to maintain user retention and engagement.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Google, Meta, and TikTok are collectively suing California to block a new social media law.</li>\n      <li>The legislation in question is Assembly Bill 1709.</li>\n      <li>The disputed law is intended to help kids by protecting them from targeted harms.</li>\n      <li>Assembly Bill 1709 specifically demands that platforms remove psychologically exploitative features.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.engadget.com/2308280/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Engadget \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-apple-is-reportedly-cutting-budgets-for-1793872823",
     "slug": "auto-apple-is-reportedly-cutting-budgets-for-1793872823",
     "title": "Mr. Informer Briefing: Apple is reportedly cutting budgets for its internal AI usage",

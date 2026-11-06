@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-at-least-10-local-governments-have-moved-1793959427",
+    "slug": "auto-at-least-10-local-governments-have-moved-1793959427",
+    "title": "Mr. Informer Briefing: At least 10 local governments have moved to drop Flock\u2019s surveillance cameras since summer",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "November 06, 2026 - 10:03",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech196831/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on At least 10 local governments have moved to drop Flock\u2019s surveillance cameras since summer. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The concerns range from privacy to how data is shared (and with whom) to procurement concerns.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>At least 10 local governments have moved to drop Flock\u2019s surveillance cameras since summer</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>As surveillance technology becomes increasingly common in municipal infrastructure, growing scrutiny over privacy and data governance highlights a rising tension between public safety initiatives and civil liberties. When local governments begin rolling back deployments of automated monitoring tools due to procurement and data-sharing worries, it reflects a broader public demand for transparency and accountability in civic tech adoption. Readers should note that community pushback is actively shaping how municipalities evaluate the deployment of private contractor hardware and data networks.</p>\n\n    <h3>Technical context</h3>\n    <p>Flock operates surveillance cameras used by local governments to monitor public spaces and capture data streams, which then involve automated processing, storage, and sharing protocols. The deployment of these camera networks raises technical questions regarding how captured information is transmitted, secured, and distributed to various entities. Concerns specifically center on the mechanisms of data sharing and the administrative procurement processes used to integrate these surveillance systems into local infrastructure.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>At least ten local governments have decided to drop Flock surveillance cameras since the summer.</li>\n      <li>The decisions to remove the cameras are driven by a mix of privacy, data-sharing, and procurement concerns.</li>\n      <li>Questions have been raised regarding exactly how the captured data is shared and who receives access to it.</li>\n      <li>Municipalities are facing growing scrutiny over the procurement processes used to acquire these surveillance technologies.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-the-new-york-times-reportedly-in-talks-t-1793927654",
     "slug": "auto-the-new-york-times-reportedly-in-talks-t-1793927654",
     "title": "Mr. Informer Briefing: The New York Times reportedly in talks to buy Letterboxd for $330 million",

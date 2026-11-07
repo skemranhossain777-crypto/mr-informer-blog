@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-parents-want-safer-phones-for-kids--thes-1794085895",
+    "slug": "auto-parents-want-safer-phones-for-kids--thes-1794085895",
+    "title": "Mr. Informer Briefing: Parents want safer phones for kids. These companies are answering the call.",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "November 07, 2026 - 21:11",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech857775/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Parents want safer phones for kids. These companies are answering the call.. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Parents want safer phones for kids. These companies are answering the call.</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>As parents increasingly seek alternatives to unrestricted smartphones, the technology market is responding with specialized devices designed specifically for children. This trend highlights a growing consumer demand for digital wellbeing and controlled access, shifting focus away from conventional devices that may overwhelm younger users. Readers should take away that the market is actively adapting to parental concerns by offering form factors that range from feature-limited mobile phones to minimalist home phones.</p>\n\n    <h3>Technical context</h3>\n    <p>The development centers on modifying traditional mobile technology into specialized hardware and software configurations tailored for younger users. These devices utilize restricted feature sets and minimalist designs to reduce the digital footprint typically associated with modern smartphones. By scaling back capabilities, these companies create controlled communication environments that limit unmonitored or unrestricted access.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Parents are increasingly seeking alternatives to traditional, unrestricted smartphones for their children.</li>\n      <li>A growing number of companies are developing mobile devices specifically designed for kids.</li>\n      <li>These alternative products include both feature-limited mobile devices and minimalist home phones.</li>\n      <li>The trend reflects a broader industry response to parental demand for safer communication tools.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-alpine-linux-and-openssh-patch-flaw-that-1794071248",
     "slug": "auto-alpine-linux-and-openssh-patch-flaw-that-1794071248",
     "title": "Mr. Informer Briefing: Alpine Linux and OpenSSH patch flaw that\u2019s as bad as it can get",

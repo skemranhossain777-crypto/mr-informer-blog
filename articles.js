@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-sequoia-shutting-down-its-scouts-program-1794043419",
+    "slug": "auto-sequoia-shutting-down-its-scouts-program-1794043419",
+    "title": "Mr. Informer Briefing: Sequoia shutting down its Scouts program marks the end of an era",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 07, 2026 - 09:23",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech648621/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Sequoia shutting down its Scouts program marks the end of an era. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Sequoia shutting down its Scouts program marks the end of an era</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The decision by a prominent venture capital firm to shut down its foundational scout program highlights how investment strategies in the tech industry continuously evolve. When pioneer firms alter their approaches, it often signals a broader shift across the venture capital landscape regarding early-stage investment models. Readers should take away that even long-standing industry norms are subject to re-evaluation as market conditions and structural limits change.</p>\n\n    <h3>Technical context</h3>\n    <p>The venture capital scouts model involves firms providing capital to individuals\u2014often founders or operators\u2014to invest in very early-stage startups on behalf of the primary fund. According to the provided text, this model was pioneered by Sequoia and subsequently adopted by many other venture capital firms. A growing consensus now suggests that this specific approach has reached its functional limits in its current form.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Sequoia is shutting down its pioneering scouts program.</li>\n      <li>The move marks the end of an era for the venture capital industry.</li>\n      <li>Many other VC firms previously followed Sequoia&#x27;s lead by adopting similar scout models.</li>\n      <li>A developing consensus indicates the current form of the scouts model has hit its limits.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-openai-reportedly-raises-an-additional-1794011365",
     "slug": "auto-openai-reportedly-raises-an-additional-1794011365",
     "title": "Mr. Informer Briefing: OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",

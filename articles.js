@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-megaspeed-exec-was-recruited-to-spy-on-n-1794140589",
+    "slug": "auto-megaspeed-exec-was-recruited-to-spy-on-n-1794140589",
+    "title": "Mr. Informer Briefing: Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 08, 2026 - 12:23",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech961166/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia&#x27;s CEO.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Corporate espionage targeting high-profile technology executives highlights the intense geopolitical competition surrounding artificial intelligence and semiconductor leadership. Incidents of this nature underscore how state intelligence agencies increasingly view private sector tech firms and their leadership as critical strategic targets. For industry observers, this development serves as a reminder of the rising security risks facing executives at the forefront of critical technologies like semiconductors and AI.</p>\n\n    <h3>Technical context</h3>\n    <p>The situation involves alleged intelligence operations directed by a nation-state&#x27;s security apparatus against the leadership of a major semiconductor company. While specific operational details are limited, corporate espionage in the tech sector typically involves attempts to illicitly acquire proprietary strategies, research, or operational insights. In this case, US intelligence reportedly documented the recruitment effort involving a technology executive targeted specifically at the chief executive of Nvidia.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>A US intelligence memo reportedly claims that China\u2019s Ministry of State Security recruited a female technology executive.</li>\n      <li>The targeted individual in the alleged espionage effort was Nvidia&#x27;s CEO.</li>\n      <li>The memo detailing this recruitment was circulated earlier this year.</li>\n      <li>The report highlights growing intelligence and security concerns surrounding top figures in the technology sector.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-after-the-midterms--things-are-looking-r-1794107358",
     "slug": "auto-after-the-midterms--things-are-looking-r-1794107358",
     "title": "Mr. Informer Briefing: After the midterms, things are looking rocky for Elon Musk and data centers",

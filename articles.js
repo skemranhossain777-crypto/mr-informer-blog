@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-after-the-midterms--things-are-looking-r-1794107358",
+    "slug": "auto-after-the-midterms--things-are-looking-r-1794107358",
+    "title": "Mr. Informer Briefing: After the midterms, things are looking rocky for Elon Musk and data centers",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "November 08, 2026 - 03:09",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech849170/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on After the midterms, things are looking rocky for Elon Musk and data centers. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">On Equity, we unpacked what the midterms mean for the tech industry.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>After the midterms, things are looking rocky for Elon Musk and data centers</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader technology landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from TechCrunch or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-parents-want-safer-phones-for-kids--thes-1794085895",
     "slug": "auto-parents-want-safer-phones-for-kids--thes-1794085895",
     "title": "Mr. Informer Briefing: Parents want safer phones for kids. These companies are answering the call.",

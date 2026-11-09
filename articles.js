@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-apps-to-distract-you-from-the-endless-cy-1794183311",
+    "slug": "auto-apps-to-distract-you-from-the-endless-cy-1794183311",
+    "title": "Mr. Informer Briefing: Apps to distract you from the endless cycle of doomscrolling",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "November 09, 2026 - 00:15",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech498438/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Apps to distract you from the endless cycle of doomscrolling. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">It&#x27;s hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that\u2019s engaging and productive.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Apps to distract you from the endless cycle of doomscrolling</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The constant urge to mindlessly consume negative news is a widespread challenge for modern smartphone users, leading to the creation of digital wellbeing tools. As software developers increasingly focus on interventions that redirect user attention toward more productive avenues, consumers are offered new ways to reclaim their time. This trend highlights a growing industry recognition that digital habits require technological countermeasures to help users regain control over their daily focus.</p>\n\n    <h3>Technical context</h3>\n    <p>These digital wellbeing tools function as software applications designed to interrupt habitual behavior patterns on mobile devices. By intervening in how users interact with their screens, the software aims to steer them away from compulsive scrolling and toward more engaging, productive content. While the specific underlying mechanisms are not detailed in the source material, such apps generally operate by gating access, monitoring screen habits, or offering curated alternatives to standard feeds.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Doomscrolling is a difficult cycle to break, but various apps exist to help users manage the habit.</li>\n      <li>These tools are designed to encourage people to spend more time on engaging and productive content.</li>\n      <li>The primary goal of these applications is to reduce mindless scrolling and improve overall digital habits.</li>\n      <li>Consumers looking to alter their screen time behaviors now have access to dedicated software solutions.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-snl-has-a-new-impression-of-elon-musk-1794165219",
     "slug": "auto-snl-has-a-new-impression-of-elon-musk-1794165219",
     "title": "Mr. Informer Briefing: SNL has a new impression of Elon Musk, \u2018the worst thing South Africa has ever done\u2019",

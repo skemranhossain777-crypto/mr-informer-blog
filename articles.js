@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-t-mobile-illegally-imposed-50-gb-cap-on-1794433097",
+    "slug": "auto-t-mobile-illegally-imposed-50-gb-cap-on-1794433097",
+    "title": "Mr. Informer Briefing: T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "November 11, 2026 - 21:38",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech988587/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Law requires 25Mbps home Internet.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"T-Mobile lowers speed to 600Kbps after 50GB cap.\"</p>\n      <cite>\u2014 Ars Technica</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Regulatory oversight of low-income internet programs highlights the ongoing tensions between telecom providers and government standards for digital equity. When major carriers allegedly fail to meet mandated service thresholds, it directly impacts vulnerable populations who rely on these affordable connections for daily needs. Readers should note how consumer protection enforcement actively targets discrepancies between advertised broadband access and actual network performance.</p>\n\n    <h3>Technical context</h3>\n    <p>The dispute centers on service requirements for a low-income home internet plan, which legally mandates a minimum download speed of 25Mbps. According to the report, T-Mobile applies a 50GB data cap to the plan and subsequently reduces user speeds to 600Kbps once that threshold is crossed. This substantial drop-off effectively restricts data-intensive tasks and falls well short of the legal 25Mbps speed requirement after the cap is reached.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>New York authorities state T-Mobile illegally placed a 50GB cap on a low-income home internet plan.</li>\n      <li>The affected plan is legally required to provide a home internet speed of 25Mbps.</li>\n      <li>Once users hit the 50GB cap, T-Mobile lowers their connection speed down to 600Kbps.</li>\n      <li>The enforcement action addresses the gap between required broadband standards and carrier throttling practices.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-i-asked-every-tv-manufacturer-17-questio-1794402479",
     "slug": "auto-i-asked-every-tv-manufacturer-17-questio-1794402479",
     "title": "Mr. Informer Briefing: I asked every TV manufacturer 17 questions about how they spy on you",

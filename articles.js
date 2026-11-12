@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-who-could-replace-jensen-huang--a-highly-1794458771",
+    "slug": "auto-who-could-replace-jensen-huang--a-highly-1794458771",
+    "title": "Mr. Informer Briefing: Who could replace Jensen Huang? A highly unscientific list of possible successors",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "November 12, 2026 - 04:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech203012/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Who could replace Jensen Huang? A highly unscientific list of possible successors. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Who could replace Jensen Huang? A highly unscientific list of possible successors</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The departure or replacement of a high-profile technology executive is a critical moment for any major company, particularly one driving massive industry shifts like Nvidia. When leadership stability comes into question, it highlights broader corporate governance challenges and the heavy reliance of tech giants on visionary founders. Readers should take away that executive succession planning is vital for maintaining investor confidence and long-term strategic direction in fast-moving markets.</p>\n\n    <h3>Technical context</h3>\n    <p>While the provided report focuses on corporate leadership rather than a specific engineering protocol, it addresses the structural management of a major technology firm. The excerpt notes that Nvidia currently lacks a formal succession plan for its chief executive officer, Jensen Huang. Managing leadership transitions effectively requires aligning corporate oversight with ongoing technological developments and operational strategies.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Nvidia currently lacks a formal succession plan for its chief executive officer.</li>\n      <li>The company&#x27;s current CEO, Jensen Huang, is described as being in hot water.</li>\n      <li>TechCrunch has drafted a highly unscientific shortlist of possible successors to replace Huang.</li>\n      <li>The report raises questions about leadership continuity at one of the tech industry&#x27;s most influential companies.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-t-mobile-illegally-imposed-50-gb-cap-on-1794433097",
     "slug": "auto-t-mobile-illegally-imposed-50-gb-cap-on-1794433097",
     "title": "Mr. Informer Briefing: T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",

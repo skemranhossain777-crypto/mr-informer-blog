@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-the-unfolding-jensen-huang-scandal--a-ti-1794519503",
+    "slug": "auto-the-unfolding-jensen-huang-scandal--a-ti-1794519503",
+    "title": "Mr. Informer Briefing: The unfolding Jensen Huang scandal: a timeline",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 12, 2026 - 21:38",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech653937/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on The unfolding Jensen Huang scandal: a timeline. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"and China race to develop the most advanced AI infrastructure.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>The unfolding Jensen Huang scandal: a timeline</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The sudden departure of a major technology executive due to a personal scandal highlights how deeply leadership stability is tied to the competitive landscape of the tech industry. In the context of the broader geopolitical race to build advanced artificial intelligence infrastructure, corporate leadership changes at critical companies can introduce unexpected vulnerabilities and shifts. Readers should take away that executive actions can have immediate and widespread ripple effects far beyond a single firm&#x27;s boardroom.</p>\n\n    <h3>Technical context</h3>\n    <p>The report centers on the resignation of Nvidia&#x27;s leader following an affair, a development carrying potential ramifications for national security. This situation intersects with the technological competition between the United States and China focused on developing advanced artificial intelligence infrastructure. Leadership stability at key hardware and infrastructure providers remains a vital component of this high-stakes technological race.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Jensen Huang has resigned from his position at Nvidia.</li>\n      <li>The departure follows an affair involving the executive.</li>\n      <li>This scandal could potentially impact national security considerations.</li>\n      <li>The event occurs amid an ongoing technological race between the U.S. and China.</li>\n      <li>The competition centers specifically on developing advanced AI infrastructure.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-nvidia-s-jensen-huang-resigns--chipmaker-1794492651",
     "slug": "auto-nvidia-s-jensen-huang-resigns--chipmaker-1794492651",
     "title": "Mr. Informer Briefing: Nvidia\u2019s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",

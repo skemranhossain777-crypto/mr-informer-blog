@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-nvidia-s-jensen-huang-resigns--chipmaker-1794492651",
+    "slug": "auto-nvidia-s-jensen-huang-resigns--chipmaker-1794492651",
+    "title": "Mr. Informer Briefing: Nvidia\u2019s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "November 12, 2026 - 14:10",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech535862/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Nvidia\u2019s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Nvidia\u2019s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Leadership transitions at major technology companies are always significant, particularly when they involve foundational figures like Nvidia&#x27;s former chief executive. This sudden change highlights how personal conduct and security concerns can immediately impact corporate governance at the highest levels of the tech industry. Readers should take away that executive stability is fragile, and unexpected events can force swift leadership overhauls among dominant chipmakers.</p>\n\n    <h3>Technical context</h3>\n    <p>The provided report notes that Nvidia has installed its CFO, Colette Kress, as interim CEO following the resignation of Jensen Huang. This governance shift occurs in the wake of revelations regarding Huang&#x27;s personal life and alleged foreign intelligence connections. While the excerpt does not detail technical engineering or semiconductor protocols, it highlights the administrative mechanisms companies use to maintain operational continuity during executive crises.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Nvidia has named CFO Colette Kress as its interim chief executive.</li>\n      <li>Former CEO Jensen Huang resigned from his position at the chipmaker.</li>\n      <li>The leadership change comes days after Huang admitted to a romantic affair.</li>\n      <li>The affair reportedly involved an alleged Chinese spy.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-who-could-replace-jensen-huang--a-highly-1794458771",
     "slug": "auto-who-could-replace-jensen-huang--a-highly-1794458771",
     "title": "Mr. Informer Briefing: Who could replace Jensen Huang? A highly unscientific list of possible successors",

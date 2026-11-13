@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-rocket-report--starship-set-for-historic-1794576908",
+    "slug": "auto-rocket-report--starship-set-for-historic-1794576908",
+    "title": "Mr. Informer Briefing: Rocket Report: Starship set for historic test flight; a century of Electron",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "November 13, 2026 - 13:35",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech590239/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Rocket Report: Starship set for historic test flight; a century of Electron. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">&quot;You can simplify it as a big tank feeding engines.&quot;</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Rocket Report: Starship set for historic test flight; a century of Electron</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader Rocket Report landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from Ars Technica or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-democrats-launch-nvidia-investigation--w-1794542248",
     "slug": "auto-democrats-launch-nvidia-investigation--w-1794542248",
     "title": "Mr. Informer Briefing: Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",

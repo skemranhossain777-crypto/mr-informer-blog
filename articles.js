@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-starship-flight-15-powers-to-orbit-setti-1794628554",
+    "slug": "auto-starship-flight-15-powers-to-orbit-setti-1794628554",
+    "title": "Mr. Informer Briefing: Starship flight 15 powers to orbit\u2014setting up a possible catch on Saturday",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "November 14, 2026 - 03:55",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech569852/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Starship flight 15 powers to orbit\u2014setting up a possible catch on Saturday. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">One way or another, the company will get some more data on Saturday.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Starship flight 15 powers to orbit\u2014setting up a possible catch on Saturday</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Developments in reusable heavy-lift launch systems represent a major shift in the economics and operational cadence of spaceflight. As companies push toward rapid reusability and operational milestones like catching massive rockets, the broader aerospace industry moves closer to high-frequency launch models. Readers should view these tests as stepping stones toward routine orbital missions and data gathering that informs future flight hardware.</p>\n\n    <h3>Technical context</h3>\n    <p>The process relies on rigorous flight testing to gather empirical data under real-world orbital conditions. During missions like Starship flight 15, the vehicle powers to orbit before initiating complex recovery maneuvers, such as a possible catch sequence. Engineers analyze the telemetry and physical performance data collected during these flights to refine guidance, navigation, and structural integrity for subsequent attempts.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Starship flight 15 successfully powered its way into orbit according to the report.</li>\n      <li>The successful flight has set up a possible catch attempt scheduled for Saturday.</li>\n      <li>The upcoming weekend operation will provide the company with valuable new flight data.</li>\n      <li>Testing operations will yield critical insights regardless of the exact outcome on Saturday.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-this-young-startup-wants-to-power-floati-1794603826",
     "slug": "auto-this-young-startup-wants-to-power-floati-1794603826",
     "title": "Mr. Informer Briefing: This young startup wants to power floating data centers with the ocean\u2019s heat, and investors are already on board",

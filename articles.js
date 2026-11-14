@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-got-an-iphone-duo--these-9-settings-make-1794684793",
+    "slug": "auto-got-an-iphone-duo--these-9-settings-make-1794684793",
+    "title": "Mr. Informer Briefing: Got an iPhone Duo? These 9 settings make it easier to use",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "November 14, 2026 - 19:33",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech11777/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Got an iPhone Duo? These 9 settings make it easier to use. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple&#x27;s foldable iPhone easier to use every day.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Got an iPhone Duo? These 9 settings make it easier to use</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>As foldable devices and new form factors like the iPhone Duo enter the market, optimizing the user experience through software tweaks becomes essential for everyday usability. These configuration adjustments help users navigate the unique physical and functional changes of innovative hardware designs. Readers should understand that exploring built-in device settings can significantly improve how they interact with emerging smartphone technologies.</p>\n\n    <h3>Technical context</h3>\n    <p>The report highlights adjustments involving Touch ID shortcuts, volume buttons, and camera tricks designed for the iPhone Duo. These settings manipulate the device&#x27;s software interface to streamline hardware interactions and daily operational workflows. Such tweaks rely on the underlying operating system&#x27;s ability to remap physical and biometric inputs to specific software functions.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The iPhone Duo features specific settings designed to make the foldable device easier to use every day.</li>\n      <li>Users can utilize Touch ID shortcuts to streamline their daily interactions with the device.</li>\n      <li>Smarter volume buttons offer additional functional improvements for the new form factor.</li>\n      <li>Camera tricks are included among the nine tweaks highlighted for the foldable iPhone.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-james-webb-telescope-finds-ice-older-tha-1794660025",
     "slug": "auto-james-webb-telescope-finds-ice-older-tha-1794660025",
     "title": "Mr. Informer Briefing: James Webb telescope finds ice older than the star it orbits",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-watch-spacex-successfully-execute-the-fi-1794737174",
+    "slug": "auto-watch-spacex-successfully-execute-the-fi-1794737174",
+    "title": "Mr. Informer Briefing: Watch SpaceX successfully execute the first \u2018chopstick\u2019 catch of Starship",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "November 15, 2026 - 10:06",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech713677/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Watch SpaceX successfully execute the first \u2018chopstick\u2019 catch of Starship. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">After aborting a planned catch of Starship Flight 15&#x27;s booster, SpaceX successfully captured Starship with its &quot;Mechazilla&quot; launch and catch tower for the first time.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"The company has performed &#x27;chopstick&#x27; catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Watch SpaceX successfully execute the first \u2018chopstick\u2019 catch of Starship</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader technology landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from The Verge or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-winemakers-are-learning-that-conservatio-1794702564",
     "slug": "auto-winemakers-are-learning-that-conservatio-1794702564",
     "title": "Mr. Informer Briefing: Winemakers are learning that conservation can be good for business",

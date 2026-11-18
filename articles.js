@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-copilot-is--the-new-os-for-work---and-no-1794999060",
+    "slug": "auto-copilot-is--the-new-os-for-work---and-no-1794999060",
+    "title": "Mr. Informer Briefing: Copilot is \"the new OS for work,\" and now Office runs inside of it",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 18, 2026 - 10:51",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech604377/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Copilot is \"the new OS for work,\" and now Office runs inside of it. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Copilot is &quot;the new OS for work,&quot; and now Office runs inside of it</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>As major tech platforms increasingly position artificial intelligence as the primary interface for productivity, tools like Microsoft Copilot are transforming how users interact with foundational software. By housing classic applications like Word, Excel, and PowerPoint directly within an AI assistant, the industry is shifting away from traditional, app-centric workflows toward a unified conversational experience. Readers should take away that the boundary between standalone productivity software and AI interfaces is rapidly dissolving, pointing to a future where software operates continuously in the background to manage daily tasks.</p>\n\n    <h3>Technical context</h3>\n    <p>The integration brings core document editing and spreadsheet applications directly inside the Copilot environment, effectively altering the traditional desktop hierarchy where applications host assistant features. According to the report, this architectural shift will soon expand to include always-on agents, which operate continuously rather than only when prompted by a user. This approach relies on tightly coupling document processing tools with conversational AI layers to streamline user workflows.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Microsoft is positioning its Copilot tool as a new operating system for work.</li>\n      <li>Traditional office applications like Word, Excel, and PowerPoint now operate entirely within Copilot.</li>\n      <li>The software architecture is evolving to support always-on agents as the next major development.</li>\n      <li>This shift fundamentally changes how users access and interact with standard office productivity tools.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-san-diego-dumps-both-flock-cameras-and-s-1794960553",
     "slug": "auto-san-diego-dumps-both-flock-cameras-and-s-1794960553",
     "title": "Mr. Informer Briefing: San Diego dumps both Flock cameras and smart streetlights",

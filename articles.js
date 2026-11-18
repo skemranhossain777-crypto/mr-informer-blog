@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-san-diego-dumps-both-flock-cameras-and-s-1794960553",
+    "slug": "auto-san-diego-dumps-both-flock-cameras-and-s-1794960553",
+    "title": "Mr. Informer Briefing: San Diego dumps both Flock cameras and smart streetlights",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "November 18, 2026 - 00:09",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech217310/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on San Diego dumps both Flock cameras and smart streetlights. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">500+ cameras will go dark just 3 years after mayor urged approval.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>San Diego dumps both Flock cameras and smart streetlights</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The decision by San Diego to disable hundreds of surveillance and smart streetlighting cameras highlights the growing tension between municipal tech deployment and public oversight. As cities grapple with privacy concerns and the long-term viability of automated monitoring infrastructure, similar rollbacks could become a trend in local governance. Readers should take away that the rapid adoption of urban tech is increasingly facing pushback, leading to sudden shifts in city surveillance policy.</p>\n\n    <h3>Technical context</h3>\n    <p>The systems involved include Flock automated license plate reading cameras and smart streetlights, which collectively form an urban monitoring network of over 500 units. These technologies typically rely on optical sensors, data processing algorithms, and network connectivity to capture and transmit real-time information to municipal or law enforcement operators. In this case, the shutdown forces these connected observational devices to permanently go dark just a few years after their initial approval.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>San Diego is shutting down more than 500 Flock cameras and smart streetlights.</li>\n      <li>The decision comes just three years after the mayor originally urged approval for the tech deployment.</li>\n      <li>The move results in the entire network of cameras going dark.</li>\n      <li>The city is completely dumping both the camera systems and the smart streetlights.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-meta-launches-direct--a-standalone-messa-1794927946",
     "slug": "auto-meta-launches-direct--a-standalone-messa-1794927946",
     "title": "Mr. Informer Briefing: Meta launches Direct, a standalone messaging app for Instagram",

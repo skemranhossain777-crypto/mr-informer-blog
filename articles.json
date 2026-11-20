@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-apple-is-hiring-engineers-to-build-its-o-1795171292",
+    "slug": "auto-apple-is-hiring-engineers-to-build-its-o-1795171292",
+    "title": "Mr. Informer Briefing: Apple is hiring engineers to build its own AI agent",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 20, 2026 - 10:41",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech617225/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing The Verge's reporting on Apple is hiring engineers to build its own AI agent. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"That&#x27;s according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [\u2026]\"</p>\n      <cite>\u2014 The Verge</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Apple is hiring engineers to build its own AI agent</strong> \u2014 a detailed, automation-assisted summary of reporting from The Verge. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The development of agentic AI assistants represents a major push by major technology companies to move beyond static chatbots toward systems that can autonomously execute complex workflows. As tech giants compete to integrate deeply capable automation into their ecosystems, this trend highlights the industry-wide transition toward software capable of navigating the web and controlling applications on behalf of users. For a reader, this signals that future device interactions will likely rely on proactive AI agents capable of multi-step task execution rather than simple query-and-response interfaces.</p>\n\n    <h3>Technical context</h3>\n    <p>According to the report, the underlying technology involves building an agentic AI assistant capable of performing a wide range of tasks such as browsing the web, operating across various applications, writing code, and calling services. This architecture requires specialized engineering to enable the AI to interact with software environments dynamically and autonomously execute instructions. The initiative relies on hiring specialized engineers to lead the creation of these capabilities, pointing to a development phase focused on core agent architecture and application integration.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Apple is actively hiring engineers to build its own proprietary AI agent.</li>\n      <li>The upcoming AI assistant is designed to perform tasks like browsing the web and working across applications.</li>\n      <li>The system will also be capable of writing code and calling external services.</li>\n      <li>The hiring initiative was revealed through a job listing spotted by Bloomberg.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Verge \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-apple-may-be-developing-its-own-ai-agent-1795139775",
     "slug": "auto-apple-may-be-developing-its-own-ai-agent-1795139775",
     "title": "Mr. Informer Briefing: Apple may be developing its own AI agent that runs your Mac",

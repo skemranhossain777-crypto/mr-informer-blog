@@ -1,5 +1,33 @@
 [
   {
+    "id": "auto-apple-may-be-developing-its-own-ai-agent-1795139775",
+    "slug": "auto-apple-may-be-developing-its-own-ai-agent-1795139775",
+    "title": "Mr. Informer Briefing: Apple may be developing its own AI agent that runs your Mac",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 20, 2026 - 01:56",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech686898/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Apple may be developing its own AI agent that runs your Mac. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Apple may be developing its own AI agent that runs your Mac</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The development of advanced artificial intelligence agents highlights a major competitive shift in the tech industry as major players race to create autonomous software capable of executing complex user tasks. This trend reflects an ongoing transition from passive assistants to active operational systems that can navigate software environments on behalf of users. Readers should understand that these competing frameworks are positioning themselves to redefine how humans interact with their personal devices and operating systems.</p>\n\n    <h3>Technical context</h3>\n    <p>Artificial intelligence agents are designed to function autonomously by processing user commands and executing multi-step workflows across applications. In this context, Apple is reportedly developing agent technology to compete with existing systems like Meta Muse, Instinct, Claude, and OpenAI Dots. This functionality relies on software capable of understanding interface contexts and performing actions natively on a computer system.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Apple is reportedly developing its own artificial intelligence agent designed to run on Mac computers.</li>\n      <li>The planned software is positioned to compete directly with existing platforms such as Meta Muse, Instinct, Claude, and OpenAI Dots.</li>\n      <li>This development marks Apple&#x27;s entry into the competitive space of autonomous AI task-execution agents.</li>\n      <li>The reported agent aims to handle complex user commands and operations directly within the operating system environment.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-you-re-right--llms-will-get-climate-inf-1795117373",
     "slug": "auto-you-re-right--llms-will-get-climate-inf-1795117373",
     "title": "Mr. Informer Briefing: \"You\u2019re right\"\u2014LLMs will get climate info wrong if you ask",

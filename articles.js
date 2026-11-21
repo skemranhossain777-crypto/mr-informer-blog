@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-trump-fcc-declares-california-isn-t-allo-1795225945",
+    "slug": "auto-trump-fcc-declares-california-isn-t-allo-1795225945",
+    "title": "Mr. Informer Briefing: Trump FCC declares California isn't allowed to enforce phone service rules",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "November 21, 2026 - 01:52",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech696645/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Trump FCC declares California isn't allowed to enforce phone service rules. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">FCC preempts state rules that require AT&amp;T to keep offering home phone service.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Trump FCC declares California isn&#x27;t allowed to enforce phone service rules</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development highlights the ongoing regulatory tug-of-war between federal oversight and state-level consumer protections in the telecommunications sector. As federal authorities increasingly preempt state rules, consumers and industry observers are forced to navigate shifting frameworks regarding legacy services like traditional home phones. For readers, this underscores how federal regulatory decisions can directly override local mandates that attempt to keep carriers offering specific services.</p>\n\n    <h3>Technical context</h3>\n    <p>The Federal Communications Commission (FCC) utilized its preemption authority to invalidate state-level regulations. In this context, preemption allows federal policy and agency rulings to supersede state laws or rules that govern telecommunications providers like AT&amp;T. By blocking these state rules, the FCC removed the specific local obligations requiring the telecom giant to continue offering home phone service.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The FCC has preempted state rules that required AT&amp;T to keep offering home phone service.</li>\n      <li>This regulatory decision directly blocks California from enforcing its own phone service rules.</li>\n      <li>The action centers on state-level mandates that forced AT&amp;T to maintain traditional home phone offerings.</li>\n      <li>The ruling demonstrates federal authority overriding state-level telecommunications requirements.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-super-hot-rock-geothermal-could-end-data-1795202563",
     "slug": "auto-super-hot-rock-geothermal-could-end-data-1795202563",
     "title": "Mr. Informer Briefing: Super-hot rock geothermal could end data center energy woes",

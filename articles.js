@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-signal-restricts-mobile-screenshots-as-i-1795308367",
+    "slug": "auto-signal-restricts-mobile-screenshots-as-i-1795308367",
+    "title": "Mr. Informer Briefing: Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "November 22, 2026 - 00:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech657514/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Signal is limiting users&#x27; ability to take screenshots in both its Android and iOS apps.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>As privacy-focused platforms confront the growing capabilities of automated surveillance, restricting basic device functions like screenshots represents a frontline defense in securing user communications. This type of development reflects a broader industry trend where messaging apps must continuously adapt their security postures to counter AI-driven threats. Readers should take away that maintaining digital privacy now requires developers to implement stricter controls over native operating system features.</p>\n\n    <h3>Technical context</h3>\n    <p>Signal is implementing restrictions on users&#x27; ability to capture screenshots across both its Android and iOS applications. By limiting these screenshot capabilities directly within the app interface, the platform aims to prevent unauthorized capture of sensitive communications. This mobile-level intervention addresses potential surveillance risks inherent in modern smartphone operating systems.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Signal is limiting the ability to take screenshots in its Android and iOS applications.</li>\n      <li>The restriction is being implemented as the platform confronts the existential threat of AI surveillance.</li>\n      <li>The new limitations directly affect how users capture content on both major mobile operating systems.</li>\n      <li>This security adjustment highlights the ongoing battle between privacy-focused messaging apps and automated surveillance techniques.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-race-realism--isn-t-realistic-and-it-is-1795285500",
     "slug": "auto-race-realism--isn-t-realistic-and-it-is-1795285500",
     "title": "Mr. Informer Briefing: \u201cRace realism\u201d isn\u2019t realistic\u2014and it isn\u2019t good science",

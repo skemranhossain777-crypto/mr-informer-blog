@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-anthropic-launches-claude-ship--letting-1795474839",
+    "slug": "auto-anthropic-launches-claude-ship--letting-1795474839",
+    "title": "Mr. Informer Briefing: Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "category": "AI & Future",
+    "readTime": "1 min read",
+    "date": "November 23, 2026 - 23:00",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech155264/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">As AI-generated code piles up, Anthropic&#x27;s new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This development is notable because it signals continued momentum in the broader technology landscape. Readers following this space should monitor how this story develops in the coming weeks, particularly any follow-up reporting from TechCrunch or competing outlets.</p>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-how-notable-capital--gic--and-baillie-gi-1795433295",
     "slug": "auto-how-notable-capital--gic--and-baillie-gi-1795433295",
     "title": "Mr. Informer Briefing: How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",

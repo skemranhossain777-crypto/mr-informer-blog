@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-how-notable-capital--gic--and-baillie-gi-1795433295",
+    "slug": "auto-how-notable-capital--gic--and-baillie-gi-1795433295",
+    "title": "Mr. Informer Briefing: How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 23, 2026 - 11:28",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech49995/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Three significant backers share what gave them conviction to bet billions on Anthropic.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Understanding how major institutional investors evaluate high-stakes artificial intelligence investments offers a rare glimpse into the strategies shaping the current tech landscape. As venture capital firms and global investment funds pour billions into foundational AI developers ahead of potential public offerings, these decisions highlight the shifting dynamics of late-stage tech funding. Readers looking at the broader industry should note how early institutional conviction translates into massive market influence as these companies scale toward public markets.</p>\n\n    <h3>Technical context</h3>\n    <p>The financial backing described centers on multi-billion dollar private investments in Anthropic, an artificial intelligence company, ahead of a projected Initial Public Offering (IPO). Venture capital and sovereign wealth funds such as Notable Capital, GIC, and Baillie Gifford provided substantial capital by evaluating the company&#x27;s long-term market potential and underlying capabilities. This process involves institutional backers assessing proprietary AI technology and scaling strategies to justify unprecedented capital deployment in the private market sector.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Notable Capital, GIC, and Baillie Gifford made substantial multi-billion dollar investments in Anthropic.</li>\n      <li>The financial backers shared the specific reasoning and conviction behind their massive funding decisions.</li>\n      <li>The large-scale investments occurred prior to any anticipated public offering by Anthropic.</li>\n      <li>The reporting highlights the high-stakes financial strategies driving late-stage artificial intelligence development.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-today-s-nyt-connections-hints-and-answer-1795396426",
     "slug": "auto-today-s-nyt-connections-hints-and-answer-1795396426",
     "title": "Mr. Informer Briefing: Today\u2019s NYT Connections Hints and Answers for\u00a0Monday, Nov. 23, #1261",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-amazon-drone-crashes-on-garage-after-del-1795549604",
+    "slug": "auto-amazon-drone-crashes-on-garage-after-del-1795549604",
+    "title": "Mr. Informer Briefing: Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 24, 2026 - 19:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech793787/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Amazon drone crashes on garage after delivering shampoo, draws FAA probe. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Amazon says Prime Air drones made \u201chundreds of thousands\u201d of deliveries in 2026.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Amazon drone crashes on garage after delivering shampoo, draws FAA probe</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Incidents involving autonomous delivery drones colliding with property highlight the ongoing safety and regulatory challenges facing commercial unmanned aerial vehicle programs as they scale operations. When delivery drones experience accidents during routine missions, it draws regulatory scrutiny from aviation authorities that can impact the broader adoption of automated logistics. Readers should note that scaling commercial drone delivery involves balancing high-volume delivery milestones with strict safety records to satisfy federal regulators.</p>\n\n    <h3>Technical context</h3>\n    <p>The incident involves an Amazon Prime Air delivery drone that crashed onto a garage following a shampoo delivery, prompting an investigation by the Federal Aviation Administration (FAA). According to the company, these autonomous delivery drones executed hundreds of thousands of deliveries in the year 2026. The technology relies on autonomous flight and navigation systems to complete last-mile drop-offs without direct human pilot intervention during the delivery run.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>An Amazon Prime Air drone crashed onto a garage after delivering a bottle of shampoo.</li>\n      <li>The accident has drawn an official investigation by the Federal Aviation Administration.</li>\n      <li>Amazon reported that its Prime Air drones completed hundreds of thousands of deliveries in 2026.</li>\n      <li>The incident underscores the safety and regulatory hurdles facing commercial drone delivery networks.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-trump-halts-iowa-detonation--says-new-go-1795505320",
     "slug": "auto-trump-halts-iowa-detonation--says-new-go-1795505320",
     "title": "Mr. Informer Briefing: Trump halts Iowa detonation, says new governor to blame if it blows accidentally",

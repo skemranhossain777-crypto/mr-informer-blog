@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-yale-s-sonnenfeld--nvidia-is-a--detrimen-1795578680",
+    "slug": "auto-yale-s-sonnenfeld--nvidia-is-a--detrimen-1795578680",
+    "title": "Mr. Informer Briefing: Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 25, 2026 - 03:51",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech499907/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Yale&#x27;s Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang&#x27;s White House\u2013backed return as Nvidia&#x27;s CEO and board member, could prove a giant mistake, exposing the directors to &quot;historic&quot; personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries&#x27; hands.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Discussions surrounding corporate leadership, board governance, and national industrial policy highlight the complex tensions between market successes and geopolitical interests. As high-tech corporations wield immense economic influence, scrutiny over executive roles and the global supply chain for critical hardware becomes increasingly intense. Readers should note how corporate governance decisions can intersect with broader national security concerns regarding advanced technology.</p>\n\n    <h3>Technical context</h3>\n    <p>The situation involves advanced chips and corporate leadership structures, specifically focusing on the status of Jensen Huang as CEO and board member of Nvidia. According to the report, these developments have drawn criticism regarding how advanced computing components are handled and distributed internationally. Additionally, the scenario raises legal questions concerning the personal liability of corporate directors in light of ongoing lawsuits.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Yale&#x27;s Jeffrey Sonnenfeld describes Nvidia as a detriment to United States industrial might rather than a champion.</li>\n      <li>Jensen Huang has returned as Nvidia&#x27;s CEO and board member with backing from the White House.</li>\n      <li>Sonnenfeld warns this return could be a major mistake that exposes directors to historic personal liability from lawsuits.</li>\n      <li>Concerns are raised over whether the company has helped place advanced chips into the hands of adversaries.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-amazon-drone-crashes-on-garage-after-del-1795549604",
     "slug": "auto-amazon-drone-crashes-on-garage-after-del-1795549604",
     "title": "Mr. Informer Briefing: Amazon drone crashes on garage after delivering shampoo, draws FAA probe",

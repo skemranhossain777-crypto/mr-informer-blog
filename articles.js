@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-nvidia-hits-pause-on-chip-shipments-to-s-1795725612",
+    "slug": "auto-nvidia-hits-pause-on-chip-shipments-to-s-1795725612",
+    "title": "Mr. Informer Briefing: Nvidia hits pause on chip shipments to Southeast Asia",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 26, 2026 - 20:40",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech714952/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on Nvidia hits pause on chip shipments to Southeast Asia. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S.</p>\n\n    <div class=\"article-quote-box\">\n      <p>\"tightens its push to keep AI chips out of China.\"</p>\n      <cite>\u2014 TechCrunch</cite>\n    </div>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Nvidia hits pause on chip shipments to Southeast Asia</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This pause highlights the complex geopolitical challenges technology companies face as export controls expand to prevent advanced hardware from reaching restricted markets. Such developments illustrate how tightening regulatory measures can abruptly disrupt established supply chains and regional distribution channels for high-performance computing hardware. Readers should take away that international trade policies and national security measures are becoming central factors in where and how artificial intelligence infrastructure is deployed globally.</p>\n\n    <h3>Technical context</h3>\n    <p>The situation involves high-performance server hardware powered by advanced artificial intelligence chips produced by Nvidia. Manufacturing partners have been instructed to halt shipments of these servers to specific Southeast Asian nations as part of a broader American effort to restrict indirect access to the technology. These hardware restrictions target the specialized processing units required to train and run complex artificial intelligence models.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Nvidia has instructed its manufacturing partners to temporarily halt server shipments to Malaysia, Singapore, Thailand, and Indonesia.</li>\n      <li>The pause is a direct result of tightened United States efforts to prevent artificial intelligence chips from reaching China.</li>\n      <li>The affected hardware specifically includes servers configured for advanced computing and artificial intelligence workloads.</li>\n      <li>The action underscores how international trade restrictions and export controls continue to impact regional technology supply chains.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-google-search-alternative-kagi-launches-1795693199",
     "slug": "auto-google-search-alternative-kagi-launches-1795693199",
     "title": "Mr. Informer Briefing: Google search alternative Kagi launches Gmail rival",

@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-google-search-alternative-kagi-launches-1795693199",
+    "slug": "auto-google-search-alternative-kagi-launches-1795693199",
+    "title": "Mr. Informer Briefing: Google search alternative Kagi launches Gmail rival",
+    "category": "AI & Future",
+    "readTime": "2 min read",
+    "date": "November 26, 2026 - 11:39",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech357056/1200/800",
+    "tags": [
+      "AI & Future",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Automation"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Google search alternative Kagi launches Gmail rival. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">The pitch is an unusual combination of privacy promises and AI features.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Google search alternative Kagi launches Gmail rival</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>The launch of a new email service by a prominent search alternative represents a significant move toward challenging dominant tech ecosystems with privacy-focused and AI-integrated products. As users increasingly seek alternatives to mainstream platforms, companies are packaging strict privacy commitments with advanced technological capabilities to capture market share. This development highlights a broader industry trend where specialized tech firms expand their product suites to compete directly with legacy giants like Google.</p>\n\n    <h3>Technical context</h3>\n    <p>The service in question, developed by search alternative Kagi, operates as a rival to Gmail by offering a distinct pitch to users. According to the available details, this new platform relies on a combination of explicit privacy promises and built-in artificial intelligence features. While deep technical specifications are not provided, the core architecture merges data protection standards with AI-driven capabilities to handle email communications.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Kagi, known as a search alternative, has officially launched a new rival to Gmail.</li>\n      <li>The core pitch of the service centers on an unusual combination of privacy promises and AI features.</li>\n      <li>The development introduces a privacy-focused competitor to the traditional email market.</li>\n      <li>Users looking for alternatives to mainstream tech providers now have a new option bridging AI and data protection.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-european-spacecraft-finds-chaotic-scene-1795655812",
     "slug": "auto-european-spacecraft-finds-chaotic-scene-1795655812",
     "title": "Mr. Informer Briefing: European spacecraft finds chaotic scene after asteroid deflection experiment",

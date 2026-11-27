@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-intel-faced-a-choice--give-trump-10--or-1795794386",
+    "slug": "auto-intel-faced-a-choice--give-trump-10--or-1795794386",
+    "title": "Mr. Informer Briefing: Intel faced a choice: Give Trump 10% or face the consequences",
+    "category": "Tech Pulse",
+    "readTime": "2 min read",
+    "date": "November 27, 2026 - 15:46",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech784310/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on Intel faced a choice: Give Trump 10% or face the consequences. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>Intel faced a choice: Give Trump 10% or face the consequences</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>This situation highlights the complex intersections between government funding, corporate leverage, and political pressure in the technology sector. As governments increasingly use financial incentives to shape domestic industrial policy, companies face unprecedented non-market demands to secure vital public support. Readers should understand that policy decisions and political maneuvering can heavily influence corporate ownership and financial health in critical tech industries.</p>\n\n    <h3>Technical context</h3>\n    <p>The report centers on a high-stakes standoff involving Intel, where billions of dollars in promised government grants were tied to the surrender of a corporate stake. This form of conditionality represents a direct mechanism of state intervention in corporate capitalization and equity distribution. The core technical mechanism at play involves leveraging public capital subsidies to extract ownership concessions from a major semiconductor manufacturer.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>Intel faced pressure to surrender a 10 percent equity stake in order to unlock billions in promised grants.</li>\n      <li>The situation forced the company into a difficult choice regarding government demands and potential consequences.</li>\n      <li>The reported events illustrate how large-scale financial incentives can be leveraged for corporate ownership control.</li>\n      <li>The conflict highlights the intense pressure surrounding public funding allocations for critical technology infrastructure.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-is-alice-huang-a-spy-or-not-1795749666",
     "slug": "auto-is-alice-huang-a-spy-or-not-1795749666",
     "title": "Mr. Informer Briefing: Is Alice Huang a spy or not?",

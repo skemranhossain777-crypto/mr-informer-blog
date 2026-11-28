@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-2026-kindle-paperwhite-review--page-turn-1795893336",
+    "slug": "auto-2026-kindle-paperwhite-review--page-turn-1795893336",
+    "title": "Mr. Informer Briefing: 2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "November 28, 2026 - 19:15",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech339031/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing Ars Technica's reporting on 2026 Kindle Paperwhite review: Page-turn buttons are back, for a price. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Kindles are getting costlier faster than they&#x27;re getting better.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>2026 Kindle Paperwhite review: Page-turn buttons are back, for a price</strong> \u2014 a detailed, automation-assisted summary of reporting from Ars Technica. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>When hardware product lines mature, manufacturers often reintroduce legacy features at a higher price point to segment their user base and drive up average selling prices. This development reflects a broader consumer electronics trend where minor incremental hardware upgrades are bundled with steeper costs. Readers should take away that modern device evolution often prioritizes premium pricing structures over proportional leaps in utility.</p>\n\n    <h3>Technical context</h3>\n    <p>The review focuses on the 2026 Kindle Paperwhite, which brings back physical page-turn buttons alongside a higher price tag. According to the report, the device&#x27;s technological enhancements do not match the rapid pace of its price increases. This highlights the ongoing engineering and design choices involved in balancing physical user interface controls with modern reader manufacturing.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The 2026 Kindle Paperwhite review highlights the return of physical page-turn buttons.</li>\n      <li>The device comes with a higher price tag compared to previous iterations.</li>\n      <li>Kindles are reportedly getting costlier at a faster rate than they are improving.</li>\n      <li>The core takeaway focuses on the growing mismatch between device pricing and performance gains.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ars Technica \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-a-month-with-the-iphone-duo-has-changed-1795863797",
     "slug": "auto-a-month-with-the-iphone-duo-has-changed-1795863797",
     "title": "Mr. Informer Briefing: A month with the iPhone Duo has changed how I use my phone",

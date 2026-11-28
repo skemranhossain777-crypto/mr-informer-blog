@@ -1,5 +1,33 @@
 const ARTICLES_DATA = [
   {
+    "id": "auto-x-finally-gets-parental-controls-after-2-1795826884",
+    "slug": "auto-x-finally-gets-parental-controls-after-2-1795826884",
+    "title": "Mr. Informer Briefing: X finally gets parental controls after 20 years",
+    "category": "Tech Pulse",
+    "readTime": "1 min read",
+    "date": "November 28, 2026 - 00:48",
+    "author": {
+      "name": "Mr. Informer",
+      "title": "AI-Assisted Briefing Desk",
+      "avatar": "assets/author_avatar.jpg"
+    },
+    "featured": false,
+    "image": "https://picsum.photos/seed/tech165638/1200/800",
+    "tags": [
+      "Tech Pulse",
+      "Spatial Computing",
+      "Wearables",
+      "AR/VR"
+    ],
+    "summary": "A Mr. Informer briefing summarizing TechCrunch's reporting on X finally gets parental controls after 20 years. This article provides an AI-assisted overview of the story's key points, technical context, and why it matters \u2014 with full attribution and a link back to the original source.",
+    "sourceName": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+    "claps": 0,
+    "views": "New",
+    "content": "\n    <p class=\"ai-disclosure-badge\">\ud83e\udd16 AI-assisted summary of third-party reporting \u2014 see our <a href=\"/terms/\">AI use policy</a></p>\n\n    <p class=\"article-lead\">Elon Musk&#x27;s social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.</p>\n\n    <h3>What this covers</h3>\n    <p>This is a Mr. Informer briefing on <strong>X finally gets parental controls after 20 years</strong> \u2014 a detailed, automation-assisted summary of reporting from TechCrunch. Below you'll find the original reporting summarized in our own words, followed by editorial context on why this matters, technical background, and key takeaways. For full quotes, sourcing, and original detail, read the complete report at the source linked at the bottom of this article.</p>\n\n    <h3>Why this matters</h3>\n    <p>Social media platforms increasingly face regulatory pressure and public scrutiny regarding teen safety and content moderation. Introducing parental controls aligns a major platform with industry standards for protecting younger users. Readers should take away that social networks are slowly adopting features aimed at managing youth exposure to online content.</p>\n\n    <h3>Technical context</h3>\n    <p>The platform X, formerly known as Twitter and owned by Elon Musk, has integrated a system of parental controls. This mechanism is designed to allow parents and guardians to manage and oversee what teenage users encounter while using the service. The report notes this deployment marks the first time such controls have been added to the network.</p>\n\n    <h3>Key takeaways</h3>\n    <ul class=\"article-takeaways\">\n      <li>The social network X has introduced parental controls for teenagers after two decades of operation.</li>\n      <li>The feature is designed to allow parents and guardians to manage what their kids see on the platform.</li>\n      <li>The platform is owned by Elon Musk.</li>\n      <li>The report comes from TechCrunch.</li>\n    </ul>\n\n    <p class=\"article-source-note\">Read the full original report at <a href=\"https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">TechCrunch \u2192</a></p>\n    ",
+    "comments": []
+  },
+  {
     "id": "auto-intel-faced-a-choice--give-trump-10--or-1795794386",
     "slug": "auto-intel-faced-a-choice--give-trump-10--or-1795794386",
     "title": "Mr. Informer Briefing: Intel faced a choice: Give Trump 10% or face the consequences",
